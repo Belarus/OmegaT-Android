@@ -8,11 +8,13 @@ accounts	рахункі
 account	рахунак
 activities	дзейнасьці
 activity	дзейнасьць
+Additional Privacy Policy	дадатковыя правілы адасобленасьці
 adjust	настаўляць
 administration	кіраваньне
 administration	кіраўніцтва
 administrators	кіраўнікі
 administrator	кіраўнік
+advanced	адмысловы	
 ADW.Launcher	Пускач ADW
 again	зноўку
 alarm	будзька
@@ -48,24 +50,31 @@ background	задні плян
 background	тло
 backup	адноўка
 back up	захаваць адноўку
+Back	«Назад»
 bad	кепскі
 band	паласа
 batch	зборны
 battery level	узровень зараду батарэі
 battery	батарэя
 bcc	сьляпая копія (СК; «blind carbon copy»)
+Begin	«Пачаць»	
+block	затрымваць
+blogger	блогер -а	Blogger
 Bluetooth	Bluetooth
+BluetoothShare manager	кіраўнік дзяліцца па Bluetooth
 bookmarks	закладкі
 bookmark	закладка
 booting	першагрузіцца
 booting	першагрузка
 boot	першагрузіцца
 brightness	яркасьць
+broadcast	рассылаць
 browser	аглядальнік
 build	зборка
 buttons	кнопкі
 caches	запасьнікі
 cache	запасьнік
+call-forwarding	перасылаць выклікі
 call log	гісторыя выклікаў
 calls	выклікі
 call	выклік
@@ -73,6 +82,7 @@ call	выклікаць
 Cancel	Скасаваць
 cannot	нельга
 car mode	стан «у машыне»
+carrier	апэратар
 cc	копія («carbon copy»)
 certificates	пасьведчаньні
 certificate	пасьведчаньне
@@ -80,14 +90,19 @@ charger	зарада
 charging	зараджаецца
 chats	гамана
 chats	гамана
+Checkout	Каса
 CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
 clipboard	кішэня
 close	зачыняць
 closing	зачыняецца
+Cloud to Device	абмен між воблакам і прыладаю
 coarse	грубы
+codec	кодэк
 columns	слупкі
 comments	выказваньні
+comments	заўвагі
 comment	выказацца
+comment	заўвага
 component	складнік
 composer	укладальнік
 computer	кампутар
@@ -99,18 +114,22 @@ configure	настаўляць
 connected	злучыліся
 connecting	злучаемся
 container	зьмяшчальня
+content	зьмесьціва	
 Continue	Працягваць
 contributors	саўдзельнікі
 contributor	саўдзельнік
 conversations	размовы
 conversation	размова
+cookie	бірка	
 copy	перапісваць
 correct	адпаведны
 could not	нельга
 could not	не магчы
 could not	ня здолець
 couldn\'t	нельга
+county	акруга
 credentials	даверчыя лісты
+Customer Care	служба падтрымкі
 databases	базы зьвестак
 data	дадзеныя
 data	зьвесткі
@@ -137,9 +156,11 @@ disconnecting	адлучаемся
 discoverability	бачнасьць
 DockBar	латок-паліца
 dock	латок
+domain	вузел
 downloaded	сьцягвалі
 downloaded	сьцягнутыя
 downloader	сьцягвальнік
+Download Manager	Кіраўнік сьцягванага
 downloads	сьцягванае
 download	сьцягваць
 Do you want	Ці хочаце вы
@@ -157,6 +178,7 @@ encryption	тайнапіс
 engines	рухавікі
 engine	рухавік
 entered	упісалі
+enterprise	прадпрыемства
 enter	упісваць
 error occured	выявілася памылка
 error occured	далі хібу
@@ -171,6 +193,7 @@ favorites	улюбёныя
 favorite	улюбёны
 FDN	замацаваныя нумары (ЗН)
 feature code	код уласьцівасьці
+featured	прыкмечаныя
 features	функцыі
 feedback	водгук
 feeds	жывільнікі
@@ -183,13 +206,20 @@ folders	каталёгі
 folder	каталёг
 format	разьмячаць
 for more information	каб даведацца болей
+form	блянк
 forwarding	перасылаецца
 forwarding	перасыланьне
 forward	перасылаць
+frame	кадр
 gateway	брама
 general	галоўны
 geolocation	вызначаць геаграфічнае мейсца
+Google	Google
+Google Mail	Пошта Google	
+Google Messaging Service	служба паведамленьняў Google	
+Google Talk	Гутарка Google	
 guests	запрошаныя
+handle	апрацоўваць
 handset	тэлефонная слухаўка
 haptic feedback	водгук па дотыку
 haptic	дотыкавы
@@ -205,13 +235,17 @@ images	відарысы
 image	відарыс
 import	браць
 IM	паведамляльнік
+inappropriate	неадпаведнае
 incorrect	неадпаведны
 indicator	паказальнік
+inflate	напаўняць
+inflating	напаўняць
 insert	усоўваць (картку)
 insert	устаўляць (тэкст)
 installation	ўсталёўваць
 installed	усталявалі
 install	усталёўваць
+instant	хуткі	
 invalid	хібны
 IP	адрас IP
 junk	лухта
@@ -223,8 +257,12 @@ LAC	код мясцовасьці («Location Area Code»)
 landscape	альбомная
 Language & keyboard	Мова ды клявіятура
 launcher	пускач
+learn	даведвацца	
+link	прывязваць
+link	спасылка	
 loading	чытаюцца
 locale	мясцовасьць
+Location & Security	Бясьпека ды месцазнаходжаньне
 location	вызначаць мейсца
 location	мейсца
 location	месцазнаходжаньне
@@ -251,25 +289,30 @@ mode	стан
 mount	мацаваць
 move	перасоўваць
 multicast	бязадрасны
+My downloads	Маё сьцягнутае
 name	імя
 name	назва
 negotiation	узгадненьне
 Next	Наступны
 noise cancellation	гасіць шум
+not enough space	бракуе прасторы
 Not for use by normal applications	Звычайнымі праграмамі не выкарыстоўваецца
 not found	не знайшлі
 notifications	спавяшчэньні
 notification	спавяшчэньне
 not readable	нельга прачытаць
+objectionable	непажаданы
 obtaining	атрымваем
 OK	Добра
 onscreen	экранны
 opening	адчыняецца
 open	адчыніць
+optional	не абавязкова
 options	можнасьці
 out of space	бракуе прасторы
 package	пакунак
 pager	гартач
+pages	бачыны	
 page	бачына
 paired	спалучаны
 pairing	спалучацца
@@ -285,10 +328,20 @@ personal	асабісты
 pick	выбіраць
 PIN code	код PIN
 pitch	вышыня
+playlists	сьпіс
+playlist	сьпіс
 play sounds	гучэць
 play sound	гучэць
 plugged in	улучылі
 plugged in	ўлучаны
+plug-ins	убудовы	
+plug-in	убудова
+podcasts	падвяшчальнікі
+podcast	падвяшчальнік
+policy	правілы
+pop-up windows	раптоўныя вокны
+pop-up window	раптоўнае вакно	
+pop-up	раптоўнае	
 portable	пераносны
 portrait	кніжная
 port	порт -у
@@ -301,14 +354,17 @@ prefetch	загадзя атрымваць
 preview	прыклад
 privacy	адасобленасьць
 process	працэс
+progress	поступ	
 provider	пастаўнік
 proxy	пасродак
 quoted text	вытрымка
 radio	радыёсувязь
 range	досяг -у
+rating	ацэнка
 recipient	атрымальнік -а
 recognizer	пазнавальнік
 registered	запісаліся
+registering	запісвацца
 register	запісвацца
 regulatory domain	абсяг паўнамоцтваў
 reminders	напаміны
@@ -317,6 +373,7 @@ remotely	адлегла
 remote	адлеглы
 removable	рухомы
 removed	выцягнулі
+removed	прымаць
 removed	сьцерлі
 remove	выкрасьляць
 remove	вымаць
@@ -334,15 +391,21 @@ restart	запускаць нанова
 restored	аднавілі
 restore	аднаўляць
 restoring	аднаўляюцца
+restricted	абмяжоўваецца
+restricted	забаронены
+review	водгук
 ringtone	мэлёдыя
 rotate left	павярніце налева
 rotate right	павярніце направа
 rows	радкі
+SafeSearch	Бясьпечны пошук
 scanning	аглядаем
 scan	шукаць
+screenshot	здымак экрану
 screen	экран -у
 scrollable	пракручвальны
 SD card	картка SD
+secondary	дапаможны	
 sensor	чуйнік
 server	паслужнік
 Service Dialing Numbers	службовыя нумары
@@ -359,13 +422,16 @@ share	дзяліцца
 shortcuts	выклічнікі
 shortcut	выклічнік
 show previews	аглядацца
+Sign in	Увайсьці
 silent mode	бязгучны стан
 SIM card	картка SIM
 site	пляцоўка
+slide	ссоўваць
 SMS messages	паведамленьні SMS
 snooze	адкладаць
 sockets	гнёзды
 software	праграмныя сродкі
+song	сьпеў
 sorry	выбачайце
 space	прастора
 spam	лухта
@@ -379,16 +445,23 @@ storage	сховішча
 stories	рэпартажы
 story	рэпартаж
 style	выгляд
+submitted	падалі
 successfully	пасьпяхова
 superuser	спраўнік
 supplicant	просьбіт
 support	падтрымваць
 suspended	прыпынілі
 sync	сынхранізаваць
+tags	біркі
+tag	бірка
 terms and conditions	умовы ды азначэньні
+Terms of Service	Умовы абслугоўваньня
 themes	аздабленьні
 theme	аздабленьне
+There was a problem	Выявілася праблема, калі спрабавалі
 This alarm is set for	Будзька спрацуе праз
+thumbnail view	абразкі
+thumbnail	абразок
 time zone	часавы пас
 toast	вынырцы
 tokens	прыкметы
@@ -397,14 +470,17 @@ tools	начыньне
 total	агулам
 total	разам
 trackball	трэкбол
+transfers	перадаванае
 trash	сьметніца
 TTS	сыстэма агучваць тэкст
+Turn off USB storage	Выключыць сховішча USB
 typed	набралі
 types	віды
 type	від
 type	набіраць
 UID	азначальнік карыстальніка
 unable	немагчыма
+unavailable	адсутнічае	
 undo	адрабіць
 uninstall	высталёўваць
 unlocked	адамкнулі
@@ -421,6 +497,9 @@ upgrade	паляпшаць
 USB Mass Storage	сховішча USB
 valid	чынны
 vCard	візытоўка
+verified	пацьверджаны
+verified	праверылі
+verifying	правяраецца	
 vibrate	трымцець
 vibrator	трымценьнік
 view	зірнуць
@@ -428,9 +507,14 @@ Voice input & output	Уводзіць і выводзіць голасам
 Voice input	Уводзіць голасам
 voicemail	галасавая пошта
 voice output	выводзіць голасам
+warnings	перасьцярогі	
 warning	перасьцярога
 web page	бачына сеціва
+Website settings	Налады пляцовак сеціва
+websites	пляцоўкі сеціва
+website	пляцоўка сеціва	
 web	сеціва
 widgets	віджэты
 widget	віджэт
 wireless	бяздротавы
+wizard	сродак
