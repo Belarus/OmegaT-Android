@@ -2912,6 +2912,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'IMG'_yyyyMMdd_HHmmss</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T075141Z" changeid="klyok">
+        <seg>'ФОТА'_yyyyMMdd_HHmmss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>'VID'_yyyyMMdd_HHmmss</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T075231Z" changeid="klyok">
+        <seg>'ВІДЭА'_yyyyMMdd_HHmmss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T081936Z" changeid="klyok">
@@ -7298,6 +7314,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073052Z" changeid="klyok">
+        <seg>Дзеяньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Action cannot be reversed!</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T131338Z" changeid="klyok">
@@ -11220,6 +11244,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aqua</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072327Z" changeid="klyok">
+        <seg>[н/д]Водныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Archive</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T092201Z" changeid="klyok">
@@ -12332,6 +12364,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Beach</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073217Z" changeid="klyok">
+        <seg>Бераг мора</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before 1 month ago</seg>
       </tuv>
       <tuv lang="be" changedate="20110324T151912Z" changeid="klyok">
@@ -12488,6 +12528,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T153025Z" changeid="klyok">
         <seg>Сіні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blue tint</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072637Z" changeid="klyok">
+        <seg>Адценьні сіняга</seg>
       </tuv>
     </tu>
     <tu>
@@ -13765,6 +13813,54 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060628Z" changeid="klyok">
+        <seg>Камэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera error</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060611Z" changeid="klyok">
+        <seg>Памылка камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera pictures</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061104Z" changeid="klyok">
+        <seg>Здымкі з камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera settings</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060956Z" changeid="klyok">
+        <seg>Налады камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera settings will be restored to defaults.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060829Z" changeid="klyok">
+        <seg>Адновяцца пачатковыя налады камэры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera videos</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060702Z" changeid="klyok">
+        <seg>Відэа з камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can broadcast data messages received from the internet to applications registered to listen for them.</seg>
       </tuv>
       <tuv lang="be" changedate="20110425T065037Z" changeid="klyok">
@@ -13897,6 +13993,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T222211Z" changeid="klyok">
         <seg>Скасоўваецца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot connect to camera.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060623Z" changeid="klyok">
+        <seg>Нельга злучыцца з камэраю.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14389,6 +14493,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110402T221604Z" changeid="klyok">
         <seg>Зьмяніць пераважнае мейсца, куды ўсталёўваць новыя праграмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the quality setting or delete items from Gallery.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073934Z" changeid="klyok">
+        <seg>Зьмяніце налады якасьці або сатрыце файлы з Галерэі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15217,10 +15329,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cloudy</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071528Z" changeid="klyok">
+        <seg>Воблачна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Collection will occur even when no applications are running.</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T143209Z" changeid="klyok">
         <seg>Служба можа зьбіраць зьвесткі, нат калі не працуе ніводнае праграмы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Color effect</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071608Z" changeid="klyok">
+        <seg>Зьмяняць колеры</seg>
       </tuv>
     </tu>
     <tu>
@@ -16750,6 +16878,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T135748Z" changeid="klyok">
         <seg>Дзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Daylight</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071507Z" changeid="klyok">
+        <seg>Дзённае сьвятло</seg>
       </tuv>
     </tu>
     <tu>
@@ -19958,6 +20094,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073619Z" changeid="klyok">
+        <seg>Час насьвятленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Extra Large</seg>
       </tuv>
       <tuv lang="be" changedate="20110125T151000Z" changeid="alex73">
@@ -20473,6 +20617,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fine</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061335Z" changeid="klyok">
+        <seg>Добрая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finish</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T073008Z" changeid="klyok">
@@ -20485,6 +20637,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110424T095729Z" changeid="klyok">
         <seg>Скончыць уладкоўваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fireworks</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073340Z" changeid="klyok">
+        <seg>Фэервэрк</seg>
       </tuv>
     </tu>
     <tu>
@@ -20625,6 +20785,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flash mode</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061807Z" changeid="klyok">
+        <seg>Выбліск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fluorescent</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071520Z" changeid="klyok">
+        <seg>Флюарэсцэнтная лямпа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FlylinkDC++ Hostname</seg>
       </tuv>
       <tuv lang="be" changedate="20110218T151021Z" changeid="klyok">
@@ -20653,6 +20829,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110218T151028Z" changeid="klyok">
         <seg>Імя карыстальніка FlylinkDC++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Focus mode</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061408Z" changeid="klyok">
+        <seg>Факусаваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -21602,6 +21786,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Green tint</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072645Z" changeid="klyok">
+        <seg>Адценьні зялёнага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Group chat invitation</seg>
       </tuv>
       <tuv lang="be" changedate="20110425T065249Z" changeid="klyok">
@@ -21942,6 +22134,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110326T104724Z" changeid="klyok">
         <seg>Хутка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>High (30m)</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060926Z" changeid="klyok">
+        <seg>Высокая (30 хв.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22675,6 +22875,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Incandescent</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071456Z" changeid="klyok">
+        <seg>Лямпа напальваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include quoted text</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T182830Z" changeid="klyok">
@@ -22815,6 +23023,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T152722Z" changeid="klyok">
         <seg>Бясконца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Infinity</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061414Z" changeid="klyok">
+        <seg>На бясконцасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -24484,6 +24700,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Low (30m)</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060933Z" changeid="klyok">
+        <seg>Нізкая (30 хв.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Low on space</seg>
       </tuv>
       <tuv lang="be" changedate="20110324T152504Z" changeid="klyok">
@@ -24512,6 +24736,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110413T103107Z" changeid="klyok">
         <seg>П</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>M Pixels</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061211Z" changeid="klyok">
+        <seg>мэгапікселяў</seg>
       </tuv>
     </tu>
     <tu>
@@ -24628,6 +24860,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MMS (Low, 30s)</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060940Z" changeid="klyok">
+        <seg>MMS (нізкая, 30 сэк.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MMS port</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T125941Z" changeid="klyok">
@@ -24672,6 +24912,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110322T101008Z" changeid="klyok">
         <seg>MSISDN1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Macro</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061433Z" changeid="klyok">
+        <seg>[н/д]Макра</seg>
       </tuv>
     </tu>
     <tu>
@@ -25924,6 +26172,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mono</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071917Z" changeid="klyok">
+        <seg>Чорна-белае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Month</seg>
       </tuv>
       <tuv lang="be" changedate="20110321T135757Z" changeid="klyok">
@@ -26008,6 +26264,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110425T063050Z" changeid="klyok">
         <seg>Падрабязьней…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mosaic</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072556Z" changeid="klyok">
+        <seg>Мазаіка</seg>
       </tuv>
     </tu>
     <tu>
@@ -26416,6 +26680,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110424T130638Z" changeid="klyok">
         <seg>Хочаце займець рахунак Google?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negative</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071942Z" changeid="klyok">
+        <seg>Нэгатыў</seg>
       </tuv>
     </tu>
     <tu>
@@ -26920,6 +27192,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110125T153425Z" changeid="alex73">
         <seg>Мянушка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Night</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073108Z" changeid="klyok">
+        <seg>Ноч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Night portrait</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073140Z" changeid="klyok">
+        <seg>Начны партрэт</seg>
       </tuv>
     </tu>
     <tu>
@@ -28332,6 +28620,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060901Z" changeid="klyok">
+        <seg>Укл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On %s, %s wrote:</seg>
       </tuv>
       <tuv lang="be" changedate="20110401T181839Z" changeid="klyok">
@@ -29476,6 +29772,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pastel</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072520Z" changeid="klyok">
+        <seg>[н/д]Невыразныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T082408Z" changeid="klyok">
@@ -29910,6 +30214,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Picture quality</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061251Z" changeid="klyok">
+        <seg>Якасьць здымкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Picture size</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061137Z" changeid="klyok">
+        <seg>Памер здымка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ping Hostname(www.google.com):</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T130335Z" changeid="klyok">
@@ -30186,6 +30506,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T165320Z" changeid="klyok">
         <seg>Калі ласка, усуньце картку UIM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please insert an SD card before using the camera.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060731Z" changeid="klyok">
+        <seg>Перад тым, як карыстацца камэраю, усуньце, калі ласка, картку SD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30614,6 +30942,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Posterize</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072250Z" changeid="klyok">
+        <seg>Як на афішах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Potentially malicious app detected</seg>
       </tuv>
       <tuv lang="be" changedate="20110322T093001Z" changeid="klyok">
@@ -30746,6 +31082,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T155733Z" changeid="klyok">
         <seg>Падрыхтоўваецца картка SD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preparing SD card…</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060801Z" changeid="klyok">
+        <seg>Падрыхтоўваецца картка SD…</seg>
       </tuv>
     </tu>
     <tu>
@@ -31166,6 +31510,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quick capture</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073402Z" changeid="klyok">
+        <seg>Хутка здымаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quick launch</seg>
       </tuv>
       <tuv lang="be" changedate="20110402T231942Z" changeid="klyok">
@@ -31538,6 +31890,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T153017Z" changeid="klyok">
         <seg>Чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red tint</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T072617Z" changeid="klyok">
+        <seg>Адценьні чырвонага</seg>
       </tuv>
     </tu>
     <tu>
@@ -32490,6 +32850,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110325T085139Z" changeid="klyok">
         <seg>Аднавіць з /sdcard/adw_settings.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore to defaults</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073417Z" changeid="klyok">
+        <seg>Аднавіць пачатковыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -33570,6 +33938,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110326T105820Z" changeid="klyok">
         <seg>Аглядаем…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scene mode</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073043Z" changeid="klyok">
+        <seg>Умовы</seg>
       </tuv>
     </tu>
     <tu>
@@ -34987,6 +35363,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T153228Z" changeid="klyok">
         <seg>Асобныя кнопкі «адкласьці» і «скасаваць»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sepia</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T071933Z" changeid="klyok">
+        <seg>Карычневае</seg>
       </tuv>
     </tu>
     <tu>
@@ -36503,6 +36887,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Size limit reached.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T074248Z" changeid="klyok">
+        <seg>Перавысілі абмежаваньне памеру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="be" changedate="20110313T130316Z" changeid="klyok">
@@ -36667,6 +37059,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T151338Z" changeid="klyok">
         <seg>Адкласьці на &lt;x0&gt;%d&lt;/x0&gt; хвілінаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snow</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073233Z" changeid="klyok">
+        <seg>Сьнегапад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Solarize</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073543Z" changeid="klyok">
+        <seg>Перасьветленыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -37263,6 +37671,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Steady photo</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073331Z" changeid="klyok">
+        <seg>Непахісна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Still trying...</seg>
       </tuv>
       <tuv lang="be" changedate="20110316T192846Z" changeid="klyok">
@@ -37355,6 +37771,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110425T165320Z" changeid="klyok">
         <seg>Пытаньне сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Store location</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060848Z" changeid="klyok">
+        <seg>Захоўваць мейсца</seg>
       </tuv>
     </tu>
     <tu>
@@ -37567,6 +37991,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sunset</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073244Z" changeid="klyok">
+        <seg>Захад сонца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Super fine</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061330Z" changeid="klyok">
+        <seg>Выдатная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Superuser</seg>
       </tuv>
       <tuv lang="be" changedate="20110322T091800Z" changeid="klyok">
@@ -37683,6 +38123,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110331T123717Z" changeid="klyok">
         <seg>Самарушна зьмяняць арыентацыю, калі паварочваем тэлефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch to camera</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T074611Z" changeid="klyok">
+        <seg>Здымаць фота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch to video</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T074434Z" changeid="klyok">
+        <seg>Здымаць відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -39515,6 +39971,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="be" changedate="20110325T094838Z" changeid="klyok">
         <seg>Віджэт, які вы хочаце дадаць, патрабуе «падтрымваць пракручвальныя віджэты», што зараз забаронена.\n
 Ці хочаце вы дазволіць падтрымваць гэта?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theatre</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073206Z" changeid="klyok">
+        <seg>Тэатар</seg>
       </tuv>
     </tu>
     <tu>
@@ -44016,6 +44480,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video quality</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060912Z" changeid="klyok">
+        <seg>Якасьць відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video rated.</seg>
       </tuv>
       <tuv lang="be" changedate="20110421T165443Z" changeid="klyok">
@@ -44885,6 +45357,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T223712Z" changeid="klyok">
         <seg>Дзе: &lt;x0&gt;%s&lt;/x0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White balance</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T061840Z" changeid="klyok">
+        <seg>Раўнавага белага</seg>
       </tuv>
     </tu>
     <tu>
@@ -45925,6 +46405,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>YouTube (High, 10m)</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060948Z" changeid="klyok">
+        <seg>YouTube (высокая, 10 хв.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YouTube account needed</seg>
       </tuv>
       <tuv lang="be" changedate="20110425T070621Z" changeid="klyok">
@@ -45977,6 +46465,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110424T150146Z" changeid="klyok">
         <seg>Адноўка наладаў праграмаў Google (і некаторых іншых) і іншыя зьвесткі (кшталту закладак ды пароляў на Wi-Fi) можа самарушна захоўвацца на паслужніках Google, у вашым рахунку Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your SD card is full.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T060755Z" changeid="klyok">
+        <seg>Картка SD запоўнілася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your SD card is running out of space.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073824Z" changeid="klyok">
+        <seg>На картцы SD мае скончыцца прастора.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46437,6 +46941,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110418T144522Z" changeid="klyok">
         <seg>Паштовы індэкс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T074324Z" changeid="klyok">
+        <seg>Павялічыць</seg>
       </tuv>
     </tu>
     <tu>
@@ -48820,6 +49332,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110326T102350Z" changeid="klyok">
         <seg>o_O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>off</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110501T073552Z" changeid="klyok">
+        <seg>off</seg>
       </tuv>
     </tu>
     <tu>

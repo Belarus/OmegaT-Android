@@ -362,6 +362,7 @@ NUMBER
 NV
 OBEX
 of
+off
 older
 OpenWnnJAJP
 p
@@ -565,6 +566,7 @@ yahoo.com
 YouTube
 yyyy
 yyyy-MM-dd
+yyyyMMdd_HHmmss
 zh_CN
 zh_TW
 zip

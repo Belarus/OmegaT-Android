@@ -1,3 +1,7 @@
+
+
+
+
 accessibility	даступнасьць
 AccountAuthenticators	АпазнавальнікіРахунку
 AccountManagerService	СлужбаКіравацьРахункам
@@ -139,6 +143,7 @@ decline	адмовіць
 decline	адхіліць
 default screen	пачатковы экран
 delete	выдаляць
+delete	сьціраць (файлы)	
 desktop	стольніца
 details	падрабязнасьці
 detected	выявілі
@@ -187,6 +192,7 @@ error occurred	далі хібу
 error	памылка
 error	хіба
 export	вымаць
+exposure	насьвятленьне
 external	вонкавы
 failed	не ўдалося
 favorites	улюбёныя
@@ -202,6 +208,7 @@ fetching	атрымваецца
 fetch	атрымваць
 firewall	сетказаслона
 flashlight	ліхтарык
+flash	выбліск
 folders	каталёгі
 folder	каталёг
 format	разьмячаць
@@ -258,6 +265,7 @@ landscape	альбомная
 Language & keyboard	Мова ды клявіятура
 launcher	пускач
 learn	даведвацца	
+limit reached	перавысілі абмежаваньне
 link	прывязваць
 link	спасылка	
 loading	чытаюцца
@@ -326,6 +334,10 @@ PDP	пратакол пакетных зьвестак («Packet Data Protocol»
 peripherals	вонкавыя прылады
 personal	асабісты
 pick	выбіраць
+pictures	здымкі (з камэры)	
+pictures	малюнкі	
+picture	здымак -ка
+picture	малюнак -ку
 PIN code	код PIN
 pitch	вышыня
 playlists	сьпіс
@@ -431,6 +443,7 @@ SMS messages	паведамленьні SMS
 snooze	адкладаць
 sockets	гнёзды
 software	праграмныя сродкі
+solarize	перасьвятляць	
 song	сьпеў
 sorry	выбачайце
 space	прастора
