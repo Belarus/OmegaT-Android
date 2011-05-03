@@ -1,7 +1,3 @@
-
-
-
-
 accessibility	даступнасьць
 AccountAuthenticators	АпазнавальнікіРахунку
 AccountManagerService	СлужбаКіравацьРахункам
@@ -102,11 +98,13 @@ closing	зачыняецца
 Cloud to Device	абмен між воблакам і прыладаю
 coarse	грубы
 codec	кодэк
+codename	найменьне	
 columns	слупкі
 comments	выказваньні
 comments	заўвагі
 comment	выказацца
 comment	заўвага
+complete	заканчваць	
 component	складнік
 composer	укладальнік
 computer	кампутар
@@ -132,6 +130,7 @@ could not	не магчы
 could not	ня здолець
 couldn\'t	нельга
 county	акруга
+crash	аварыя	
 credentials	даверчыя лісты
 Customer Care	служба падтрымкі
 databases	базы зьвестак
@@ -231,6 +230,8 @@ handset	тэлефонная слухаўка
 haptic feedback	водгук па дотыку
 haptic	дотыкавы
 hardware	прыстасаваньні
+highlighted	падсьвечаны
+hint	намінка	
 home button	кнопка «дамоў»
 home screen	галоўны экран
 hotspot	адметны пункт
@@ -251,6 +252,7 @@ insert	усоўваць (картку)
 insert	устаўляць (тэкст)
 installation	ўсталёўваць
 installed	усталявалі
+installer	усталёўца	
 install	усталёўваць
 instant	хуткі	
 invalid	хібны
@@ -288,6 +290,8 @@ media	сховішчы
 Menu	«Мэню»
 methods	спосабы
 method	спосаб
+mistakes	памылкі	
+mistake	памылка	
 mobile	перасоўны
 mock locations	удаваныя крыніцы
 mock	падрабляцца
@@ -301,6 +305,7 @@ My downloads	Маё сьцягнутае
 name	імя
 name	назва
 negotiation	узгадненьне
+networked	сеткаваны	
 Next	Наступны
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
@@ -318,7 +323,7 @@ open	адчыніць
 optional	не абавязкова
 options	можнасьці
 out of space	бракуе прасторы
-package	пакунак
+package	пакунак -ка	
 pager	гартач
 pages	бачыны	
 page	бачына
@@ -365,7 +370,8 @@ prefetching	загадзя атрымваць
 prefetch	загадзя атрымваць
 preview	прыклад
 privacy	адасобленасьць
-process	працэс
+process	працэс -у	
+product	выраб	
 progress	поступ	
 provider	пастаўнік
 proxy	пасродак
@@ -379,6 +385,7 @@ registered	запісаліся
 registering	запісвацца
 register	запісвацца
 regulatory domain	абсяг паўнамоцтваў
+release	выпуск	
 reminders	напаміны
 reminder	напамін
 remotely	адлегла
@@ -393,6 +400,7 @@ remove	выцягваць
 remove	сьцягваць
 resetting	узнаўляецца
 reset	узнаўляць
+resolution	разрозьненьне	
 resolved	высьветлілі
 resolve	высьвятляць
 resources	запасы
@@ -438,6 +446,7 @@ Sign in	Увайсьці
 silent mode	бязгучны стан
 SIM card	картка SIM
 site	пляцоўка
+slideshow	паказваць слайды	
 slide	ссоўваць
 SMS messages	паведамленьні SMS
 snooze	адкладаць
@@ -446,6 +455,7 @@ software	праграмныя сродкі
 solarize	перасьвятляць	
 song	сьпеў
 sorry	выбачайце
+spacebar	прагал	
 space	прастора
 spam	лухта
 speaker	галосьнік
@@ -459,7 +469,9 @@ stories	рэпартажы
 story	рэпартаж
 style	выгляд
 submitted	падалі
+submit	падаваць	
 successfully	пасьпяхова
+suggestions	прапановы	
 superuser	спраўнік
 supplicant	просьбіт
 support	падтрымваць
@@ -490,7 +502,8 @@ Turn off USB storage	Выключыць сховішча USB
 typed	набралі
 types	віды
 type	від
-type	набіраць
+type	друкаваць
+typing	друкаваць	
 UID	азначальнік карыстальніка
 unable	немагчыма
 unavailable	адсутнічае	
@@ -515,6 +528,7 @@ verified	праверылі
 verifying	правяраецца	
 vibrate	трымцець
 vibrator	трымценьнік
+viewer	прагляднік	
 view	зірнуць
 Voice input & output	Уводзіць і выводзіць голасам
 Voice input	Уводзіць голасам
@@ -527,7 +541,9 @@ Website settings	Налады пляцовак сеціва
 websites	пляцоўкі сеціва
 website	пляцоўка сеціва	
 web	сеціва
+WhiteBalance	раўнавага белага	
 widgets	віджэты
 widget	віджэт
+will be deleted	сатрэцца	
 wireless	бяздротавы
 wizard	сродак
