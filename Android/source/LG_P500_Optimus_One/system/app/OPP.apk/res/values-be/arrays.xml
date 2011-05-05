@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="select_dialog_items">
+        <item>Pull contact</item>
+        <item>Push a contact group</item>
+        <item>Exchange contacts</item>
+        <item>Settings</item>
+    </string-array>
+    <string-array name="contact_groups">
+        <item>All displayed</item>
+        <item>Contacts with phone numbers</item>
+        <item>Starred in Android</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Alarm clock</string>
+    <string name="loading">Loading...</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+</resources>

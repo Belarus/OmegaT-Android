@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="NotiTitle">Update notification</string>
+    <string name="NotiText1">Firmware has been updated and  is now set in version</string>
+    <string name="NotiText2">New features in</string>
+    <string name="NotiText3">If you want to update your firmware, connect this device to PC with cable and open PC suite.</string>
+    <string name="NotiText4">To check for update at any time, press the Menu key and run Update notification.</string>
+    <string name="NotiText5">Last checked</string>
+    <string name="NotiNotAvailable">There is no available firmware update now.</string>
+    <string name="ButtonOK">OK</string>
+    <string name="ButtonRemind">Remind later</string>
+    <string name="OptTitle">Check interval</string>
+    <string name="OptItem1">1 day</string>
+    <string name="OptItem2">1 weeks</string>
+    <string name="OptItem3">1 month</string>
+    <string name="OptItem4">3 month</string>
+    <string name="NotiETitle">Sorry</string>
+    <string name="NotiEText">Wi-Fi is not unavailable now. Information you will see may not be the newest.</string>
+</resources>
