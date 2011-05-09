@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="pdp_mode_items">
+        <item>@string/pdp_mode_use_3g_network</item>
+        <item>@string/pdp_mode_use_wifi_only</item>
+    </array>
+    <string-array name="pdp_mode_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+</resources>

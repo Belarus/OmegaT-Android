@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="nameOfAmPm">
+        <item>@string/am</item>
+        <item>@string/pm</item>
+    </array>
+</resources>

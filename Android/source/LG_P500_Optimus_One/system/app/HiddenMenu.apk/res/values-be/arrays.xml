@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="hiddenmenulist">
+        <item>Version Info</item>
+        <item>Factory Reset</item>
+        <item>Device Test</item>
+        <item>Port Setting</item>
+        <item>Modem Setting</item>
+        <item>Module Test</item>
+        <item>SIM Test</item>
+        <item>Call Test</item>
+        <item>Aging Test</item>
+        <item>Streaming</item>
+        <item>Wap Debug</item>
+        <item>MMS Test</item>
+        <item>SMS Test</item>
+        <item>GPS Test</item>
+        <item>WLAN Test</item>
+        <item>Network Mode</item>
+        <item>FM Radio Test</item>
+        <item>DRM Test</item>
+        <item>KR Setting</item>
+        <item>Contacts Test</item>
+        <item>SyncML Test</item>
+        <item>ELT mode Test</item>
+        <item>ERS Menu</item>
+        <item>LCD Module Test</item>
+        <item>FPRI Test</item>
+        <item>DB Check</item>
+        <item>Log service</item>
+        <item>DM/FOTA Test</item>
+    </string-array>
+    <string-array name="version_info">
+        <item>SW Version Info</item>
+        <item>HW Version</item>
+        <item>Factory Version</item>
+        <item>Hidden Menu Version</item>
+        <item>BD ADdress</item>
+    </string-array>
+    <string-array name="factory_reset">
+        <item>Format SD Card</item>
+        <item>Factory Reset</item>
+        <item>Delete Userdata</item>
+    </string-array>
+    <string-array name="device_test">
+        <item>Auto All Test</item>
+        <item>Auto All Test Result</item>
+        <item>LCD Test</item>
+        <item>Proximity Test</item>
+        <item>Vibrator Test</item>
+        <item>Camera Test</item>
+        <item>Sound Test</item>
+        <item>RTC Test</item>
+        <item>Touch Test</item>
+        <item>Motion Sensor Test</item>
+        <item>External Memory Test</item>
+        <item>Compass Test</item>
+        <item>GPS Test</item>
+        <item>IRT Test</item>
+    </string-array>
+    <string-array name="touch_test">
+        <item>Finger Paint</item>
+        <item>Grid Touch Test</item>
+        <item>Touch Key Test</item>
+        <item>Grid Touch Color Change</item>
+        <item>Block Touch Test</item>
+    </string-array>
+    <string-array name="port_setting">
+        <item>Diag Setting</item>
+        <item>USB Switching</item>
+        <item>Data Setting</item>
+    </string-array>
+    <string-array name="modem_setting">
+        <item>Engineering Mode</item>
+        <item>RRC Version Setting</item>
+        <item>QCRIL Log On/Off</item>
+        <item>PDP Setting</item>
+        <item>HSDPA Category</item>
+        <item>GSM A5 Algorithm</item>
+        <item>Protocol Test</item>
+        <item>GCF Flag</item>
+        <item>Arm9 Log On/Off</item>
+    </string-array>
+    <string-array name="module_test">
+        <item>BT DUT</item>
+        <item>SMS Prefer Set</item>
+        <item>FOTA Test</item>
+        <item>LCD Always On</item>
+        <item>FS_TEST</item>
+        <item>Hidden Reset</item>
+        <item>Heap Free Info</item>
+        <item>Stability Test</item>
+        <item>Charging Test</item>
+    </string-array>
+    <string-array name="sim_test">
+        <item>Virtual SIM</item>
+    </string-array>
+    <string-array name="call_test">
+        <item>Auto Call Test</item>
+        <item>VC Auto answer</item>
+        <item>Call Duration</item>
+    </string-array>
+    <string-array name="streaming">
+        <item>Streaming Setting Edit</item>
+        <item>Streaming Log</item>
+    </string-array>
+    <string-array name="wap_debug">
+        <item>Change UAString</item>
+        <item>View UAString</item>
+        <item>Edit Static UAString</item>
+        <item>Edit Dynamic UAString</item>
+        <item>Enable/Disable X-wap-profile</item>
+        <item>Display Certificates</item>
+    </string-array>
+    <string-array name="wapdebug_dialog_items">
+        <item>GT540(Swift, Donut)</item>
+        <item>GW620(Eve)</item>
+        <item>Mozilla</item>
+        <item>GW620(WiFi)</item>
+        <item>HTC Magic</item>
+        <item>HTC Hero</item>
+        <item>Samsung Galaxy</item>
+        <item>Motoroi</item>
+        <item>Nexus One(Eclair)</item>
+        <item>Nexus One(Froyo)</item>
+        <item>iPhone</item>
+        <item>iPhone-KR</item>
+        <item>KF750</item>
+    </string-array>
+    <string-array name="mms_test">
+        <item>MMS Debug mode</item>
+        <item>TestBed Settings</item>
+    </string-array>
+    <string-array name="kr_setting">
+        <item>Set KR Settings</item>
+    </string-array>
+    <string-array name="mms_debugmode_menu">
+        <item>MMS Debug mode ON</item>
+        <item>MMS Debug mode OFF</item>
+    </string-array>
+    <string-array name="sms_test">
+        <item>Send Message</item>
+        <item>Send VMS Message</item>
+        <item>Automatic Memfull Test</item>
+        <item>Send GCF Message</item>
+        <item>Receive GCF Message</item>
+        <item>Receive SMS Push</item>
+    </string-array>
+    <string-array name="gps_test">
+        <item>gpsApp Main Menu</item>
+        <item>Air Test</item>
+        <item>GPS Tools</item>
+    </string-array>
+    <string-array name="gps_app_main_menu">
+        <item>Get Position (Tracking)</item>
+        <item>Get Position (Single Fix)</item>
+        <item>Cold Start</item>
+        <item>Settings</item>
+        <item>APN Setting</item>
+        <item>Oper/Country Ver</item>
+    </string-array>
+    <string-array name="gps_app_main_menu_settings">
+        <item>GPS Type</item>
+        <item>Operation Mode</item>
+        <item>SLP Mode</item>
+        <item>SUPL Setting</item>
+        <item>GPS Logging</item>
+        <item>Enable Auto Cold Start</item>
+    </string-array>
+    <string-array name="air_test">
+        <item>Start</item>
+        <item>Result Viewer</item>
+        <item>Set Enable</item>
+    </string-array>
+    <string-array name="gps_tools">
+        <item>Send Test SMS</item>
+        <item>Single Fix Test</item>
+        <item>DevelopmentSettings</item>
+    </string-array>
+    <string-array name="wlan_service">
+        <item>Net Info</item>
+        <item>Available Net</item>
+        <item>Saved Net</item>
+        <item>Tx Rx Test</item>
+        <item>FTM Test</item>
+        <item>PS_Mode</item>
+        <item>lperf</item>
+        <item>OTA Setting</item>
+    </string-array>
+    <string-array name="elt_test">
+        <item>Automatic Mode</item>
+        <item>Manual Mode</item>
+    </string-array>
+    <string-array name="network_mode">
+        <item>Automatic</item>
+        <item>WCDMA AWS</item>
+        <item>WCDMA 900</item>
+        <item>WCDMA 1900</item>
+        <item>WCDMA 2100</item>
+        <item>GSM 850</item>
+        <item>GSM 900</item>
+        <item>GSM 1800</item>
+        <item>GSM 1900</item>
+        <item>WCDMA 850</item>
+    </string-array>
+    <string-array name="sw_version_info">
+        <item>AP OS Version</item>
+        <item>AP App Version</item>
+        <item>AP Bootloader Version</item>
+        <item>Modem Version</item>
+    </string-array>
+    <string-array name="lcd_test">
+        <item>Manual Test</item>
+        <item>Automatic Test</item>
+    </string-array>
+    <string-array name="led_test">
+        <item>LCD Backlight On/Off</item>
+        <item>LCD Backlight Level Test</item>
+        <item>Keypad Backlight On/Off</item>
+        <item>NLED</item>
+    </string-array>
+    <string-array name="camera_test">
+        <item>External Camera</item>
+    </string-array>
+    <string-array name="sound_test">
+        <item>Ring</item>
+        <item>Effect Sound</item>
+        <item>Message Tone</item>
+        <item>Loop Back Test</item>
+        <item>Audio CAL Tool</item>
+    </string-array>
+    <string-array name="diag_setting">
+        <item>USB Set for Diag</item>
+        <item>UART Set for Diag</item>
+        <item>NULL port</item>
+    </string-array>
+    <string-array name="data_setting">
+        <item>USB Set for Data</item>
+        <item>BT Set for Data</item>
+        <item>UART Set for Data</item>
+        <item>NULL port</item>
+    </string-array>
+    <string-array name="RRCVerSetting">
+        <item>R99</item>
+        <item>R5</item>
+        <item>R6</item>
+    </string-array>
+    <string-array name="pdp_setting">
+        <item>[0] Set Fast Dormancy</item>
+        <item>[1] Set PS attach mode</item>
+        <item>[2] Multiple PDP mode</item>
+        <item>[3] Capture pcap log</item>
+        <item>[4] test item</item>
+    </string-array>
+    <string-array name="A5_NV_Setting">
+        <item>A5_1 Only</item>
+        <item>A5_1 and A5_2</item>
+        <item>A5_1 and A5_3</item>
+        <item>All (A5_1, A5_2, A5_3)</item>
+    </string-array>
+    <string-array name="HSDPACatSetting">
+        <item>HSDPA Category 6</item>
+        <item>HSDPA Category 8</item>
+        <item>HSDPA Category 12</item>
+    </string-array>
+    <string-array name="GCFFlagSetting">
+        <item>NV ANITE GCF Flag Off</item>
+        <item>NV ANITE GCF Flag On</item>
+    </string-array>
+    <string-array name="Arm9LogSetting">
+        <item>Arm9 Log Enable</item>
+        <item>Arm9 Log Disable</item>
+    </string-array>
+    <string-array name="aging_test">
+        <item>Alarms</item>
+        <item>IM</item>
+        <item>Settings</item>
+        <item>Telephony</item>
+        <item>SMS</item>
+        <item>MMS</item>
+        <item>Calendars</item>
+        <item>Contact</item>
+        <item>DownloadTest</item>
+        <item>Subscribedfeeds</item>
+        <item>Sync</item>
+    </string-array>
+    <string-array name="btdut_setting">
+        <item>BT DUT On</item>
+        <item>BT DUT Off</item>
+    </string-array>
+    <string-array name="sms_prefer">
+        <item>CS Prefered</item>
+        <item>PS Prefered</item>
+    </string-array>
+    <string-array name="fota_test">
+        <item>DMClient Test</item>
+        <item>USD Test</item>
+    </string-array>
+    <string-array name="fs_test">
+        <item>File Copy</item>
+        <item>File Move</item>
+        <item>Dir Delete</item>
+        <item>Write Valid</item>
+        <item>Full Test</item>
+    </string-array>
+    <string-array name="hidden_reset">
+        <item>Hidden Reset On</item>
+        <item>Hidden Reset Off</item>
+    </string-array>
+    <string-array name="Stability_Test">
+        <item>Data Abort</item>
+        <item>Prefetch Abort</item>
+        <item>Kernel Panic</item>
+        <item>Abort by User Mode</item>
+        <item>Invert Event, 500ms</item>
+        <item>Invert Event, 800ms</item>
+        <item>Recover Original Setting</item>
+    </string-array>
+    <string-array name="calltest_dialog_items">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="available_net">
+        <item>Scanned AP List1</item>
+        <item>Scanned AP List2</item>
+    </string-array>
+    <string-array name="audio_cal_tool">
+        <item>Sound Calibration</item>
+        <item>Vocoder Calibration</item>
+        <item>Adv Ec Calibration</item>
+        <item>Subsystem Callibration</item>
+        <item>MicAmp Callibration</item>
+        <item>Write ALL to EFS</item>
+        <item>Write ALL to MEM</item>
+    </string-array>
+    <string-array name="device_type">
+        <item>[00] Speaker_Media</item>
+        <item>[02] Stereo_Headset</item>
+        <item>[03] Stereo_Headset_Media</item>
+        <item>[04] Stereo_Headset_Without_Mic</item>
+        <item>[06] Handset</item>
+        <item>[07] Speaker_Phone</item>
+        <item>[08] Speaker_Headset</item>
+        <item>[09] Voice_Recorder</item>
+        <item>[13] BT_Headset</item>
+        <item>[14] A2DP_BT_Headset</item>
+    </string-array>
+    <string-array name="method_type">
+        <item>SND_METHOD_VOICE</item>
+    </string-array>
+    <string-array name="volume_level_voice">
+        <item>volume_level_0</item>
+        <item>volume_level_1</item>
+        <item>volume_level_2</item>
+        <item>volume_level_3</item>
+        <item>volume_level_4</item>
+        <item>volume_level_5</item>
+        <item>dtmf_level_0</item>
+        <item>dtmf_level_1</item>
+        <item>dtmf_level_2</item>
+        <item>dtmf_level_3</item>
+        <item>dtmf_level_4</item>
+        <item>dtmf_level_5</item>
+    </string-array>
+    <string-array name="volume_level_music">
+        <item>volume_level_0</item>
+        <item>volume_level_1</item>
+        <item>volume_level_2</item>
+        <item>volume_level_3</item>
+        <item>volume_level_4</item>
+        <item>volume_level_5</item>
+        <item>volume_level_6</item>
+        <item>volume_level_7</item>
+        <item>volume_level_8</item>
+        <item>volume_level_9</item>
+        <item>volume_level_10</item>
+        <item>volume_level_11</item>
+        <item>volume_level_12</item>
+        <item>volume_level_13</item>
+        <item>volume_level_14</item>
+        <item>volume_level_15</item>
+        <item>dtmf_level_0</item>
+        <item>dtmf_level_1</item>
+        <item>dtmf_level_2</item>
+        <item>dtmf_level_3</item>
+        <item>dtmf_level_4</item>
+        <item>dtmf_level_5</item>
+        <item>dtmf_level_6</item>
+        <item>dtmf_level_7</item>
+        <item>dtmf_level_8</item>
+        <item>dtmf_level_9</item>
+        <item>dtmf_level_10</item>
+        <item>dtmf_level_11</item>
+        <item>dtmf_level_12</item>
+        <item>dtmf_level_13</item>
+        <item>dtmf_level_14</item>
+        <item>dtmf_level_15</item>
+    </string-array>
+    <string-array name="volume_level">
+        <item>volume_level_0</item>
+        <item>volume_level_1</item>
+        <item>volume_level_2</item>
+        <item>volume_level_3</item>
+        <item>volume_level_4</item>
+        <item>volume_level_5</item>
+        <item>volume_level_6</item>
+        <item>volume_level_7</item>
+        <item>dtmf_level_0</item>
+        <item>dtmf_level_1</item>
+        <item>dtmf_level_2</item>
+        <item>dtmf_level_3</item>
+        <item>dtmf_level_4</item>
+        <item>dtmf_level_5</item>
+        <item>dtmf_level_6</item>
+        <item>dtmf_level_7</item>
+    </string-array>
+    <string-array name="vocoder">
+        <item>[00] Speaker_Media</item>
+        <item>[02] Stereo_Headset</item>
+        <item>[03] Stereo_Headset_Media</item>
+        <item>[04] Stereo_Headset_Without_Mic</item>
+        <item>[06] ON_Chip_0</item>
+        <item>[07] Speaker_Phone</item>
+        <item>[08] Speaker_Headset</item>
+        <item>[09] Voice_Recorder</item>
+        <item>[13] BT_Headset</item>
+        <item>[14] A2DP_BT_Headset</item>
+    </string-array>
+    <string-array name="vocoder_sub">
+        <item>[00] Speaker_Media</item>
+        <item>[02] Stereo_Headset</item>
+        <item>[03] Stereo_Headset_Media</item>
+        <item>[04] Stereo_Headset_Without_Mic</item>
+        <item>[06] ON_Chip_0</item>
+        <item>[07] Speaker_Phone</item>
+        <item>[08] Speaker_Headset</item>
+        <item>[09] Voice_Recorder</item>
+    </string-array>
+    <string-array name="item_type">
+        <item>General Item</item>
+        <item>AGC Item</item>
+        <item>Filter Item</item>
+    </string-array>
+    <string-array name="setting_item_1">
+        <item>ec_mode</item>
+        <item>tx_gain[tx volume]</item>
+        <item>dtmf_tx_gain</item>
+        <item>codec_tx_gain</item>
+        <item>codec_rx_gain</item>
+        <item>codec_st_gain</item>
+        <item>ns_enable</item>
+    </string-array>
+    <string-array name="setting_item_3">
+        <item>RX_STAGE_CNT</item>
+        <item>RX_STAGE1_A1</item>
+        <item>RX_STAGE1_A2</item>
+        <item>RX_STAGE1_B0</item>
+        <item>RX_STAGE1_B1</item>
+        <item>RX_STAGE1_B2</item>
+        <item>RX_STAGE2_A1</item>
+        <item>RX_STAGE2_A2</item>
+        <item>RX_STAGE2_B0</item>
+        <item>RX_STAGE2_B1</item>
+        <item>RX_STAGE2_B2</item>
+        <item>RX_STAGE3_A1</item>
+        <item>RX_STAGE3_A2</item>
+        <item>RX_STAGE3_B0</item>
+        <item>RX_STAGE3_B1</item>
+        <item>RX_STAGE3_B2</item>
+        <item>RX_STAGE4_A1</item>
+        <item>RX_STAGE4_A2</item>
+        <item>RX_STAGE4_B0</item>
+        <item>RX_STAGE4_B1</item>
+        <item>RX_STAGE4_B2</item>
+        <item>RX_STAGE5_A1</item>
+        <item>RX_STAGE5_A2</item>
+        <item>RX_STAGE5_B0</item>
+        <item>RX_STAGE5_B1</item>
+        <item>RX_STAGE5_B2</item>
+        <item>TX_FLAG</item>
+        <item>TX_STAGE_CNT</item>
+        <item>TX_STAGE1_A1</item>
+        <item>TX_STAGE1_A2</item>
+        <item>TX_STAGE1_B0</item>
+        <item>TX_STAGE1_B1</item>
+        <item>TX_STAGE1_B2</item>
+        <item>TX_STAGE2_A1</item>
+        <item>TX_STAGE2_A2</item>
+        <item>TX_STAGE2_B0</item>
+        <item>TX_STAGE2_B1</item>
+        <item>TX_STAGE2_B2</item>
+        <item>TX_STAGE3_A1</item>
+        <item>TX_STAGE3_A2</item>
+        <item>TX_STAGE3_B0</item>
+        <item>TX_STAGE3_B1</item>
+        <item>TX_STAGE3_B2</item>
+        <item>TX_STAGE4_A1</item>
+        <item>TX_STAGE4_A2</item>
+        <item>TX_STAGE4_B0</item>
+        <item>TX_STAGE4_B1</item>
+        <item>TX_STAGE4_B2</item>
+        <item>TX_STAGE5_A1</item>
+        <item>TX_STAGE5_A2</item>
+        <item>TX_STAGE5_B0</item>
+        <item>TX_STAGE5_B1</item>
+        <item>TX_STAGE5_B2</item>
+        <item>IIR_PARAM_MAX</item>
+    </string-array>
+    <string-array name="setting_item_2">
+        <item>rx_agc_static_gain</item>
+        <item>rx_agc_aig</item>
+        <item>rx_agc_aig_exp_thres</item>
+        <item>rx_agc_exp_slope</item>
+        <item>rx_agc_compr_thres</item>
+        <item>rx_agc_compr_slope</item>
+        <item>rx_agc_avc_sensitivity</item>
+        <item>rx_agc_avc_headroom</item>
+        <item>tx_agc_static_gain</item>
+        <item>tx_agc_aig</item>
+        <item>tx_agc_exp_thres</item>
+        <item>tx_agc_exp_slope</item>
+        <item>tx_agc_compr_thres</item>
+        <item>tx_agc_compr_slope</item>
+        <item>RX_AGC_CMD_TYPE</item>
+        <item>TX_AGC_CMD_TYPE</item>
+    </string-array>
+    <string-array name="advec_type">
+        <item>VOC_EC_OFF</item>
+        <item>VOC_EC_ESEC</item>
+        <item>VOC_EC_HEADSET</item>
+        <item>VOC_EC_AEC</item>
+        <item>VOC_EC_SPEAKER</item>
+        <item>VOC_EC_BT</item>
+        <item>VOC_EC_DEFAULT</item>
+    </string-array>
+    <string-array name="advec_item">
+        <item>NLPP_LIMIT</item>
+        <item>NLPP_GAIN</item>
+        <item>NLMS_LIMIT</item>
+        <item>MODE</item>
+        <item>TUNING_MODE</item>
+        <item>ECHO_PATH_DELAY</item>
+        <item>OUTPUTGAIN</item>
+        <item>INPUTGAIN</item>
+        <item>NLMS_TWOALPHA</item>
+        <item>NLMS_ERL</item>
+        <item>NLMS_TAPS</item>
+        <item>NLMS_PRESET_COEFS</item>
+        <item>NLMS_OFFSET</item>
+        <item>NLMS_ERL_BG</item>
+        <item>NLMS_TAPS_BG</item>
+        <item>PCD_THRESHOLD</item>
+        <item>MINIMUM_ERL</item>
+        <item>ERL_STEP</item>
+        <item>MAX_NOISE_FLOOR</item>
+        <item>DET_THRESHOLD</item>
+        <item>SPDET_FAR</item>
+        <item>SPDET_MIC</item>
+        <item>SPDET_XCLIP</item>
+        <item>DENS_TAIL_ALPHA</item>
+        <item>DENS_TAIL_PORTION</item>
+        <item>DENS_GAMMA_E_ALPHA</item>
+        <item>DENS_GAMMA_E_DT</item>
+        <item>DENS_GAMMA_E_LOW</item>
+        <item>DENS_GAMMA_E_RESCUE</item>
+        <item>DENS_GAMMA_E_HIGH</item>
+        <item>DENS_SPDET_NEAR</item>
+        <item>DENS_SPDET_ACT</item>
+        <item>DENS_GAMMA_N</item>
+        <item>DENS_NFE_BLOCKSIZE</item>
+        <item>DENS_LIMIT_NS</item>
+        <item>DENS_NL_ATTEN</item>
+        <item>DENS_CNI_LEVEL</item>
+        <item>WB_ECHO_RATIO</item>
+    </string-array>
+    <string-array name="gain_type">
+        <item>mono_input</item>
+        <item>HPL_L_input</item>
+        <item>HPL_R_input</item>
+        <item>HPH_output</item>
+        <item>LS_output</item>
+    </string-array>
+    <string-array name="wm9093_gain_type">
+        <item>IN1 Input A Volume</item>
+        <item>IN1 Input B Volume</item>
+        <item>Speaker Amp Gain</item>
+        <item>Speaker Boost</item>
+        <item>Speaker Volume</item>
+        <item>Headset Volume</item>
+        <item>IN1A SPKMIX Volume</item>
+        <item>IN1B SPKMIX Volume</item>
+        <item>IN2A SPKMIX Volume</item>
+        <item>IN2B SPKMIX Volume</item>
+        <item>AGC Enable</item>
+        <item>AGC clip threshold</item>
+        <item>AGC clip attack</item>
+        <item>AGC clip dcy</item>
+        <item>AGC RAMP</item>
+        <item>AGC MIN GAIN</item>
+    </string-array>
+    <string-array name="micamp_type">
+        <item>Left Mic</item>
+        <item>Right Mic</item>
+    </string-array>
+    <string-array name="gain_type_mono">
+        <item>mono_input</item>
+    </string-array>
+    <string-array name="gain_type_spk">
+        <item>SPEAKER_output</item>
+    </string-array>
+    <string-array name="gain_type_headset">
+        <item>HPL_input</item>
+    </string-array>
+    <string-array name="gain_type_hs_spk">
+        <item>HPL_input</item>
+        <item>SPEAKER_output</item>
+    </string-array>
+    <string-array name="ps_mode_selection">
+        <item>OFF</item>
+        <item>802.11 PS</item>
+        <item>Fast PS</item>
+    </string-array>
+    <string-array name="wmm_mode_selection">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="wmm_apsd_selection">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="wmm_max_service_selection">
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="wmm_be_bk_vi_vo_selection">
+        <item>BE</item>
+        <item>BK</item>
+        <item>VI</item>
+        <item>VO</item>
+    </string-array>
+    <string-array name="wmm_apsd_auto_selection">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="roamming_mode_selection">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="roamming_delta_selection">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="drm_test">
+        <item>DRM Cert Check</item>
+        <item>DRM Cert Info.</item>
+    </string-array>
+    <string-array name="contacts_test">
+        <item>simple query</item>
+        <item>insert Contacts 50ea</item>
+        <item>insert Contacts 100ea</item>
+        <item>insert Contacts 200ea</item>
+        <item>insert Contacts 300ea</item>
+        <item>insert Contacts 500ea</item>
+        <item>insert Groups 50ea</item>
+        <item>insert System Groups 50ea</item>
+    </string-array>
+    <string-array name="syncml_list">
+        <item>Backup</item>
+        <item>Restore</item>
+        <item>Get last sync time</item>
+        <item>Clear database</item>
+        <item>Set Profile</item>
+        <item>Enable Save log</item>
+        <item>TEST 1</item>
+        <item>TEST 2</item>
+        <item>TEST 3</item>
+    </string-array>
+    <string-array name="syncml_save_log">
+        <item>OFF</item>
+        <item>ON</item>
+    </string-array>
+    <string-array name="RATMode">
+        <item>Automatic</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+    </string-array>
+    <string-array name="gps_operation_modes">
+        <item>MS-Based</item>
+        <item>MS-Assisted</item>
+        <item>Stand alone</item>
+    </string-array>
+    <string-array name="gps_cold_starts">
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="gps_full_time_searches">
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="gps_privacies">
+        <item>option1</item>
+        <item>option2</item>
+    </string-array>
+</resources>

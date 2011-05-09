@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name_ConnectionManagerWidget">Connection Manager</string>
+    <string name="loading">Loading...</string>
+    <string name="pdp_mode_settings">Mobile network</string>
+    <string name="pdp_mode_use_3g_network">Enable</string>
+    <string name="pdp_mode_use_wifi_only">Disable</string>
+    <string name="data_enabled_true">Connect to mobile network when Wi-Fi is unavailable. Mobile network charges may apply.</string>
+    <string name="data_enabled_false">Data service is not available when Wi-Fi is not connected.</string>
+    <string name="dlg_btn_cancel">Cancel</string>
+</resources>

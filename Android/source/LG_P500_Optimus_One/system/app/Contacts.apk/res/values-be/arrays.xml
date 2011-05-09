@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="send_methods">
+        <item>@string/sendmethod_message</item>
+        <item>@string/sendmethod_email</item>
+    </array>
+    <array name="ringtone_pick_methods">
+        <item>@android:string/permgrouplab_personalInfo</item>
+        <item>@string/label_my_audio</item>
+    </array>
+    <array name="shortcut_type">
+        <item>@string/shortcutContact</item>
+        <item>@string/shortcutDialContact</item>
+        <item>@string/shortcutMessageContact</item>
+    </array>
+    <array name="menu_export">
+        <item>@string/export_to_sim</item>
+        <item>@string/export_to_sdcard</item>
+    </array>
+    <array name="menu_import_export">
+        <item>@string/import_from_sim</item>
+        <item>@string/export_to_sdcard</item>
+    </array>
+    <array name="menu_select_photo">
+        <item>@string/menu_take_picture</item>
+        <item>@string/menu_pick_picture</item>
+    </array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+</resources>

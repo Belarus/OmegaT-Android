@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="transition_type_names">
+        <item>Slide</item>
+        <item>Cube</item>
+    </string-array>
+    <string-array name="transition_type_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <array name="calc_zoom_values">
+        <item>25</item>
+        <item>50</item>
+        <item>@integer/calc_zoom_default</item>
+        <item>100</item>
+    </array>
+    <string-array name="calc_font_sizes">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>36</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+    <string-array name="sortby">
+        <item>Name</item>
+        <item>Date</item>
+        <item>Size</item>
+    </string-array>
+    <string-array name="newitem">
+        <item>Document</item>
+        <item>Spreadsheet</item>
+        <item>Presentation</item>
+        <item>Folder</item>
+    </string-array>
+    <string-array name="download_dir_entries">
+        <item>Current folder</item>
+        <item>Specific folder</item>
+        <item>Always ask</item>
+    </string-array>
+    <string-array name="back_key_entries">
+        <item>Up a level</item>
+        <item>Exit</item>
+    </string-array>
+    <integer-array name="colorchooser_standard_color_value">
+        <item>0</item>
+        <item>-16777216</item>
+        <item>-6737152</item>
+        <item>-13421824</item>
+        <item>-16764160</item>
+        <item>-16764058</item>
+        <item>-16777088</item>
+        <item>-13421671</item>
+        <item>-13421773</item>
+        <item>-8388608</item>
+        <item>-39424</item>
+        <item>-8355840</item>
+        <item>-16744448</item>
+        <item>-16744320</item>
+        <item>-16776961</item>
+        <item>-10066279</item>
+        <item>-8355712</item>
+        <item>-65536</item>
+        <item>-26368</item>
+        <item>-6697984</item>
+        <item>-13395610</item>
+        <item>-13382452</item>
+        <item>-13408513</item>
+        <item>-8388480</item>
+        <item>-6908266</item>
+        <item>-65281</item>
+        <item>-13312</item>
+        <item>-256</item>
+        <item>-16711936</item>
+        <item>-16711681</item>
+        <item>-16724737</item>
+        <item>-6737050</item>
+        <item>-4144960</item>
+        <item>-26164</item>
+        <item>-13159</item>
+        <item>-103</item>
+        <item>-3342388</item>
+        <item>-3342337</item>
+        <item>-6697729</item>
+        <item>-3368449</item>
+        <item>-1</item>
+    </integer-array>
+    <string-array name="colorchooser_standard_color_name">
+        <item>None</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>Olive Green</item>
+        <item>Dark Green</item>
+        <item>Dark Teal</item>
+        <item>Dark Blue</item>
+        <item>Indigo</item>
+        <item>Gray - 80%</item>
+        <item>Dark Red</item>
+        <item>Orange</item>
+        <item>Dark Yellow</item>
+        <item>Green</item>
+        <item>Teal</item>
+        <item>Blue</item>
+        <item>Blue Gray</item>
+        <item>Gray - 50%</item>
+        <item>Red</item>
+        <item>Light Orange</item>
+        <item>Lime</item>
+        <item>Sea Green</item>
+        <item>Aqua</item>
+        <item>Light Blue</item>
+        <item>Violet</item>
+        <item>Gray - 40%</item>
+        <item>Pink</item>
+        <item>Gold</item>
+        <item>Yellow</item>
+        <item>Bright Green</item>
+        <item>Turquoise</item>
+        <item>Sky Blue</item>
+        <item>Plum</item>
+        <item>Gray - 25%</item>
+        <item>Rose</item>
+        <item>Tan</item>
+        <item>Light Yellow</item>
+        <item>Light Green</item>
+        <item>Light Turquoise</item>
+        <item>Pale Blue</item>
+        <item>Lavender</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="calc_titles_func">
+        <item>Date &amp;amp; Time</item>
+        <item>Database</item>
+        <item>Engineering</item>
+        <item>Financial</item>
+        <item>Information</item>
+        <item>Logical</item>
+        <item>Lookup &amp;amp; Reference</item>
+        <item>Math &amp;amp; Trig</item>
+        <item>Statistical</item>
+        <item>Text</item>
+    </string-array>
+    <string-array name="write_display_mode_items">
+        <item>Original display</item>
+        <item>Positive display</item>
+        <item>Negative display</item>
+    </string-array>
+</resources>
