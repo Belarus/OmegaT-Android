@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="total_result_count">
+        <item quantity="other">%d results</item>
+        <item quantity="one">%d result</item>
+        <item quantity="few">%d results</item>
+    </plurals>
+    <plurals name="additional_result_count">
+        <item quantity="other">%d additional results</item>
+        <item quantity="one">%d additional result</item>
+        <item quantity="few">%d additional results</item>
+    </plurals>
+</resources>

@@ -6,7 +6,7 @@
     <string name="picasa_caption">Caption</string>
     <string name="picasa_album">Album</string>
     <string name="picasa_preview">Preview</string>
-    <string name="upload_failed_notfound">Upload failed: Album doesn\'t exist.</string>
+    <string name="upload_failed_notfound">Upload failed: Album doesn't exist.</string>
     <string name="picasa_toast_file_too_large">You cannot upload a photo larger than 20 MB.</string>
     <string name="new_album_label">Create album</string>
     <string name="album_title_hint">Enter album title</string>
@@ -25,8 +25,8 @@
     <string name="upload">Upload</string>
     <string name="cancel">Cancel</string>
     <string name="uploading_to">Uploading to <b>%s</b></string>
-    <string name="uploading_for">\u0020for <b>%s</b></string>
-    <string name="destination_format">%s \"%s\"</string>
+    <string name="uploading_for"> for <b>%s</b></string>
+    <string name="destination_format">%s "%s"</string>
     <string name="toast_intent_error">Upload initialization failed.</string>
     <string name="toast_file_error">File not available.</string>
     <string name="account_error">Failed to retrieve account information.</string>
@@ -72,7 +72,7 @@
     <string name="yt_public_access">Public</string>
     <string name="yt_private_access">Private</string>
     <string name="yt_use_location">Send location</string>
-    <string name="yt_terms">By uploading you agree to YouTube\'s <a href="http://www.youtube.com/t/terms">Terms of Use</a>.</string>
+    <string name="yt_terms">By uploading you agree to YouTube's <a href="http://www.youtube.com/t/terms">Terms of Use</a>.</string>
     <string name="yt_default_description">This video was uploaded from an Android phone.</string>
     <string name="yt_default_tag">mobile</string>
     <string name="yt_toast_file_too_large">You cannot upload a video larger than 1 GB.</string>

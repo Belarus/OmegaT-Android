@@ -25,7 +25,7 @@
     <string name="albums_photos_count">%d photos</string>
     <string name="albums_pick_photo">Upload photo</string>
     <string name="albums_pick_title">Pick an album</string>
-    <string name="albums_someones_album">%s\'s albums</string>
+    <string name="albums_someones_album">%s's albums</string>
     <string name="albums_subtitle_albums_count">%d albums</string>
     <string name="albums_subtitle_none">You have no albums</string>
     <string name="albums_subtitle_one_album">1 album</string>
@@ -65,7 +65,7 @@
     <string name="error_with_code_and_reason">%s [%d/%s]</string>
     <string name="error_with_reason">%s [%s]</string>
     <string name="eula_agree">I agree</string>
-    <string name="eula_disagree">I don\'t agree</string>
+    <string name="eula_disagree">I don't agree</string>
     <string name="eula_title">End-User License Agreement</string>
     <string name="event_details_error">This event could not be loaded</string>
     <string name="events_RSVP">RSVP to this Event</string>
@@ -126,7 +126,7 @@
     <string name="login_password_prompt">Please re-enter your Facebook password.</string>
     <string name="login_password_title">Password</string>
     <string name="login_sign_in">Sign in</string>
-    <string name="login_sign_up_here">Don\'t have an account?</string>
+    <string name="login_sign_up_here">Don't have an account?</string>
     <string name="login_signin">Login</string>
     <string name="login_signing_in">Signing in. Please wait…</string>
     <string name="login_signup">Sign up</string>
@@ -152,7 +152,7 @@
     <string name="mailbox_mark_thread_read_error">Cannot mark message as read at this time. Please try again later.</string>
     <string name="mailbox_mark_thread_unread_error">Cannot mark message as unread at this time. Please try again later.</string>
     <string name="mailbox_no_messages">No messages</string>
-    <string name="mailbox_no_subject">&lt;no subject></string>
+    <string name="mailbox_no_subject">&lt;no subject&gt;</string>
     <string name="mailbox_outbox">Sent</string>
     <string name="mailbox_refresh">Refresh</string>
     <string name="mailbox_reply_hint">Type to reply</string>
@@ -246,8 +246,8 @@
     <string name="profile_relationship_status_engaged">Engaged</string>
     <string name="profile_relationship_status_engaged_to">Engaged to %s</string>
     <string name="profile_relationship_status_in">In a relationship</string>
-    <string name="profile_relationship_status_in_complicated">In a relationship, and it\'s complicated</string>
-    <string name="profile_relationship_status_in_complicated_with">In a relationship with %s, and it\'s complicated</string>
+    <string name="profile_relationship_status_in_complicated">In a relationship, and it's complicated</string>
+    <string name="profile_relationship_status_in_complicated_with">In a relationship with %s, and it's complicated</string>
     <string name="profile_relationship_status_in_open">In an open relationship</string>
     <string name="profile_relationship_status_in_open_with">In an open relationship with %s</string>
     <string name="profile_relationship_status_in_with">In a relationship with %s</string>
@@ -337,7 +337,7 @@
     <string name="stream_removing_comment">Removing comment. Please wait…</string>
     <string name="stream_removing_post">Removing post. Please wait…</string>
     <string name="stream_share">Share</string>
-    <string name="stream_share_hint">What\'s on your mind?</string>
+    <string name="stream_share_hint">What's on your mind?</string>
     <string name="stream_share_post_comment">Comment</string>
     <string name="stream_title_label">News Feed</string>
     <string name="stream_unlike">Unlike</string>
@@ -345,13 +345,13 @@
     <string name="stream_view_more_comments">View more comments</string>
     <string name="stream_view_my_wall">My wall</string>
     <string name="stream_view_profile">View profile</string>
-    <string name="stream_view_target_wall">View %s\'s wall</string>
+    <string name="stream_view_target_wall">View %s's wall</string>
     <string name="stream_write_hint">Write something…</string>
     <string name="stream_you_and_one_other_like_this">You and 1 person like this.</string>
     <string name="stream_you_and_one_other_named_like_this">You and %s like this.</string>
     <string name="stream_you_and_others_like_this">You and %d others like this.</string>
     <string name="stream_you_like_this">You like this.</string>
-    <string name="sync_contacts_choice_dont_sync">Don\'t sync</string>
+    <string name="sync_contacts_choice_dont_sync">Don't sync</string>
     <string name="sync_contacts_choice_dont_sync_description">Use information about friends only in Facebook</string>
     <string name="sync_contacts_choice_remove_sync">Remove Facebook data</string>
     <string name="sync_contacts_choice_remove_sync_description">Remove Facebook data from Contacts. Use information about friends only in Facebook.</string>
@@ -382,12 +382,12 @@
     <string name="upload_default_album_name">Mobile album</string>
     <string name="upload_load_photo_error">An error occurred while loading the photo.</string>
     <string name="upload_loading">Loading…</string>
-    <string name="upload_notification_end_error_caption">Cannot upload \'%s\'</string>
+    <string name="upload_notification_end_error_caption">Cannot upload '%s'</string>
     <string name="upload_notification_end_error_m_of_n">Cannot upload %d of %d</string>
-    <string name="upload_notification_end_ok_caption">Uploaded \'%s\'</string>
+    <string name="upload_notification_end_ok_caption">Uploaded '%s'</string>
     <string name="upload_notification_end_ok_m_of_n">Uploaded %d of %d</string>
     <string name="upload_notification_title">Facebook upload</string>
-    <string name="upload_notification_update_caption">Facebook upload \'%s\'</string>
+    <string name="upload_notification_update_caption">Facebook upload '%s'</string>
     <string name="upload_notification_update_m_of_n">Facebook upload %d of %d</string>
     <string name="upload_photo_capture">Capture a photo</string>
     <string name="upload_photo_choose">Choose from Gallery</string>

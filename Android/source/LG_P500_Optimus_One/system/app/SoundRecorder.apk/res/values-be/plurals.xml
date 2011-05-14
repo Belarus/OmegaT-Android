@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="n_file_deleted">
+        <item quantity="other">%d files were deleted.</item>
+        <item quantity="one">1 file was deleted.</item>
+    </plurals>
+</resources>

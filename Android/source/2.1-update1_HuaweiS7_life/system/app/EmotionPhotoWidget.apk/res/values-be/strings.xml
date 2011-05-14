@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Emotion Photo Widgets</string>
+    <string name="emotion_photo_viewer">Emotion Photo Viewer</string>
+    <string name="emotion_photo_frame">Emotion Photo Frame</string>
+    <string name="skin">Select skin</string>
+    <string name="photo">Select photo</string>
+    <string name="set_skin">Done</string>
+    <string name="activity_not_found">Application is not installed on your phone.</string>
+</resources>

@@ -4,11 +4,6 @@
         <item>Duration</item>
         <item>Transaction</item>
     </string-array>
-    <array name="duration_array">
-        <item>@string/five_sec</item>
-        <item>@string/seven_sec</item>
-        <item>@string/ten_sec</item>
-    </array>
     <string-array name="transation_array">
         <item>None</item>
         <item>Random</item>
@@ -16,8 +11,4 @@
         <item>Transition 2</item>
         <item>Transition 3</item>
     </string-array>
-    <array name="slideshow_type_array">
-        <item>@string/showtype_single_picture</item>
-        <item>@string/showtype_picture_album</item>
-    </array>
 </resources>

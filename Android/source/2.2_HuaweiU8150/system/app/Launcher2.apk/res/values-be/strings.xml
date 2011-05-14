@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="sharedUserId" />
-    <string name="process" />
+    <string name="sharedUserId"></string>
+    <string name="process"></string>
     <string name="application_name">Launcher</string>
     <string name="uid_name">Android Core Apps</string>
     <string name="folder_name">Folder</string>
@@ -25,9 +25,9 @@
     <string name="add_clock">Clock</string>
     <string name="add_photo_frame">Picture frame</string>
     <string name="out_of_space">No more room on this Home screen.</string>
-    <string name="shortcut_installed">Shortcut \"%s\" created.</string>
-    <string name="shortcut_uninstalled">Shortcut \"%s\" was removed.</string>
-    <string name="shortcut_duplicate">Shortcut \"%s\" already exists.</string>
+    <string name="shortcut_installed">Shortcut "%s" created.</string>
+    <string name="shortcut_uninstalled">Shortcut "%s" was removed.</string>
+    <string name="shortcut_duplicate">Shortcut "%s" already exists.</string>
     <string name="title_select_shortcut">Select shortcut</string>
     <string name="title_select_live_folder">Select folder</string>
     <string name="all_apps_button_label">All applications</string>

@@ -34,7 +34,7 @@
     <string name="adviselist_default_country_set_text">Default country set to</string>
     <string name="adviselist_choose_default_country">Choose your default country</string>
     <string name="helpscreen_text_heading_description">Description</string>
-    <string name="helpscreen_text_heading_tos">Terms \u0020Conditions</string>
+    <string name="helpscreen_text_heading_tos">Terms  Conditions</string>
     <string name="helpscreen_text_heading_functions">Functions</string>
     <string name="helpscreen_text_heading_version">Current Version:</string>
     <string name="helpscreen_text_tos">All applications featured within App Advisor adhere to the Google Market Terms of Service. The downloading of an application could be limited depending on the condition of Android Market (Country, Developer, and etc.)</string>

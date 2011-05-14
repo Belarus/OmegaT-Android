@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="search_label">Google</string>
+    <string name="app_label">Google Search</string>
+    <string name="search_hint">Google Search</string>
+    <string name="google_search_settings">Google search settings</string>
+    <string name="show_web_suggestions">Show web suggestions</string>
+    <string name="show_web_suggestions_summary_enabled">Show suggestions from Google as you type</string>
+    <string name="show_web_suggestions_summary_disabled">Don't show suggestions from Google as you type</string>
+    <string name="google_search_base">http://www.google.com/m?hl=%1$s&amp;gl=%2$s&amp;</string>
+    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;gl=%2$s&amp;</string>
+</resources>

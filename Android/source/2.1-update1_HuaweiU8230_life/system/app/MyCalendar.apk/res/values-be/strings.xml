@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">My Calendar</string>
+    <string name="app_label">My Calendar</string>
+    <string name="no_title_label">(No subject)</string>
+</resources>

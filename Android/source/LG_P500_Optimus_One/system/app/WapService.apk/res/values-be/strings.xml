@@ -3,7 +3,7 @@
     <string name="app_name">WAP Service</string>
     <string name="common_btn_ok">OK</string>
     <string name="common_btn_cancel">Cancel</string>
-    <string name="common_empty_padding" />
+    <string name="common_empty_padding"></string>
     <string name="prov_received_ticker">Setting message received</string>
     <string name="prov_received_title">Setting message</string>
     <string name="prov_received_message">Click here to install phone settings</string>
@@ -86,7 +86,7 @@
     <string name="sender_edit_option_menu_discard">Discard</string>
     <string name="sender_edit_smsc_address">SMSC address</string>
     <string name="sender_edit_origin_address">Originating address</string>
-    <string name="sender_edit_not_set">&lt;Not set></string>
+    <string name="sender_edit_not_set">&lt;Not set&gt;</string>
     <string name="sender_delete_list_option_menu_selectall">Select all</string>
     <string name="sender_delete_list_option_menu_deselectall">Deselect all</string>
     <string name="toast_service_security_set_saved">Service security setting saved</string>

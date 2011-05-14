@@ -38,8 +38,8 @@
         <item>Every Seven Days</item>
     </string-array>
     <string-array name="recovery_failures">
-        <item>Recovery mode is \"broken\".</item>
-        <item>ROM Manager doesn\'t reboot.</item>
+        <item>Recovery mode is "broken".</item>
+        <item>ROM Manager doesn't reboot.</item>
         <item>Other.</item>
     </string-array>
     <string-array name="purchase_options">

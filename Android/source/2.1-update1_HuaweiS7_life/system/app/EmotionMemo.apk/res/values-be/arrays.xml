@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="color_select">
+        <item>color_read1</item>
+        <item>color_read2</item>
+        <item>color_read3</item>
+        <item>color_read4</item>
+        <item>color_read5</item>
+    </string-array>
+</resources>

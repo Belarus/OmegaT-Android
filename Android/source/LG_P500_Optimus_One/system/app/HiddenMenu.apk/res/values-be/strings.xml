@@ -196,7 +196,7 @@
     <string name="gps_snr">SNR</string>
     <string name="gps_ctime">0 sec</string>
     <string name="gps_status">GPS Test is preparing</string>
-    <string name="gps_blank" />
+    <string name="gps_blank"></string>
     <string name="hidden_menu_19_1">Secure Clock</string>
     <string name="hidden_menu_1_1_1">AP OS Version</string>
     <string name="hidden_menu_1_1_2">AP App Version</string>
@@ -322,7 +322,7 @@
     <string name="iperf_4">Server Run</string>
     <string name="iperf_5">Reset</string>
     <string name="FontTest1">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz (Korean)</string>
-    <string name="FontTest2">A Spanish doctor on Tuesday stood by his opinion that Fidel Castro is recovering from stomach surgery despite a newspaper report stating the Cuban leader is in a serious condition after a number of failed operations. When Senator Wayne Allard, Republican of Colorado, announced Monday that he would not seek re-election, the uphill battle for his party to reclaim the Senate in 2008 became an even steeper climb. Naomi Campbell was today sentenced to five days\' community service and ordered to attend an anger management course after she admitted throwing a mobile phone at her maid.</string>
+    <string name="FontTest2">A Spanish doctor on Tuesday stood by his opinion that Fidel Castro is recovering from stomach surgery despite a newspaper report stating the Cuban leader is in a serious condition after a number of failed operations. When Senator Wayne Allard, Republican of Colorado, announced Monday that he would not seek re-election, the uphill battle for his party to reclaim the Senate in 2008 became an even steeper climb. Naomi Campbell was today sentenced to five days' community service and ordered to attend an anger management course after she admitted throwing a mobile phone at her maid.</string>
     <string name="FontTest3">HaH HbH HcH HdH HeH HfH HgH HhH HiH HjH HkH HlH HmH HnH HoH HpH HqH HrH HsH HtH HuH HvH HwH HxH HyH HzH HAH HBH HCH HDH HEH HFH HGH HHH HIH HJH HKH HLH HMH HNH HOH HPH HQH HRH HSH HTH HUH HVH HWH HXH HYH HZH</string>
     <string name="AskWriteAll">Are you sure to write cal data to efs?</string>
     <string name="AskWriteAlltoMem">Are you sure to write cal data to Memory?</string>
@@ -518,7 +518,7 @@
     <string name="qwerty_key_up">Up</string>
     <string name="qwerty_key_down">Down</string>
     <string name="qwerty_key_left">&lt;</string>
-    <string name="qwerty_key_right">></string>
+    <string name="qwerty_key_right">&gt;</string>
     <string name="qwerty_key_menu">Menu</string>
     <string name="qwerty_key_search">Sear</string>
     <string name="qwerty_key_period">.</string>

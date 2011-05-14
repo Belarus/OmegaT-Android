@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World, BluetoothSppAuthorizeDialog!</string>
+    <string name="app_name">BluetoothSpp</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="incoming_spp_confirm_Notification_title">Bluetooth Serial Connection</string>
+    <string name="incoming_spp_confirm_Notification_caption">Please confirm you want to accept this serial connection</string>
+    <string name="timeout_spp_confirm_Notification_title">Bluetooth Serial Connection Timeout</string>
+    <string name="timeout_spp_confirm_Notification_caption">Please check this notification</string>
+    <string name="bluetooth_spp_authorize">
+Serial connect with %1$s?
+</string>
+    <string name="bluetooth_spp_timeout">
+Serial connect with %1$s timeout !
+</string>
+</resources>

@@ -282,14 +282,12 @@
         <item>moderate</item>
         <item>strict</item>
     </string-array>
-    <array name="emptyArray" />
     <string-array name="prefEntries_server">
         <item>Prod</item>
         <item>Staging</item>
         <item>Dev</item>
         <item>Testing</item>
     </string-array>
-    <array name="prefValues_server" />
     <string-array name="prefEntries_locale">
         <item>Default</item>
         <item>Mandarin (zh-cn)</item>

@@ -189,7 +189,7 @@
     <string name="fr_FR_action_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_FR_action_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_FR_action_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_FR_action_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
+    <string name="fr_FR_action_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
     <string name="fr_BE_hint_call">Appeler</string>
     <string name="fr_BE_hint_navigate_to">Direction</string>
     <string name="fr_BE_hint_directions_to">Itinéraire</string>
@@ -199,7 +199,7 @@
     <string name="fr_BE_action_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_BE_action_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_BE_action_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_BE_action_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
+    <string name="fr_BE_action_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
     <string name="fr_CH_hint_call">Appeler</string>
     <string name="fr_CH_hint_navigate_to">Direction</string>
     <string name="fr_CH_hint_directions_to">Itinéraire</string>
@@ -209,13 +209,13 @@
     <string name="fr_CH_action_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_CH_action_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_CH_action_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_CH_action_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
+    <string name="fr_CH_action_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
     <string name="it_IT_action_call">Chiama</string>
     <string name="it_IT_action_navigate_to">Guidami</string>
     <string name="it_IT_action_directions_to">Indicazioni</string>
     <string name="it_IT_action_map_of">Mappa</string>
     <string name="it_IT_action_post_buzz">Pubblica buzz</string>
-    <string name="it_IT_hint_call"><annotation action="true">chiama</annotation> mario rossi cellulare\u0020</string>
+    <string name="it_IT_hint_call"><annotation action="true">chiama</annotation> mario rossi cellulare </string>
     <string name="it_IT_hint_navigate_to"><annotation action="true">guidami al</annotation> colosseo</string>
     <string name="it_IT_hint_directions_to"><annotation action="true">indicazioni per</annotation> piazza di spagna</string>
     <string name="it_IT_hint_map_of"><annotation action="true">mappa delle</annotation> pizzerie di napoli</string>
@@ -225,7 +225,7 @@
     <string name="it_CH_action_directions_to">Indicazioni</string>
     <string name="it_CH_action_map_of">Mappa</string>
     <string name="it_CH_action_post_buzz">Pubblica buzz</string>
-    <string name="it_CH_hint_call"><annotation action="true">chiama</annotation> mario rossi cellulare\u0020</string>
+    <string name="it_CH_hint_call"><annotation action="true">chiama</annotation> mario rossi cellulare </string>
     <string name="it_CH_hint_navigate_to"><annotation action="true">guidami al</annotation> colosseo</string>
     <string name="it_CH_hint_directions_to"><annotation action="true">indicazioni per</annotation> piazza di spagna</string>
     <string name="it_CH_hint_map_of"><annotation action="true">mappa delle</annotation> pizzerie di napoli</string>
@@ -298,12 +298,26 @@
     <string name="prefTitle_profanityFilter">Block offensive words</string>
     <string name="prefSummary_profanityFilter">Hide recognized offensive voice results</string>
     <string name="warningDialogTitle">Voice search</string>
-    <string name="warningDialogMessageUnsupportedLanguage">Voice search is not currently supported for your device\'s language.\n\nThe language that will be used instead is: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageLocaleChanged">Your voice search language has been changed to: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewBackoffDefault">Your voice search language has been changed to: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewBackoffNotDefault">Voice search now supports a different default language for your device: %s.\n\nTo switch to this or another voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewSupportedLanguageDefault">Voice search now supports your device\'s language: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewSupportedLanguageNotDefault">Voice search now supports your device\'s language: %s.\n\nTo switch to this or another voice search language, visit Settings.</string>
+    <string name="warningDialogMessageUnsupportedLanguage">Voice search is not currently supported for your device's language.
+
+The language that will be used instead is: %s.
+
+To switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageLocaleChanged">Your voice search language has been changed to: %s.
+
+To switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewBackoffDefault">Your voice search language has been changed to: %s.
+
+To switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">Voice search now supports a different default language for your device: %s.
+
+To switch to this or another voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">Voice search now supports your device's language: %s.
+
+To switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">Voice search now supports your device's language: %s.
+
+To switch to this or another voice search language, visit Settings.</string>
     <string name="ok">OK</string>
     <string name="appNameVoiceLog">Voice Log</string>
     <string name="textPathToOutput">Path to output file :</string>
@@ -315,6 +329,5 @@
     <string name="prefDefault_server">http://www.google.com/m/voice-search</string>
     <string name="prefDialogTitle_server">SSFE Server</string>
     <string name="prefTitle_locale">SSFE Locale</string>
-    <item type="string" name="prefDefault_locale">@null</item>
     <string name="prefDialogTitle_locale">SSFE Locale</string>
 </resources>

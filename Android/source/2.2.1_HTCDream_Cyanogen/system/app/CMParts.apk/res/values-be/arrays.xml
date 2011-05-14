@@ -102,10 +102,10 @@
         <item>blue</item>
         <item>yellow</item>
         <item>cyan</item>
-        <item>\#800080</item>
-        <item>\#ffc0cb</item>
-        <item>\#ffa500</item>
-        <item>\#add8e6</item>
+        <item>#800080</item>
+        <item>#ffc0cb</item>
+        <item>#ffa500</item>
+        <item>#add8e6</item>
         <item>random</item>
         <item>none</item>
     </string-array>

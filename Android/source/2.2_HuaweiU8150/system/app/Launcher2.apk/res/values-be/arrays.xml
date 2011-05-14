@@ -4,9 +4,4 @@
         <item>intent:#Intent;action=android.intent.action.MAIN;component=com.android.contacts/.ContactsLaunchActivity;end</item>
         <item>*BROWSER*</item>
     </string-array>
-    <array name="hotseat_icons">
-        <item>@drawable/hotseat_phone</item>
-        <item>@drawable/hotseat_browser</item>
-    </array>
-    <array name="extra_wallpapers" />
 </resources>

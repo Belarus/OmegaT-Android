@@ -74,7 +74,7 @@
     <string name="development_settings_debug_app_label_text">Debug App:</string>
     <string name="development_settings_show_sleep_text">Show sleep state on LED</string>
     <string name="development_settings_keep_screen_on_text">Keep screen on while plugged in</string>
-    <string name="monkey_screen_initialActivity_text" />
+    <string name="monkey_screen_initialActivity_text"></string>
     <string name="monkey_screen_number_of_events_label">Number of Events:</string>
     <string name="monkey_screen_start_text">Start</string>
     <string name="monkey_screen_initial_activity_label">Initial Activity:</string>
@@ -147,7 +147,9 @@
     <string name="status_sync_succeeded_format">Sync succeeded: %s</string>
     <string name="status_already_bound">Already bound to sync adapter</string>
     <string name="status_sync_adapter_not_selected">No selected sync adapter</string>
-    <string name="binding_connected_format">Connected to Sync Adapter\n	authority: %s\n	account type: %s</string>
+    <string name="binding_connected_format">Connected to Sync Adapter
+	authority: %s
+	account type: %s</string>
     <string name="binding_not_connected">Not connected to a sync adapter</string>
     <string name="binding_bind_failed">Bind failed</string>
     <string name="binding_waiting_for_connection">Waiting for service to be connected...</string>

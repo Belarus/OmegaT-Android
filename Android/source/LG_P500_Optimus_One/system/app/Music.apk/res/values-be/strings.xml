@@ -11,8 +11,8 @@
     <string name="shuffle_all">Shuffle all</string>
     <string name="play_all">Play all</string>
     <string name="delete_artist_desc">All songs by %s will be permanently deleted from the SD card.</string>
-    <string name="delete_album_desc">The entire album \"%s\" will be permanently deleted from the SD card.</string>
-    <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
+    <string name="delete_album_desc">The entire album "%s" will be permanently deleted from the SD card.</string>
+    <string name="delete_song_desc">"%s" will be permanently deleted from the SD card.</string>
     <string name="delete_confirm_button_text">OK</string>
     <string name="scanning">Scanning SD card…</string>
     <string name="nowplaying_title">Now playing</string>
@@ -57,7 +57,7 @@
     <string name="repeat_all_notif">Repeating all songs.</string>
     <string name="ringtone_menu">Use as phone ringtone</string>
     <string name="ringtone_menu_short">Use as ringtone</string>
-    <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
+    <string name="ringtone_set">"%s" set as phone ringtone.</string>
     <string name="play_selection">Play</string>
     <string name="add_to_playlist">Add to playlist</string>
     <string name="queue">Current playlist</string>
@@ -96,7 +96,7 @@
     <string name="fail_to_start_stream">Failed to play the requested stream.</string>
     <string name="search_settings_description">Artists, albums, and tracks</string>
     <string name="search_hint">Search Music</string>
-    <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="widget_initial_text">Touch to select music.</string>
     <string name="popup_create_brwoser_for_drm">The file is locked. Would you like to unlock it now?</string>
     <string name="popup_create_downloader_for_drm">The file is locked. Would you like to unlock it now? using downloader</string>
@@ -113,8 +113,8 @@
     <string name="error_modified_contents_message">Corrupt or unsuppored file</string>
     <string name="exception_mutiple_expired_drm_message">Multiple locked files. Terminating process.</string>
     <string name="downloading">downloading</string>
-    <string name="cannot_attach">\"%s\" Protected file.Distribution not allow</string>
-    <string name="cannot_ringtone">\"%s\" Protected file.Cannot be set as Ringtone</string>
+    <string name="cannot_attach">"%s" Protected file.Distribution not allow</string>
+    <string name="cannot_ringtone">"%s" Protected file.Cannot be set as Ringtone</string>
     <string name="unknown">Unknown</string>
     <string name="detail_menu">Details</string>
     <string name="detail_name">Title</string>

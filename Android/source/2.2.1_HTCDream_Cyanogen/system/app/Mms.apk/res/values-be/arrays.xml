@@ -13,8 +13,8 @@
         <item>:-!</item>
         <item>:-[</item>
         <item>O:-)</item>
-        <item>:-\\</item>
-        <item>:\'(</item>
+        <item>:-\</item>
+        <item>:'(</item>
         <item>:-X</item>
         <item>:-D</item>
         <item>o_O</item>
@@ -52,15 +52,6 @@
         <item>0,300,100,300,100,300,100,300,100,300</item>
         <item>0,800,200,800,200,800</item>
     </string-array>
-    <array name="pref_mms_user_agent_entries">
-        <item>Default Android</item>
-        <item>Nokia N95</item>
-        <item>iPhone (3.0)</item>
-        <item>BlackBerry 8800</item>
-        <item>Sony Ericsson W800i</item>
-        <item>SoftBank X01T</item>
-        <item>@string/pref_mms_custom_option</item>
-    </array>
     <string-array name="pref_mms_user_agent_values">
         <item>default</item>
         <item>NokiaN95/11.0.026; Series60/3.1 Profile/MIDP-2.0 Configuration/CLDC-1.1</item>

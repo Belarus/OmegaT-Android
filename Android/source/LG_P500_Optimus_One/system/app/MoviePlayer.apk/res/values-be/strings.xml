@@ -9,13 +9,16 @@
     <string name="delete_multiple_item">These media files will be deleted.</string>
     <string name="divx_registration_code">DivX Registration Code</string>
     <string name="divx_registration_title">Registration</string>
-    <string name="divx_NotRegDevice">You must register your device to play DivX protected videos. \u0020\n\nRegistration code:\u0020</string>
-    <string name="divx_RegInfo_del">\nFor registration information, go to http://vod.divx.com.</string>
-    <string name="divx_RegInfo">\u0020http://vod.divx.com</string>
-    <string name="divx_QuestionAboutDeReg">Your device is already registered. Are you sure you wish to deregister?\u0020</string>
+    <string name="divx_NotRegDevice">You must register your device to play DivX protected videos.  
+
+Registration code: </string>
+    <string name="divx_RegInfo_del">
+For registration information, go to http://vod.divx.com.</string>
+    <string name="divx_RegInfo"> http://vod.divx.com</string>
+    <string name="divx_QuestionAboutDeReg">Your device is already registered. Are you sure you wish to deregister? </string>
     <string name="divx_dereg">DeRegistration</string>
-    <string name="divx_RegAtMessage">Register at\u0020</string>
-    <string name="divx_DeRegCodeMessage">Deregistration code:\u0020</string>
+    <string name="divx_RegAtMessage">Register at </string>
+    <string name="divx_DeRegCodeMessage">Deregistration code: </string>
     <string name="divx_ReRegMessage">Choose OK to register again</string>
     <string name="divx_CorruptedDrmMessage">DRM is corrupted</string>
     <string name="divx_DeRegAtMessage">Deregister at</string>
@@ -30,7 +33,7 @@
     <string name="divx_expired_contents_other">This DivX rental has expired.</string>
     <string name="divx_expired">expired</string>
     <string name="divx_continue_play">Continue?</string>
-    <string name="delete_item_title">Delete?\u0020</string>
+    <string name="delete_item_title">Delete? </string>
     <string name="popup_delete_movie_player_title">Are you sure to Delete?</string>
     <string name="popup_delete_movie_player_yes">YES</string>
     <string name="popup_delete_movie_player_no">NO</string>
@@ -53,8 +56,8 @@
     <string name="movie_list_updating">Movie list is being updated.</string>
     <string name="video_sorry_msg">Can not play this contents</string>
     <string name="video_sorry_video_bitrate">Video bitrate not supported</string>
-    <string name="video_sorry_not_authorized">This device is not authorised to play this DivX protected video.\u0020</string>
-    <string name="video_sorry_audio_not_exist">Sorry, audio doesn’t exist in this content.\u0020</string>
+    <string name="video_sorry_not_authorized">This device is not authorised to play this DivX protected video. </string>
+    <string name="video_sorry_audio_not_exist">Sorry, audio doesn’t exist in this content. </string>
     <string name="confirm">OK</string>
     <string name="rename_Done">Done</string>
     <string name="rename_Cancel">Cancel</string>

@@ -38,7 +38,7 @@
     <string name="minutes">%s minutes</string>
     <string name="every_day">every day</string>
     <string name="never">Never</string>
-    <string name="day_concat">,\u0020</string>
+    <string name="day_concat">, </string>
     <string name="clock_instructions">Select a clock to display.</string>
     <string name="analog_gadget">Analog clock</string>
     <string name="settings">Settings</string>

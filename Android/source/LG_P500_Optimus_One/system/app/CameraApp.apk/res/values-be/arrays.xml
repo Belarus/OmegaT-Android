@@ -5,11 +5,6 @@
         <item>qvga</item>
         <item>qcif</item>
     </string-array>
-    <array name="videosize_icons">
-        <item>@drawable/cam_icon_line0_06</item>
-        <item>@drawable/cam_icon_line0_07</item>
-        <item>@drawable/cam_icon_line0_13</item>
-    </array>
     <string-array name="resolution_modes">
         <item>3m</item>
         <item>2m</item>
@@ -17,13 +12,6 @@
         <item>vga</item>
         <item>qvga</item>
     </string-array>
-    <array name="resolution_icons">
-        <item>@drawable/cam_icon_line0_03</item>
-        <item>@drawable/cam_icon_line0_04</item>
-        <item>@drawable/cam_icon_line0_05</item>
-        <item>@drawable/cam_icon_line0_06</item>
-        <item>@drawable/cam_icon_line0_07</item>
-    </array>
     <string-array name="scene_modes">
         <item>auto</item>
         <item>portrait</item>
@@ -32,14 +20,6 @@
         <item>night</item>
         <item>sunset</item>
     </string-array>
-    <array name="scene_icons">
-        <item>@drawable/cam_icon_line1_1</item>
-        <item>@drawable/cam_icon_line1_5</item>
-        <item>@drawable/cam_icon_line1_3</item>
-        <item>@drawable/cam_icon_line1_2</item>
-        <item>@drawable/cam_icon_line1_4</item>
-        <item>@drawable/cam_icon_line3_11</item>
-    </array>
     <string-array name="scene_modes_video">
         <item>auto</item>
         <item>portrait</item>
@@ -48,26 +28,12 @@
         <item>night</item>
         <item>sunset</item>
     </string-array>
-    <array name="scene_icons_video">
-        <item>@drawable/cam_icon_line1_1</item>
-        <item>@drawable/cam_icon_line1_5</item>
-        <item>@drawable/cam_icon_line1_3</item>
-        <item>@drawable/cam_icon_line1_2</item>
-        <item>@drawable/cam_icon_line1_4</item>
-        <item>@drawable/cam_icon_line3_11</item>
-    </array>
     <string-array name="timer_modes">
         <item>0ff</item>
         <item>3sec</item>
         <item>5sec</item>
         <item>10sec</item>
     </string-array>
-    <array name="timer_icons">
-        <item>@drawable/cam_icon_empty</item>
-        <item>@drawable/cam_icon_line2_3</item>
-        <item>@drawable/cam_icon_line2_2</item>
-        <item>@drawable/cam_icon_line2_1</item>
-    </array>
     <string-array name="shot_modes">
         <item>none</item>
         <item>continuous</item>
@@ -82,38 +48,15 @@
         <item>smiledetect</item>
         <item>outfocus</item>
     </string-array>
-    <array name="shot_icons">
-        <item>@drawable/cam_icon_empty</item>
-        <item>@drawable/cam_icon_line3_6</item>
-        <item>@drawable/cam_icon_line3_5</item>
-        <item>@drawable/cam_icon_line3_4</item>
-        <item>@drawable/cam_icon_line3_3</item>
-        <item>@drawable/cam_icon_line3_10</item>
-        <item>@drawable/cam_icon_line3_7</item>
-        <item>@drawable/cam_icon_line3_9</item>
-        <item>@drawable/cam_icon_line3_1</item>
-        <item>@drawable/cam_icon_line3_7</item>
-        <item>@drawable/cam_icon_line3_8</item>
-        <item>@drawable/cam_icon_line3_2</item>
-    </array>
     <string-array name="geotag_modes">
         <item>off</item>
         <item>searching</item>
         <item>searched</item>
     </string-array>
-    <array name="geotag_icons">
-        <item>@drawable/cam_icon_empty</item>
-        <item>@drawable/cam_icon_line4_1</item>
-        <item>@drawable/cam_icon_line4_2</item>
-    </array>
     <string-array name="is_modes">
         <item>off</item>
         <item>on</item>
     </string-array>
-    <array name="is_icons">
-        <item>@drawable/cam_icon_empty</item>
-        <item>@drawable/cam_icon_line6</item>
-    </array>
     <string-array name="newmsg_modes">
         <item>none</item>
         <item>new1</item>
@@ -121,13 +64,6 @@
         <item>new3</item>
         <item>new4</item>
     </string-array>
-    <array name="newmsg_icons">
-        <item>@drawable/cam_icon_empty</item>
-        <item>@drawable/cam_icon_line7_1</item>
-        <item>@drawable/cam_icon_line7_2</item>
-        <item>@drawable/cam_icon_line7_3</item>
-        <item>@drawable/cam_icon_line7_4</item>
-    </array>
     <string-array name="batt_modes">
         <item>level0</item>
         <item>level1</item>
@@ -138,262 +74,8 @@
         <item>level6</item>
         <item>level7</item>
     </string-array>
-    <array name="batt_icons">
-        <item>@drawable/cam_icon_line8_1</item>
-        <item>@drawable/cam_icon_line8_2</item>
-        <item>@drawable/cam_icon_line8_3</item>
-        <item>@drawable/cam_icon_line8_4</item>
-        <item>@drawable/cam_icon_line8_battery_charge_0</item>
-        <item>@drawable/cam_icon_line8_battery_charge_1</item>
-        <item>@drawable/cam_icon_line8_battery_charge_3</item>
-        <item>@drawable/cam_icon_line8_battery_charge_5</item>
-    </array>
     <string-array name="voice_modes">
         <item>unmute</item>
         <item>mute</item>
     </string-array>
-    <array name="voice_icons">
-        <item>@drawable/voice_record</item>
-        <item>@drawable/voice_record_mute</item>
-    </array>
-    <array name="help_string_menu">
-        <item>@string/dummy_space</item>
-        <item>@string/zoom</item>
-        <item>@string/brightness</item>
-        <item>@string/scene_mode</item>
-        <item>@string/auto</item>
-        <item>@string/scene_mode_portrait</item>
-        <item>@string/scene_mode_landscape</item>
-        <item>@string/scene_mode_sports</item>
-        <item>@string/scene_mode_night</item>
-        <item>@string/scene_mode_sunset</item>
-        <item>@string/focus</item>
-        <item>@string/auto</item>
-        <item>@string/focus_macro</item>
-        <item>@string/focus_face_tracking</item>
-        <item>@string/manual</item>
-        <item>@string/image_size</item>
-        <item>@string/image_size_3m</item>
-        <item>@string/image_size_2m</item>
-        <item>@string/image_size_1m</item>
-        <item>@string/image_size_vga</item>
-        <item>@string/image_size_qvga</item>
-        <item>@string/iso</item>
-        <item>@string/white_balance</item>
-        <item>@string/auto</item>
-        <item>@string/white_balance_incandescent</item>
-        <item>@string/white_balance_sunny</item>
-        <item>@string/white_balance_fluorescent</item>
-        <item>@string/white_balance_cloudy</item>
-        <item>@string/color_effect</item>
-        <item>@string/off</item>
-        <item>@string/color_effect_sepia</item>
-        <item>@string/color_effect_mono</item>
-        <item>@string/color_effect_negative</item>
-        <item>@string/color_effect_solarize</item>
-        <item>@string/color_effect_negative_sepia</item>
-        <item>@string/color_effect_blue</item>
-        <item>@string/timer</item>
-        <item>@string/shot_mode</item>
-        <item>@string/normal</item>
-        <item>@string/shot_mode_continuous</item>
-        <item>@string/shot_mode_smile</item>
-        <item>@string/shot_mode_beauty</item>
-        <item>@string/shot_mode_art</item>
-        <item>@string/shot_mode_panorama</item>
-        <item>@string/shot_mode_face_effect</item>
-        <item>@string/face_effect_blur</item>
-        <item>@string/face_effect_funny_mask</item>
-        <item>@string/face_effect_snow</item>
-        <item>@string/face_effect_shallow_focus</item>
-        <item>@string/face_effect_big_head</item>
-        <item>@string/face_effect_mosaic</item>
-        <item>@string/face_effect_fish_eye</item>
-        <item>@string/face_effect_concave</item>
-        <item>@string/shot_mode_cartoon</item>
-        <item>@string/image_quality</item>
-        <item>@string/quality_super_fine</item>
-        <item>@string/quality_fine</item>
-        <item>@string/normal</item>
-        <item>@string/auto_review</item>
-        <item>@string/shutter_sound</item>
-        <item>@string/geo_tagging</item>
-        <item>@string/dummy_space</item>
-    </array>
-    <array name="help_string_desc">
-        <item>@string/dummy_space</item>
-        <item>@string/help_zoom_desc</item>
-        <item>@string/help_brightness_desc</item>
-        <item>@string/help_scene_mode_menu_desc</item>
-        <item>@string/help_scene_mode_menu_auto_desc</item>
-        <item>@string/help_scene_mode_menu_portrait_desc</item>
-        <item>@string/help_scene_mode_menu_landscape_desc</item>
-        <item>@string/help_scene_mode_menu_sports_desc</item>
-        <item>@string/help_scene_mode_menu_night_desc</item>
-        <item>@string/help_scene_mode_menu_sunset_desc</item>
-        <item>@string/help_focus_desc</item>
-        <item>@string/help_focus_auto_desc</item>
-        <item>@string/help_focus_macro_desc</item>
-        <item>@string/help_focus_face_desc</item>
-        <item>@string/help_focus_manual_desc</item>
-        <item>@string/help_image_size_menu_desc</item>
-        <item>@string/help_image_size_menu_3m_desc</item>
-        <item>@string/help_image_size_menu_2m_desc</item>
-        <item>@string/help_image_size_menu_1m_desc</item>
-        <item>@string/help_image_size_menu_vga_desc</item>
-        <item>@string/help_image_size_menu_qvga_desc</item>
-        <item>@string/help_iso_menu_desc</item>
-        <item>@string/help_white_balance_menu_desc</item>
-        <item>@string/help_white_balance_menu_auto_desc</item>
-        <item>@string/help_white_balance_menu_incandescent_desc</item>
-        <item>@string/help_white_balance_menu_sunny_desc</item>
-        <item>@string/help_white_balance_menu_flourescent_desc</item>
-        <item>@string/help_white_balance_menu_cloudy_desc</item>
-        <item>@string/help_color_effect_menu_desc</item>
-        <item>@string/help_color_effect_menu_off_desc</item>
-        <item>@string/help_color_effect_menu_sepia_desc</item>
-        <item>@string/help_color_effect_menu_mono_desc</item>
-        <item>@string/help_color_effect_menu_negative_desc</item>
-        <item>@string/help_color_effect_menu_solarize_desc</item>
-        <item>@string/help_color_effect_menu_negative_sepia_desc</item>
-        <item>@string/help_color_effect_menu_blue_desc</item>
-        <item>@string/help_timer_menu_desc</item>
-        <item>@string/help_shot_mode_menu_desc</item>
-        <item>@string/help_shot_mode_menu_normal_desc</item>
-        <item>@string/help_shot_mode_menu_continuous_shot_desc</item>
-        <item>@string/help_shot_mode_menu_smile_shot_desc</item>
-        <item>@string/help_shot_mode_menu_beauty_shot_desc</item>
-        <item>@string/help_shot_mode_menu_art_shot_desc</item>
-        <item>@string/help_shot_mode_menu_panorama_shot_desc</item>
-        <item>@string/help_shot_mode_menu_face_effect_desc</item>
-        <item>@string/help_face_effect_blur_desc</item>
-        <item>@string/help_shot_mode_menu_funny_mask_desc</item>
-        <item>@string/help_face_effect_snow_desc</item>
-        <item>@string/help_face_effect_shallow_focus_desc</item>
-        <item>@string/help_face_effect_big_face_desc</item>
-        <item>@string/help_face_effect_mosaic_desc</item>
-        <item>@string/help_face_effect_fish_eye_desc</item>
-        <item>@string/help_face_effect_concave_desc</item>
-        <item>@string/help_shot_mode_menu_cartoon_shot_desc</item>
-        <item>@string/help_image_quality_menu_desc</item>
-        <item>@string/help_image_quality_menu_super_fine_desc</item>
-        <item>@string/help_image_quality_menu_fine_desc</item>
-        <item>@string/help_image_quality_menu_normal_desc</item>
-        <item>@string/help_show_captured_image_menu_desc</item>
-        <item>@string/help_shutter_sound_menu_desc</item>
-        <item>@string/help_geo_tagging_menu_desc</item>
-        <item>@string/dummy_space</item>
-    </array>
-    <array name="help_string_main_menu">
-        <item>@string/zoom</item>
-        <item>@string/brightness</item>
-        <item>@string/scene_mode</item>
-        <item>@string/focus</item>
-        <item>@string/image_size</item>
-        <item>@string/iso</item>
-        <item>@string/white_balance</item>
-        <item>@string/color_effect</item>
-        <item>@string/timer</item>
-        <item>@string/shot_mode</item>
-        <item>@string/image_quality</item>
-        <item>@string/auto_review</item>
-        <item>@string/shutter_sound</item>
-        <item>@string/geo_tagging</item>
-    </array>
-    <array name="help_string_menu_video">
-        <item>@string/dummy_space</item>
-        <item>@string/zoom</item>
-        <item>@string/brightness</item>
-        <item>@string/video_size</item>
-        <item>@string/video_size_vga</item>
-        <item>@string/video_size_qvga</item>
-        <item>@string/video_size_qcif</item>
-        <item>@string/scene_mode</item>
-        <item>@string/auto</item>
-        <item>@string/scene_mode_portrait</item>
-        <item>@string/scene_mode_landscape</item>
-        <item>@string/scene_mode_sports</item>
-        <item>@string/scene_mode_night</item>
-        <item>@string/scene_mode_sunset</item>
-        <item>@string/white_balance</item>
-        <item>@string/auto</item>
-        <item>@string/white_balance_incandescent</item>
-        <item>@string/white_balance_sunny</item>
-        <item>@string/white_balance_fluorescent</item>
-        <item>@string/white_balance_cloudy</item>
-        <item>@string/color_effect</item>
-        <item>@string/off</item>
-        <item>@string/color_effect_mono</item>
-        <item>@string/color_effect_negative</item>
-        <item>@string/color_effect_solarize</item>
-        <item>@string/color_effect_sepia</item>
-        <item>@string/color_effect_negative_sepia</item>
-        <item>@string/color_effect_blue</item>
-        <item>@string/video_duration</item>
-        <item>@string/normal</item>
-        <item>@string/video_duration_mms</item>
-        <item>@string/video_quality</item>
-        <item>@string/quality_super_fine</item>
-        <item>@string/quality_fine</item>
-        <item>@string/normal</item>
-        <item>@string/video_voice</item>
-        <item>@string/video_voice_unmute</item>
-        <item>@string/video_voice_mute</item>
-        <item>@string/show_recorded_video</item>
-        <item>@string/dummy_space</item>
-    </array>
-    <array name="help_string_desc_video">
-        <item>@string/dummy_space</item>
-        <item>@string/help_zoom_desc</item>
-        <item>@string/help_brightness_desc</item>
-        <item>@string/help_video_size_desc</item>
-        <item>@string/help_video_size_vga_desc</item>
-        <item>@string/help_video_size_qvga_desc</item>
-        <item>@string/help_video_size_176x144_desc</item>
-        <item>@string/help_scene_mode_menu_desc</item>
-        <item>@string/help_scene_mode_menu_auto_desc</item>
-        <item>@string/help_scene_mode_menu_portrait_desc</item>
-        <item>@string/help_scene_mode_menu_landscape_desc</item>
-        <item>@string/help_scene_mode_menu_sports_desc</item>
-        <item>@string/help_scene_mode_menu_night_desc</item>
-        <item>@string/help_scene_mode_menu_sunset_desc</item>
-        <item>@string/help_white_balance_menu_desc</item>
-        <item>@string/help_white_balance_menu_auto_desc</item>
-        <item>@string/help_white_balance_menu_incandescent_desc</item>
-        <item>@string/help_white_balance_menu_sunny_desc</item>
-        <item>@string/help_white_balance_menu_flourescent_desc</item>
-        <item>@string/help_white_balance_menu_cloudy_desc</item>
-        <item>@string/help_color_effect_menu_desc</item>
-        <item>@string/help_color_effect_menu_off_desc</item>
-        <item>@string/help_color_effect_menu_mono_desc</item>
-        <item>@string/help_color_effect_menu_negative_desc</item>
-        <item>@string/help_color_effect_menu_solarize_desc</item>
-        <item>@string/help_color_effect_menu_sepia_desc</item>
-        <item>@string/help_color_effect_menu_negative_sepia_desc</item>
-        <item>@string/help_color_effect_menu_blue_desc</item>
-        <item>@string/help_video_duration_desc</item>
-        <item>@string/help_video_duration_normal_desc</item>
-        <item>@string/help_video_duration_mms_desc</item>
-        <item>@string/help_video_quality_desc</item>
-        <item>@string/help_video_quality_super_desc</item>
-        <item>@string/help_video_quality_fine_desc</item>
-        <item>@string/help_video_quality_normal_desc</item>
-        <item>@string/help_video_voice_desc</item>
-        <item>@string/help_video_voice_unmute_desc</item>
-        <item>@string/help_video_voice_mute_desc</item>
-        <item>@string/help_video_show_desc</item>
-        <item>@string/dummy_space</item>
-    </array>
-    <array name="help_string_main_menu_video">
-        <item>@string/zoom</item>
-        <item>@string/brightness</item>
-        <item>@string/video_size</item>
-        <item>@string/scene_mode</item>
-        <item>@string/white_balance</item>
-        <item>@string/color_effect</item>
-        <item>@string/video_duration</item>
-        <item>@string/video_quality</item>
-        <item>@string/video_voice</item>
-        <item>@string/show_recorded_video</item>
-    </array>
 </resources>

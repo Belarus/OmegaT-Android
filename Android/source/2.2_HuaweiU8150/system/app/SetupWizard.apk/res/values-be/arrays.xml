@@ -3,7 +3,7 @@
     <string-array name="security_questions">
         <item>Favorite food?</item>
         <item>City of birth?</item>
-        <item>Best childhood friend\'s name?</item>
+        <item>Best childhood friend's name?</item>
         <item>Highschool name?</item>
     </string-array>
     <string-array name="passwordStrength">

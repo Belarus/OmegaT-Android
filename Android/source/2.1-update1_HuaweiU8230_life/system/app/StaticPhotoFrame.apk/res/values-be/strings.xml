@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">My Photo Frame</string>
+    <string name="skin">Skin</string>
+    <string name="set_skin">Done</string>
+    <string name="activity_not_found">Application is not installed on your phone.</string>
+</resources>

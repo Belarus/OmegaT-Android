@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="ButtomSoftKey_0">
+        <item>go_to_app_menu</item>
+    </string-array>
+    <string-array name="ButtomSoftKey_1">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts.DialtactsActivity</item>
+    </string-array>
+    <string-array name="ButtomSoftKey_2">
+        <item>com.android.contacts</item>
+        <item>com.android.contacts.DialtactsContactsEntryActivity</item>
+    </string-array>
+    <string-array name="ButtomSoftKey_3">
+        <item>com.android.mms</item>
+        <item>com.android.mms.ui.ConversationList</item>
+    </string-array>
+    <string-array name="ButtomSoftKey_4">
+        <item>go_to_zoom</item>
+    </string-array>
+</resources>
