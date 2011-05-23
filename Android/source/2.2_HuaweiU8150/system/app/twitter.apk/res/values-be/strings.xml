@@ -12,21 +12,17 @@
     <string name="login_error_authentication">Invalid username or password.</string>
     <string name="login_error_generic">An error occurred when signing in. Please try again later.</string>
     <string name="wizard_start_adding_an_account">Add an account</string>
-    <string name="wizard_start_content">Adding a Twitter account takes just a few steps.
-
-Touch "Next" to continue or press your phone's Back button to exit.</string>
-    <string name="wizard_start_one_account_content">You can use only one Twitter account on your phone. Please remove the existing account and then add a new account.
-
-Press your phone's Back button to exit.</string>
+    <string name="wizard_start_content">Adding a Twitter account takes just a few steps.\n\nTouch \"Next\" to continue or press your phone\'s Back button to exit.</string>
+    <string name="wizard_start_one_account_content">You can use only one Twitter account on your phone. Please remove the existing account and then add a new account.\n\nPress your phone\'s Back button to exit.</string>
     <string name="sync_contacts_header">Add Twitter pictures and Tweets to Contacts?</string>
     <string name="sync_contacts_choice_sync_all">Sync all</string>
-    <string name="sync_contacts_choice_sync_all_description">Sync data about the people I'm following to Contacts</string>
+    <string name="sync_contacts_choice_sync_all_description">Sync data about the people I\'m following to Contacts</string>
     <string name="sync_contacts_choice_sync_existing">Sync with existing contacts</string>
-    <string name="sync_contacts_choice_sync_existing_description">Sync data only about the people I'm following who are already in Contacts</string>
-    <string name="sync_contacts_choice_dont_sync">Don't sync</string>
-    <string name="sync_contacts_choice_dont_sync_description">Use data about the people I'm following only in Twitter</string>
+    <string name="sync_contacts_choice_sync_existing_description">Sync data only about the people I\'m following who are already in Contacts</string>
+    <string name="sync_contacts_choice_dont_sync">Don\'t sync</string>
+    <string name="sync_contacts_choice_dont_sync_description">Use data about the people I\'m following only in Twitter</string>
     <string name="sync_contacts_choice_remove_sync">Remove Twitter data</string>
-    <string name="sync_contacts_choice_remove_sync_description">Remove Twitter data from Contacts. Use information about the people I'm following only in Twitter.</string>
+    <string name="sync_contacts_choice_remove_sync_description">Remove Twitter data from Contacts. Use information about the people I\'m following only in Twitter.</string>
     <string name="sync_contacts_footer">You can change this later in Twitter settings.</string>
     <string name="sync_contacts_account_settings_error">Cannot read account settings.</string>
     <string name="sync_contacts_account_create_error">Cannot create account.</string>
@@ -104,18 +100,12 @@ Press your phone's Back button to exit.</string>
     <string name="tweets_time_and_source_and_reply">%s from %s ™in reply to %s</string>
     <string name="tweets_time_and_reply">%s ™in reply to %s</string>
     <string name="tweets_fetching_user_info">Loading user info...</string>
-    <string name="tweets_user_info_fetch_error">Cannot load the user's info. Please try again later.</string>
+    <string name="tweets_user_info_fetch_error">Cannot load the user\'s info. Please try again later.</string>
     <string name="tweets_view_favorites">Favorites</string>
     <string name="tweets_map">View on map</string>
     <string name="tweets_no_content">No Tweets found.</string>
-    <string name="tweets_share_format">%s (@%s) has shared a Tweet with you:
-
-"%s: %s"
---%s</string>
-    <string name="tweets_share_retweeted_format">%s (@%s) has shared a Tweet with you:
-
-"%s: RT @%s: %s"
---%s</string>
+    <string name="tweets_share_format">%s (@%s) has shared a Tweet with you:\n\n\"%s: %s\"\n--%s</string>
+    <string name="tweets_share_retweeted_format">%s (@%s) has shared a Tweet with you:\n\n\"%s: RT @%s: %s\"\n--%s</string>
     <string name="users_fetch_error">Cannot get users at this time. Please try again later.</string>
     <string name="users_unblock">Unblock</string>
     <string name="users_block">Block</string>
@@ -158,9 +148,7 @@ Press your phone's Back button to exit.</string>
     <string name="messages_deleting">Deleting message...</string>
     <string name="messages_delete_error">Cannot delete message.</string>
     <string name="messages_no_messages">No messages found.</string>
-    <string name="messages_share_format">%s (@%s) has shared a direct message with you:
-
-"Direct from %s: %s"</string>
+    <string name="messages_share_format">%s (@%s) has shared a direct message with you:\n\n\"Direct from %s: %s\"</string>
     <string name="lists_fetch_error">Cannot retrieve lists. Please try again later.</string>
     <string name="lists_delete_list">Delete list</string>
     <string name="lists_delete_question">Would you like to delete this list?</string>
@@ -281,7 +269,7 @@ Press your phone's Back button to exit.</string>
     <string name="post_button_update">Update</string>
     <string name="post_button_reply">Reply</string>
     <string name="post_button_send">Send</string>
-    <string name="post_tweet_hint">What's happening?</string>
+    <string name="post_tweet_hint">What\'s happening?</string>
     <string name="post_camera_photo_error">Cannot use the camera photo. Please check that the SD card is properly mounted.</string>
     <string name="post_preparing_post">Creating Tweet...</string>
     <string name="post_retry_prepare_question">Do you want to retry creating this Tweet?</string>
@@ -293,13 +281,13 @@ Press your phone's Back button to exit.</string>
     <string name="post_load_photo_error">Photo cannot be loaded.</string>
     <string name="post_delete_question">Do you want to delete the attachment(s)?</string>
     <string name="post_not_a_friend_error">The recipient of the message is not following you.</string>
-    <string name="post_invalid_user_error">The recipient of the message isn't on Twitter</string>
+    <string name="post_invalid_user_error">The recipient of the message isn\'t on Twitter</string>
     <string name="post_with_location">Location off</string>
     <string name="post_acquiring_location">Getting location...</string>
     <string name="post_location_error">Cannot get your location.</string>
     <string name="post_text_too_long">This Tweet is too long. Get out that eraser and shorten it a bit.</string>
     <string name="post_photo_already_attached">This photo is already attached.</string>
-    <string name="post_max_attached_photos">Sorry, you can't attach more than 3 photos.</string>
+    <string name="post_max_attached_photos">Sorry, you can\'t attach more than 3 photos.</string>
     <string name="post_invalid_url">The URL is invalid.</string>
     <string name="authenticator_activity_title">Sign in</string>
     <string name="authenticator_activity_username_label">Username</string>
@@ -327,7 +315,7 @@ Press your phone's Back button to exit.</string>
     <string name="bold">&lt;b&gt;%s&lt;/b&gt;</string>
     <string name="widget_name_large">Twitter (large)</string>
     <string name="widget_name_small">Twitter (small)</string>
-    <string name="widget_update_hint">What's happening?</string>
+    <string name="widget_update_hint">What\'s happening?</string>
     <string name="widget_update">Update</string>
     <string name="widget_logged_out_title">You are not signed in.</string>
     <string name="widget_logged_out_message">Sign in by opening the Twitter application on your phone.</string>

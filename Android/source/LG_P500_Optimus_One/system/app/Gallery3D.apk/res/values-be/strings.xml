@@ -63,10 +63,8 @@
     <string name="date_unknown">Date unknown</string>
     <string name="video_err">Unable to play video</string>
     <string name="file_deleted">The media file has been deleted.</string>
-    <string name="open_expired_drm_message">The file is locked.
-Delete?</string>
-    <string name="open_expired_ro_message">The file is locked.
-Would you like to unlock it now?</string>
+    <string name="open_expired_drm_message">The file is locked.\nDelete?</string>
+    <string name="open_expired_ro_message">The file is locked.\nWould you like to unlock it now?</string>
     <string name="purchase">Purchase</string>
     <string name="cd_ultimate_usage_information_message">License expired</string>
     <string name="cd_penultimate_usage_information_message">1 use remaning</string>

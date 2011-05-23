@@ -2,8 +2,7 @@
 <resources>
     <string name="weekday_day">%1$s %2$s</string>
     <string name="app_label">Calendar</string>
-    <string name="calendar_plug"><font fgcolor="#ffffffff">Welcome to Google Calendar!</font> 
-A Google approach to managing your schedule built on the idea that scheduling events can be more intuitive, efficient, and accessible. </string>
+    <string name="calendar_plug"><font fgcolor="#ffffffff">Welcome to Google Calendar!</font> \nA Google approach to managing your schedule built on the idea that scheduling events can be more intuitive, efficient, and accessible. </string>
     <string name="what_label">What</string>
     <string name="when_label">When</string>
     <string name="where_label">Where</string>
@@ -100,7 +99,7 @@ A Google approach to managing your schedule built on the idea that scheduling ev
     <string name="preferences_default_reminder_title">Default reminder time</string>
     <string name="preferences_default_reminder_dialog">Default reminder time</string>
     <string name="preferences_default_reminder_default">10</string>
-    <string name="title_empty">Event name can't be null!</string>
+    <string name="title_empty">Event name can\'t be null!</string>
     <string name="title_sign_on">Google Calendar</string>
     <string name="content_one">Do you want to synchronize your google calendar?</string>
     <string name="content_two">If you want to synchronize your google calendar, you need to set up your google account first.</string>

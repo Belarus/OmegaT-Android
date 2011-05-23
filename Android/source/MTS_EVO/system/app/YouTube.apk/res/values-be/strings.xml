@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="application_name">YouTube</string>
-    <string name="videos_matching">Results for "%1$s"</string>
-    <string name="share_subject">Watch "%s" on YouTube</string>
+    <string name="videos_matching">Results for \"%1$s\"</string>
+    <string name="share_subject">Watch \"%s\" on YouTube</string>
     <string name="no_network">There is no network connection right now. Please try again later.</string>
     <string name="video_info">Info</string>
     <string name="upload">Upload</string>
@@ -27,10 +27,10 @@
     <string name="error_dev_reg">There was a problem starting up. Please check your network connection and system time.</string>
     <string name="error_authenticating">There was a problem authenticating</string>
     <string name="error_no_linked_youtube_account">Your account is not linked to a YouTube account. Please link your accounts and try again.</string>
-    <string name="error_forbidden_action">This action isn't allowed</string>
-    <string name="error_forbidden_list_access">This list can't be viewed</string>
+    <string name="error_forbidden_action">This action isn\'t allowed</string>
+    <string name="error_forbidden_list_access">This list can\'t be viewed</string>
     <string name="error_posting_comment">There was a problem posting your comment</string>
-    <string name="error_posting_comment_now">Couldn't post comment at this time, please try again later</string>
+    <string name="error_posting_comment_now">Couldn\'t post comment at this time, please try again later</string>
     <string name="error_generic">An error occurred</string>
     <string name="menu_home">Home</string>
     <string name="menu_browse">Browse</string>
@@ -70,11 +70,11 @@
     <string name="retry">Retry</string>
     <string name="recent">New</string>
     <string name="tap_to_retry">Touch to retry</string>
-    <string name="from_recommended">from &lt;b&gt;&lt;font color='white'&gt;Recommendations&lt;/font&gt;&lt;/b&gt;</string>
-    <string name="from_subscriptions">from &lt;b&gt;&lt;font color='white'&gt;Subscriptions&lt;/font&gt;&lt;/b&gt;</string>
-    <string name="from_featured">from &lt;b&gt;&lt;font color='white'&gt;Featured Videos&lt;/font&gt;&lt;/b&gt;</string>
-    <string name="from_most_popular">from &lt;b&gt;&lt;font color='white'&gt;Most Popular&lt;/font&gt;&lt;/b&gt;</string>
-    <string name="from_most_discussed">from &lt;b&gt;&lt;font color='white'&gt;Most Discussed&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="from_recommended">from &lt;b&gt;&lt;font color=\'white\'&gt;Recommendations&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="from_subscriptions">from &lt;b&gt;&lt;font color=\'white\'&gt;Subscriptions&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="from_featured">from &lt;b&gt;&lt;font color=\'white\'&gt;Featured Videos&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="from_most_popular">from &lt;b&gt;&lt;font color=\'white\'&gt;Most Popular&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="from_most_discussed">from &lt;b&gt;&lt;font color=\'white\'&gt;Most Discussed&lt;/font&gt;&lt;/b&gt;</string>
     <string name="pref_general_category">General settings</string>
     <string name="pref_clear_search_history_title">Clear search history</string>
     <string name="pref_clear_search_history_summary">Clear previous YouTube searches from showing up in the Search box</string>
@@ -87,11 +87,11 @@
     <string name="pref_mobile_terms_title">Google Mobile Terms of Service</string>
     <string name="pref_mobile_terms_summary">Read Google Mobile Terms of Service</string>
     <string name="pref_youtube_terms_title">YouTube Terms of Service</string>
-    <string name="pref_youtube_terms_summary">Read YouTube's Terms of Service</string>
+    <string name="pref_youtube_terms_summary">Read YouTube\'s Terms of Service</string>
     <string name="pref_mobile_privacy_title">Google Mobile Privacy Policy</string>
     <string name="pref_mobile_privacy_summary">Read Google Mobile Privacy Policy</string>
     <string name="pref_youtube_privacy_title">YouTube Privacy Policy</string>
-    <string name="pref_youtube_privacy_summary">Read YouTube's Privacy Policy</string>
+    <string name="pref_youtube_privacy_summary">Read YouTube\'s Privacy Policy</string>
     <string name="pref_help_title">Help</string>
     <string name="pref_help_summary">Find answers to your YouTube questions here</string>
     <string name="pref_version_title">Application version</string>
@@ -118,22 +118,22 @@
     <string name="subscribe_dialog_title">Subscribe to</string>
     <string name="subscribe_to_user_activity">All activity</string>
     <string name="subscribe_to_channel">Video uploads only</string>
-    <string name="subscribed_to_activity">Subscribed to %1$s's activity</string>
-    <string name="subscribed_to_uploads">Subscribed to %1$s's uploads</string>
+    <string name="subscribed_to_activity">Subscribed to %1$s\'s activity</string>
+    <string name="subscribed_to_uploads">Subscribed to %1$s\'s uploads</string>
     <string name="already_subscribed">Already subscribed</string>
     <string name="unsubscribed">Unsubscribed</string>
     <string name="subscription_query">%s (query)</string>
-    <string name="subscription_favorites">%s's favorites</string>
-    <string name="subscription_user">%s's activity</string>
+    <string name="subscription_favorites">%s\'s favorites</string>
+    <string name="subscription_user">%s\'s activity</string>
     <string name="subscription_playlist">%s (playlist)</string>
     <string name="channel_stats_uploaded_empty">Uploaded</string>
-    <string name="channel_stats_uploaded">Uploaded &lt;b&gt;&lt;font color='white'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="channel_stats_uploaded">Uploaded &lt;b&gt;&lt;font color=\'white\'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
     <string name="channel_stats_views_empty">Channel views</string>
-    <string name="channel_stats_views">Channel views &lt;b&gt;&lt;font color='white'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="channel_stats_views">Channel views &lt;b&gt;&lt;font color=\'white\'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
     <string name="channel_stats_subscribers_empty">Subscribers</string>
-    <string name="channel_stats_subscribers">Subscribers &lt;b&gt;&lt;font color='white'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="channel_stats_subscribers">Subscribers &lt;b&gt;&lt;font color=\'white\'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
     <string name="channel_stats_subscriptions_empty">Subscriptions</string>
-    <string name="channel_stats_subscriptions">Subscriptions &lt;b&gt;&lt;font color='white'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="channel_stats_subscriptions">Subscriptions &lt;b&gt;&lt;font color=\'white\'&gt;%1$,d&lt;/font&gt;&lt;/b&gt;</string>
     <string name="channel_not_public">This channel is not public</string>
     <string name="logout">Sign out</string>
     <string name="accounts_title">Sign in</string>
@@ -146,22 +146,20 @@
     <string name="video_was_judged_inappropriate">This video was judged inappropriate</string>
     <string name="duplicate_upload">This video was rejected (duplicate upload)</string>
     <string name="video_violated_terms_of_use">This video violated terms of use</string>
-    <string name="uploader_account_suspended">Uploader's account was suspended</string>
+    <string name="uploader_account_suspended">Uploader\'s account was suspended</string>
     <string name="video_too_long">This video is too long</string>
     <string name="blocked_by_content_owner">Blocked by its content owner</string>
     <string name="video_not_available_in_your_country">Not available in your country</string>
     <string name="video_not_available_on_mobile">This video is not available on mobile</string>
     <string name="video_is_private">This video is private</string>
-    <string name="video_couldnt_be_processed">This video couldn't be converted</string>
+    <string name="video_couldnt_be_processed">This video couldn\'t be converted</string>
     <string name="video_is_in_an_invalid_format">This video is in an invalid file format</string>
     <string name="video_uses_an_unsupported_codec">This video uses an unsupported codec</string>
     <string name="video_is_empty">This video is empty</string>
     <string name="video_is_too_small">This video is too small</string>
-    <string name="adult_content_intro">This video may contain content that is inappropriate for some users, as flagged by YouTube's user community
-
-</string>
+    <string name="adult_content_intro">This video may contain content that is inappropriate for some users, as flagged by YouTube\'s user community\n\n</string>
     <string name="adult_content_login">To view this video, please verify you are 18 or older by signing in</string>
-    <string name="adult_content_confirm">By touching "Confirm", you are agreeing that all videos flagged by the YouTube community will be viewable by this account</string>
+    <string name="adult_content_confirm">By touching \"Confirm\", you are agreeing that all videos flagged by the YouTube community will be viewable by this account</string>
     <string name="adult_content_underage">Sorry, you must be 18 or over to view this video</string>
     <string name="widget_from_user">by %1$s</string>
     <string name="search_title">YouTube</string>
@@ -179,7 +177,7 @@
     <string name="related_artists">Related artists</string>
     <string name="no_related_artists">No related artists</string>
     <string name="no_bio_available">No biography available</string>
-    <string name="featured_playlist">from &lt;b&gt;&lt;font color='white'&gt;Featured&lt;/font&gt;&lt;/b&gt;</string>
+    <string name="featured_playlist">from &lt;b&gt;&lt;font color=\'white\'&gt;Featured&lt;/font&gt;&lt;/b&gt;</string>
     <string name="playlist_details_without_videos">by %1$s</string>
     <string name="playlist_details_with_one_video">by %1$s | 1 video</string>
     <string name="playlist_details_with_several_videos">by %1$s | %2$d videos</string>

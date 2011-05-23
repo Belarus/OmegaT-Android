@@ -171,7 +171,7 @@
     <string name="snooze_all_label">Snooze all</string>
     <string name="synced_not_visible">synced, not visible</string>
     <string name="synced_visible">synced, visible</string>
-    <string name="title_empty">Event name can't be null!</string>
+    <string name="title_empty">Event name can\'t be null!</string>
     <string name="turcell_cocuk_bayrami">Ulusal Egemenlik ve Çocuk Bayramı</string>
     <string name="turcell_cumhuriyet_bayrami">Cumhuriyet Bayramı</string>
     <string name="turcell_kurban_bayrami_1">Kurban Bayramı 1.Gün</string>

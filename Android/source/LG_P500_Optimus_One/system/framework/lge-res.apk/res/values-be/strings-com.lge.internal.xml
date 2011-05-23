@@ -2,8 +2,7 @@
 <resources>
     <string name="unsupportedMmiCode">Dialed MMI Code is not supported.</string>
     <string name="mmiFdnError">Operation barred, fixed dialing numbers only.</string>
-    <string name="pinpuk_attempts">
-Attempts Remaining :</string>
+    <string name="pinpuk_attempts">\nAttempts Remaining :</string>
     <string name="keyguard_pin_accepted">Code Accepted!</string>
     <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
     <string name="lockscreen_sim_error_message">SIM card is Invalid.</string>
@@ -12,9 +11,7 @@ Attempts Remaining :</string>
     <string name="lockscreen_sim_service_provider_locked_message">Phone is SIM Service Provider locked</string>
     <string name="lockscreen_sim_corporate_locked_message">Phone is SIM Corporate locked</string>
     <string name="lockscreen_sim_sim_locked_message">Phone is SIM locked</string>
-    <string name="lockscreen_sim_puk_locked_instructions">PIN1 Blocked. Enter PUK1.
-or
-Please see the User Guide/contact Customer Care.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">PIN1 Blocked. Enter PUK1.\nor\nPlease see the User Guide/contact Customer Care.</string>
     <string name="lockscreen_pin_locked_message">SIM/RUIM card is locked.</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
     <string name="lockscreen_ruim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
@@ -31,9 +28,7 @@ Please see the User Guide/contact Customer Care.</string>
     <string name="lockscreen_ruim_corporate_locked_message">Phone is RUIM Corporate locked</string>
     <string name="lockscreen_ruim_ruim_locked_message">Phone is RUIM locked</string>
     <string name="lockscreen_ruim_puk_locked_message">RUIM card is PUK-locked.</string>
-    <string name="lockscreen_ruim_puk_locked_instructions">PIN1 Blocked. Enter PUK1 to unblock PIN1.
-OR
-Please see the User Guideontact Customer Care.</string>
+    <string name="lockscreen_ruim_puk_locked_instructions">PIN1 Blocked. Enter PUK1 to unblock PIN1.\nOR\nPlease see the User Guideontact Customer Care.</string>
     <string name="usb_storage_connect_title">USB Mass Storage connected</string>
     <string name="usb_storage_connect_message">An USB Mass Storage device is connected to your system.</string>
     <string name="usb_storage_disconnect_title">USB disconnected</string>
@@ -127,22 +122,19 @@ Please see the User Guideontact Customer Care.</string>
     <string name="tabs_1_tab_2">tabs_1_tab_2</string>
     <string name="tabs_1_tab_3">tabs_1_tab_3</string>
     <string name="wifi_fail_dialog_title">Attention</string>
-    <string name="wifi_fail_dialog_message">Wi-Fi is not connected,
-please launch Wi-Fi settings and join network.</string>
+    <string name="wifi_fail_dialog_message">Wi-Fi is not connected,\nplease launch Wi-Fi settings and join network.</string>
     <string name="network_option_dialog_title">Mobile network</string>
     <string name="network_option_dialog_enable">Enable</string>
     <string name="network_option_dialog_disable">Disable</string>
     <string name="network_option_dialog_alwaysask">Always ask</string>
     <string name="STR_TITLETEXT_UICC_TYPEPUK_COMMON_SHORT">Type PUK code</string>
-    <string name="STR_TITLETEXT_UICC_INVAILDPUK_COMMON_SHORT">Incorrect PUK code! 
-Remains : %d time(s)</string>
+    <string name="STR_TITLETEXT_UICC_INVAILDPUK_COMMON_SHORT">Incorrect PUK code! \nRemains : %d time(s)</string>
     <string name="STR_TITLETEXT_UICC_NEWPIN_COMMON_SHORT">New PIN</string>
     <string name="STR_TITLETEXT_UICC_VERIFYPIN_COMMON_SHORT">Confirm new PIN</string>
     <string name="STR_TITLETEXT_UICC_MISMATCHPINS_COMMON_SHORT">The PINs you entered do not match.</string>
     <string name="STR_TITLETEXT_UICC_REMAINING_COMMON_SHORT">Remains : </string>
     <string name="STR_TITLETEXT_UICC_PERMBLOCK_COMMON_SHORT">PUK blocked</string>
-    <string name="STR_TITLETEXT_UICC_INVAILDPIN_COMMON_SHORT">Incorrect PIN code! 
-Remains : %d time(s)</string>
+    <string name="STR_TITLETEXT_UICC_INVAILDPIN_COMMON_SHORT">Incorrect PIN code! \nRemains : %d time(s)</string>
     <string name="STR_POPUPMESSAGE_SECURITY_SETPINCODEREQON_COMMON_NORMAL">Set PIN code request on</string>
     <string name="mismatchPin2_LGEres">The PIN2s you entered do not match.</string>
     <string name="invalidPin2">Type a PIN2 that is 4 to 8 numbers.</string>
@@ -155,14 +147,8 @@ Remains : %d time(s)</string>
     <string name="Puk2Mmi">PUK2 change</string>
     <string name="LGECLIRTempRestricted">Temporarily restricted.</string>
     <string name="LGECLIRTempAllowed">Temporarily allowed.</string>
-    <string name="batteryTooHot">Heat sensor detected
-high temperatures.
-Remove battery
-or move to
-a cool place.</string>
-    <string name="batteryShutdown">Battery is overheated.
-Powering down
-for protection.</string>
+    <string name="batteryTooHot">Heat sensor detected\nhigh temperatures.\nRemove battery\nor move to\na cool place.</string>
+    <string name="batteryShutdown">Battery is overheated.\nPowering down\nfor protection.</string>
     <string name="CLIRDefaultOnNextCallOn">Restricted</string>
     <string name="CLIRDefaultOnNextCallOff">Not restricted</string>
     <string name="CLIRDefaultOffNextCallOn">Restricted</string>

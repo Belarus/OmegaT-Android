@@ -3,8 +3,7 @@
     <string name="global_search">Quick Search Box</string>
     <string name="search_label">Quick Search Box</string>
     <string name="search_hint">Quick Search Box</string>
-    <string name="search_the_web">Search the web
-for '%1$s'</string>
+    <string name="search_the_web">Search the web\nfor \'%1$s\'</string>
     <string name="go_to_website_title">Go to website</string>
     <string name="more_results">More results...</string>
     <string name="result_count_count_separator">%1$s: %2$s</string>
@@ -21,9 +20,7 @@ for '%1$s'</string>
     <string name="search_sources_summary">Choose what to search on the phone</string>
     <string name="clear_shortcuts">Clear search shortcuts</string>
     <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search results</string>
-    <string name="clear_shortcuts_prompt">This will clear all shortcuts to recently chosen search results.
-
-(To clear your Browser history, use the Browser's settings.)</string>
+    <string name="clear_shortcuts_prompt">This will clear all shortcuts to recently chosen search results.\n\n(To clear your Browser history, use the Browser\'s settings.)</string>
     <string name="agree">OK</string>
     <string name="disagree">Cancel</string>
 </resources>

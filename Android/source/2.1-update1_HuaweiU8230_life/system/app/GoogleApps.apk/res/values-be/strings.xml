@@ -5,7 +5,7 @@
     <string name="permlab_googleAuthPassword">access to passwords for Google accounts</string>
     <string name="permdesc_googleAuthPassword">Allows applications direct access to the passwords for the Google account(s) you have configured.</string>
     <string name="permlab_googleMailSwitch">select Gmail or Google Mail branding</string>
-    <string name="permdesc_googleMailSwitch">Allows applications to switch the phone between "Gmail" and "Google Mail" branding.</string>
+    <string name="permdesc_googleMailSwitch">Allows applications to switch the phone between \"Gmail\" and \"Google Mail\" branding.</string>
     <string name="permlab_googleAuth">view configured accounts</string>
     <string name="permdesc_googleAuth">Allows applications to see the usernames (email addresses) of the Google account(s) you have configured.</string>
     <string name="permlab_googleAuth_ALL">access all Google services</string>
@@ -95,25 +95,23 @@
     <string name="login_activity_username_label">Username</string>
     <string name="login_activity_password_label">Password</string>
     <string name="login_activity_ok_button">Sign in</string>
-    <string name="login_activity_loginfail_text_both">The username or password isn't valid. A <b>^1</b> account is required. Please try again. </string>
+    <string name="login_activity_loginfail_text_both">The username or password isn\'t valid. A <b>^1</b> account is required. Please try again. </string>
     <string name="login_activity_loginfail_text_pwonly">You entered the wrong password or your account has changed. Please re-enter your password.</string>
     <string name="login_activity_loginfail_text_pwmissing">Type the password for this account.</string>
-    <string name="enterprise_login_activity_msg">Please sign in into your enterprise account at ^1 for authentication.
-Touch Sign in to open your company's web-based sign-in page.</string>
+    <string name="enterprise_login_activity_msg">Please sign in into your enterprise account at ^1 for authentication.\nTouch Sign in to open your company\'s web-based sign-in page.</string>
     <string name="login_activity_badaccount_text">You cannot use that account in this situation. Please try a different account.</string>
     <string name="login_activity_newaccount_text">Sign in to your <b>^1</b> account. </string>
     <string name="login_activity_youtube_domain">YouTube</string>
     <string name="login_activity_gmail_domain">Gmail</string>
     <string name="login_activity_googlemail_domain">Google Mail</string>
-    <string name="login_activity_create_youtube">Don't have a YouTube account? Touch <a href="http://www.youtube.com/signup">here</a> to create one.</string>
+    <string name="login_activity_create_youtube">Don\'t have a YouTube account? Touch <a href="http://www.youtube.com/signup">here</a> to create one.</string>
     <string name="settings_tos_activity_title">Google legal</string>
     <string name="settings_tos_activity_unsuccessful_message">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
     <string name="settings_contributors_activity_title">Contributors</string>
     <string name="settings_contributors_activity_unsuccessful_message">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
     <string name="settings_team_activity_title">Team</string>
     <string name="webview_progress_title">Connecting to domain...</string>
-    <string name="webview_progress_verbose_message">Your company's servers are sending sign-in information to your phone. This may take a few minutes.
-Your company's sign-in page will appear when this is complete.</string>
+    <string name="webview_progress_verbose_message">Your company\'s servers are sending sign-in information to your phone. This may take a few minutes.\nYour company\'s sign-in page will appear when this is complete.</string>
     <string name="sign_in_button_label">Sign in</string>
     <string name="back_button_label">Back</string>
     <string name="cancel_button_label">Cancel</string>

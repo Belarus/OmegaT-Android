@@ -14,7 +14,7 @@
     <string name="permlab_heartbeat">Send heartbeat to Google Talk server</string>
     <string name="permdesc_heartbeat">Can send a heartbeat packet to the Google Talk server to ensure the health of the connection.</string>
     <string name="group_chat">Group chat: %s</string>
-    <string name="default_decline_reason">Sorry, I'm busy right now.</string>
+    <string name="default_decline_reason">Sorry, I\'m busy right now.</string>
     <string name="newMessages_label">New chats</string>
     <string name="notify_groupchat_label">Group chat invitation</string>
     <string name="num_unread_chats">%s unread chats</string>

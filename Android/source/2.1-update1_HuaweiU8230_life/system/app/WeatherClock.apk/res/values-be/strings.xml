@@ -52,7 +52,7 @@
     <string name="Cancel">Cancel</string>
     <string name="Cannotfindthiscity">Cannot find this city</string>
     <string name="Listisempty">List is empty</string>
-    <string name="InputHelper">Please input the city's English name</string>
+    <string name="InputHelper">Please input the city\'s English name</string>
     <string name="autoupdatedisabled">Force to select manual mode. Please check if Always-on mobile data is enabled.</string>
     <string name="inputcityname">Please input city name</string>
     <string name="defaultdatastring">DEC .31</string>

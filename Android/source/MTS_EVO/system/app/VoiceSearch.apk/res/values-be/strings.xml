@@ -14,8 +14,8 @@
     <string name="en_US_action_go_to">Go to</string>
     <string name="en_US_action_listen_to">Listen to</string>
     <string name="en_US_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_US_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_US_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_US_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_US_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_US_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_US_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
     <string name="en_US_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -25,10 +25,8 @@
     <string name="en_US_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_US_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_US_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_US_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_US_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_US_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_US_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_US_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_US_slot_send_email_to">to</string>
     <string name="en_US_slot_send_email_cc">cc</string>
@@ -58,8 +56,8 @@
     <string name="en_CA_action_go_to">Go to</string>
     <string name="en_CA_action_listen_to">Listen to</string>
     <string name="en_CA_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_CA_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_CA_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_CA_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_CA_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_CA_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_CA_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
     <string name="en_CA_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -69,10 +67,8 @@
     <string name="en_CA_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_CA_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_CA_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_CA_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_CA_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_CA_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_CA_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_CA_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_CA_slot_send_email_to">to</string>
     <string name="en_CA_slot_send_email_cc">cc</string>
@@ -102,8 +98,8 @@
     <string name="en_GB_action_go_to">Go to</string>
     <string name="en_GB_action_listen_to">Listen to</string>
     <string name="en_GB_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_GB_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_GB_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_GB_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_GB_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_GB_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_GB_hint_map_of"><annotation action="true">map of</annotation> petrol stations</string>
     <string name="en_GB_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -113,10 +109,8 @@
     <string name="en_GB_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_GB_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_GB_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_GB_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_GB_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_GB_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_GB_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_GB_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_GB_slot_send_email_to">to</string>
     <string name="en_GB_slot_send_email_cc">cc</string>
@@ -146,8 +140,8 @@
     <string name="en_AU_action_go_to">Go to</string>
     <string name="en_AU_action_listen_to">Listen to</string>
     <string name="en_AU_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_AU_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_AU_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_AU_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_AU_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_AU_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_AU_hint_map_of"><annotation action="true">map of</annotation> petrol stations</string>
     <string name="en_AU_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -157,10 +151,8 @@
     <string name="en_AU_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_AU_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_AU_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_AU_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_AU_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_AU_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_AU_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_AU_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_AU_slot_send_email_to">to</string>
     <string name="en_AU_slot_send_email_cc">cc</string>
@@ -190,8 +182,8 @@
     <string name="en_NZ_action_go_to">Go to</string>
     <string name="en_NZ_action_listen_to">Listen to</string>
     <string name="en_NZ_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_NZ_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_NZ_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_NZ_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_NZ_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_NZ_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_NZ_hint_map_of"><annotation action="true">map of</annotation> petrol stations</string>
     <string name="en_NZ_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -201,10 +193,8 @@
     <string name="en_NZ_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_NZ_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_NZ_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_NZ_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_NZ_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_NZ_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_NZ_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_NZ_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_NZ_slot_send_email_to">to</string>
     <string name="en_NZ_slot_send_email_cc">cc</string>
@@ -234,8 +224,8 @@
     <string name="en_IN_action_go_to">Go to</string>
     <string name="en_IN_action_listen_to">Listen to</string>
     <string name="en_IN_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_IN_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_IN_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_IN_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_IN_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_IN_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_IN_hint_map_of"><annotation action="true">map of</annotation> petrol pumps</string>
     <string name="en_IN_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -245,10 +235,8 @@
     <string name="en_IN_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_IN_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_IN_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_IN_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_IN_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_IN_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_IN_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_IN_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_IN_slot_send_email_to">to</string>
     <string name="en_IN_slot_send_email_cc">cc</string>
@@ -278,8 +266,8 @@
     <string name="en_SG_action_go_to">Go to</string>
     <string name="en_SG_action_listen_to">Listen to</string>
     <string name="en_SG_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_SG_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_SG_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_SG_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_SG_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_SG_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_SG_hint_map_of"><annotation action="true">map of</annotation> petrol stations</string>
     <string name="en_SG_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -289,10 +277,8 @@
     <string name="en_SG_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_SG_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_SG_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_SG_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_SG_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_SG_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_SG_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_SG_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_SG_slot_send_email_to">to</string>
     <string name="en_SG_slot_send_email_cc">cc</string>
@@ -322,8 +308,8 @@
     <string name="en_ZA_action_go_to">Go to</string>
     <string name="en_ZA_action_listen_to">Listen to</string>
     <string name="en_ZA_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_ZA_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_ZA_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_ZA_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_ZA_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_ZA_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_ZA_hint_map_of"><annotation action="true">map of</annotation> petrol stations</string>
     <string name="en_ZA_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -333,10 +319,8 @@
     <string name="en_ZA_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_ZA_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_ZA_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_ZA_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_ZA_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_ZA_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_ZA_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_ZA_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_ZA_slot_send_email_to">to</string>
     <string name="en_ZA_slot_send_email_cc">cc</string>
@@ -366,8 +350,8 @@
     <string name="en_001_action_go_to">Go to</string>
     <string name="en_001_action_listen_to">Listen to</string>
     <string name="en_001_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="en_001_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
-    <string name="en_001_hint_navigate_to"><annotation action="true">navigate to</annotation> mike's bikes</string>
+    <string name="en_001_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
+    <string name="en_001_hint_navigate_to"><annotation action="true">navigate to</annotation> mike\'s bikes</string>
     <string name="en_001_hint_directions_to"><annotation action="true">directions to</annotation> 123 main st</string>
     <string name="en_001_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
     <string name="en_001_hint_post_buzz"><annotation action="true">post buzz</annotation> sunny day at the park!</string>
@@ -377,10 +361,8 @@
     <string name="en_001_hint_note_to_self"><annotation action="true">note to self</annotation> do the laundry</string>
     <string name="en_001_hint_go_to"><annotation action="true">go to</annotation> wikipedia</string>
     <string name="en_001_hint_listen_to"><annotation action="true">listen to</annotation> beethoven</string>
-    <string name="en_001_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith
-... dinner tonight?</string>
-    <string name="en_001_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith
-... running a bit late!</string>
+    <string name="en_001_long_hint_send_email"><annotation action="true">send email</annotation> to jane smith\n... dinner tonight?</string>
+    <string name="en_001_long_hint_send_sms"><annotation action="true">send text</annotation> to john smith\n... running a bit late!</string>
     <string name="en_001_long_hint_directions_to"><annotation action="true">directions to</annotation> 123 main street</string>
     <string name="en_001_slot_send_email_to">to</string>
     <string name="en_001_slot_send_email_cc">cc</string>
@@ -488,7 +470,7 @@
     <string name="cmn_Hant_TW_action_go_to">Go to</string>
     <string name="cmn_Hant_TW_action_listen_to">Listen to</string>
     <string name="cmn_Hant_TW_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="cmn_Hant_TW_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="cmn_Hant_TW_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="cmn_Hant_TW_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="cmn_Hant_TW_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="cmn_Hant_TW_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -566,7 +548,7 @@
     <string name="yue_Hant_HK_action_go_to">Go to</string>
     <string name="yue_Hant_HK_action_listen_to">Listen to</string>
     <string name="yue_Hant_HK_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="yue_Hant_HK_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="yue_Hant_HK_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="yue_Hant_HK_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="yue_Hant_HK_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="yue_Hant_HK_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -834,7 +816,7 @@
     <string name="fr_FR_action_post_buzz">Poster un buzz</string>
     <string name="fr_FR_action_send_email">Envoyer un e-mail</string>
     <string name="fr_FR_action_send_sms">Envoyer un message texte</string>
-    <string name="fr_FR_action_set_alarm">Activer l'alarme</string>
+    <string name="fr_FR_action_set_alarm">Activer l\'alarme</string>
     <string name="fr_FR_action_note_to_self">Note personnelle</string>
     <string name="fr_FR_action_go_to">Accéder à</string>
     <string name="fr_FR_action_listen_to">Écouter</string>
@@ -843,7 +825,7 @@
     <string name="fr_FR_hint_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_FR_hint_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_FR_hint_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_FR_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
+    <string name="fr_FR_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
     <string name="fr_FR_hint_send_email"><annotation action="true">envoyer un e-mail</annotation> à thomas fontaine</string>
     <string name="fr_FR_hint_send_sms"><annotation action="true">envoyer un message texte</annotation> à claire richard</string>
     <string name="fr_FR_hint_set_alarm"><annotation action="true">set alarm</annotation> for 8:30 am</string>
@@ -873,7 +855,7 @@
     <string name="fr_BE_action_post_buzz">Poster un buzz</string>
     <string name="fr_BE_action_send_email">Envoyer un e-mail</string>
     <string name="fr_BE_action_send_sms">Envoyer un message texte</string>
-    <string name="fr_BE_action_set_alarm">Activer l'alarme</string>
+    <string name="fr_BE_action_set_alarm">Activer l\'alarme</string>
     <string name="fr_BE_action_note_to_self">Note personnelle</string>
     <string name="fr_BE_action_go_to">Accéder à</string>
     <string name="fr_BE_action_listen_to">Écouter</string>
@@ -882,7 +864,7 @@
     <string name="fr_BE_hint_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_BE_hint_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_BE_hint_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_BE_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
+    <string name="fr_BE_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
     <string name="fr_BE_hint_send_email"><annotation action="true">envoyer un e-mail</annotation> à thomas fontaine</string>
     <string name="fr_BE_hint_send_sms"><annotation action="true">envoyer un message texte</annotation> à claire richard</string>
     <string name="fr_BE_hint_set_alarm"><annotation action="true">set alarm</annotation> for 8:30 am</string>
@@ -912,7 +894,7 @@
     <string name="fr_CH_action_post_buzz">Poster un buzz</string>
     <string name="fr_CH_action_send_email">Envoyer un e-mail</string>
     <string name="fr_CH_action_send_sms">Envoyer un message texte</string>
-    <string name="fr_CH_action_set_alarm">Activer l'alarme</string>
+    <string name="fr_CH_action_set_alarm">Activer l\'alarme</string>
     <string name="fr_CH_action_note_to_self">Note personnelle</string>
     <string name="fr_CH_action_go_to">Accéder à</string>
     <string name="fr_CH_action_listen_to">Écouter</string>
@@ -921,7 +903,7 @@
     <string name="fr_CH_hint_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_CH_hint_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_CH_hint_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_CH_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
+    <string name="fr_CH_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
     <string name="fr_CH_hint_send_email"><annotation action="true">envoyer un e-mail</annotation> à thomas fontaine</string>
     <string name="fr_CH_hint_send_sms"><annotation action="true">envoyer un message texte</annotation> à claire richard</string>
     <string name="fr_CH_hint_set_alarm"><annotation action="true">set alarm</annotation> for 8:30 am</string>
@@ -951,7 +933,7 @@
     <string name="fr_CA_action_post_buzz">Poster un buzz</string>
     <string name="fr_CA_action_send_email">Envoyer un e-mail</string>
     <string name="fr_CA_action_send_sms">Envoyer un message texte</string>
-    <string name="fr_CA_action_set_alarm">Activer l'alarme</string>
+    <string name="fr_CA_action_set_alarm">Activer l\'alarme</string>
     <string name="fr_CA_action_note_to_self">Note personnelle</string>
     <string name="fr_CA_action_go_to">Accéder à</string>
     <string name="fr_CA_action_listen_to">Écouter</string>
@@ -960,7 +942,7 @@
     <string name="fr_CA_hint_navigate_to"><annotation action="true">direction</annotation> la tour eiffel</string>
     <string name="fr_CA_hint_directions_to"><annotation action="true">itinéraire pour</annotation> le louvre</string>
     <string name="fr_CA_hint_map_of"><annotation action="true">carte des</annotation> parcs à paris</string>
-    <string name="fr_CA_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd'hui</string>
+    <string name="fr_CA_hint_post_buzz"><annotation action="true">poster un buzz</annotation> il fait beau aujourd\'hui</string>
     <string name="fr_CA_hint_send_email"><annotation action="true">envoyer un e-mail</annotation> à thomas fontaine</string>
     <string name="fr_CA_hint_send_sms"><annotation action="true">envoyer un message texte</annotation> à claire richard</string>
     <string name="fr_CA_hint_set_alarm"><annotation action="true">set alarm</annotation> for 8:30 am</string>
@@ -1112,7 +1094,7 @@
     <string name="es_US_action_go_to">Go to</string>
     <string name="es_US_action_listen_to">Listen to</string>
     <string name="es_US_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="es_US_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="es_US_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="es_US_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="es_US_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="es_US_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1190,7 +1172,7 @@
     <string name="ru_RU_action_go_to">Go to</string>
     <string name="ru_RU_action_listen_to">Listen to</string>
     <string name="ru_RU_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="ru_RU_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="ru_RU_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="ru_RU_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="ru_RU_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="ru_RU_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1229,7 +1211,7 @@
     <string name="pl_PL_action_go_to">Go to</string>
     <string name="pl_PL_action_listen_to">Listen to</string>
     <string name="pl_PL_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="pl_PL_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="pl_PL_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="pl_PL_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="pl_PL_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="pl_PL_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1268,7 +1250,7 @@
     <string name="cs_CZ_action_go_to">Go to</string>
     <string name="cs_CZ_action_listen_to">Listen to</string>
     <string name="cs_CZ_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="cs_CZ_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="cs_CZ_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="cs_CZ_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="cs_CZ_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="cs_CZ_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1307,7 +1289,7 @@
     <string name="tr_TR_action_go_to">Go to</string>
     <string name="tr_TR_action_listen_to">Listen to</string>
     <string name="tr_TR_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="tr_TR_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="tr_TR_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="tr_TR_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="tr_TR_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="tr_TR_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1346,7 +1328,7 @@
     <string name="af_ZA_action_go_to">Go to</string>
     <string name="af_ZA_action_listen_to">Listen to</string>
     <string name="af_ZA_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="af_ZA_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="af_ZA_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="af_ZA_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="af_ZA_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="af_ZA_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1385,7 +1367,7 @@
     <string name="zu_ZA_action_go_to">Go to</string>
     <string name="zu_ZA_action_listen_to">Listen to</string>
     <string name="zu_ZA_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="zu_ZA_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="zu_ZA_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="zu_ZA_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="zu_ZA_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="zu_ZA_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1424,7 +1406,7 @@
     <string name="nl_NL_action_go_to">Go to</string>
     <string name="nl_NL_action_listen_to">Listen to</string>
     <string name="nl_NL_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="nl_NL_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="nl_NL_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="nl_NL_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="nl_NL_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="nl_NL_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1463,7 +1445,7 @@
     <string name="da_DK_action_go_to">Go to</string>
     <string name="da_DK_action_listen_to">Listen to</string>
     <string name="da_DK_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="da_DK_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="da_DK_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="da_DK_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="da_DK_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="da_DK_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1502,7 +1484,7 @@
     <string name="nb_NO_action_go_to">Go to</string>
     <string name="nb_NO_action_listen_to">Listen to</string>
     <string name="nb_NO_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="nb_NO_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="nb_NO_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="nb_NO_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="nb_NO_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="nb_NO_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1541,7 +1523,7 @@
     <string name="sv_SE_action_go_to">Go to</string>
     <string name="sv_SE_action_listen_to">Listen to</string>
     <string name="sv_SE_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="sv_SE_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="sv_SE_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="sv_SE_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="sv_SE_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="sv_SE_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1580,7 +1562,7 @@
     <string name="pt_BR_action_go_to">Go to</string>
     <string name="pt_BR_action_listen_to">Listen to</string>
     <string name="pt_BR_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="pt_BR_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="pt_BR_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="pt_BR_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="pt_BR_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="pt_BR_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1619,7 +1601,7 @@
     <string name="pt_PT_action_go_to">Go to</string>
     <string name="pt_PT_action_listen_to">Listen to</string>
     <string name="pt_PT_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="pt_PT_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="pt_PT_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="pt_PT_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="pt_PT_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="pt_PT_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1658,7 +1640,7 @@
     <string name="th_TH_action_go_to">Go to</string>
     <string name="th_TH_action_listen_to">Listen to</string>
     <string name="th_TH_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="th_TH_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="th_TH_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="th_TH_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="th_TH_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="th_TH_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1697,7 +1679,7 @@
     <string name="id_ID_action_go_to">Go to</string>
     <string name="id_ID_action_listen_to">Listen to</string>
     <string name="id_ID_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="id_ID_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="id_ID_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="id_ID_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="id_ID_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="id_ID_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1736,7 +1718,7 @@
     <string name="ms_MY_action_go_to">Go to</string>
     <string name="ms_MY_action_listen_to">Listen to</string>
     <string name="ms_MY_hint_call_contact"><annotation action="true">call</annotation> john smith at home</string>
-    <string name="ms_MY_hint_call_business"><annotation action="true">call</annotation> johnny's pizzeria</string>
+    <string name="ms_MY_hint_call_business"><annotation action="true">call</annotation> johnny\'s pizzeria</string>
     <string name="ms_MY_hint_navigate_to"><annotation action="true">navigate to</annotation> 123 main st</string>
     <string name="ms_MY_hint_directions_to"><annotation action="true">directions to</annotation> san francisco</string>
     <string name="ms_MY_hint_map_of"><annotation action="true">map of</annotation> gas stations</string>
@@ -1783,16 +1765,8 @@
     <string name="shortcut_access_desc">Can access the shortcuts created for voice searches</string>
     <string name="personalization_header">Personalized recognition</string>
     <string name="personalization_settings_message">Improve performance through association of recorded speech with your account.</string>
-    <string name="personalization_popup_message">Would you like to turn on personalized recognition?
-
-To offer you better performance, Google will customize the system to your unique voice and usage by associating your recorded speech with your Google Account, subject to the Mobile Privacy Policy.
-
-At any time you can turn the service off by changing your settings.</string>
-    <string name="personalization_popup_disable_message">Would you like to turn off personalized recognition?
-
-This will break the association between your account and your recorded speech.
-
-If you chose 'yes', the data will be disassociated when you next use speech recognition.</string>
+    <string name="personalization_popup_message">Would you like to turn on personalized recognition?\n\nTo offer you better performance, Google will customize the system to your unique voice and usage by associating your recorded speech with your Google Account, subject to the Mobile Privacy Policy.\n\nAt any time you can turn the service off by changing your settings.</string>
+    <string name="personalization_popup_disable_message">Would you like to turn off personalized recognition?\n\nThis will break the association between your account and your recorded speech.\n\nIf you chose \'yes\', the data will be disassociated when you next use speech recognition.</string>
     <string name="personalization_agree">Yes</string>
     <string name="personalization_disagree">No</string>
     <string name="personalization_help">More info</string>
@@ -1843,26 +1817,12 @@ If you chose 'yes', the data will be disassociated when you next use speech reco
     <string name="prefTitle_profanityFilter">Block offensive words</string>
     <string name="prefSummary_profanityFilter">Hide recognized offensive voice results</string>
     <string name="warningDialogTitle">Voice search</string>
-    <string name="warningDialogMessageUnsupportedLanguage">Voice search is not currently supported for your device's language.
-
-The language that will be used instead is: %s.
-
-To switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageLocaleChanged">Your voice search language has been changed to: %s.
-
-To switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewBackoffDefault">Your voice search language has been changed to: %s.
-
-To switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewBackoffNotDefault">Voice search now supports a different default language for your device: %s.
-
-To switch to this or another voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewSupportedLanguageDefault">Voice search now supports your device's language: %s.
-
-To switch to a different voice search language, visit Settings.</string>
-    <string name="warningDialogMessageNewSupportedLanguageNotDefault">Voice search now supports your device's language: %s.
-
-To switch to this or another voice search language, visit Settings.</string>
+    <string name="warningDialogMessageUnsupportedLanguage">Voice search is not currently supported for your device\'s language.\n\nThe language that will be used instead is: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageLocaleChanged">Your voice search language has been changed to: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewBackoffDefault">Your voice search language has been changed to: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewBackoffNotDefault">Voice search now supports a different default language for your device: %s.\n\nTo switch to this or another voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewSupportedLanguageDefault">Voice search now supports your device\'s language: %s.\n\nTo switch to a different voice search language, visit Settings.</string>
+    <string name="warningDialogMessageNewSupportedLanguageNotDefault">Voice search now supports your device\'s language: %s.\n\nTo switch to this or another voice search language, visit Settings.</string>
     <string name="ok">OK</string>
     <string name="appNameVoiceLog">Voice Log</string>
     <string name="textPathToOutput">Path to output file :</string>
@@ -1895,9 +1855,7 @@ To switch to this or another voice search language, visit Settings.</string>
     <string name="show_hints_on_search">Show hints on search box</string>
     <string name="unsupported_action_dialog_title_format">“%s...”</string>
     <string name="unsupported_action_dialog_message_default">Your device does not currently support this voice action.</string>
-    <string name="unsupported_action_dialog_message_maps_actions">In order to use this feature, download the latest Google Maps from the Android Market.
-
-Or, you may be in an unsupported region for this action.</string>
+    <string name="unsupported_action_dialog_message_maps_actions">In order to use this feature, download the latest Google Maps from the Android Market.\n\nOr, you may be in an unsupported region for this action.</string>
     <string name="unsupported_action_dialog_message_send_email">In order to use this feature, download the latest Gmail from the Android Market.</string>
     <string name="unsupported_action_dialog_message_set_alarm">In order to use this feature, download the latest Clock from the Android Market.</string>
     <string name="unsupported_action_dialog_message_listen_to">In order to use this feature, download a music application which supports this action from the Android Market.</string>
@@ -1908,9 +1866,7 @@ Or, you may be in an unsupported region for this action.</string>
     <string name="unsupported_action_market_url_send_email">market://search?q=pname:com.google.android.gm</string>
     <string name="unsupported_action_market_url_set_alarm">market://search?q=pname:com.google.android.deskclock</string>
     <string name="unsupported_action_market_url_listen_to">http://www.google.com/support/mobile/bin/answer.py?answer=186172</string>
-    <string name="first_time_use_dialog_message_listen_to">You can use this feature with many different applications.
-
-Visit the website below for a list of more choices, or press OK to continue.</string>
+    <string name="first_time_use_dialog_message_listen_to">You can use this feature with many different applications.\n\nVisit the website below for a list of more choices, or press OK to continue.</string>
     <string name="contacts_slot_placeholder">Touch to add a contact</string>
     <string name="text_slot_placeholder">Touch to add text</string>
     <string name="time_slot_placeholder">Touch to set a time</string>

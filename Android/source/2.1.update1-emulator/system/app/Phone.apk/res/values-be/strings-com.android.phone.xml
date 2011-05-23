@@ -52,19 +52,15 @@
     <string name="menu_manageConference">Manage conference call</string>
     <string name="menu_showDialpad">Show dialpad</string>
     <string name="menu_hideDialpad">Hide dialpad</string>
-    <string name="menu_answerAndHold">Hold current call
-&amp; answer</string>
-    <string name="menu_answerAndEnd">End current call
-&amp; answer</string>
+    <string name="menu_answerAndHold">Hold current call\n&amp; answer</string>
+    <string name="menu_answerAndEnd">End current call\n&amp; answer</string>
     <string name="ok">OK</string>
     <string name="menuButtonHint">Press Menu for call options.</string>
     <string name="menuButtonKeyboardDialHint">Press Menu for call options  •  Use keyboard to dial</string>
     <string name="menu_answer">Answer</string>
     <string name="menu_ignore">Ignore</string>
-    <string name="wait_prompt_str">Send the following tones?
-</string>
-    <string name="pause_prompt_str">Sending Tones
-</string>
+    <string name="wait_prompt_str">Send the following tones?\n</string>
+    <string name="pause_prompt_str">Sending Tones\n</string>
     <string name="send_button">Send</string>
     <string name="pause_prompt_yes">Yes</string>
     <string name="pause_prompt_no">No</string>
@@ -144,12 +140,9 @@
     <string name="change_num">Update</string>
     <string name="vm_save_number">Save voicemail number</string>
     <string name="vm_changed">Voicemail number changed.</string>
-    <string name="vm_change_failed">Voicemail number change unsuccessful.
-Please contact your carrier if this problem persists.</string>
-    <string name="fw_change_failed">Forwarding number change unsuccessful.
-Please contact your carrier if this problem persists.</string>
-    <string name="fw_get_in_vm_failed">Failed to retrieve and save current forwarding number settings.
-Do you want to switch to the new provider anyway?</string>
+    <string name="vm_change_failed">Voicemail number change unsuccessful.\nPlease contact your carrier if this problem persists.</string>
+    <string name="fw_change_failed">Forwarding number change unsuccessful.\nPlease contact your carrier if this problem persists.</string>
+    <string name="fw_get_in_vm_failed">Failed to retrieve and save current forwarding number settings.\nDo you want to switch to the new provider anyway?</string>
     <string name="no_change">No changes were made.</string>
     <string name="sum_voicemail_choose_provider">Choose voicemail service</string>
     <string name="voicemail_default">My carrier</string>
@@ -391,12 +384,9 @@ Do you want to switch to the new provider anyway?</string>
     <string name="dialerKeyboardHintText">Use keyboard to dial</string>
     <string name="dtmfDialpadHintText">Touch tone keypad</string>
     <string name="dtmfDialpadHandleLabel">Dialpad</string>
-    <string name="touchLockText">Double-tap
-to unlock</string>
-    <string name="onscreenAnswerText">Double-tap
-to answer</string>
-    <string name="onscreenRejectText">Double-tap
-to decline</string>
+    <string name="touchLockText">Double-tap\nto unlock</string>
+    <string name="onscreenAnswerText">Double-tap\nto answer</string>
+    <string name="onscreenRejectText">Double-tap\nto decline</string>
     <string name="onscreenHoldText">Hold</string>
     <string name="onscreenUnholdText">Unhold</string>
     <string name="onscreenEndCallText">End</string>
@@ -421,9 +411,7 @@ to decline</string>
     <string name="dtmf_tones_summary">Set the length of DTMF tones</string>
     <string name="network_message">Network Message</string>
     <string name="ota_title_activate">Activate your phone</string>
-    <string name="ota_touch_activate">A special call needs to be made to activate your phone service. 
-
-After pressing “Activate”, listen to the instructions provided to activate your phone.</string>
+    <string name="ota_touch_activate">A special call needs to be made to activate your phone service. \n\nAfter pressing “Activate”, listen to the instructions provided to activate your phone.</string>
     <string name="ota_activate">Activate</string>
     <string name="ota_title_activate_success">Phone is activated!</string>
     <string name="ota_title_problem_with_activation">Problem with activation</string>
@@ -433,10 +421,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="ota_progress">Please wait while your phone is being programmed.</string>
     <string name="ota_failure">Programming Unsuccessful</string>
     <string name="ota_successful">Your phone is now activated. It may take up to 15 minutes for service to start.</string>
-    <string name="ota_unsuccessful">Your phone did not activate. 
-You may need to find an area with better coverage (near a window, or outside). 
-
-Try again or call customer service for more options.</string>
+    <string name="ota_unsuccessful">Your phone did not activate. \nYou may need to find an area with better coverage (near a window, or outside). \n\nTry again or call customer service for more options.</string>
     <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
     <string name="ota_call_end">Back</string>
     <string name="ota_try_again">Try again</string>
@@ -458,17 +443,13 @@ Try again or call customer service for more options.</string>
     <string name="voicemail_settings_for">Settings for %s</string>
     <string name="other_settings">Other call settings</string>
     <string name="dial_button_label">Dial</string>
-    <string name="calling_via_template">Calling via ^1
-<b>^2</b></string>
+    <string name="calling_via_template">Calling via ^1\n<b>^2</b></string>
     <string name="slide_to_answer">Drag right to answer</string>
     <string name="slide_to_silence">Drag left to silence ringer</string>
     <string name="slide_to_decline">Drag left to decline</string>
-    <string name="slide_to_answer_and_hold">Drag right to answer and
-hold active call</string>
-    <string name="slide_to_answer_and_end_active">Drag right to answer and
-end active call</string>
-    <string name="slide_to_answer_and_end_onhold">Drag right to answer and
-end call on hold</string>
+    <string name="slide_to_answer_and_hold">Drag right to answer and\nhold active call</string>
+    <string name="slide_to_answer_and_end_active">Drag right to answer and\nend active call</string>
+    <string name="slide_to_answer_and_end_onhold">Drag right to answer and\nend call on hold</string>
     <string name="slide_to_answer_hint">Answer</string>
     <string name="slide_to_decline_hint">Decline</string>
 </resources>

@@ -46,8 +46,7 @@
     <string name="dont_delete">Do not delete</string>
     <string name="dont_send">Do not send</string>
     <string name="send">Send</string>
-    <string name="message_not_sent">Your message has not been sent.
-Discard your message?</string>
+    <string name="message_not_sent">Your message has not been sent.\nDiscard your message?</string>
     <string name="confirm_discard_title">Confirm discard</string>
     <string name="confirm_discard_text">Discard this message?</string>
     <string name="save">Save as draft</string>
@@ -90,7 +89,7 @@ Discard your message?</string>
     <string name="apply_labels">Labels</string>
     <string name="labels_ellipses">Labels</string>
     <string name="show_images">Show pictures</string>
-    <string name="click_show_images">Select "Show pictures" to display embedded pictures.</string>
+    <string name="click_show_images">Select \"Show pictures\" to display embedded pictures.</string>
     <string name="loading_conversation">Loading...</string>
     <string name="go_to_label">Go to label</string>
     <string name="assign_label">Assign label</string>
@@ -195,8 +194,7 @@ Discard your message?</string>
     <string name="contextmenu_send_mail">Send email</string>
     <string name="contextmenu_map">Map</string>
     <string name="contextmenu_sharelink">Share link</string>
-    <string name="gmail_plug"><font fgcolor="#ffffffff">Welcome to Google Mail!</font> 
-A Google approach to mail built on the idea that email can be more intuitive, efficient and accessible. </string>
+    <string name="gmail_plug"><font fgcolor="#ffffffff">Welcome to Google Mail!</font> \nA Google approach to mail built on the idea that email can be more intuitive, efficient and accessible. </string>
     <string name="title_day_dialog">Number of days to sync</string>
     <string name="choosertitle_sharevia">Share via</string>
     <string name="search_title">Gmail</string>

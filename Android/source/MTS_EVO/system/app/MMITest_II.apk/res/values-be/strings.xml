@@ -25,171 +25,108 @@
     <string name="TestMMI">Start MMI test</string>
     <string name="NoSDCard">No SD card available</string>
     <string name="ExistSDCard">SD card exists</string>
-    <string name="touch_test_uncomplete">Touch test
-  uncomplete</string>
+    <string name="touch_test_uncomplete">Touch test\n  uncomplete</string>
     <string name="touch_test_complete">Touch test complete</string>
-    <string name="test_success">Test succeeded. Click OK,
- Go to
-  next test item. </string>
+    <string name="test_success">Test succeeded. Click OK,\n Go to\n  next test item. </string>
     <string name="alert_dialog_cancel">Cancel</string>
     <string name="alert_dialog_ok">Confirm</string>
-    <string name="alert_dialog_continue_title">Continue
-  test?</string>
+    <string name="alert_dialog_continue_title">Continue\n  test?</string>
     <string name="Playing">Speaker test in progressing…</string>
     <string name="continue_test">Continue testing…</string>
     <string name="NoSIMCard">No SIM card available</string>
     <string name="ExistSIMCard">SIM card exists</string>
     <string name="TestFail">Test failed</string>
     <string name="TestOK">Test pass</string>
-    <string name="key_test_uncomplete">Keypad test
-  uncomplete</string>
+    <string name="key_test_uncomplete">Keypad test\n  uncomplete</string>
     <string name="key_test_complete">Keypad test complete</string>
-    <string name="gravity_test_uncomplete">Gravity sensor test
-  uncomplete</string>
-    <string name="gravity_test_complete">Gravity sensor test
-  complete</string>
-    <string name="gravity_test_waiting_three_seconds">Wait for 3
-  seconds…</string>
-    <string name="gravity_test_waiting_two_seconds">Wait for 2
-  seconds…</string>
-    <string name="gravity_test_waiting_one_seconds">Wait for 1
-  seconds…</string>
-    <string name="x_axis_test_complete">X axis test
-  succeeded</string>
-    <string name="y_axis_test_complete">Y axis test
-  succeeded</string>
-    <string name="z_axis_test_complete">Z axis test
-  succeeded</string>
+    <string name="gravity_test_uncomplete">Gravity sensor test\n  uncomplete</string>
+    <string name="gravity_test_complete">Gravity sensor test\n  complete</string>
+    <string name="gravity_test_waiting_three_seconds">Wait for 3\n  seconds…</string>
+    <string name="gravity_test_waiting_two_seconds">Wait for 2\n  seconds…</string>
+    <string name="gravity_test_waiting_one_seconds">Wait for 1\n  seconds…</string>
+    <string name="x_axis_test_complete">X axis test\n  succeeded</string>
+    <string name="y_axis_test_complete">Y axis test\n  succeeded</string>
+    <string name="z_axis_test_complete">Z axis test\n  succeeded</string>
     <string name="x_axis_test">X axis</string>
     <string name="y_axis_test">Y axis</string>
     <string name="z_axis_test">Z axis</string>
-    <string name="Bluetooth_Discoverying">Seaching for Bluetooth
-  devices…</string>
+    <string name="Bluetooth_Discoverying">Seaching for Bluetooth\n  devices…</string>
     <string name="No_BluetoothDevice">No Bluetooth device</string>
-    <string name="BluetoothDevice_Service_unStart">Bluetooth device
-  not started</string>
-    <string name="BluetoothDevice_not_Discovery">Bluetooth device
-  not found</string>
-    <string name="gravity_sensor_test_fail">Gravity sensor test
-  failed</string>
-    <string name="LCD_Light_Testing">LCD backlight test in
-  progressing…</string>
-    <string name="MIC_Receiver_Testing">Mobile phone loopback test
-  in progressing...</string>
-    <string name="MIC_Second_Receiver_Testing">Second mobile phone loopback test
-  in progressing...</string>
-    <string name="MIC_Headset_Testing">Headset inserted. 
- Headset
-  loopback test in progressing…</string>
-    <string name="Headse_if_is_on">Remove the headset. 
- Insert the
-  headset to take headset loopback test.</string>
+    <string name="BluetoothDevice_Service_unStart">Bluetooth device\n  not started</string>
+    <string name="BluetoothDevice_not_Discovery">Bluetooth device\n  not found</string>
+    <string name="gravity_sensor_test_fail">Gravity sensor test\n  failed</string>
+    <string name="LCD_Light_Testing">LCD backlight test in\n  progressing…</string>
+    <string name="MIC_Receiver_Testing">Mobile phone loopback test\n  in progressing...</string>
+    <string name="MIC_Second_Receiver_Testing">Second mobile phone loopback test\n  in progressing...</string>
+    <string name="MIC_Headset_Testing">Headset inserted. \n Headset\n  loopback test in progressing…</string>
+    <string name="Headse_if_is_on">Remove the headset. \n Insert the\n  headset to take headset loopback test.</string>
     <string name="Headse_if_is_off">Insert the headset</string>
-    <string name="Headset_out">Headset removed. Insert the
-  headset.</string>
-    <string name="Mic_Test_Headset_out">Mic test, headset state is
-  out.</string>
-    <string name="wir_control_testing">Headset inserted. 
- Headset
-  wire control test in progressing…</string>
-    <string name="no_pressed_wire_control_key">Headset wire control
-  and plug test have not finished!</string>
-    <string name="Vibrator_Test">Vibrator - Keypad LED test in
-  progressing…</string>
-    <string name="card_test_fail">SD card/SIM card test
-  failed.</string>
-    <string name="bluetooth_test_fail">Bluetooth test
-  failed.</string>
-    <string name="touch_test_fail">Touch screen test
-  failed.</string>
+    <string name="Headset_out">Headset removed. Insert the\n  headset.</string>
+    <string name="Mic_Test_Headset_out">Mic test, headset state is\n  out.</string>
+    <string name="wir_control_testing">Headset inserted. \n Headset\n  wire control test in progressing…</string>
+    <string name="no_pressed_wire_control_key">Headset wire control\n  and plug test have not finished!</string>
+    <string name="Vibrator_Test">Vibrator - Keypad LED test in\n  progressing…</string>
+    <string name="card_test_fail">SD card/SIM card test\n  failed.</string>
+    <string name="bluetooth_test_fail">Bluetooth test\n  failed.</string>
+    <string name="touch_test_fail">Touch screen test\n  failed.</string>
     <string name="compass_test_fail">Compass test failed.</string>
     <string name="lcd_test_fail">LCD test failed.</string>
-    <string name="lcd_light_test_fail">LCD backlight test
-  failed.</string>
-    <string name="vibrator_test_fail">Vibrator - Keypad LED test
-  failed.</string>
+    <string name="lcd_light_test_fail">LCD backlight test\n  failed.</string>
+    <string name="vibrator_test_fail">Vibrator - Keypad LED test\n  failed.</string>
     <string name="key_test_fail">Keypad test failed.</string>
     <string name="camera_test_fail">Camera test failed.</string>
     <string name="slave_camera_test_fail">Slave_camera test failed.</string>
     <string name="speaker_test_fail">Speaker test failed.</string>
-    <string name="mic_receiver_test_fail">Mobile phone loopback test
-  failed.</string>
-    <string name="mic_second_receiver_test_fail">Second mobile phone loopback test
-  failed.</string>
-    <string name="mic_headset_test_fail">Headset loopback test
-  failed.</string>
-    <string name="wire_control_test_fail">Headset wire control test
-  failed.</string>
-    <string name="wire_headset_in_or_out_failed">Headset insert and
-  remove test failed.</string>
+    <string name="mic_receiver_test_fail">Mobile phone loopback test\n  failed.</string>
+    <string name="mic_second_receiver_test_fail">Second mobile phone loopback test\n  failed.</string>
+    <string name="mic_headset_test_fail">Headset loopback test\n  failed.</string>
+    <string name="wire_control_test_fail">Headset wire control test\n  failed.</string>
+    <string name="wire_headset_in_or_out_failed">Headset insert and\n  remove test failed.</string>
     <string name="nv_reserved_failed">NV backup failed.</string>
-    <string name="nv_reserved_success">NV backup
-  succeeded.</string>
-    <string name="recovery_system">Test success, Restore factory
-  defaults?</string>
-    <string name="recovery_system_failed">Restore factory defaults
-  failed.</string>
+    <string name="nv_reserved_success">NV backup\n  succeeded.</string>
+    <string name="recovery_system">Test success, Restore factory\n  defaults?</string>
+    <string name="recovery_system_failed">Restore factory defaults\n  failed.</string>
     <string name="mmi_test_already">MMI test complete.</string>
-    <string name="mmi_test_success">MMI test complete. 
- No failed
-  test items.</string>
-    <string name="bluetooth_discoverying">Searching for Bluetooth
-  devices. 
- Wait for 30 seconds.</string>
+    <string name="mmi_test_success">MMI test complete. \n No failed\n  test items.</string>
+    <string name="bluetooth_discoverying">Searching for Bluetooth\n  devices. \n Wait for 30 seconds.</string>
     <string name="try_again_discovery_title">Bluetooth search again</string>
     <string name="try_again_discovery_message">Bluetooth search failed. Search again?</string>
     <string name="nv_reserved">NV backup in progressing…</string>
-    <string name="plug_out">Remove the headset. Take the headset
-  insert and remove test.</string>
-    <string name="plug_in_and_out">Take the headset insert and
-  remove test</string>
+    <string name="plug_out">Remove the headset. Take the headset\n  insert and remove test.</string>
+    <string name="plug_in_and_out">Take the headset insert and\n  remove test</string>
     <string name="compass_test_accuracy">Accuracy:</string>
     <string name="accuracy_unreliable">Sensor Status Unreliable</string>
     <string name="accuracy_low">Sensor Status Accuracy Low</string>
     <string name="accuracy_medium">Sensor Status Accuracy Medium</string>
     <string name="accuracy_high">Sensor Status Accuracy High</string>
-    <string name="sim_card_test_fail">Sim card test
-  failed.</string>
+    <string name="sim_card_test_fail">Sim card test\n  failed.</string>
     <string name="sd_card_test_fail">Sd card test failed.</string>
     <string name="fmchannel">fmchannel.</string>
     <string name="fmtest">FM Test.</string>
-    <string name="fminfo">Insert or pullout earphone to switch
-  antenna type...</string>
+    <string name="fminfo">Insert or pullout earphone to switch\n  antenna type...</string>
     <string name="fmbtn">Next Channel.</string>
     <string name="insertnotice">Please Insert Earphone</string>
-    <string name="boardtestfailed">Failed to pass board
-  test</string>
+    <string name="boardtestfailed">Failed to pass board\n  test</string>
     <string name="boardtestsuccess">Board test success</string>
     <string name="fm_test_fail">FM test failed.</string>
     <string name="dt_test_fail">DT failed.</string>
     <string name="ct_test_fail">CT failed.</string>
     <string name="bt_test_fail">BT failed.</string>
-    <string name="intro">Touch Screen Calibration: Please follow the
-  steps carefully.</string>
+    <string name="intro">Touch Screen Calibration: Please follow the\n  steps carefully.</string>
     <string name="instruc">Tap On Cross #</string>
     <string name="cont">touch screen to start.</string>
     <string name="complete">Calibration is Complete.</string>
     <string name="quit">Press back key to quit.</string>
-    <string name="calibration_test_fail">Calibration test
-  failed.</string>
-    <string name="calibration_test_not_complete">Calibration test
-  don't complete.</string>
-    <string name="nextchannelnotice">press headset wire control or
-  center key to next channel</string>
-    <string name="testflash">press center key to test
-  flashlight</string>
-    <string name="testfocus">press center key to test
-  focus</string>
-    <string name="testflash_volumeup">press volume up key to test
-  flashlight</string>
-    <string name="testfocus_volumeup">press volume up key to test
-  focus</string>
-    <string name="approach_sensor_failed">Approach sensor test
-  failed.</string>
-    <string name="environmentlight_sensor_failed">Environment light
-  sensor test failed.</string>
-    <string name="light_current_value">Environment light current
-  value:</string>
+    <string name="calibration_test_fail">Calibration test\n  failed.</string>
+    <string name="calibration_test_not_complete">Calibration test\n  don\'t complete.</string>
+    <string name="nextchannelnotice">press headset wire control or\n  center key to next channel</string>
+    <string name="testflash">press center key to test\n  flashlight</string>
+    <string name="testfocus">press center key to test\n  focus</string>
+    <string name="testflash_volumeup">press volume up key to test\n  flashlight</string>
+    <string name="testfocus_volumeup">press volume up key to test\n  focus</string>
+    <string name="approach_sensor_failed">Approach sensor test\n  failed.</string>
+    <string name="environmentlight_sensor_failed">Environment light\n  sensor test failed.</string>
+    <string name="light_current_value">Environment light current\n  value:</string>
     <string name="approach_value">Approach current value:</string>
     <string name="test_uncomplete">Test uncomplete!</string>
     <string name="battery_info_status_label">Battery status:</string>
@@ -228,26 +165,22 @@
     <string name="tv_out_test_black">black test</string>
     <string name="tv_out_test_white_black">white and black test</string>
     <string name="tv_out_test_multi_color">multicolor test</string>
-    <string name="tv_out_test_remind">remind:connect to tv please,
-click volume down key to test the follows:</string>
+    <string name="tv_out_test_remind">remind:connect to tv please,\nclick volume down key to test the follows:</string>
     <string name="Headset_line_off">Please connect to TV</string>
     <string name="tvout_test_fail">Tv Out test failed.</string>
     <string name="pull_sdcard">Please pull out sd card first.</string>
     <string name="formate_sdcard">Sd card is formatting.</string>
     <string name="formate_failed">Format failed.</string>
     <string name="inner_sdcard_test_fail">Inner sd card test failed.</string>
-    <string name="dual_mic_receiver_testing">Dual MIC of Mobile phone loopback test
-  in progressing...</string>
-    <string name="dualmic_receiver_test_fail">Dual MIC of Mobile phone loopback test
-  failed.</string>
+    <string name="dual_mic_receiver_testing">Dual MIC of Mobile phone loopback test\n  in progressing...</string>
+    <string name="dualmic_receiver_test_fail">Dual MIC of Mobile phone loopback test\n  failed.</string>
     <string name="ppt_light_test_fail">PTT light test failed.</string>
     <string name="ppt_test">PTT Test</string>
     <string name="letf_track">Left track test in progressing...</string>
     <string name="right_track">Right track test in progressing...</string>
     <string name="wifi_test_fail">WiFi test failed.</string>
     <string name="wifi_test">WiFi test</string>
-    <string name="wifi_discoverying">Seaching for WiFi devices. 
- Wait for 30 seconds.</string>
+    <string name="wifi_discoverying">Seaching for WiFi devices. \n Wait for 30 seconds.</string>
     <string name="wifi_search_title">WiFi search again</string>
     <string name="wifi_search_message">WiFi search failed，Search again?</string>
     <string name="audio_loop_test">Mobile phone loopback test</string>

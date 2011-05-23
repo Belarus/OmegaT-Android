@@ -12,7 +12,7 @@
     <string name="tab_history">History</string>
     <string name="added_to_bookmarks">Added to bookmarks</string>
     <string name="removed_from_bookmarks">Removed from bookmarks</string>
-    <string name="sign_in_to">Sign in to %s1 "%s2"</string>
+    <string name="sign_in_to">Sign in to %s1 \"%s2\"</string>
     <string name="username">Name</string>
     <string name="password">Password</string>
     <string name="action">Sign in</string>
@@ -82,7 +82,7 @@
     <string name="bookmark_thumbnail_view">Thumbnails</string>
     <string name="bookmark_list_view">List</string>
     <string name="current_page">from </string>
-    <string name="delete_bookmark_warning">Bookmark "%s" will be deleted.</string>
+    <string name="delete_bookmark_warning">Bookmark \"%s\" will be deleted.</string>
     <string name="open_all_in_new_window">Open all in new windows</string>
     <string name="goto_dot">Go</string>
     <string name="incognito_tab">Open new incognito tab</string>
@@ -206,9 +206,9 @@
     <string name="pref_security_save_form_data">Remember form data</string>
     <string name="pref_security_save_form_data_summary">Remember data I type in forms for later use</string>
     <string name="pref_security_show_security_warning">Show security warnings</string>
-    <string name="pref_security_show_security_warning_summary">Show warning if there is a problem with a site's security</string>
+    <string name="pref_security_show_security_warning_summary">Show warning if there is a problem with a site\'s security</string>
     <string name="pref_security_accept_cookies">Accept cookies</string>
-    <string name="pref_security_accept_cookies_summary">Allow sites to save and read "cookie" data</string>
+    <string name="pref_security_accept_cookies_summary">Allow sites to save and read \"cookie\" data</string>
     <string name="pref_text_size">Text size</string>
     <string name="pref_text_size_dialogtitle">Text size</string>
     <string name="pref_default_zoom">Default zoom</string>
@@ -246,7 +246,7 @@
     <string name="browserFrameNetworkErrorLabel">Data connectivity problem</string>
     <string name="browserFrameFileErrorLabel">Problem with file</string>
     <string name="browserFrameFormResubmitLabel">Confirm</string>
-    <string name="browserFrameFormResubmitMessage">The page you are trying to view contains data that has already been submitted ("POSTDATA"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated.</string>
+    <string name="browserFrameFormResubmitMessage">The page you are trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated.</string>
     <string name="loadSuspendedTitle">No network connection</string>
     <string name="loadSuspended">Browser cannot load this page because there is no internet connection.</string>
     <string name="clear_history">Clear history</string>
@@ -277,14 +277,13 @@
     <string name="download_cancel_dlg_msg">All %d downloads will be canceled and cleared from the download history.</string>
     <string name="download_delete_file">File will be deleted</string>
     <string name="download_file_error_dlg_title">Out of space</string>
-    <string name="download_file_error_dlg_msg">%s could not be downloaded.
-Free up some space on your phone and try again.</string>
+    <string name="download_file_error_dlg_msg">%s could not be downloaded.\nFree up some space on your phone and try again.</string>
     <string name="download_failed_generic_dlg_title">Download unsuccessful</string>
     <string name="download_no_sdcard_dlg_title">No SD card</string>
     <string name="download_no_sdcard_dlg_msg">An SD card is required to download %s.</string>
     <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
-    <string name="download_sdcard_busy_dlg_msg">The SD card is busy. To allow downloads, select "Turn off USB storage" in the notification.</string>
-    <string name="cannot_download">Can only download "http" or "https" URLs.</string>
+    <string name="download_sdcard_busy_dlg_msg">The SD card is busy. To allow downloads, select \"Turn off USB storage\" in the notification.</string>
+    <string name="cannot_download">Can only download \"http\" or \"https\" URLs.</string>
     <string name="download_no_application_title">Cannot open file</string>
     <string name="retry">Retry</string>
     <string name="no_downloads">Download history is empty.</string>

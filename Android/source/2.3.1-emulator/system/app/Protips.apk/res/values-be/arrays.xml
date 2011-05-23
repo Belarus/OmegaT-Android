@@ -1,61 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="tips">
-        <item>See all your apps.
- Touch the Launcher icon. @drawable/all_apps</item>
-        <item>Rules
- The only rule of CyanogenMod: You dont ask for ETAs.</item>
-        <item>Nightly Builds (Advanced)
- Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager</item>
-        <item>Drag apps to your Home screen.
- Touch &amp; hold an app in the Launcher until it vibrates.</item>
-        <item>#blamewes
- Avoid wesgarner at all costs. @drawable/wesgarner</item>
-        <item>Rearrange your Home screen.
- Touch &amp; hold an item and when it vibrates, drag it where you want.</item>
-        <item>Ballmer Peak
- Optimal coding ability takes place between a BAC of .129 and .138.</item>
-        <item>Remove items.
- Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
-        <item>iPhone
- You're holding it wrong. Always.</item>
-        <item>Multiple Home screens.
- Swipe left or right to switch. Drag items to other screens.</item>
-        <item>Number 1 Priority
- Don't forget to keep your winzip up to date.</item>
-        <item>Kang [kayng] - (verb)
- Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck</item>
-        <item>Definition of Open
- repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open</item>
-        <item>Catroast
- Always catproof your electronics, cats are bound to pee on them. @drawable/cat_attack</item>
-        <item>Done with this widget?
- Touch &amp; hold it and when it vibrates, drag it to the Trash icon.</item>
+        <item>See all your apps.\n Touch the Launcher icon. @drawable/all_apps</item>
+        <item>Rules\n The only rule of CyanogenMod: You dont ask for ETAs.</item>
+        <item>Nightly Builds (Advanced)\n Available on ROM Manager. Do not submit issues on Google Code for these. @drawable/rommanager</item>
+        <item>Drag apps to your Home screen.\n Touch &amp; hold an app in the Launcher until it vibrates.</item>
+        <item>#blamewes\n Avoid wesgarner at all costs. @drawable/wesgarner</item>
+        <item>Rearrange your Home screen.\n Touch &amp; hold an item and when it vibrates, drag it where you want.</item>
+        <item>Ballmer Peak\n Optimal coding ability takes place between a BAC of .129 and .138.</item>
+        <item>Remove items.\n Touch &amp; hold an item and when it vibrates, drag it to the Trash icon. @drawable/trash</item>
+        <item>iPhone\n You\'re holding it wrong. Always.</item>
+        <item>Multiple Home screens.\n Swipe left or right to switch. Drag items to other screens.</item>
+        <item>Number 1 Priority\n Don\'t forget to keep your winzip up to date.</item>
+        <item>Kang [kayng] - (verb)\n Upgraded my winzip br0. Thanks to my patient lady putting up with my devvin. @drawable/kang_truck</item>
+        <item>Definition of Open\n repo init -u git://android.git.kernel.org/platform/manifest.git ; repo sync ; make. @drawable/android_open</item>
+        <item>Catroast\n Always catproof your electronics, cats are bound to pee on them. @drawable/cat_attack</item>
+        <item>Done with this widget?\n Touch &amp; hold it and when it vibrates, drag it to the Trash icon.</item>
     </string-array>
     <string-array name="tips2">
-        <item>Home is a garden 
-Touch &amp; hold an empty spot 
-To grow new icons</item>
-        <item>Phone isn’t waterproof 
-Do not immerse in water 
-or other fluids</item>
-        <item>Want some more home screens? 
-Swipe left and right to find them 
-(No theft required)</item>
-        <item>Little Home screen dots 
-What could they possibly do? 
-Touch &amp; hold to learn.</item>
-        <item>Status bar icons 
-To discover their secrets 
-Pull the windowshade</item>
-        <item>There is a trick to 
-Dragging items twixt Home screens 
-Pause at the edges</item>
-        <item>Touch Market for apps 
-Like a box of chocolates 
-Each one a surprise</item>
-        <item>Oh, and by the way: 
-Ceci n’est pas une trombone 
-I am an Android</item>
+        <item>Home is a garden \nTouch &amp; hold an empty spot \nTo grow new icons</item>
+        <item>Phone isn’t waterproof \nDo not immerse in water \nor other fluids</item>
+        <item>Want some more home screens? \nSwipe left and right to find them \n(No theft required)</item>
+        <item>Little Home screen dots \nWhat could they possibly do? \nTouch &amp; hold to learn.</item>
+        <item>Status bar icons \nTo discover their secrets \nPull the windowshade</item>
+        <item>There is a trick to \nDragging items twixt Home screens \nPause at the edges</item>
+        <item>Touch Market for apps \nLike a box of chocolates \nEach one a surprise</item>
+        <item>Oh, and by the way: \nCeci n’est pas une trombone \nI am an Android</item>
     </string-array>
 </resources>

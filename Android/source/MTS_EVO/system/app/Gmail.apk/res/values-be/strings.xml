@@ -17,14 +17,8 @@
     <string name="about_desc">Gmail is built on the idea that email can be more intuitive, efficient, and useful. And maybe even fun.</string>
     <string name="copyright">©%d Google Inc.</string>
     <string name="version">Version %s</string>
-    <string name="whats_new_title">What's new in Gmail?</string>
-    <string name="whats_new">Filter and get alerted to just the important stuff in your inbox.
-
-Send from any address set up with your Gmail account.
-
-Switch between reply, reply all, and forward while you compose.
-
-Respond to messages inline.</string>
+    <string name="whats_new_title">What\'s new in Gmail?</string>
+    <string name="whats_new">Filter and get alerted to just the important stuff in your inbox.\n\nSend from any address set up with your Gmail account.\n\nSwitch between reply, reply all, and forward while you compose.\n\nRespond to messages inline.</string>
     <string name="activity_labels">Labels</string>
     <string name="activity_mailbox_selection">Switch account</string>
     <string name="activity_create_label_shortcut">Gmail label</string>
@@ -67,8 +61,7 @@ Respond to messages inline.</string>
     <string name="dont_delete">Do not delete</string>
     <string name="dont_send">Do not send</string>
     <string name="send">Send</string>
-    <string name="message_not_sent">Your message has not been sent.
-Discard your message?</string>
+    <string name="message_not_sent">Your message has not been sent.\nDiscard your message?</string>
     <string name="confirm_discard_title">Confirm discard</string>
     <string name="confirm_discard_text">Discard this message?</string>
     <string name="save">Save draft</string>
@@ -114,7 +107,7 @@ Discard your message?</string>
     <string name="apply_labels">Labels</string>
     <string name="labels_ellipses">Labels</string>
     <string name="show_images">Show pictures</string>
-    <string name="click_show_images">Select "Show pictures" to display embedded pictures.</string>
+    <string name="click_show_images">Select \"Show pictures\" to display embedded pictures.</string>
     <string name="loading_conversation">Loading...</string>
     <string name="go_to_label">Go to label</string>
     <string name="assign_label">Assign label</string>
@@ -160,7 +153,7 @@ Discard your message?</string>
     <string name="prefDefault_vibrate_false">never</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
     <string name="preferences_actionStrip_action_title">Reply all</string>
-    <string name="preferences_actionStrip_action_summary">Make 'Reply all' the default for responding to messages</string>
+    <string name="preferences_actionStrip_action_summary">Make \'Reply all\' the default for responding to messages</string>
     <string name="preferences_ring_enable">Sound</string>
     <string name="preferences_ring_summary">Also play ringtone when email arrives</string>
     <string name="preferences_ringtone">Select ringtone</string>
@@ -231,8 +224,7 @@ Discard your message?</string>
     <string name="contextmenu_send_mail">Send email</string>
     <string name="contextmenu_map">Map</string>
     <string name="contextmenu_sharelink">Share link</string>
-    <string name="gmail_plug"><font fgcolor="#ffffffff">Welcome to Google Mail!</font> 
-A Google approach to mail built on the idea that email can be more intuitive, efficient and accessible. </string>
+    <string name="gmail_plug"><font fgcolor="#ffffffff">Welcome to Google Mail!</font> \nA Google approach to mail built on the idea that email can be more intuitive, efficient and accessible. </string>
     <string name="title_day_dialog">Number of days to sync</string>
     <string name="choosertitle_sharevia">Share via</string>
     <string name="search_title">Gmail</string>

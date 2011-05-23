@@ -28,8 +28,7 @@
     <string name="expire_on">Expires: %s</string>
     <string name="kilobyte">KB</string>
     <string name="undelivered_msg_dialog_title">Undelivered message</string>
-    <string name="undelivered_msg_dialog_body">Unable to send this message.
-Attempt made: %s.</string>
+    <string name="undelivered_msg_dialog_body">Unable to send this message.\nAttempt made: %s.</string>
     <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
     <string name="delete_thread">Delete thread</string>
     <string name="menu_forward">Forward</string>
@@ -185,8 +184,7 @@ Attempt made: %s.</string>
     <string name="menu_retry_sending">Retry sending</string>
     <string name="menu_retry_sending_all">Retry sending all</string>
     <string name="menu_delete_messages">Delete messages</string>
-    <string name="retrying_dialog_body">This message %s was not sent due to a connection problem.
-Retrying to send…</string>
+    <string name="retrying_dialog_body">This message %s was not sent due to a connection problem.\nRetrying to send…</string>
     <string name="menu_lock">Lock message</string>
     <string name="menu_unlock">Unlock message</string>
     <string name="sim_copy_to_phone_memory">Copy to phone memory</string>
@@ -271,5 +269,5 @@ Retrying to send…</string>
     <string name="storage_limits_message">Do you want to limit the number of messages you save per conversation?</string>
     <string name="storage_limits_setting">Set limits</string>
     <string name="storage_limits_setting_dismiss">No limits</string>
-    <string name="too_many_unsent_mms">Can't send message right now. There are too many unsent multimedia messages.</string>
+    <string name="too_many_unsent_mms">Can\'t send message right now. There are too many unsent multimedia messages.</string>
 </resources>

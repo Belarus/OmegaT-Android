@@ -2,11 +2,11 @@
 <resources>
     <string name="application_name">YouTube</string>
     <string name="play_again_button">Play again</string>
-    <string name="subscription_search_feed">"%1$s"</string>
-    <string name="subscription_favorite_feed">%1$s's favorites</string>
-    <string name="videos_matching">Results for "%1$s"</string>
-    <string name="videos_matching_search">%1$s results for "%2$s"</string>
-    <string name="share_subject">Watch "%s" on YouTube</string>
+    <string name="subscription_search_feed">\"%1$s\"</string>
+    <string name="subscription_favorite_feed">%1$s\'s favorites</string>
+    <string name="videos_matching">Results for \"%1$s\"</string>
+    <string name="videos_matching_search">%1$s results for \"%2$s\"</string>
+    <string name="share_subject">Watch \"%s\" on YouTube</string>
     <string name="view_all_something">View all %1$s</string>
     <string name="response_error">There was a problem with the network response.</string>
     <string name="dev_reg_error">There was a problem starting up. Please check network connections, and check that the system time is set correctly.</string>
@@ -19,7 +19,7 @@
     <string name="cant_load_categories">The categories cannot be loaded from YouTube right now. Please try again later.</string>
     <string name="cant_do_operation_title">Attention</string>
     <string name="no_network">There is no network connection right now. Please try again later.</string>
-    <string name="video_already_rated">You've already rated this video.</string>
+    <string name="video_already_rated">You\'ve already rated this video.</string>
     <string name="video_details">Details</string>
     <string name="my_favorite_videos">Favorites</string>
     <string name="my_favorite_videos_lower_case">favorites</string>
@@ -106,7 +106,7 @@
     <string name="no_videos_in_playlist">No videos in this playlist.</string>
     <string name="no_comments_found">No comments found.</string>
     <string name="no_comments_available">No comments available.</string>
-    <string name="no_recommended_videos">Sorry, we don't have recommendations for you yet. No worries, just watch more videos, favorite the ones you like, and we'll soon find others that you'll be interested in.</string>
+    <string name="no_recommended_videos">Sorry, we don\'t have recommendations for you yet. No worries, just watch more videos, favorite the ones you like, and we\'ll soon find others that you\'ll be interested in.</string>
     <string name="loading">Loading…</string>
     <string name="loading_video">Loading video…</string>
     <string name="loading_more_videos">Loading more videos…</string>
@@ -123,7 +123,7 @@
     <string name="pref_video_quality_summary">Always default to high quality video. Startup may take longer.</string>
     <string name="pref_about_category">About</string>
     <string name="pref_terms_title">Terms of Service</string>
-    <string name="pref_terms_summary">Read YouTube's Terms of Service.</string>
+    <string name="pref_terms_summary">Read YouTube\'s Terms of Service.</string>
     <string name="pref_version_title">Application version</string>
     <string name="safe_search_dialog_title">SafeSearch</string>
     <string name="time_filter_dialog_title">Time filter</string>
@@ -132,7 +132,7 @@
     <string name="subtitles">Captions</string>
     <string name="turn_off_subtitles">Turn off captions</string>
     <string name="no_subtitles">No captions available for this video.</string>
-    <string name="channel_title">%1s's channel</string>
+    <string name="channel_title">%1s\'s channel</string>
     <string name="subscribe">Subscribe</string>
     <string name="unsubscribe">Unsubscribe</string>
     <string name="subscribe_success_toast">Added to your subscriptions.</string>
@@ -171,17 +171,15 @@
     <string name="video_not_available_in_your_country">This video is not available in your country.</string>
     <string name="video_not_available_on_mobile">This video is not available on mobile.</string>
     <string name="video_is_private">This video is private.</string>
-    <string name="video_couldnt_be_processed">This video couldn't be converted.</string>
+    <string name="video_couldnt_be_processed">This video couldn\'t be converted.</string>
     <string name="video_is_in_an_invalid_format">Invalid file format.</string>
     <string name="video_uses_an_unsupported_codec">This video uses an unsupported codec.</string>
     <string name="video_is_empty">This video is empty.</string>
     <string name="video_is_too_small">This video is too small.</string>
     <string name="not_playable_generic">Sorry, this video cannot be played.</string>
-    <string name="adult_content_intro">This video may contain content that is inappropriate for some users, as flagged by YouTube's user community.
-
-</string>
+    <string name="adult_content_intro">This video may contain content that is inappropriate for some users, as flagged by YouTube\'s user community.\n\n</string>
     <string name="adult_content_login">To view this video, please verify you are 18 or older by signing in.</string>
-    <string name="adult_content_confirm">By touching "Confirm", you are agreeing that all videos flagged by the YouTube community will be viewable by this account.</string>
+    <string name="adult_content_confirm">By touching \"Confirm\", you are agreeing that all videos flagged by the YouTube community will be viewable by this account.</string>
     <string name="adult_content_underage">Sorry, you must be 18 or over to view this video.</string>
     <string name="widget_recommended">Recommended</string>
     <string name="widget_subscription_update">Subscription update</string>

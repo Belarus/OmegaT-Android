@@ -123,67 +123,13 @@
     <string name="dialerDialpadHintText">Dial to add a call</string>
     <string name="simContacts_emptyLoading">Loading from SIM card…</string>
     <string name="simContacts_title">SIM card contacts</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
-    <string name="noContactsHelpTextForCreateShortcut">You don't have any contacts to display.</string>
-    <string name="noContactsHelpText">You don't have any contacts to display.
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SIM or SD card
-</li>
-</string>
-    <string name="noContactsHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SIM or SD card
-</li>
-</string>
-    <string name="noContactsNoSimHelpText">You don't have any contacts to display.
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SD card
-</li>
-</string>
-    <string name="noContactsNoSimHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SD card
-</li>
-</string>
-    <string name="noFavoritesHelpText">You don't have any favorites.
-
-To add a contact to your list of favorites:
-
-<li>Touch the <b>Contacts</b> tab
-</li> 
-<li>Touch the contact you want to add to your favorites
-</li> 
-<li>Touch the star next to the contact's name
-</li>
-</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
+    <string name="noContactsHelpTextForCreateShortcut">You don\'t have any contacts to display.</string>
+    <string name="noContactsHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SIM or SD card\n</li>\n</string>
+    <string name="noContactsHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SIM or SD card\n</li>\n</string>
+    <string name="noContactsNoSimHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SD card\n</li>\n</string>
+    <string name="noContactsNoSimHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b> to import contacts from your SD card\n</li>\n</string>
+    <string name="noFavoritesHelpText">You don\'t have any favorites.\n\nTo add a contact to your list of favorites:\n\n<li>Touch the <b>Contacts</b> tab\n</li> \n<li>Touch the contact you want to add to your favorites\n</li> \n<li>Touch the star next to the contact\'s name\n</li>\n</string>
     <string name="liveFolder_all_label">All contacts</string>
     <string name="liveFolder_favorites_label">Starred</string>
     <string name="liveFolder_phones_label">Phones</string>
@@ -191,7 +137,7 @@ To add a contact to your list of favorites:
     <string name="dialer_returnToInCallScreen">Return to call in progress</string>
     <string name="dialer_addAnotherCall">Add call</string>
     <string name="callDetailTitle">Call details</string>
-    <string name="toast_call_detail_error">Couldn't read details for the requested call.</string>
+    <string name="toast_call_detail_error">Couldn\'t read details for the requested call.</string>
     <string name="type_incoming">Incoming call</string>
     <string name="type_outgoing">Outgoing call</string>
     <string name="type_missed">Missed call</string>
@@ -202,7 +148,7 @@ To add a contact to your list of favorites:
     <string name="callDetailsDurationFormat">%s mins %s secs</string>
     <string name="favoritesFrquentSeparator">Frequently contacted</string>
     <string name="add_contact_dlg_title">Add contact</string>
-    <string name="add_contact_dlg_message_fmt">Add "%s" to contacts?</string>
+    <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
     <string name="description_image_button_one">one</string>
     <string name="description_image_button_two">two</string>
     <string name="description_image_button_three">three</string>
@@ -234,7 +180,7 @@ To add a contact to your list of favorites:
     <string name="import_all_vcard_string">Import all vCard files</string>
     <string name="searching_vcard_message">Searching for vCard data on SD card</string>
     <string name="scanning_sdcard_failed_title">Scanning SD card failed</string>
-    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: "%s")</string>
+    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: \"%s\")</string>
     <string name="fail_reason_io_error">I/O Error</string>
     <string name="fail_reason_low_memory_during_import">Memory is insufficient (the file may be too large)</string>
     <string name="fail_reason_vcard_parse_error">Failed to parse vCard for unexpected reason</string>
@@ -261,23 +207,22 @@ To add a contact to your list of favorites:
     <string name="vcard_unknown_filename">contact</string>
     <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Confirm export</string>
-    <string name="confirm_export_message">Are you sure you want to export your contact list to "%s"?</string>
+    <string name="confirm_export_message">Are you sure you want to export your contact list to \"%s\"?</string>
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
-    <string name="exporting_contact_failed_message">Failed to export contact data.
-Reason for failure: "%s"</string>
+    <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
     <string name="fail_reason_no_exportable_contact">There is no exportable contact</string>
     <string name="fail_reason_too_many_vcard">Too many vCard files on the SD card</string>
-    <string name="fail_reason_too_long_filename">Required filename is too long ("%s")</string>
+    <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\")</string>
     <string name="exporting_vcard_finished_title">Finished exporting %s</string>
     <string name="exporting_vcard_canceled_title">Exporting %s was canceled</string>
     <string name="exporting_contact_list_title">Exporting contact data</string>
-    <string name="exporting_contact_list_message">Exporting contact data to "%s"</string>
-    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: "%s"</string>
-    <string name="fail_reason_error_occurred_during_export">Error occured during export: "%s"</string>
+    <string name="exporting_contact_list_message">Exporting contact data to \"%s\"</string>
+    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"%s\"</string>
+    <string name="fail_reason_error_occurred_during_export">Error occured during export: \"%s\"</string>
     <string name="composer_failed_to_get_database_infomation">Failed to get database information</string>
     <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you actually have contacts on your phone, all the contacts may be prohibited from being exported to outside the phone by some data providers.</string>
     <string name="composer_not_initialized">The vCard composer is not correctly initialized</string>
-    <string name="fail_reason_could_not_open_file">Could not open "%s": %s</string>
+    <string name="fail_reason_could_not_open_file">Could not open \"%s\": %s</string>
     <string name="exporting_contact_list_progress">%s of %s contacts</string>
     <string name="cancel_import_confirmation_title">Canceling vCard import</string>
     <string name="cancel_import_confirmation_message">Are you sure to cancel importing %s?</string>
@@ -321,7 +266,7 @@ Reason for failure: "%s"</string>
     <string name="display_more_groups">More groups…</string>
     <string name="display_ungrouped">All Other Contacts</string>
     <string name="display_all_contacts">All Contacts</string>
-    <string name="display_warn_remove_ungrouped">Removing '%s' from sync will also remove any ungrouped contacts from sync.</string>
+    <string name="display_warn_remove_ungrouped">Removing \'%s\' from sync will also remove any ungrouped contacts from sync.</string>
     <string name="account_phone">Phone-only, unsynced</string>
     <string name="call_custom">Call %s</string>
     <string name="call_home">Call home</string>
@@ -420,11 +365,7 @@ Reason for failure: "%s"</string>
     <string name="pick_new_photo">Select new photo from Gallery</string>
     <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
     <string name="upgrade_in_progress">Contact list is being updated.</string>
-    <string name="upgrade_out_of_memory">Contacts are in the process of being upgraded. 
-
-The upgrade process requires approximately %s Mb of internal storage.
-
-Choose one of the following options:</string>
+    <string name="upgrade_out_of_memory">Contacts are in the process of being upgraded. \n\nThe upgrade process requires approximately %s Mb of internal storage.\n\nChoose one of the following options:</string>
     <string name="upgrade_out_of_memory_uninstall">Uninstall some applications</string>
     <string name="upgrade_out_of_memory_retry">Retry upgrade</string>
     <string name="search_results_searching">Searching...</string>
@@ -476,7 +417,7 @@ Choose one of the following options:</string>
     <string name="create_group_item_label">[Create new group]</string>
     <string name="rename_group_dialog_title">Rename group</string>
     <string name="delete_group_dialog_title">Delete group</string>
-    <string name="delete_group_dialog_message">Are you sure you want to delete the group '%1$s'? (Contacts themselves will not be deleted.)</string>
+    <string name="delete_group_dialog_message">Are you sure you want to delete the group \'%1$s\'? (Contacts themselves will not be deleted.)</string>
     <string name="toast_join_with_empty_contact">Please enter contact name before joining with another contact.</string>
     <string name="indicator_joined_contact">Joined contact</string>
     <string name="toast_text_copied">Text copied</string>

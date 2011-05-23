@@ -27,11 +27,9 @@
     <string name="search_sources_summary">Choose what to search on the phone</string>
     <string name="clear_shortcuts">Clear shortcuts</string>
     <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
-    <string name="clear_shortcuts_prompt">This will clear all shortcuts to recently chosen search suggestions.
-
-(To clear your Browser history, use the Browser's settings.)</string>
+    <string name="clear_shortcuts_prompt">This will clear all shortcuts to recently chosen search suggestions.\n\n(To clear your Browser history, use the Browser\'s settings.)</string>
     <string name="clear_shortcuts_agree">Clear shortcuts</string>
-    <string name="clear_shortcuts_disagree">Don't clear shortcuts</string>
+    <string name="clear_shortcuts_disagree">Don\'t clear shortcuts</string>
     <string name="menu_help">Help</string>
     <string name="google_search_label">Google</string>
     <string name="google_app_label">Google Search</string>

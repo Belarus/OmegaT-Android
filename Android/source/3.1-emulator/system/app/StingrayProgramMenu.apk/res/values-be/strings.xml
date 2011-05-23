@@ -152,12 +152,10 @@
     <string name="fts_cp_title_1">PN offset of strongest active pilot</string>
     <string name="fts_cp_title_2">Ec/Io of strongest active pilot</string>
     <string name="fts_cp_title_3">Number of pilots in the active set</string>
-    <string name="fts_cp_title_4">Number of pilots in the 
-neighbor set</string>
+    <string name="fts_cp_title_4">Number of pilots in the \nneighbor set</string>
     <string name="fts_cp_title_5">Band</string>
     <string name="fts_cp_title_6">Current RF channel</string>
-    <string name="fts_cp_title_7">PN offset of strongest 
-neighbor pilot</string>
+    <string name="fts_cp_title_7">PN offset of strongest \nneighbor pilot</string>
     <string name="fts_cp_title_8">Ec/Io of strongest neighbor pilot</string>
     <string name="fts_cp_title_9">Number of pilots in the candidate set</string>
     <string name="fts_cp_title_10">Call processing state</string>

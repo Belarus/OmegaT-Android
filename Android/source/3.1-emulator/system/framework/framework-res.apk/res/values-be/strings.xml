@@ -348,7 +348,7 @@
     <string name="permlab_enableCarMode">enable car mode</string>
     <string name="permdesc_enableCarMode">Allows an application to enable the car mode.</string>
     <string name="permlab_killBackgroundProcesses">kill background processes</string>
-    <string name="permdesc_killBackgroundProcesses">Allows an application to kill background processes of other applications, even if memory isn't low.</string>
+    <string name="permdesc_killBackgroundProcesses">Allows an application to kill background processes of other applications, even if memory isn\'t low.</string>
     <string name="permlab_forceStopPackages">force stop other applications</string>
     <string name="permdesc_forceStopPackages">Allows an application to forcibly stop other applications.</string>
     <string name="permlab_forceBack">force application to close</string>
@@ -374,7 +374,7 @@
     <string name="permlab_batteryStats">modify battery statistics</string>
     <string name="permdesc_batteryStats">Allows the modification of collected battery statistics. Not for use by normal applications.</string>
     <string name="permlab_backup">control system backup and restore</string>
-    <string name="permdesc_backup">Allows the application to control the system's backup and restore mechanism. Not for use by normal applications.</string>
+    <string name="permdesc_backup">Allows the application to control the system\'s backup and restore mechanism. Not for use by normal applications.</string>
     <string name="permlab_internalSystemWindow">display unauthorized windows</string>
     <string name="permdesc_internalSystemWindow">Allows the creation of windows that are intended to be used by the internal system user interface. Not for use by normal applications.</string>
     <string name="permlab_systemAlertWindow">display system-level alerts</string>
@@ -400,12 +400,12 @@
     <string name="permlab_signalPersistentProcesses">send Linux signals to applications</string>
     <string name="permdesc_signalPersistentProcesses">Allows application to request that the supplied signal be sent to all persistent processes.</string>
     <string name="permlab_persistentActivity">make application always run</string>
-    <string name="permdesc_persistentActivity">Allows an application to make parts of itself persistent, so the system can't use it for other applications.</string>
+    <string name="permdesc_persistentActivity">Allows an application to make parts of itself persistent, so the system can\'t use it for other applications.</string>
     <string name="permlab_deletePackages">delete applications</string>
     <string name="permdesc_deletePackages">Allows an application to delete Android packages. Malicious applications can use this to delete important applications.</string>
-    <string name="permlab_clearAppUserData">delete other applications' data</string>
+    <string name="permlab_clearAppUserData">delete other applications\' data</string>
     <string name="permdesc_clearAppUserData">Allows an application to clear user data.</string>
-    <string name="permlab_deleteCacheFiles">delete other applications' caches</string>
+    <string name="permlab_deleteCacheFiles">delete other applications\' caches</string>
     <string name="permdesc_deleteCacheFiles">Allows an application to delete cache files.</string>
     <string name="permlab_getPackageSize">measure application storage space</string>
     <string name="permdesc_getPackageSize">Allows an application to retrieve its code, data, and cache sizes</string>
@@ -416,7 +416,7 @@
     <string name="permlab_movePackage">Move application resources</string>
     <string name="permdesc_movePackage">Allows an application to move application resources from internal to external media and vice versa.</string>
     <string name="permlab_readLogs">read sensitive log data</string>
-    <string name="permdesc_readLogs">Allows an application to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information.</string>
+    <string name="permdesc_readLogs">Allows an application to read from the system\'s various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information.</string>
     <string name="permlab_diagnostic">read/write to resources owned by diag</string>
     <string name="permdesc_diagnostic">Allows an application to read and write to any resource owned by the diag group; for example, files in /dev. This could potentially affect system stability and security. This should be ONLY be used for hardware-specific diagnostics by the manufacturer or operator.</string>
     <string name="permlab_changeComponentState">enable or disable application components</string>
@@ -424,9 +424,9 @@
     <string name="permlab_setPreferredApplications">set preferred applications</string>
     <string name="permdesc_setPreferredApplications">Allows an application to modify your preferred applications. This can allow malicious applications to silently change the applications that are run, spoofing your existing applications to collect private data from you.</string>
     <string name="permlab_writeSettings">modify global system settings</string>
-    <string name="permdesc_writeSettings">Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration.</string>
+    <string name="permdesc_writeSettings">Allows an application to modify the system\'s settings data. Malicious applications can corrupt your system\'s configuration.</string>
     <string name="permlab_writeSecureSettings">modify secure system settings</string>
-    <string name="permdesc_writeSecureSettings">Allows an application to modify the system's secure settings data. Not for use by normal applications.</string>
+    <string name="permdesc_writeSecureSettings">Allows an application to modify the system\'s secure settings data. Not for use by normal applications.</string>
     <string name="permlab_writeGservices">modify the Google services map</string>
     <string name="permdesc_writeGservices">Allows an application to modify the Google services map. Not for use by normal applications.</string>
     <string name="permlab_receiveBootCompleted">automatically start at boot</string>
@@ -518,9 +518,9 @@
     <string name="permlab_masterClear">reset system to factory defaults</string>
     <string name="permdesc_masterClear">Allows an application to completely reset the system to its factory settings, erasing all data, configuration, and installed applications.</string>
     <string name="permlab_setTime">set time</string>
-    <string name="permdesc_setTime">Allows an application to change the phone's clock time.</string>
+    <string name="permdesc_setTime">Allows an application to change the phone\'s clock time.</string>
     <string name="permlab_setTimeZone">set time zone</string>
-    <string name="permdesc_setTimeZone">Allows an application to change the phone's time zone.</string>
+    <string name="permdesc_setTimeZone">Allows an application to change the phone\'s time zone.</string>
     <string name="permlab_accountManagerService">act as the AccountManagerService</string>
     <string name="permdesc_accountManagerService">Allows an application to make calls to AccountAuthenticators</string>
     <string name="permlab_getAccounts">discover known accounts</string>
@@ -582,13 +582,13 @@
     <string name="policylab_limitPassword">Set password rules</string>
     <string name="policydesc_limitPassword">Control the length and the characters allowed in screen-unlock passwords</string>
     <string name="policylab_watchLogin">Monitor screen-unlock attempts</string>
-    <string name="policydesc_watchLogin">Monitor the number of incorrect passwords entered when unlocking the screen, and lock the phone or erase all the phone's data if too many incorrect passwords are entered</string>
+    <string name="policydesc_watchLogin">Monitor the number of incorrect passwords entered when unlocking the screen, and lock the phone or erase all the phone\'s data if too many incorrect passwords are entered</string>
     <string name="policylab_resetPassword">Change the screen-unlock password</string>
     <string name="policydesc_resetPassword">Change the screen-unlock password</string>
     <string name="policylab_forceLock">Lock the screen</string>
     <string name="policydesc_forceLock">Control how and when the screen locks</string>
     <string name="policylab_wipeData">Erase all data</string>
-    <string name="policydesc_wipeData">Erase the phone's data without warning, by performing a factory data reset</string>
+    <string name="policydesc_wipeData">Erase the phone\'s data without warning, by performing a factory data reset</string>
     <string name="policylab_setGlobalProxy">Set the device global proxy</string>
     <string name="policydesc_setGlobalProxy">Set the device global proxy to be used while policy is enabled. Only the first device admin sets the effective global proxy.</string>
     <string name="policylab_expirePassword">Set lock-screen password expiration</string>
@@ -695,18 +695,10 @@
     <string name="lockscreen_sim_puk_locked_instructions">Please see the User Guide or contact Customer Care.</string>
     <string name="lockscreen_sim_locked_message">SIM card is locked.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">You have incorrectly drawn your unlock pattern %d times. 
-
-Please try again in %d seconds.</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">You have incorrectly entered your password %d times. 
-
-Please try again in %d seconds.</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">You have incorrectly entered your PIN %d times. 
-
-Please try again in %d seconds.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.
-
- Please try again in %d seconds.</string>
+    <string name="lockscreen_too_many_failed_attempts_dialog_message">You have incorrectly drawn your unlock pattern %d times. \n\nPlease try again in %d seconds.</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">You have incorrectly entered your password %d times. \n\nPlease try again in %d seconds.</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">You have incorrectly entered your PIN %d times. \n\nPlease try again in %d seconds.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.\n\n Please try again in %d seconds.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
     <string name="lockscreen_forgot_pattern_button_text">Forgot pattern?</string>
     <string name="lockscreen_glogin_forgot_pattern">Account unlock</string>
@@ -716,8 +708,7 @@ Please try again in %d seconds.</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_submit_button">Sign in</string>
     <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
-    <string name="lockscreen_glogin_account_recovery_hint">Forgot your username or password?
-Visit <b>google.com/accounts/recovery</b></string>
+    <string name="lockscreen_glogin_account_recovery_hint">Forgot your username or password?\nVisit <b>google.com/accounts/recovery</b></string>
     <string name="lockscreen_glogin_checking_password">Checking...</string>
     <string name="lockscreen_unlock_label">Unlock</string>
     <string name="lockscreen_sound_on_label">Sound on</string>
@@ -733,13 +724,9 @@ Visit <b>google.com/accounts/recovery</b></string>
     <string name="factorytest_reboot">Reboot</string>
     <string name="web_user_agent">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 %sSafari/534.13</string>
     <string name="web_user_agent_target_content">Mobile </string>
-    <string name="js_dialog_title">The page at '%s' says:</string>
+    <string name="js_dialog_title">The page at \'%s\' says:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">Navigate away from this page?
-
-%s
-
-Select OK to continue, or Cancel to stay on the current page.</string>
+    <string name="js_dialog_before_unload">Navigate away from this page?\n\n%s\n\nSelect OK to continue, or Cancel to stay on the current page.</string>
     <string name="save_password_label">Confirm</string>
     <string name="double_tap_toast">Tip: double-tap to zoom in and out.</string>
     <string name="autofill_this_form">AutoFill</string>
@@ -769,12 +756,12 @@ Select OK to continue, or Cancel to stay on the current page.</string>
     <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
     <string name="autofill_name_specific_re">^name|^nom|^nome</string>
     <string name="autofill_first_name_re">irst.*name|initials|fname|first$|vorname|nombre|forename|prénom|prenom|名|nome|Имя</string>
-    <string name="autofill_middle_initial_re">middle.*initial|m\.i\.|mi$</string>
+    <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
     <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
     <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
     <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
     <string name="autofill_area_code_re">area code</string>
-    <string name="autofill_phone_prefix_re">^-$|\)$|prefix|preselection|ddd</string>
+    <string name="autofill_phone_prefix_re">^-$|\\)$|prefix|preselection|ddd</string>
     <string name="autofill_phone_suffix_re">^-$|suffix</string>
     <string name="autofill_phone_extension_re">ext|ramal</string>
     <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
@@ -784,14 +771,14 @@ Select OK to continue, or Cancel to stay on the current page.</string>
     <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|ccmonth|gueltig|gültig|monat|fecha|date.*exp|scadenza|有効期限|validade|Срок действия карты|月</string>
     <string name="autofill_expiration_date_re">exp|^/|year|ablaufdatum|gueltig|gültig|yahr|fecha|scadenza|有効期限|validade|Срок действия карты|年|有效期</string>
     <string name="autofill_card_ignored_re">^card</string>
-    <string name="permlab_readHistoryBookmarks">read Browser's history and bookmarks</string>
-    <string name="permdesc_readHistoryBookmarks">Allows the application to read all the URLs that the Browser has visited, and all of the Browser's bookmarks.</string>
-    <string name="permlab_writeHistoryBookmarks">write Browser's history and bookmarks</string>
-    <string name="permdesc_writeHistoryBookmarks">Allows an application to modify the Browser's history or bookmarks stored on your phone. Malicious applications can use this to erase or modify your Browser's data.</string>
+    <string name="permlab_readHistoryBookmarks">read Browser\'s history and bookmarks</string>
+    <string name="permdesc_readHistoryBookmarks">Allows the application to read all the URLs that the Browser has visited, and all of the Browser\'s bookmarks.</string>
+    <string name="permlab_writeHistoryBookmarks">write Browser\'s history and bookmarks</string>
+    <string name="permdesc_writeHistoryBookmarks">Allows an application to modify the Browser\'s history or bookmarks stored on your phone. Malicious applications can use this to erase or modify your Browser\'s data.</string>
     <string name="permlab_setAlarm">set alarm in alarm clock</string>
     <string name="permdesc_setAlarm">Allows the application to set an alarm in an installed alarm clock application. Some alarm clock applications may not implement this feature.</string>
     <string name="permlab_writeGeolocationPermissions">Modify Browser geolocation permissions</string>
-    <string name="permdesc_writeGeolocationPermissions">Allows an application to modify the Browser's geolocation permissions. Malicious applications can use this to allow sending location information to arbitrary web sites.</string>
+    <string name="permdesc_writeGeolocationPermissions">Allows an application to modify the Browser\'s geolocation permissions. Malicious applications can use this to allow sending location information to arbitrary web sites.</string>
     <string name="save_password_message">Do you want the browser to remember this password?</string>
     <string name="save_password_notnow">Not now</string>
     <string name="save_password_remember">Remember</string>
@@ -865,7 +852,7 @@ Select OK to continue, or Cancel to stay on the current page.</string>
     <string name="heavy_weight_switcher_title">Switch applications?</string>
     <string name="heavy_weight_switcher_text">Another application is already running that must be stopped before you can start a new one.</string>
     <string name="old_app_action">Return to %1$s</string>
-    <string name="old_app_description">Don't start the new application.</string>
+    <string name="old_app_description">Don\'t start the new application.</string>
     <string name="new_app_action">Start %1$s</string>
     <string name="new_app_description">Stop the old application without saving.</string>
     <string name="sendText">Select an action for text</string>
@@ -887,7 +874,7 @@ Select OK to continue, or Cancel to stay on the current page.</string>
     <string name="select_character">Insert character</string>
     <string name="sms_control_default_app_name">Unknown application</string>
     <string name="sms_control_title">Sending SMS messages</string>
-    <string name="sms_control_message">A large number of SMS messages are being sent. Select "OK" to continue, or "Cancel" to stop sending.</string>
+    <string name="sms_control_message">A large number of SMS messages are being sent. Select \"OK\" to continue, or \"Cancel\" to stop sending.</string>
     <string name="sms_control_yes">OK</string>
     <string name="sms_control_no">Cancel</string>
     <string name="time_picker_dialog_title">Set time</string>
@@ -952,10 +939,8 @@ Select OK to continue, or Cancel to stay on the current page.</string>
     <string name="ime_action_done">Done</string>
     <string name="ime_action_previous">Prev</string>
     <string name="ime_action_default">Execute</string>
-    <string name="dial_number_using">Dial number
-using %s</string>
-    <string name="create_contact_using">Create contact
-using %s</string>
+    <string name="dial_number_using">Dial number\nusing %s</string>
+    <string name="create_contact_using">Create contact\nusing %s</string>
     <string name="accessibility_compound_button_selected">checked</string>
     <string name="accessibility_compound_button_unselected">not checked</string>
     <string name="grant_credentials_permission_message_header">The following one or more applications request permission to access your account, now and in the future.</string>
@@ -964,8 +949,7 @@ using %s</string>
     <string name="allow">Allow</string>
     <string name="deny">Deny</string>
     <string name="permission_request_notification_title">Permission Requested</string>
-    <string name="permission_request_notification_with_subtitle">Permission Requested
-for account %s</string>
+    <string name="permission_request_notification_with_subtitle">Permission Requested\nfor account %s</string>
     <string name="input_method_binding_label">Input method</string>
     <string name="sync_binding_label">Sync</string>
     <string name="accessibility_binding_label">Accessibility</string>

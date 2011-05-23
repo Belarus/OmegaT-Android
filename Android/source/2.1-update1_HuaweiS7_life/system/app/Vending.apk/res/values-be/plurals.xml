@@ -13,7 +13,7 @@
         <item quantity="one">%1$s rating</item>
     </plurals>
     <plurals name="search_complete_title">
-        <item quantity="other">%1$d results for "%2$s"</item>
-        <item quantity="one">%1$d result for "%2$s"</item>
+        <item quantity="other">%1$d results for \"%2$s\"</item>
+        <item quantity="one">%1$d result for \"%2$s\"</item>
     </plurals>
 </resources>

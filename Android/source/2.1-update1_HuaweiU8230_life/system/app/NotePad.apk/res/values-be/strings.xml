@@ -13,9 +13,7 @@
     <string name="str_notes_app_name">Notepad</string>
     <string name="str_notes_error_title">Error</string>
     <string name="str_notes_error_message">Error loading note</string>
-    <string name="str_no_notes_message">No notes available.
-
-Please use the "Add note" menu option to create a new note.</string>
+    <string name="str_no_notes_message">No notes available.\n\nPlease use the \"Add note\" menu option to create a new note.</string>
     <string name="str_delete_all_notes">Delete all notes</string>
     <string name="str_delete_all_prompt">Are you sure you want to delete all the notes on your phone?</string>
     <string name="str_delete_all">Delete all</string>

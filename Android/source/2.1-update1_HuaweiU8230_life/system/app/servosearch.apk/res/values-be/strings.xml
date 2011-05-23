@@ -9,7 +9,7 @@
     <string name="next">Next</string>
     <string name="noresult_msg">No results found on</string>
     <string name="your_device">your device</string>
-    <string name="your_friends_devices">your friends' devices</string>
+    <string name="your_friends_devices">your friends\' devices</string>
     <string name="emptyinput_title">No Search String Entered</string>
     <string name="emptyinput">Please enter one or more words in the search bar above and try again.</string>
     <string name="social_result_cannot_shared">Social search results can not be shared, you can only share items stored on your device.</string>
@@ -122,13 +122,8 @@
     <string name="mime_servo">Servo</string>
     <string name="mime_optus">Optus</string>
     <string name="contact_no_title">(Unknown)</string>
-    <string name="require_login_1">In order to use the Social Search and Sharing features, you must first login to Servo. To login, press Next then enter your Servo ID and password and press Login.
-</string>
-    <string name="require_login_2">If you do not yet have an account, please press Next then press Register, then follow the onscreen instructions. 
-
-If you have forgotten your Servo ID or password, please contact your sales representative or send an e-mail to support@servo.net 
-
-</string>
+    <string name="require_login_1">In order to use the Social Search and Sharing features, you must first login to Servo. To login, press Next then enter your Servo ID and password and press Login.\n</string>
+    <string name="require_login_2">If you do not yet have an account, please press Next then press Register, then follow the onscreen instructions. \n\nIf you have forgotten your Servo ID or password, please contact your sales representative or send an e-mail to support@servo.net \n\n</string>
     <string name="index_inprogress_3">Servo is still building its search database. More results may appear when this is completed.</string>
     <string name="servo">Servo</string>
     <string name="device_search">Device Search</string>
@@ -141,13 +136,7 @@ If you have forgotten your Servo ID or password, please contact your sales repre
     <string name="search_failed_title">Search Failed</string>
     <string name="update_notify_title">Servo Search update available</string>
     <string name="update_notify_msg">Click here to get the latest version</string>
-    <string name="about_servo_content">Version %s
-(C) 2009 Servo Software, Inc.
-All rights reserved.
-
-http://www.servo.net
-
-</string>
+    <string name="about_servo_content">Version %s\n(C) 2009 Servo Software, Inc.\nAll rights reserved.\n\nhttp://www.servo.net\n\n</string>
     <string name="get_more_from_device">Get results from your device</string>
     <string name="get_more_from_internet">Get Results from the Internet</string>
     <string name="get_more_from_social_search">Get results from your friends</string>
@@ -173,10 +162,9 @@ http://www.servo.net
     <string name="toolbar_back">Back</string>
     <string name="update_servo_user_title">Update Friends List</string>
     <string name="updating_servo_user_msg">Servo is updating your list of friends.</string>
-    <string name="voice_recognizer_absent">Sorry,can't find the voice recognizer</string>
+    <string name="voice_recognizer_absent">Sorry,can\'t find the voice recognizer</string>
     <string name="toomany_clauses_title">Complete the word you want to search</string>
-    <string name="toomany_clauses_detail">There is too many words start with "%s".
- Please complete the word what you want to search.</string>
+    <string name="toomany_clauses_detail">There is too many words start with \"%s\".\n Please complete the word what you want to search.</string>
     <string name="get_more_from_global_search">Get results from Third Party Apps</string>
     <string name="title_when_global_search">Third Party Apps Search Results</string>
     <string name="msg_global_search_responses">results</string>

@@ -5,7 +5,7 @@
     <string name="header_locale_list">Locale List</string>
     <string name="no_data_label">No data</string>
     <string name="select_locale_button">Select</string>
-    <string name="select_locale_1s_button">Select '%1$s'</string>
+    <string name="select_locale_1s_button">Select \'%1$s\'</string>
     <string name="add_new_locale_button">Add New…</string>
     <string name="remove_locale_button">Remove…</string>
     <string name="removed_custom_locale_1s">Removed custom locale: %1$s</string>
@@ -14,7 +14,7 @@
     <string name="new_locale_label">New locale code:</string>
     <string name="add_button">Add</string>
     <string name="add_select_button">Add and Select</string>
-    <string name="confirm_remove_locale_1s">Do you want to remove the custom locale '%1$s'?</string>
+    <string name="confirm_remove_locale_1s">Do you want to remove the custom locale \'%1$s\'?</string>
     <string name="confirm_remove_locale_yes">Yes</string>
     <string name="confirm_remove_locale_no">No</string>
     <string name="locale_default">ex_EX</string>

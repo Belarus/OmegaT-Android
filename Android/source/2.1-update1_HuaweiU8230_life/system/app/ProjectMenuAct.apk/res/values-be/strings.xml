@@ -89,10 +89,8 @@
     <string name="prop_file_not_exits">Property file not exists</string>
     <string name="info_file_not_exits">Info file not exists</string>
     <string name="info_file_not_readable">Info file not readable</string>
-    <string name="mcc_not_set">MCC not set
-</string>
-    <string name="mnc_not_set">MNC not set
-</string>
+    <string name="mcc_not_set">MCC not set\n</string>
+    <string name="mnc_not_set">MNC not set\n</string>
     <string name="query_failed">Query failed!</string>
     <string name="plmn">1. PLMN</string>
     <string name="plmn_ns">2. PLMN_NS</string>

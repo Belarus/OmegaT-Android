@@ -115,20 +115,8 @@
     <string name="message_compose_bcc_label">Bcc:</string>
     <string name="message_compose_subject_label">Subject:</string>
     <string name="message_compose_body_hint">Compose Mail</string>
-    <string name="message_compose_fwd_header_fmt">
-
--------- Original Message --------
-Subject: %1$s
-From: %2$s
-To: %3$s
-CC: %4$s
-
-</string>
-    <string name="message_compose_reply_header_fmt">
-
-%s wrote:
-
-</string>
+    <string name="message_compose_fwd_header_fmt">\n\n-------- Original Message --------\nSubject: %1$s\nFrom: %2$s\nTo: %3$s\nCC: %4$s\n\n</string>
+    <string name="message_compose_reply_header_fmt">\n\n%s wrote:\n\n</string>
     <string name="message_compose_quoted_text_label">Quoted text</string>
     <string name="message_compose_include_quoted_text_checkbox_label">Include text</string>
     <string name="message_compose_error_no_recipients">You must add at least one recipient.</string>
@@ -161,7 +149,7 @@ CC: %4$s
     <string name="message_view_invite_maybe"> Maybe</string>
     <string name="message_view_invite_decline"> No</string>
     <string name="message_view_invite_toast_yes">You have accepted this invitation</string>
-    <string name="message_view_invite_toast_maybe">You have replied "maybe" to this invitation</string>
+    <string name="message_view_invite_toast_maybe">You have replied \"maybe\" to this invitation</string>
     <string name="message_view_invite_toast_no">You have declined this invitation</string>
     <string name="message_view_show_details">Show details</string>
     <string name="message_view_message_details_dialog_title">Message Details</string>
@@ -169,19 +157,19 @@ CC: %4$s
     <string name="attachment_info_dialog_wifi_title">Wi-Fi connection required</string>
     <string name="attachment_info_wifi_settings">Wi-Fi settings</string>
     <string name="attachment_info_application_settings">Application settings</string>
-    <string name="attachment_info_unknown">Can't open attachment.</string>
-    <string name="attachment_info_malware">Because this type of attachment may contain malicious software, you can't save or open it.</string>
+    <string name="attachment_info_unknown">Can\'t open attachment.</string>
+    <string name="attachment_info_malware">Because this type of attachment may contain malicious software, you can\'t save or open it.</string>
     <string name="attachment_info_wifi_only">This attachment is too large to download over a mobile network. You can download it the next time you connect to a Wi-Fi network.</string>
     <string name="attachment_info_no_intent">There is no installed application that can open this attachment. Try downloading an appropriate application from Android Market.</string>
     <string name="attachment_info_sideload_disabled">This attachment is an application. You must check Unknown sources in Settings, under Applications, before you can install it.</string>
-    <string name="attachment_info_apk_install_disabled">Applications can't be installed directly from Email. First save this application and then install it using the Downloads application.</string>
+    <string name="attachment_info_apk_install_disabled">Applications can\'t be installed directly from Email. First save this application and then install it using the Downloads application.</string>
     <string name="message_decode_error">Error while decoding message.</string>
     <string name="eml_view_title">Viewing %s</string>
     <string name="message_delete_dialog_title">Discard message</string>
     <string name="message_discarded_toast">Message discarded.</string>
     <string name="message_saved_toast">Message saved as draft.</string>
     <string name="message_view_display_attachment_toast">This attachment cannot be displayed.</string>
-    <string name="message_view_load_attachment_failed_toast">The attachment " %s" could not be loaded.</string>
+    <string name="message_view_load_attachment_failed_toast">The attachment \" %s\" could not be loaded.</string>
     <string name="message_view_parse_message_toast">Opening message…</string>
     <string name="forward_download_failed_ticker">Could not forward one or more attachments</string>
     <string name="forward_download_failed_title">Attachment not forwarded</string>
@@ -203,8 +191,8 @@ CC: %4$s
     <string name="account_setup_basics_manual_setup_action">Manual setup</string>
     <string name="account_setup_username_password_toast">Please type a valid email address and password.</string>
     <string name="account_duplicate_dlg_title">Duplicate Account</string>
-    <string name="account_duplicate_dlg_message_fmt">This login is already in use for the account "%s".</string>
-    <string name="account_password_spaces_error">This password starts or ends with one or more space characters. Many servers don't support passwords with spaces.</string>
+    <string name="account_duplicate_dlg_message_fmt">This login is already in use for the account \"%s\".</string>
+    <string name="account_password_spaces_error">This password starts or ends with one or more space characters. Many servers don\'t support passwords with spaces.</string>
     <string name="account_setup_check_settings_retr_info_msg">Retrieving account information…</string>
     <string name="account_setup_check_settings_check_incoming_msg">Checking incoming server settings…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Checking outgoing server settings…</string>
@@ -249,7 +237,7 @@ CC: %4$s
     <string name="account_setup_exchange_title">Account setup</string>
     <string name="account_setup_exchange_headline">Server settings</string>
     <string name="account_setup_exchange_server_label">Server</string>
-    <string name="account_setup_exchange_username_label">Domain\Username</string>
+    <string name="account_setup_exchange_username_label">Domain\\Username</string>
     <string name="account_setup_exchange_ssl_label">Use secure connection (SSL)</string>
     <string name="account_setup_exchange_trust_certificates_label">Accept all SSL certificates</string>
     <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
@@ -277,15 +265,12 @@ CC: %4$s
     <string name="account_setup_options_mail_window_2weeks">Two weeks</string>
     <string name="account_setup_options_mail_window_1month">One month</string>
     <string name="account_setup_failed_dlg_auth_message">Username or password incorrect.</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">Username or password incorrect.
-(%s)</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">Username or password incorrect.\n(%s)</string>
     <string name="account_setup_failed_dlg_certificate_message">Cannot safely connect to server.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">Cannot safely connect to server.
-(%s)</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">Cannot safely connect to server.\n(%s)</string>
     <string name="account_setup_failed_check_credentials_message">The server responded with an error; please check your username and password and try again.</string>
     <string name="account_setup_failed_dlg_server_message">Cannot connect to server.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">Cannot connect to server.
-(%s)</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">Cannot connect to server.\n(%s)</string>
     <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
     <string name="account_setup_failed_auth_required">Authentication methods are not supported by server.</string>
     <string name="account_setup_failed_security">Unable to open connection to server due to security error.</string>
@@ -294,15 +279,15 @@ CC: %4$s
     <string name="account_setup_security_required_title">Remote security administration</string>
     <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
     <string name="account_setup_failed_security_policies_unsupported">This server requires security features that your Android device does not support.</string>
-    <string name="disable_admin_warning">WARNING: Deactivating the Email application's authority to administer your device will delete all Email accounts that require it, along with their email, contacts, calendar events, and other data.</string>
+    <string name="disable_admin_warning">WARNING: Deactivating the Email application\'s authority to administer your device will delete all Email accounts that require it, along with their email, contacts, calendar events, and other data.</string>
     <string name="account_security_dialog_title">Security update required</string>
     <string name="account_security_dialog_content_fmt">%s requires you to update your security settings.</string>
-    <string name="security_notification_ticker_fmt">Account "%s" requires security settings update.</string>
+    <string name="security_notification_ticker_fmt">Account \"%s\" requires security settings update.</string>
     <string name="security_notification_content_title">Security update required</string>
     <string name="account_security_title">Device Security</string>
     <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
-    <string name="password_expire_warning_ticker_fmt">"%s" requires you to change your lock screen PIN or password.</string>
+    <string name="password_expire_warning_ticker_fmt">\"%s\" requires you to change your lock screen PIN or password.</string>
     <string name="password_expire_warning_content_title">Lock screen password expiring</string>
     <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
     <string name="password_expired_content_title">Lock screen password expired</string>
@@ -346,12 +331,12 @@ CC: %4$s
     <string name="account_settings_ringtone">Select ringtone</string>
     <string name="account_settings_servers">Server settings</string>
     <string name="account_delete_dlg_title">Remove account</string>
-    <string name="account_delete_dlg_instructions_fmt">The account "%s" will be removed from Email.</string>
+    <string name="account_delete_dlg_instructions_fmt">The account \"%s\" will be removed from Email.</string>
     <string name="account_settings_category_delete_account">Remove account</string>
     <string name="account_settings_delete_account_label">Remove account</string>
     <string name="account_shortcut_picker_name">Email account</string>
     <string name="account_shortcut_picker_title">Select an account</string>
-    <string name="provider_note_live">Only some "Plus" accounts include POP access allowing this program to connect. If you are not able to sign in with your correct email address and password, you may not have a paid "Plus" account. Please launch the Web browser to gain access to these mail accounts.</string>
+    <string name="provider_note_live">Only some \"Plus\" accounts include POP access allowing this program to connect. If you are not able to sign in with your correct email address and password, you may not have a paid \"Plus\" account. Please launch the Web browser to gain access to these mail accounts.</string>
     <string name="provider_note_t_online">Before setting up this email account, please visit the T-Online Web site and create a password for POP3 email access.</string>
     <string name="exchange_name">Corporate</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>

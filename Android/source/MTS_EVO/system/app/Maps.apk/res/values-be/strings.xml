@@ -11,8 +11,7 @@
     <string name="da_onto">onto %1$s</string>
     <string name="da_name_delimiter"> / </string>
     <string name="da_list_delimiter">, </string>
-    <string name="da_then_next_step">then
-%1$s</string>
+    <string name="da_then_next_step">then\n%1$s</string>
     <string name="da_continue_for_distance">Continue for %1$s</string>
     <string name="da_destination_will_be_on_the_left">your destination will be on the left.</string>
     <string name="da_destination_will_be_on_the_right">your destination will be on the right.</string>
@@ -49,16 +48,8 @@
     <string name="da_navigation">Navigation</string>
     <string name="da_search_label">Search</string>
     <string name="da_layers">Layers</string>
-    <string name="da_agreement">Google Maps Navigation is in beta. Use caution.
-
-Do not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries. Obey applicable laws.
-
-Keep your eyes on the road!</string>
-    <string name="da_agreement_with_walking">Google Maps Navigation is in beta. Use caution.
-
-Do not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries. Walking routes may be missing sidewalks or pedestrian paths. Obey applicable laws.
-
-Keep your eyes on the road!</string>
+    <string name="da_agreement">Google Maps Navigation is in beta. Use caution.\n\nDo not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries. Obey applicable laws.\n\nKeep your eyes on the road!</string>
+    <string name="da_agreement_with_walking">Google Maps Navigation is in beta. Use caution.\n\nDo not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries. Walking routes may be missing sidewalks or pedestrian paths. Obey applicable laws.\n\nKeep your eyes on the road!</string>
     <string name="da_disclaimer_checkbox">Show this message next time</string>
     <string name="da_show_list">Directions List</string>
     <string name="da_route_overview">Route Info</string>
@@ -82,11 +73,7 @@ Keep your eyes on the road!</string>
     <string name="da_problem_reported">Problem reported</string>
     <string name="da_one_button_map_issue_reporting">1-click report a problem</string>
     <string name="da_attention">Attention</string>
-    <string name="da_rmi_warning">Report a problem allows you to record a short voice message describing an issue with the map or your route. After 15 seconds, your message will automatically be sent to Google along with your current location and route.
-
-A 1-click shortcut may be enabled in the application settings.
-
- If you choose to receive email updates when the issue is resolved, your email address will be stored with the location and your comments until the problem is resolved.</string>
+    <string name="da_rmi_warning">Report a problem allows you to record a short voice message describing an issue with the map or your route. After 15 seconds, your message will automatically be sent to Google along with your current location and route.\n\nA 1-click shortcut may be enabled in the application settings.\n\n If you choose to receive email updates when the issue is resolved, your email address will be stored with the location and your comments until the problem is resolved.</string>
     <string name="da_report_a_problem">Report a Problem</string>
     <string name="da_report_a_problem_dialog_title">Report a problem</string>
     <string name="da_rmi_preference_trackball_summary">If enabled, pressing the trackball will start problem reporting.</string>
@@ -115,7 +102,7 @@ A 1-click shortcut may be enabled in the application settings.
     <string name="da_dialog_done">Done</string>
     <string name="da_dialog_accept">Accept</string>
     <string name="da_dialog_install">Install</string>
-    <string name="da_dialog_dont_accept">Don't Accept</string>
+    <string name="da_dialog_dont_accept">Don\'t Accept</string>
     <string name="da_dialog_go">Go</string>
     <string name="da_dialog_get_directions">Get Directions</string>
     <string name="da_map">Map</string>
@@ -139,8 +126,7 @@ A 1-click shortcut may be enabled in the application settings.
     <string name="da_point_on_map">Point on map</string>
     <string name="da_volume">Navigation Volume</string>
     <string name="da_exit">Exit</string>
-    <string name="da_exit_button">%1$s
-%2$s</string>
+    <string name="da_exit_button">%1$s\n%2$s</string>
     <string name="da_did_you_mean">Did you mean:</string>
     <string name="da_did_you_say">Did you say:</string>
     <string name="da_for_your_end_point">For your end point</string>
@@ -175,14 +161,14 @@ A 1-click shortcut may be enabled in the application settings.
     <string name="da_route_prefixes">N,NE,E,SE,S,SW,W,NW</string>
     <string name="da_route_suffixes">N,NE,E,SE,S,SW,W,NW,Ave,Blvd,Byp,Cir,Ct,Dr,Expy,Fwy,Hwy,Ln,Pkwy,Pl,Rd,St,Thrwy,Way</string>
     <string name="da_no_route">No route found</string>
-    <string name="da_route_not_found">We couldn't find a route to your destination.</string>
-    <string name="da_destination_not_found">We couldn't understand the destination.</string>
+    <string name="da_route_not_found">We couldn\'t find a route to your destination.</string>
+    <string name="da_destination_not_found">We couldn\'t understand the destination.</string>
     <string name="da_navigation_not_supported">Navigation to your destination is not available.</string>
     <string name="da_navigation_not_supported_at_current_loc">Google Maps Navigation is not yet available in this location.</string>
     <string name="da_launch_maps">Launch Maps</string>
     <string name="da_no_image_available">No image available.</string>
     <string name="da_image_error">Error loading image.</string>
-    <string name="da_no_alternate_routes">We couldn't find alternate routes to your destination.</string>
+    <string name="da_no_alternate_routes">We couldn\'t find alternate routes to your destination.</string>
     <string name="da_picker_type_destination">Type Destination</string>
     <string name="da_picker_speak_destination">Speak Destination</string>
     <string name="da_picker_contacts">Contacts</string>
@@ -194,14 +180,8 @@ A 1-click shortcut may be enabled in the application settings.
     <string name="da_picker_search_hint">Destination</string>
     <string name="da_route_options">Route options</string>
     <string name="da_updating_directions">Updating directions</string>
-    <string name="da_picker_no_starred_items">You don't have any starred places.
-
-Starred places are automatically synchronized with maps.google.com.
-
-You can star search results in Google Maps by tapping the star icon near the address.</string>
-    <string name="da_picker_no_contacts">You don't have any contacts with addresses.
-
-You can add new contacts or set addresses for existing contacts in the Contacts app.</string>
+    <string name="da_picker_no_starred_items">You don\'t have any starred places.\n\nStarred places are automatically synchronized with maps.google.com.\n\nYou can star search results in Google Maps by tapping the star icon near the address.</string>
+    <string name="da_picker_no_contacts">You don\'t have any contacts with addresses.\n\nYou can add new contacts or set addresses for existing contacts in the Contacts app.</string>
     <string name="da_driving">Driving</string>
     <string name="da_walking">Walking</string>
     <string name="da_quoted_text">“%1$s”</string>
@@ -209,7 +189,7 @@ You can add new contacts or set addresses for existing contacts in the Contacts 
     <string name="da_search_maps">Search Maps</string>
     <string name="da_walking_warning">Walking (beta): use caution</string>
     <string name="da_calibrate_compass_title">Compass calibration</string>
-    <string name="da_calibrate_compass">Your phone's compass is not calibrated. To calibrate please wave the phone in a figure 8 pattern a few times.</string>
+    <string name="da_calibrate_compass">Your phone\'s compass is not calibrated. To calibrate please wave the phone in a figure 8 pattern a few times.</string>
     <string name="da_confirm_exit_title">Exit navigation?</string>
     <string name="da_confirm_exit_text">This will end all route guidance.</string>
     <string name="da_route_includes_tolls">Route includes tolls</string>
@@ -283,7 +263,7 @@ You can add new contacts or set addresses for existing contacts in the Contacts 
     <string name="HOTPOT_WIDGET_POSTING_AS">Posting publicly as {0}</string>
     <string name="HOTPOT_WIDGET_SAYMORE">Say more</string>
     <string name="HOTPOT_WIDGET_UPDATED">Updated {0}</string>
-    <string name="HOTPOT_WIFI_DISABLED">Please turn on Wi-Fi in Wireless and network settings to improve the Rate Places widget's location accuracy</string>
+    <string name="HOTPOT_WIFI_DISABLED">Please turn on Wi-Fi in Wireless and network settings to improve the Rate Places widget\'s location accuracy</string>
     <string name="HOTPOT_YOU_RATED">You rated:</string>
     <string name="LATITUDE_APP_NAME">Latitude</string>
     <string name="LATITUDE_WIDGET_FRIENDS_ACTIVATE">Tap to sign into Latitude</string>

@@ -133,67 +133,13 @@
     <string name="dialerDialpadHintText">Dial to add a call</string>
     <string name="simContacts_emptyLoading">Loading from SIM card…</string>
     <string name="simContacts_title">SIM card contacts</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
-    <string name="noContactsHelpTextForCreateShortcut">You don't have any contacts to display.</string>
-    <string name="noContactsHelpText">You don't have any contacts to display.
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsNoSimHelpText">You don't have any contacts to display.
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsNoSimHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noFavoritesHelpText">You don't have any favorites.
-
-To add a contact to your list of favorites:
-
-<li>Touch the <b>Contacts</b> tab
-</li> 
-<li>Touch the contact you want to add to your favorites
-</li> 
-<li>Touch the star next to the contact's name
-</li>
-</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)</string>
+    <string name="noContactsHelpTextForCreateShortcut">You don\'t have any contacts to display.</string>
+    <string name="noContactsHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsNoSimHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsNoSimHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noFavoritesHelpText">You don\'t have any favorites.\n\nTo add a contact to your list of favorites:\n\n<li>Touch the <b>Contacts</b> tab\n</li> \n<li>Touch the contact you want to add to your favorites\n</li> \n<li>Touch the star next to the contact\'s name\n</li>\n</string>
     <string name="liveFolder_all_label">All contacts</string>
     <string name="liveFolder_favorites_label">Starred</string>
     <string name="liveFolder_phones_label">Phones</string>
@@ -201,7 +147,7 @@ To add a contact to your list of favorites:
     <string name="dialer_returnToInCallScreen">Return to call in progress</string>
     <string name="dialer_addAnotherCall">Add call</string>
     <string name="callDetailTitle">Call details</string>
-    <string name="toast_call_detail_error">Couldn't read details for the requested call.</string>
+    <string name="toast_call_detail_error">Couldn\'t read details for the requested call.</string>
     <string name="type_incoming">Incoming call</string>
     <string name="type_outgoing">Outgoing call</string>
     <string name="type_missed">Missed call</string>
@@ -212,7 +158,7 @@ To add a contact to your list of favorites:
     <string name="callDetailsDurationFormat">%1$s mins %2$s secs</string>
     <string name="favoritesFrquentSeparator">Frequently contacted</string>
     <string name="add_contact_dlg_title">Add contact</string>
-    <string name="add_contact_dlg_message_fmt">Add "%s" to contacts?</string>
+    <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
     <string name="all_tab_label">All</string>
     <string name="description_image_button_one">one</string>
     <string name="description_image_button_two">two</string>
@@ -245,7 +191,7 @@ To add a contact to your list of favorites:
     <string name="import_all_vcard_string">Import all vCard files</string>
     <string name="searching_vcard_message">Searching for vCard data on SD card</string>
     <string name="scanning_sdcard_failed_title">Scanning SD card failed</string>
-    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: "%s")</string>
+    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: \"%s\")</string>
     <string name="fail_reason_io_error">I/O Error</string>
     <string name="fail_reason_vcard_parse_error">Failed to parse vCard for unexpected reason</string>
     <string name="fail_reason_vcard_not_supported_error">Failed to parse vCard though it seems in valid format, since the current implementation does not support it</string>
@@ -253,29 +199,27 @@ To add a contact to your list of favorites:
     <string name="fail_reason_failed_to_read_files">One or more files failed to be imported (%s).</string>
     <string name="fail_reason_unknown">Unknown error</string>
     <string name="select_vcard_title">Select vCard file</string>
-    <string name="progress_shower_message">%1$s
-%2$s</string>
+    <string name="progress_shower_message">%1$s\n%2$s</string>
     <string name="reading_vcard_title">Reading vCard</string>
     <string name="reading_vcard_message">Reading vCard file(s)</string>
     <string name="reading_vcard_failed_title">Reading of vCard data has failed</string>
     <string name="reading_vcard_contacts">%1$s of %2$s contacts</string>
     <string name="reading_vcard_files">%1$s of %2$s files</string>
     <string name="confirm_export_title">Confirm export</string>
-    <string name="confirm_export_message">Are you sure you want to export your contact list to "%s"?</string>
+    <string name="confirm_export_message">Are you sure you want to export your contact list to \"%s\"?</string>
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
-    <string name="exporting_contact_failed_message">Failed to export contact data.
-Reason for failure: "%s"</string>
+    <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
     <string name="fail_reason_no_exportable_contact">There is no exportable contact</string>
     <string name="fail_reason_too_many_vcard">Too many vCard files on the SD card</string>
-    <string name="fail_reason_too_long_filename">Required filename is too long ("%s")</string>
+    <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\")</string>
     <string name="exporting_contact_list_title">Exporting contact data</string>
-    <string name="exporting_contact_list_message">Exporting contact data to "%s"</string>
-    <string name="fail_reason_could_not_initialize_exporter">Could not initialise the exporter: "%s"</string>
-    <string name="fail_reason_error_occurred_during_export">Error occured during export: "%s"</string>
+    <string name="exporting_contact_list_message">Exporting contact data to \"%s\"</string>
+    <string name="fail_reason_could_not_initialize_exporter">Could not initialise the exporter: \"%s\"</string>
+    <string name="fail_reason_error_occurred_during_export">Error occured during export: \"%s\"</string>
     <string name="composer_failed_to_get_database_infomation">Failed to get database information</string>
     <string name="composer_has_no_exportable_contact">There is no exportable contact. If you have actualy have contacts on your phone, all the contacts may be prohibited from being exported to outside the phone by some data provider.</string>
     <string name="composer_not_initialized">The vCard composer is not correctly initialised</string>
-    <string name="fail_reason_could_not_open_file">Could not open "%1$s": %2$s</string>
+    <string name="fail_reason_could_not_open_file">Could not open \"%1$s\": %2$s</string>
     <string name="exporting_contact_list_progress">%1$s of %2$s contacts</string>
     <string name="search_settings_description">Names of your contacts</string>
     <string name="add_2sec_pause">Add 2-sec pause</string>
@@ -311,7 +255,7 @@ Reason for failure: "%s"</string>
     <string name="display_more_groups">More groups…</string>
     <string name="display_ungrouped">All Other Contacts</string>
     <string name="display_all_contacts">All Contacts</string>
-    <string name="display_warn_remove_ungrouped">Removing '%s' from sync will also remove any ungrouped contacts from sync.</string>
+    <string name="display_warn_remove_ungrouped">Removing \'%s\' from sync will also remove any ungrouped contacts from sync.</string>
     <string name="account_phone">Phone-only (unsynced)</string>
     <string name="call_custom">Call %s</string>
     <string name="call_home">Call home</string>
@@ -404,17 +348,9 @@ Reason for failure: "%s"</string>
     <string name="search_for_all_contacts">Search for all contacts</string>
     <string name="take_photo">Take photo</string>
     <string name="pick_photo">Select photo from Gallery</string>
-    <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.
-
-Please wait...</string>
-    <string name="upgrade_in_progress">Contact list is being updated.
-
-Please wait...</string>
-    <string name="upgrade_out_of_memory">Contacts are in the process of being upgraded. 
-
-The upgrade process requires approximately %dMb of internal phone storage.
-
-Choose one of the following options:</string>
+    <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.\n\nPlease wait...</string>
+    <string name="upgrade_in_progress">Contact list is being updated.\n\nPlease wait...</string>
+    <string name="upgrade_out_of_memory">Contacts are in the process of being upgraded. \n\nThe upgrade process requires approximately %dMb of internal phone storage.\n\nChoose one of the following options:</string>
     <string name="upgrade_out_of_memory_uninstall">Uninstall some applications</string>
     <string name="upgrade_out_of_memory_retry">Retry upgrade</string>
     <string name="search_results_for">Search results for: %s</string>
@@ -488,25 +424,18 @@ Choose one of the following options:</string>
     <string name="lossDataConfirmation">Some data may be deleted. Continue?</string>
     <string name="fail_reason_no_importable_contact">There is no importable contact</string>
     <string name="importing_contact_list_title">Importing contact data</string>
-    <string name="importing_contact_list_message">Importing contact data to "%s"</string>
+    <string name="importing_contact_list_message">Importing contact data to \"%s\"</string>
     <string name="importing_contact_failed_title">Failed to import contact data</string>
-    <string name="importing_contact_failed_message">Failed to import contact data.
-Reason for failure: "%s"</string>
+    <string name="importing_contact_failed_message">Failed to import contact data.\nReason for failure: \"%s\"</string>
     <string name="importing_contact_list_progress">%s of %s contacts</string>
-    <string name="noContactsHelpText_new">You don't have any contacts to display.
-
-To add contacts, press the <b><font fgcolor="#ffffffff">New contact</font></b> button below.
-</string>
+    <string name="noContactsHelpText_new">You don\'t have any contacts to display.\n\nTo add contacts, press the <b><font fgcolor="#ffffffff">New contact</font></b> button below.\n</string>
     <string name="no_history_log">No history</string>
     <string name="no_subject_view">(No subject)</string>
     <string name="loop_back_test">Loop Back Test</string>
     <string name="delete_btn_title">Delete</string>
     <string name="cancel_btn_title">Cancel</string>
     <string name="message_rejectcall_wait">Please wait...</string>
-    <string name="noContactsHelpText_new_TMO">You don't have any contacts to display.
-
-To add contacts, press the <b><font fgcolor="#ffffffff">New contact</font></b> button above.
-</string>
+    <string name="noContactsHelpText_new_TMO">You don\'t have any contacts to display.\n\nTo add contacts, press the <b><font fgcolor="#ffffffff">New contact</font></b> button above.\n</string>
     <string name="menu_done_TMO">Save</string>
     <string name="menu_doNotSave_TMO">Back</string>
     <string name="phoneLabelsGroup_TMO">Number</string>
@@ -522,7 +451,7 @@ To add contacts, press the <b><font fgcolor="#ffffffff">New contact</font></b> b
     <string name="websiteTypeOther">Other</string>
     <string name="menu_backupNow">Sync now</string>
     <string name="account_bua">Phone</string>
-    <string name="backupassistantMessageConfirmation">You can use Verizon's Backup Assistant to safely secure your contacts data. Subscribe to this service now?</string>
+    <string name="backupassistantMessageConfirmation">You can use Verizon\'s Backup Assistant to safely secure your contacts data. Subscribe to this service now?</string>
     <string name="contact_callrejcet_listactivitylabel">RejectCallList</string>
     <string name="label_speed_dial">Speed dials</string>
     <string name="menu_speeddial">Speed Dials</string>

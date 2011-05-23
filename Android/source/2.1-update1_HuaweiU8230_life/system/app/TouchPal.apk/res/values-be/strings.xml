@@ -50,15 +50,12 @@
     <string name="optpage_smart">Chinese PinYin sentence prediction</string>
     <string name="optpage_errorcorrection">Enable mistyping correction</string>
     <string name="optpage_fuzzy">Chinese PinYin ambiguous input</string>
-    <string name="pageup">Page
-Up</string>
-    <string name="pagedown">Page
-Down</string>
+    <string name="pageup">Page\nUp</string>
+    <string name="pagedown">Page\nDown</string>
     <string name="del">Del</string>
     <string name="select">Select</string>
     <string name="done">Done</string>
-    <string name="selectall">Select
-All</string>
+    <string name="selectall">Select\nAll</string>
     <string name="home">Home</string>
     <string name="end">End</string>
     <string name="copy">Copy</string>
@@ -121,8 +118,7 @@ All</string>
     <string name="optpage_chs_label">Chinese</string>
     <string name="optpage_mix_instr">Select the language you may use.</string>
     <string name="optpage_touchpal">TouchPal</string>
-    <string name="optpage_cootek">Provided by CooTek build 10499
-http://www.cootek.com</string>
+    <string name="optpage_cootek">Provided by CooTek build 10499\nhttp://www.cootek.com</string>
     <string name="optpage_help">Help</string>
     <string name="optpage_help_summary">Online user manual for using TouchPal (English)</string>
     <string name="optpage_update">Update</string>

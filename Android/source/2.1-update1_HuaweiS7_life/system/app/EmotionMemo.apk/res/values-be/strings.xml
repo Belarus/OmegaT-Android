@@ -36,9 +36,7 @@
     <string name="data_file_noexits">Some of data has been destroyed or lost!</string>
     <string name="memo_textedit_title">Text</string>
     <string name="memo_drawedit_title">Drawing</string>
-    <string name="memo_emmc_unmount">
- Please mount internal SD card from Settings. 
-</string>
+    <string name="memo_emmc_unmount">\n Please mount internal SD card from Settings. \n</string>
     <string name="memo_emmc_unmount_dialog_button">OK</string>
     <string name="insert_sd_card">Please insert an SD card</string>
     <string name="spaceIsLow_content">Your %s has no enough space.</string>

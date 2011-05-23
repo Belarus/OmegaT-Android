@@ -19,8 +19,7 @@
     <string name="btn_cancel">Cancel</string>
     <string name="btn_accept">Accept</string>
     <string name="disclaimer_title">Disclaimer</string>
-    <string name="disclaimer_agreement">Please exercise caution when using this application and do not manipulate your device while driving.
-Always pay attention to the road.</string>
+    <string name="disclaimer_agreement">Please exercise caution when using this application and do not manipulate your device while driving.\nAlways pay attention to the road.</string>
     <string name="disclaimer_checkbox">Always show</string>
     <string name="hint_title_voice_search">Try saying:</string>
     <string name="hint_voice_search_quotation_start">“</string>

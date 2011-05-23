@@ -23,9 +23,7 @@
     <string name="search_sources_summary">Choose what to search on the phone</string>
     <string name="clear_shortcuts">Clear shortcuts</string>
     <string name="clear_shortcuts_summary">Clear shortcuts to recently chosen search suggestions</string>
-    <string name="clear_shortcuts_prompt">This will clear all shortcuts to recently chosen search suggestions.
-
-(To clear your Browser history, use the Browser's settings.)</string>
+    <string name="clear_shortcuts_prompt">This will clear all shortcuts to recently chosen search suggestions.\n\n(To clear your Browser history, use the Browser\'s settings.)</string>
     <string name="agree">OK</string>
     <string name="disagree">Cancel</string>
     <string name="google_search_label">Google</string>
@@ -34,7 +32,7 @@
     <string name="google_search_settings">Google search</string>
     <string name="google_show_web_suggestions">Show web suggestions</string>
     <string name="google_show_web_suggestions_summary_enabled">Show suggestions from Google as you type</string>
-    <string name="google_show_web_suggestions_summary_disabled">Don't show suggestions from Google as you type</string>
+    <string name="google_show_web_suggestions_summary_disabled">Don\'t show suggestions from Google as you type</string>
     <string name="google_search_base">http://www.google.com/m?hl=%1$s&amp;gl=%2$s</string>
     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;gl=%2$s&amp;</string>
     <string name="business_call">Call</string>
@@ -42,13 +40,13 @@
     <string name="business_map">Map</string>
     <string name="business_details">Details</string>
     <string name="map_search_title">Search Maps</string>
-    <string name="map_search_description">for '%1$s'</string>
+    <string name="map_search_description">for \'%1$s\'</string>
     <string name="use_location_title">Use My Location</string>
     <string name="use_location_summary">Use My Location for Google search results and other Google services</string>
     <string name="search_history">Search history</string>
     <string name="search_history_summary_no_account">No account configured</string>
     <string name="search_history_summary_enabled">Show personalized search history for %1$s</string>
-    <string name="search_history_summary_disabled">Don't show personalized search history</string>
+    <string name="search_history_summary_disabled">Don\'t show personalized search history</string>
     <string name="manage_search_history">Manage search history</string>
     <string name="manage_search_history_summary_no_account">No account configured</string>
     <string name="manage_search_history_summary">Manage personalized search history for %1$s</string>

@@ -20,8 +20,8 @@
     <string name="send_file">Share file</string>
     <string name="input_other_name">Please input other name.</string>
     <string name="input_nothing">Content is empty.</string>
-    <string name="the_file_override">This file "{0}" will be overriden.</string>
-    <string name="the_folder_override">This folder "{0}" will be replaced.</string>
+    <string name="the_file_override">This file \"{0}\" will be overriden.</string>
+    <string name="the_folder_override">This folder \"{0}\" will be replaced.</string>
     <string name="title_new_folder">New folder name</string>
     <string name="new_folder_name_default">New folder</string>
     <string name="not_paste_itself">Unable to paste a folder to itself or its subfolder.</string>
@@ -52,8 +52,8 @@
     <string name="open_failure_msg">Unable to open.</string>
     <string name="no_file">No file.</string>
     <string name="no_card">No memory card.</string>
-    <string name="file_deleted_error">Error while deleting the file "{0}".</string>
-    <string name="folder_deleted_error">Error while deleting the folder "{0}".</string>
+    <string name="file_deleted_error">Error while deleting the file \"{0}\".</string>
+    <string name="folder_deleted_error">Error while deleting the folder \"{0}\".</string>
     <string name="title_error">Error</string>
     <string name="create_folder_success">Folder created.</string>
     <string name="folder_existed">Name already in use.</string>
@@ -64,7 +64,7 @@
     <string name="folder_renamed_error">Unable to rename.</string>
     <string name="file_renamed_error">Unable to rename.</string>
     <string name="unable_share">Unable to share.</string>
-    <string name="input_invalid">" \ / : * ? &lt; &gt; | are not supported.</string>
+    <string name="input_invalid">\" \\ / : * ? &lt; &gt; | are not supported.</string>
     <string name="select_storage">Select storage</string>
     <string name="select_files">Select files</string>
     <string name="select_file">Select file</string>
@@ -84,10 +84,10 @@
     <string name="menu_file_options">File options</string>
     <string name="menu_folder_options">Folder options</string>
     <string name="hint_phone_capacity">Please save files in SD card as file space on phone is limited.</string>
-    <string name="hint_folder_no_exist">The folder "{0}" does not exist.</string>
-    <string name="hint_file_no_exist">The file "{0}" does not exist.</string>
-    <string name="hint_file_name_too_long">The file name "{0}" is too long.</string>
-    <string name="hint_folder_name_too_long">The folder name "{0}" is too long.</string>
+    <string name="hint_folder_no_exist">The folder \"{0}\" does not exist.</string>
+    <string name="hint_file_no_exist">The file \"{0}\" does not exist.</string>
+    <string name="hint_file_name_too_long">The file name \"{0}\" is too long.</string>
+    <string name="hint_folder_name_too_long">The folder name \"{0}\" is too long.</string>
     <string name="app_name_download">Manage Download</string>
     <string name="hint_no_sdcard">No sdcard found.</string>
     <string name="title_no_sdcard">No SD.</string>
@@ -99,14 +99,12 @@
     <string name="reading_vcard_message">Reading vCard file</string>
     <string name="importing_vcard_message">Importing vCard data</string>
     <string name="reading_vcard_failed_title">Reading of vCard data has failed</string>
-    <string name="progress_shower_message">%s
-%s</string>
-    <string name="reading_vcard_failed_message">Could not read vCard.
-Reason for failure: "%s"</string>
+    <string name="progress_shower_message">%s\n%s</string>
+    <string name="reading_vcard_failed_message">Could not read vCard.\nReason for failure: \"%s\"</string>
     <string name="reading_vcard_contacts">%s of %s contacts</string>
     <string name="reading_vcard_files">%s of %s files</string>
     <string name="ringtone_menu">Set as phone ringtone</string>
-    <string name="ringtone_set">"%s" set as phone ringtone.</string>
+    <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
     <string name="file_info_modify_time">Modified time:</string>
     <string name="drm_ro_forward">Forwarding:</string>
     <string name="drm_ro_can_forward">Can be forwarded</string>

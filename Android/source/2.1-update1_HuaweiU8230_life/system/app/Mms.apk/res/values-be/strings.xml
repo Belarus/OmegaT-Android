@@ -30,8 +30,7 @@
     <string name="expire_on">Expires: %s</string>
     <string name="kilobyte">KB</string>
     <string name="undelivered_msg_dialog_title">Undelivered message</string>
-    <string name="undelivered_msg_dialog_body">Unable to send this message.
-Attempt made: %s.</string>
+    <string name="undelivered_msg_dialog_body">Unable to send this message.\nAttempt made: %s.</string>
     <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
     <string name="delete_thread">Delete thread</string>
     <string name="menu_forward">Forward</string>
@@ -91,7 +90,7 @@ Attempt made: %s.</string>
     <string name="cannot_send_message">Cannot send this message</string>
     <string name="cannot_send_message_reason">Your message has no valid recipients.</string>
     <string name="cannot_forward_drm_obj">The DRM object included in the message cannot be forwarded.</string>
-    <string name="drm_may_cant_be_used_waring">The DRM object may can't be used by the receiver.</string>
+    <string name="drm_may_cant_be_used_waring">The DRM object may can\'t be used by the receiver.</string>
     <string name="converting_to_picture_message">Converting to multimedia message…</string>
     <string name="converting_to_text_message">Converting to text message…</string>
     <string name="cannot_add_slide_anymore">Cannot add more slides.</string>
@@ -191,8 +190,7 @@ Attempt made: %s.</string>
     <string name="menu_retry_sending">Retry sending</string>
     <string name="menu_retry_sending_all">Retry sending all</string>
     <string name="menu_delete_messages">Delete messages</string>
-    <string name="retrying_dialog_body">This message %s was not sent due to a connection problem.
-Retrying to send…</string>
+    <string name="retrying_dialog_body">This message %s was not sent due to a connection problem.\nRetrying to send…</string>
     <string name="menu_lock">Lock</string>
     <string name="menu_unlock">Unlock message</string>
     <string name="sim_copy_to_phone_memory">Copy to phone memory</string>
@@ -279,7 +277,7 @@ Retrying to send…</string>
     <string name="storage_limits_message">Do you want to limit the number of messages you save per conversation?</string>
     <string name="storage_limits_setting">Set limits</string>
     <string name="storage_limits_setting_dismiss">No limits</string>
-    <string name="too_many_unsent_mms">Can't send message right now. There are too many unsent multimedia messages.</string>
+    <string name="too_many_unsent_mms">Can\'t send message right now. There are too many unsent multimedia messages.</string>
     <string name="menu_sms_model">Insert common phrase</string>
     <string name="phrase_confirm">The common phrase will be deleted.</string>
     <string name="modify_phrase">Edit phrase</string>

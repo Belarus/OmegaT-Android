@@ -7,10 +7,6 @@
     <string name="incoming_spp_confirm_Notification_caption">Please confirm you want to accept this serial connection</string>
     <string name="timeout_spp_confirm_Notification_title">Bluetooth Serial Connection Timeout</string>
     <string name="timeout_spp_confirm_Notification_caption">Please check this notification</string>
-    <string name="bluetooth_spp_authorize">
-Serial connect with %1$s?
-</string>
-    <string name="bluetooth_spp_timeout">
-Serial connect with %1$s timeout !
-</string>
+    <string name="bluetooth_spp_authorize">\nSerial connect with %1$s?\n</string>
+    <string name="bluetooth_spp_timeout">\nSerial connect with %1$s timeout !\n</string>
 </resources>

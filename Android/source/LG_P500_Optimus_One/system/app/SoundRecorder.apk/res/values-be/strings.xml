@@ -82,8 +82,7 @@
     <string name="sdcard_cannot_access_directory">Cannot access the target directory.</string>
     <string name="sdcard_cannot_read_write_directory">Cannot write/read the target directory.</string>
     <string name="sdcard_memory_full">Storage is full</string>
-    <string name="sdcard_memory_full_saving">Memory full 
- saving...</string>
+    <string name="sdcard_memory_full_saving">Memory full \n saving...</string>
     <string name="error_set_as_tone">Fail to set as tone.</string>
     <string name="error_share">No way to send audio.</string>
     <string name="error_play_audio">No way to play audio.</string>
@@ -99,16 +98,10 @@
     <string name="error_app_internal">Internal error</string>
     <string name="error_app_unsupported">Unsupported format</string>
     <string name="exception_saving">Saving...</string>
-    <string name="exception_not_calling">Cannot excute.
-Conflict with 
-(Voice call)</string>
-    <string name="exception_full_memory_ask">Not enough
-free memory.
-Clear Memory now?</string>
+    <string name="exception_not_calling">Cannot excute.\nConflict with \n(Voice call)</string>
+    <string name="exception_full_memory_ask">Not enough\nfree memory.\nClear Memory now?</string>
     <string name="exception_no_file_selected">The selected file cannot be found</string>
-    <string name="exception_starage_is_full">Memory size 
-exceeded</string>
-    <string name="exception_not_record">Because the memory is lack of space 
- save the recorde upto now</string>
+    <string name="exception_starage_is_full">Memory size \nexceeded</string>
+    <string name="exception_not_record">Because the memory is lack of space \n save the recorde upto now</string>
     <string name="exception_not_selected">The selected items don’t exist</string>
 </resources>

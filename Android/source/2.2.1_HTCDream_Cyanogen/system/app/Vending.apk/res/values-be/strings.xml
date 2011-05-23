@@ -35,21 +35,21 @@
     <string name="notfound_error_title">Not found</string>
     <string name="notfound_error">The requested item could not be found.</string>
     <string name="fatal_error">An error has occurred. Please try again later.</string>
-    <string name="notification_installation_success_status">Successfully installed "%1$s"</string>
+    <string name="notification_installation_success_status">Successfully installed \"%1$s\"</string>
     <string name="notification_installation_success_message">Successfully installed.</string>
-    <string name="notification_update_success_status">Successfully updated "%1$s"</string>
+    <string name="notification_update_success_status">Successfully updated \"%1$s\"</string>
     <string name="notification_update_success_message">Successfully updated.</string>
-    <string name="notification_installation_failure_status">Installation of "%1$s" unsuccessful.</string>
+    <string name="notification_installation_failure_status">Installation of \"%1$s\" unsuccessful.</string>
     <string name="notification_installation_failure_message">Installation unsuccessful.</string>
-    <string name="notification_update_failure_status">Update of "%1$s" unsuccessful.</string>
+    <string name="notification_update_failure_status">Update of \"%1$s\" unsuccessful.</string>
     <string name="notification_update_failure_message">Update unsuccessful.</string>
     <string name="notification_download_declined_message">Download declined.</string>
-    <string name="notification_download_declined_status">Download of "%1$s" declined.</string>
-    <string name="notification_asset_removed_status">"%1$s" removed from phone!</string>
+    <string name="notification_download_declined_status">Download of \"%1$s\" declined.</string>
+    <string name="notification_asset_removed_status">\"%1$s\" removed from phone!</string>
     <string name="notification_asset_removed_message">Removed from your phone.</string>
     <string name="notification_server_notification_status">Message from Android Market.</string>
     <string name="notification_server_notification_title">Android Market notification.</string>
-    <string name="notification_asset_download_failure_status">Download of "%1$s" was unsuccessful.</string>
+    <string name="notification_asset_download_failure_status">Download of \"%1$s\" was unsuccessful.</string>
     <string name="notification_asset_download_failure_message">Download was unsuccessful, please try again.</string>
     <string name="notification_refund_failed_status">Refund of %1$s was unsuccessful.</string>
     <string name="notification_refund_failed_title">Refund unsuccessful.</string>
@@ -83,15 +83,15 @@
     <string name="dialog_installation_failure_title">Installation error</string>
     <string name="dialog_asset_download_error_title">Download error</string>
     <string name="dialog_asset_removed_title">Removed</string>
-    <string name="dialog_asset_removed_malicious_message">"%1$s" has been removed because it is known to damage your phone or cause loss of data. You will receive an email with details.</string>
-    <string name="dialog_asset_removed_nonmalicious_message">"%1$s" has been removed from your phone. You will receive an email with details.</string>
+    <string name="dialog_asset_removed_malicious_message">\"%1$s\" has been removed because it is known to damage your phone or cause loss of data. You will receive an email with details.</string>
+    <string name="dialog_asset_removed_nonmalicious_message">\"%1$s\" has been removed from your phone. You will receive an email with details.</string>
     <string name="dialog_server_notification_title">Android Market notification</string>
     <string name="dialog_asset_declined_title">Download declined</string>
-    <string name="dialog_asset_declined_removed_message">The download of "%1$s" was declined because it was removed from Android Market.</string>
-    <string name="dialog_asset_declined_ccauthfailed_message">The download of "%1$s" was declined because there was a payment problem. You will receive an email with details.</string>
-    <string name="dialog_asset_declined_general_message">The download of "%1$s" was declined. You will receive an email with details.</string>
-    <string name="dialog_asset_declined_notpurchased_message">The download of "%1$s" was declined because you haven't purchased it.</string>
-    <string name="dialog_asset_declined_maxinstalls_message">The download of "%1$s" was declined because you have already installed it on the maximum number of supported devices.</string>
+    <string name="dialog_asset_declined_removed_message">The download of \"%1$s\" was declined because it was removed from Android Market.</string>
+    <string name="dialog_asset_declined_ccauthfailed_message">The download of \"%1$s\" was declined because there was a payment problem. You will receive an email with details.</string>
+    <string name="dialog_asset_declined_general_message">The download of \"%1$s\" was declined. You will receive an email with details.</string>
+    <string name="dialog_asset_declined_notpurchased_message">The download of \"%1$s\" was declined because you haven\'t purchased it.</string>
+    <string name="dialog_asset_declined_maxinstalls_message">The download of \"%1$s\" was declined because you have already installed it on the maximum number of supported devices.</string>
     <string name="application">Application</string>
     <string name="apps">Apps</string>
     <string name="apps_lowercase">apps</string>
@@ -152,12 +152,12 @@
     <string name="refunded">Your purchase has been refunded.</string>
     <string name="notrefunded">Your purchase could not be refunded.</string>
     <string name="notlaunched_title">Launch error</string>
-    <string name="notlaunched">"%1$s" could not be launched.</string>
+    <string name="notlaunched">\"%1$s\" could not be launched.</string>
     <string name="download_pending">Starting download…</string>
     <string name="download_downloading">Downloading…</string>
     <string name="download_paused">Download paused</string>
     <string name="download_failed">Download unsuccessful</string>
-    <string name="not_enough_space">Sorry, there's not enough space to install this item.</string>
+    <string name="not_enough_space">Sorry, there\'s not enough space to install this item.</string>
     <string name="info_error_noid_title">Missing ID</string>
     <string name="info_error_noid">No ID passed with URI.</string>
     <string name="info_my_review">My review</string>
@@ -187,11 +187,10 @@
     <string name="checkout_tos_title">Google Checkout Terms of Service.</string>
     <string name="carrier_tos_title">Carrier Terms of Service.</string>
     <string name="checkout_tos">I agree to Google Checkout Terms of Service.</string>
-    <string name="checkout_tos_link">I agree to Google Checkout &lt;a href="%s"&gt;Terms of Service&lt;/a&gt;.</string>
+    <string name="checkout_tos_link">I agree to Google Checkout &lt;a href=\"%s\"&gt;Terms of Service&lt;/a&gt;.</string>
     <string name="purchase_button">Buy now</string>
-    <string name="default_refund_policy">Downloads can be returned for a full refund within 24 hours of purchase.
-&lt;a href="http://market.android.com/support/bin/answer.py?answer=134336&amp;hl=%lang%"&gt;Refund Policy&lt;/a&gt;</string>
-    <string name="buypage_footer">&lt;a href="http://checkout.google.com/files/privacy.html?hl=%lang%&amp;dl=%region%"&gt;Google Checkout Billing and Privacy Policy&lt;/a&gt;</string>
+    <string name="default_refund_policy">Downloads can be returned for a full refund within 24 hours of purchase.\n&lt;a href=\"http://market.android.com/support/bin/answer.py?answer=134336&amp;hl=%lang%\"&gt;Refund Policy&lt;/a&gt;</string>
+    <string name="buypage_footer">&lt;a href=\"http://checkout.google.com/files/privacy.html?hl=%lang%&amp;dl=%region%\"&gt;Google Checkout Billing and Privacy Policy&lt;/a&gt;</string>
     <string name="refund">Refund</string>
     <string name="uninstallandrefund">Uninstall &amp; refund</string>
     <string name="edit">Edit</string>
@@ -277,25 +276,19 @@
     <string name="asset_list_no_items">No matching content in Android Market.</string>
     <string name="uninstall_application">Uninstall application</string>
     <string name="uninstall_application_and_cancel">Uninstall &amp; cancel</string>
-    <string name="uninstall_application_text_non_refund">%1$s will be removed from this phone.
-
-This item can be installed again on your phone at no charge.</string>
-    <string name="uninstall_application_text_refund">%1$s will be removed from this phone.
-
-Your purchase will be canceled, and you will not be charged.</string>
+    <string name="uninstall_application_text_non_refund">%1$s will be removed from this phone.\n\nThis item can be installed again on your phone at no charge.</string>
+    <string name="uninstall_application_text_refund">%1$s will be removed from this phone.\n\nYour purchase will be canceled, and you will not be charged.</string>
     <string name="uninstall_reason_prompt">Please tell us why you removed this item:</string>
     <string name="uninstall_failed">Application uninstall not successful</string>
-    <string name="uninstall_reason_not_use">I don't use or want it.</string>
-    <string name="uninstall_reason_malicious">It's malicious.</string>
+    <string name="uninstall_reason_not_use">I don\'t use or want it.</string>
+    <string name="uninstall_reason_malicious">It\'s malicious.</string>
     <string name="uninstall_reason_storage">I need more space on my phone.</string>
-    <string name="uninstall_reason_defective">It's defective.</string>
-    <string name="uninstall_reason_not_say">I'd rather not say.</string>
+    <string name="uninstall_reason_defective">It\'s defective.</string>
+    <string name="uninstall_reason_not_say">I\'d rather not say.</string>
     <string name="uninstall_report_app">Report a defective or malicious application:</string>
-    <string name="uninstall_refund_fail_title">Can't process refund</string>
+    <string name="uninstall_refund_fail_title">Can\'t process refund</string>
     <string name="uninstall_anyway">Uninstall anyway</string>
-    <string name="uninstall_refund_fail_body">Sorry, we can't give you a refund at this time.
-
-Try uninstalling at a later time, or uninstall now and request a refund later in "My downloads".</string>
+    <string name="uninstall_refund_fail_body">Sorry, we can\'t give you a refund at this time.\n\nTry uninstalling at a later time, or uninstall now and request a refund later in \"My downloads\".</string>
     <string name="uninstalling_application">Uninstalling application…</string>
     <string name="uninstalling_updates">Uninstalling updates…</string>
     <string name="downloading_section">Currently downloading</string>
@@ -341,21 +334,15 @@ Try uninstalling at a later time, or uninstall now and request a refund later in
     <string name="search_corrected_resend_prompt">Show all results for: &lt;b&gt;^1&lt;/b&gt;</string>
     <string name="search_corrected_resend_prompt_with_count">Show all ^1 results for: &lt;b&gt;^2&lt;/b&gt;</string>
     <string name="replace_app_title">Replace application</string>
-    <string name="replace_app_message">The application %1$s %2$s will replace the currently installed %3$s.
-
-Existing user data will be saved.</string>
+    <string name="replace_app_message">The application %1$s %2$s will replace the currently installed %3$s.\n\nExisting user data will be saved.</string>
     <string name="permissions_changed_title">Permissions changed</string>
-    <string name="permissions_changed_message">Permissions have changed for %1$d of %2$d apps with updates available.
-
-Press OK to update %3$d apps with no permission changes.
-
-Please open remaining apps from the Downloads list to approve new permissions and start update.</string>
+    <string name="permissions_changed_message">Permissions have changed for %1$d of %2$d apps with updates available.\n\nPress OK to update %3$d apps with no permission changes.\n\nPlease open remaining apps from the Downloads list to approve new permissions and start update.</string>
     <string name="non_refundable_title">Non-refundable purchase</string>
     <string name="non_refundable_message">You previously bought this item and received a refund. Refunds are available only the first time you purchase an item, so you are not eligible to request any other refunds for this item.</string>
     <string name="developer_label">About the developer</string>
     <string name="view_applications_label">View more applications</string>
     <string name="send_email_label">Send email to developer</string>
-    <string name="view_website_label">Visit the developer's Web page</string>
+    <string name="view_website_label">Visit the developer\'s Web page</string>
     <string name="call_developer_label">Call the developer</string>
     <string name="tos_title">Android Market Terms of Service</string>
     <string name="market_content_label">Market content</string>

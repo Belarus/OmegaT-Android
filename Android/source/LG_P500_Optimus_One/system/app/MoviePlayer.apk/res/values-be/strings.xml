@@ -9,11 +9,8 @@
     <string name="delete_multiple_item">These media files will be deleted.</string>
     <string name="divx_registration_code">DivX Registration Code</string>
     <string name="divx_registration_title">Registration</string>
-    <string name="divx_NotRegDevice">You must register your device to play DivX protected videos.  
-
-Registration code: </string>
-    <string name="divx_RegInfo_del">
-For registration information, go to http://vod.divx.com.</string>
+    <string name="divx_NotRegDevice">You must register your device to play DivX protected videos.  \n\nRegistration code: </string>
+    <string name="divx_RegInfo_del">\nFor registration information, go to http://vod.divx.com.</string>
     <string name="divx_RegInfo"> http://vod.divx.com</string>
     <string name="divx_QuestionAboutDeReg">Your device is already registered. Are you sure you wish to deregister? </string>
     <string name="divx_dereg">DeRegistration</string>

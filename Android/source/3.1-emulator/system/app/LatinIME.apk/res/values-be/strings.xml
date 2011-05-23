@@ -32,17 +32,16 @@
     <string name="alternates_for_currency_euro">¢,£,$,¥,₱</string>
     <string name="alternates_for_currency_pound">¢,$,€,¥,₱</string>
     <string name="alternates_for_mic">@drawable/sym_keyboard_settings|@integer/key_settings,@drawable/sym_keyboard_mic|@integer/key_voice</string>
-    <string name="alternates_for_smiley">:-)|:-) ,:-(|:-( ,;-)|;-) ,:-P|:-P ,=-O|=-O ,:-*|:-* ,:O|:O ,B-)|B-) ,:-$|:-$ ,:-!|:-! ,:-[|:-[ ,O:-)|O:-) ,:-\\\\|:-\\\\ ,:'(|:'( ,:-D|:-D </string>
+    <string name="alternates_for_smiley">:-)|:-) ,:-(|:-( ,;-)|;-) ,:-P|:-P ,=-O|=-O ,:-*|:-* ,:O|:O ,B-)|B-) ,:-$|:-$ ,:-!|:-! ,:-[|:-[ ,O:-)|O:-) ,:-\\\\\\\\|:-\\\\\\\\ ,:\'(|:\'( ,:-D|:-D </string>
     <string name="alternates_for_settings_slash">@drawable/sym_keyboard_settings|@integer/key_settings,/</string>
     <string name="alternates_for_settings_at">@drawable/sym_keyboard_settings|@integer/key_settings,@</string>
-    <string name="alternates_for_settings_comma">@drawable/sym_keyboard_settings|@integer/key_settings,\,</string>
-    <string name="alternates_for_punctuation">:,/,&amp;,(,),-,+,;,@,',",?,!,\,</string>
+    <string name="alternates_for_settings_comma">@drawable/sym_keyboard_settings|@integer/key_settings,\\,</string>
+    <string name="alternates_for_punctuation">:,/,&amp;,(,),-,+,;,@,\',\",?,!,\\,</string>
     <string name="keylabel_for_popular_domain">.com</string>
     <string name="alternates_for_popular_domain">.net,.org,.gov,.edu</string>
-    <string name="word_separators">.	 ,;:!?
-()[]*&amp;@{}/&lt;&gt;_+=|"</string>
+    <string name="word_separators">.\t ,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|\"</string>
     <string name="sentence_separators">.,!?)</string>
-    <string name="suggested_punctuations">!?,"':();-/@_</string>
+    <string name="suggested_punctuations">!?,\"\':();-/@_</string>
     <string name="label_alt_key">ALT</string>
     <string name="label_tab_key">Tab</string>
     <string name="label_to_symbol_key">?123</string>
@@ -118,14 +117,14 @@
     <string name="description_shift_off">Shift off</string>
     <string name="voice_warning_title">Voice input</string>
     <string name="voice_warning_locale_not_supported">Voice input is not currently supported for your language, but does work in English.</string>
-    <string name="voice_warning_may_not_understand">Voice input uses Google's speech recognition. <a href="http://m.google.com/privacy">The Mobile Privacy Policy</a> applies.</string>
+    <string name="voice_warning_may_not_understand">Voice input uses Google\'s speech recognition. <a href="http://m.google.com/privacy">The Mobile Privacy Policy</a> applies.</string>
     <string name="voice_warning_how_to_turn_off">To turn off voice input, go to input method settings.</string>
     <string name="voice_hint_dialog_message">To use voice input, press the microphone button.</string>
     <string name="voice_listening">Speak now</string>
     <string name="voice_working">Working</string>
     <string name="voice_initializing"></string>
     <string name="voice_error">Error. Please try again.</string>
-    <string name="voice_network_error">Couldn't connect</string>
+    <string name="voice_network_error">Couldn\'t connect</string>
     <string name="voice_too_much_speech">Error, too much speech.</string>
     <string name="voice_audio_error">Audio problem</string>
     <string name="voice_server_error">Server error</string>
@@ -133,7 +132,7 @@
     <string name="voice_no_match">No matches found</string>
     <string name="voice_not_installed">Voice search not installed</string>
     <string name="voice_swipe_hint"><b>Hint:</b> Swipe across keyboard to speak</string>
-    <string name="voice_punctuation_hint"><b>Hint:</b> Next time, try speaking punctuation like "period", "comma", or "question mark".</string>
+    <string name="voice_punctuation_hint"><b>Hint:</b> Next time, try speaking punctuation like \"period\", \"comma\", or \"question mark\".</string>
     <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
     <string name="voice_input">Voice input</string>

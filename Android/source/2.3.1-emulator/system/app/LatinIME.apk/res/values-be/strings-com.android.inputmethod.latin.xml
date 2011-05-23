@@ -26,10 +26,9 @@
     <string name="alternates_for_cyrillic_soft_sign"></string>
     <string name="alternates_for_a_umlaut"></string>
     <string name="alternates_for_o_umlaut"></string>
-    <string name="word_separators">.	 ,;:!?
-()[]*&amp;@{}/&lt;&gt;_+=|"</string>
+    <string name="word_separators">.\t ,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|\"</string>
     <string name="sentence_separators">.,!?)</string>
-    <string name="suggested_punctuations">!?,"':()-/@_</string>
+    <string name="suggested_punctuations">!?,\"\':()-/@_</string>
     <string name="settings_key_mode_auto">0</string>
     <string name="settings_key_mode_always_show">1</string>
     <string name="settings_key_mode_always_hide">2</string>
@@ -38,7 +37,7 @@
     <string name="english_ime_input_options">Input options</string>
     <string name="vibrate_on_keypress">Vibrate on keypress</string>
     <string name="obey_haptic_feedback">Obey haptic feedback</string>
-    <string name="obey_haptic_feedback_summary">Don't vibrate if haptic feedback is disabled in system settings</string>
+    <string name="obey_haptic_feedback_summary">Don\'t vibrate if haptic feedback is disabled in system settings</string>
     <string name="sound_on_keypress">Sound on keypress</string>
     <string name="popup_on_keypress">Popup on keypress</string>
     <string name="hit_correction">Correct typing errors</string>
@@ -82,8 +81,7 @@
     <string name="touch_to_continue">Touch this hint to continue »</string>
     <string name="touch_to_finish">Touch here to close this hint and start typing!</string>
     <string name="tip_to_open_keyboard"><b>The keyboard opens any time you touch a text field</b></string>
-    <string name="tip_to_view_accents"><b>Touch &amp; hold a key to view accents
-(ø, ö, ô, ó, and so on)</b> </string>
+    <string name="tip_to_view_accents"><b>Touch &amp; hold a key to view accents\n(ø, ö, ô, ó, and so on)</b> </string>
     <string name="tip_to_open_symbols"><b>Switch to numbers and symbols by touching this key</b></string>
     <string name="tip_to_close_symbols"><b>Go back to letters by touching this key again</b></string>
     <string name="tip_to_launch_settings"><b>Touch &amp; hold this key to change keyboard settings, like auto complete</b></string>
@@ -98,14 +96,14 @@
     <string name="label_alt_key">ALT</string>
     <string name="voice_warning_title">Voice input</string>
     <string name="voice_warning_locale_not_supported">Voice input is not currently supported for your language, but does work in English.</string>
-    <string name="voice_warning_may_not_understand">Voice input is an experimental feature using Google's networked speech recognition.</string>
+    <string name="voice_warning_may_not_understand">Voice input is an experimental feature using Google\'s networked speech recognition.</string>
     <string name="voice_warning_how_to_turn_off">To turn off voice input, go to keyboard settings.</string>
     <string name="voice_hint_dialog_message">To use voice input, press the microphone button or slide your finger across the on-screen keyboard.</string>
     <string name="voice_listening">Speak now</string>
     <string name="voice_working">Working</string>
     <string name="voice_initializing"></string>
     <string name="voice_error">Error. Please try again.</string>
-    <string name="voice_network_error">Couldn't connect</string>
+    <string name="voice_network_error">Couldn\'t connect</string>
     <string name="voice_too_much_speech">Error, too much speech.</string>
     <string name="voice_audio_error">Audio problem</string>
     <string name="voice_server_error">Server error</string>
@@ -113,7 +111,7 @@
     <string name="voice_no_match">No matches found</string>
     <string name="voice_not_installed">Voice search not installed</string>
     <string name="voice_swipe_hint"><b>Hint:</b> Swipe across keyboard to speak</string>
-    <string name="voice_punctuation_hint"><b>Hint:</b> Next time, try speaking punctuation like "period", "comma", or "question mark".</string>
+    <string name="voice_punctuation_hint"><b>Hint:</b> Next time, try speaking punctuation like \"period\", \"comma\", or \"question mark\".</string>
     <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
     <string name="voice_input">Voice input</string>
@@ -122,18 +120,10 @@
     <string name="voice_mode_off">2</string>
     <string name="auto_submit">Auto submit after voice</string>
     <string name="auto_submit_summary">Automatically press enter when searching or going to the next field.</string>
-    <string name="open_the_keyboard"><b><font size="17">Open the keyboard
-</font></b><font size="3">
-</font>Touch any text field.</string>
-    <string name="close_the_keyboard"><b><font size="17">Close the keyboard
-</font></b><font size="3">
-</font>Press the Back key.</string>
-    <string name="touch_and_hold"><b><font size="17">Touch &amp; hold a key for options
-</font></b><font size="3">
-</font>Access punctuation and accents.</string>
-    <string name="keyboard_settings"><b><font size="17">Keyboard settings
-</font></b><font size="3">
-</font>Touch &amp; hold the <b>?123</b> key.</string>
+    <string name="open_the_keyboard"><b><font size="17">Open the keyboard\n</font></b><font size="3">\n</font>Touch any text field.</string>
+    <string name="close_the_keyboard"><b><font size="17">Close the keyboard\n</font></b><font size="3">\n</font>Press the Back key.</string>
+    <string name="touch_and_hold"><b><font size="17">Touch &amp; hold a key for options\n</font></b><font size="3">\n</font>Access punctuation and accents.</string>
+    <string name="keyboard_settings"><b><font size="17">Keyboard settings\n</font></b><font size="3">\n</font>Touch &amp; hold the <b>?123</b> key.</string>
     <string name="popular_domain_0">.com</string>
     <string name="popular_domain_1">.net</string>
     <string name="popular_domain_2">.org</string>

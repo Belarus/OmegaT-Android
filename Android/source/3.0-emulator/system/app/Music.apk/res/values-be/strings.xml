@@ -12,10 +12,10 @@
     <string name="play_all">Play all</string>
     <string name="delete_artist_desc">All songs by %s will be permanently deleted from the SD card.</string>
     <string name="delete_artist_desc_nosdcard">All songs by %s will be permanently deleted from USB storage.</string>
-    <string name="delete_album_desc">The entire album "%s" will be permanently deleted from the SD card.</string>
-    <string name="delete_album_desc_nosdcard">The entire album "%s" will be permanently deleted from USB storage.</string>
-    <string name="delete_song_desc">"%s" will be permanently deleted from the SD card.</string>
-    <string name="delete_song_desc_nosdcard">"%s" will be permanently deleted from USB storage.</string>
+    <string name="delete_album_desc">The entire album \"%s\" will be permanently deleted from the SD card.</string>
+    <string name="delete_album_desc_nosdcard">The entire album \"%s\" will be permanently deleted from USB storage.</string>
+    <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
+    <string name="delete_song_desc_nosdcard">\"%s\" will be permanently deleted from USB storage.</string>
     <string name="delete_confirm_button_text">OK</string>
     <string name="scanning">Scanning SD card…</string>
     <string name="scanning_nosdcard">Scanning USB storage…</string>
@@ -65,7 +65,7 @@
     <string name="repeat_all_notif">Repeating all songs.</string>
     <string name="ringtone_menu">Use as phone ringtone</string>
     <string name="ringtone_menu_short">Use as ringtone</string>
-    <string name="ringtone_set">"%s" set as phone ringtone.</string>
+    <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
     <string name="play_selection">Play</string>
     <string name="add_to_playlist">Add to playlist</string>
     <string name="queue">Current playlist</string>

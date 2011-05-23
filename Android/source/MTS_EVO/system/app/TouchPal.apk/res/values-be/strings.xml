@@ -50,15 +50,12 @@
     <string name="optpage_smart">Chinese PinYin sentence prediction</string>
     <string name="optpage_errorcorrection">Enable mistyping correction</string>
     <string name="optpage_fuzzy">Chinese PinYin ambiguous input</string>
-    <string name="pageup">Page
-Up</string>
-    <string name="pagedown">Page
-Down</string>
+    <string name="pageup">Page\nUp</string>
+    <string name="pagedown">Page\nDown</string>
     <string name="del">Del</string>
     <string name="select">Select</string>
     <string name="done">Done</string>
-    <string name="selectall">Select
-All</string>
+    <string name="selectall">Select\nAll</string>
     <string name="home">Home</string>
     <string name="end">End</string>
     <string name="copy">Copy</string>
@@ -305,8 +302,7 @@ All</string>
     <string name="SetHighPriority">set high priority</string>
     <string name="SetLowPriority">set low priority</string>
     <string name="DeleteUserWord">delete word from user dictionary</string>
-    <string name="uninstall_language_summary">Not installed.
-Click to search on android market.</string>
+    <string name="uninstall_language_summary">Not installed.\nClick to search on android market.</string>
     <string name="optpage_symbol_toast_message">Slide Down to Get More Symbols</string>
     <string name="optpage_letter_toast_message">Switching to Letter Mode</string>
     <string name="KEY_SHOW_SYMBOL_TOAST">show_symbol_toast</string>

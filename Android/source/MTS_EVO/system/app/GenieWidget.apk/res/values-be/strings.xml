@@ -15,7 +15,7 @@
     <string name="miniwidget">News &amp; Weather</string>
     <string name="version">Version: %s</string>
     <string name="configure_widget">Configure Widget</string>
-    <string name="nolocationprovider">Couldn't determine location</string>
+    <string name="nolocationprovider">Couldn\'t determine location</string>
     <string name="connecting">connecting...</string>
     <string name="acquiringlocation">acquiring location...</string>
     <string name="loading">Loading...</string>
@@ -43,7 +43,7 @@
     <string name="searching">Searching...</string>
     <string name="networkfailure">Sorry, network error. Please try later.</string>
     <string name="setlocationcomplete">Weather location updated.</string>
-    <string name="setlocationfailed">Sorry, couldn't find a location matching '%s.'</string>
+    <string name="setlocationfailed">Sorry, couldn\'t find a location matching \'%s.\'</string>
     <string name="weather_tab_label">Weather</string>
     <string name="menu_item_refresh">Refresh</string>
     <string name="menu_item_setting">Settings</string>
@@ -100,10 +100,9 @@
     <string name="pref_custom_topic_dialog_title">Custom topic</string>
     <string name="pref_custom_topic_dialog_message">Enter a custom topic:</string>
     <string name="refresh_status1">Last refresh %s</string>
-    <string name="refresh_status2">Last refresh %1$s 
-Next refresh %2$s</string>
+    <string name="refresh_status2">Last refresh %1$s \nNext refresh %2$s</string>
     <string name="warning_autorefresh_title">Auto-refresh</string>
-    <string name="warning_autorefresh_body">To enable auto-refresh ensure Background data is enabled in the 'Accounts &amp; sync' settings page.</string>
+    <string name="warning_autorefresh_body">To enable auto-refresh ensure Background data is enabled in the \'Accounts &amp; sync\' settings page.</string>
     <string name="warning_refreshinterval_title">Attention</string>
     <string name="warning_refreshinterval_body">Faster refresh intervals increase data usage which also uses more battery.</string>
     <string name="warning_prefetch_title">Attention</string>

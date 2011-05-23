@@ -13,8 +13,7 @@
     <string name="settings_backup_summary">Back up my settings</string>
     <string name="sync_menu_sync_now">Sync now</string>
     <string name="sync_menu_sync_cancel">Cancel sync</string>
-    <string name="sync_one_time_sync">Touch to sync now
-%1$s</string>
+    <string name="sync_one_time_sync">Touch to sync now\n%1$s</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendar</string>
     <string name="sync_contacts">Contacts</string>
@@ -23,8 +22,7 @@
     <string name="sync_undo_deletes">Undo the deletes.</string>
     <string name="sync_do_nothing">Do nothing for now.</string>
     <string name="sync_is_failing">Sync is currently experiencing problems. It will be back shortly.</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> 
-A Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> \nA Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
     <string name="header_application_sync_settings">Application sync settings</string>
     <string name="header_manage_accounts">Manage accounts</string>
     <string name="header_general_sync_settings">General sync settings</string>
@@ -39,8 +37,7 @@ A Google approach to synchronizing data to allow access to your contacts, appoin
     <string name="header_add_an_account">Add an account</string>
     <string name="finish_button_label">Finish</string>
     <string name="really_remove_account_title">Remove account</string>
-    <string name="really_remove_account_message">Do you really want to remove this account? Removing it will also delete all of its messages, contacts, and other data from the phone. 
-Proceed?</string>
+    <string name="really_remove_account_message">Do you really want to remove this account? Removing it will also delete all of its messages, contacts, and other data from the phone. \nProceed?</string>
     <string name="remove_account_failed">This account is required by some applications. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data). You do that in the Settings application, under Privacy.</string>
     <string name="provider_label">Push subscriptions</string>
     <string name="sync_item_title">Sync %s</string>
@@ -50,8 +47,7 @@ Proceed?</string>
     <string name="sync_pcsuite_summary">Set default account for PC suite sync</string>
     <string name="syncauto_dialog_title">Attention</string>
     <string name="syncauto_dialog_message">Data transmission charges may apply. An unlimited data plan is recommended.</string>
-    <string name="background_data_dialog_checked_message">Do you want the background traffic data to be automatically disabled at the end of the day?
-Recommended if you don't have a flat tariff rate</string>
+    <string name="background_data_dialog_checked_message">Do you want the background traffic data to be automatically disabled at the end of the day?\nRecommended if you don\'t have a flat tariff rate</string>
     <string name="Yes">Yes</string>
     <string name="No">No</string>
 </resources>

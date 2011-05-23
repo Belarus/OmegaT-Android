@@ -117,8 +117,8 @@
     <string name="pref_exposure_default">0</string>
     <string name="details_ok">OK</string>
     <string name="spaceIsLow_content">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
-    <string name="image_file_name_format">'IMG'_yyyyMMdd_HHmmss</string>
-    <string name="video_file_name_format">'VID'_yyyyMMdd_HHmmss</string>
+    <string name="image_file_name_format">\'IMG\'_yyyyMMdd_HHmmss</string>
+    <string name="video_file_name_format">\'VID\'_yyyyMMdd_HHmmss</string>
     <string name="video_reach_size_limit">Size limit reached.</string>
     <string name="zoom_control_title">Zoom</string>
     <string name="zoom_increment">+</string>

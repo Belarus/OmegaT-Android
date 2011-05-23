@@ -4,7 +4,7 @@
     <string name="permlab_downloadManager">Access download manager.</string>
     <string name="permdesc_downloadManager">Allows the application to access the download manager and to use it to download files. Malicious applications can use this to disrupt downloads and access private information.</string>
     <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
-    <string name="permdesc_downloadManagerAdvanced">Allows the application to access the download manager's advanced functions. Malicious applications can use this to disrupt downloads and access private information.</string>
+    <string name="permdesc_downloadManagerAdvanced">Allows the application to access the download manager\'s advanced functions. Malicious applications can use this to disrupt downloads and access private information.</string>
     <string name="permlab_downloadCompletedIntent">Send download notifications.</string>
     <string name="permdesc_downloadCompletedIntent">Allows the application to send notifications about completed downloads. Malicious applications can use this to confuse other applications that download files.</string>
     <string name="permlab_seeAllExternal">See all downloads to SD card</string>

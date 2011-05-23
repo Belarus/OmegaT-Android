@@ -49,7 +49,7 @@
     <string name="str_activitylog_menuoption_mms">MMS</string>
     <string name="str_activitylog_menuoption_sms">SMS</string>
     <string name="str_activitylog_menushowall">Show all</string>
-    <string name="str_allcontacts_maxgroupreached">Maximum number of groups have been reached, you can't add a new group. If you want to do so, you have to delete any of the existing manual group first.</string>
+    <string name="str_allcontacts_maxgroupreached">Maximum number of groups have been reached, you can\'t add a new group. If you want to do so, you have to delete any of the existing manual group first.</string>
     <string name="str_allcontacts_menuitem_addtogroup">Add to group</string>
     <string name="str_allcontacts_menuitem_createGroup">Create group</string>
     <string name="str_allcontacts_menuitem_deleteContacts">Delete contacts</string>
@@ -57,7 +57,7 @@
     <string name="str_assigngroup_chooseagroup">Choose a group</string>
     <string name="str_assigngroup_choosegroups">Choose groups</string>
     <string name="str_assignringtone_downloadringtone">Download ringtone</string>
-    <string name="str_assigntogroup_text">Assign "%1$s" to groups</string>
+    <string name="str_assigntogroup_text">Assign \"%1$s\" to groups</string>
     <string name="str_attachtogroup_label">Group icon</string>
     <string name="str_birthrmd_title_p">Days before, at</string>
     <string name="str_birthrmd_title_s">Day before, at</string>
@@ -87,16 +87,16 @@
     <string name="str_createnewcontact_lastname">Last name</string>
     <string name="str_createnewcontact_other">Other</string>
     <string name="str_createnewcontact_setdefault">Set default number</string>
-    <string name="str_createnewgroup_emptygroupname">The "Group name" field cannot be empty.</string>
+    <string name="str_createnewgroup_emptygroupname">The \"Group name\" field cannot be empty.</string>
     <string name="str_createnewgroup_heading">Create new group</string>
     <string name="str_createnewgroup_members">Members</string>
-    <string name="str_deletewarningtext_assignedtogroup">"%1$s" is assigned to the following groups:</string>
+    <string name="str_deletewarningtext_assignedtogroup">\"%1$s\" is assigned to the following groups:</string>
     <string name="str_dial_imei">IMEI</string>
     <string name="str_dialog_Title_SaveGroup">Save group</string>
     <string name="str_displayallcontactswithcheckbox_selectcontacttodelete">Select contacts to delete</string>
     <string name="str_editcontact_invalidbirthday">Please enter valid birthday!</string>
     <string name="str_editgroup_groupringtone">Group ringtone</string>
-    <string name="str_editmemberlist_maxmembers">Maximum number of group members has been reached. You can't assign an additional member. If you want to do so, you have to remove any existing group member first.</string>
+    <string name="str_editmemberlist_maxmembers">Maximum number of group members has been reached. You can\'t assign an additional member. If you want to do so, you have to remove any existing group member first.</string>
     <string name="str_groupcomm_Emailrecipient_p">%1$d of %2$d have a valid e-mail address</string>
     <string name="str_groupcomm_Emailrecipient_s">%1$d of %2$d has a valid e-mail address</string>
     <string name="str_groupcomm_no_valid">No Valid contact found</string>
@@ -125,7 +125,7 @@
     <string name="str_setdefaultnumber_togroups">Assign to groups</string>
     <string name="str_settings_birthdayreminder">Birthday reminder</string>
     <string name="str_settings_deleteallcontacts">Delete all contacts</string>
-    <string name="str_showcreate_dlg_message_fmt">Add "%1$s" to contacts?</string>
+    <string name="str_showcreate_dlg_message_fmt">Add \"%1$s\" to contacts?</string>
     <string name="str_showcreate_dlg_title">Add contact</string>
     <string name="str_startup_importcancelled">Import cancelled</string>
     <string name="str_startup_importcontacts">Importing Contacts</string>
@@ -138,7 +138,7 @@
     <string name="str_typework">Work</string>
     <string name="str_updatedtime_tomorrow">Tomorrow</string>
     <string name="str_viewGroup">View group</string>
-    <string name="str_viewgroupmembers_removemember">Are you sure to remove "%1$s" from the group "%2$s"? The contact will still be accessible in your phonebook.</string>
+    <string name="str_viewgroupmembers_removemember">Are you sure to remove \"%1$s\" from the group \"%2$s\"? The contact will still be accessible in your phonebook.</string>
     <string name="type_incoming">Incoming call</string>
     <string name="unknown">Unknown</string>
     <string name="viewContactDesription">View contact</string>
@@ -154,8 +154,8 @@
     <string name="str_refreshed_on">Refreshed on</string>
     <string name="str_refrsehintvl">Refresh interval</string>
     <string name="str_settings_deviceFullPrompt">Maximum number of contacts is reached. Cannot Copy the contacts from %1$s.</string>
-    <string name="str_settingview_uidchange_deleteconfirmation">Your friend's information and updates of previous account will be removed from phone, continue?</string>
-    <string name="str_settingview_uidchange_downloadconfirmation">Download your friends from Kaixin now? Your friend's events will be downloaded.</string>
+    <string name="str_settingview_uidchange_deleteconfirmation">Your friend\'s information and updates of previous account will be removed from phone, continue?</string>
+    <string name="str_settingview_uidchange_downloadconfirmation">Download your friends from Kaixin now? Your friend\'s events will be downloaded.</string>
     <string name="str_startup_initializing_sim">Initializing %1$s card...</string>
     <string name="str_tab_activity_events">Kaixin</string>
     <string name="str_update">Update</string>
@@ -166,7 +166,7 @@
     <string name="callDetailsDurationFormat">%1$s mins %2$s secs</string>
     <string name="ghostData_name">First and Last</string>
     <string name="returnCall">Return call</string>
-    <string name="toast_call_detail_error">Couldn't read details for the requested call.</string>
+    <string name="toast_call_detail_error">Couldn\'t read details for the requested call.</string>
     <string name="type_missed">Missed call</string>
     <string name="type_outgoing">Outgoing call</string>
     <string name="str_titile_clearcontact">Clear contact</string>
@@ -185,10 +185,7 @@
     <string name="launcherDialer">Phone</string>
     <string name="str_assignringtone_seldefaultringtone">Select from ringtone</string>
     <string name="str_copyContactToSim">Copy</string>
-    <string name="str_startup_importdetails">contact %1$d of %2$d
-
-%3$s
-%4$s</string>
+    <string name="str_startup_importdetails">contact %1$d of %2$d\n\n%3$s\n%4$s</string>
     <string name="str_mainsettings_copycontactscomplete">Copying contacts succeeded</string>
     <string name="str_settings_deleting_prompt">Deleting...</string>
     <string name="str_no_groupsfound">No groups found</string>
@@ -204,8 +201,8 @@
     <string name="str_kaixin">Kaixin Account</string>
     <string name="str_kaixinlogo">Kaixin</string>
     <string name="str_loginactivity_addtitle">Add Kaixin account</string>
-    <string name="str_loginactivity_downloadingpopuptitle">Downloading friend's information</string>
-    <string name="str_loginactivity_informationtextscreendownloadprogress">Downloading friend's information into your phonebook...</string>
+    <string name="str_loginactivity_downloadingpopuptitle">Downloading friend\'s information</string>
+    <string name="str_loginactivity_informationtextscreendownloadprogress">Downloading friend\'s information into your phonebook...</string>
     <string name="str_loginactivity_informationtextscreenloginprogress">Logging in Kaixin account. This may take a few minutes...</string>
     <string name="str_loginactivity_login">Login</string>
     <string name="str_loginactivity_loginpopuptitle">Logging In</string>
@@ -242,7 +239,7 @@
     <string name="str_smile">smile</string>
     <string name="str_toblow">fist</string>
     <string name="str_tweakthefoot">tweak the foot</string>
-    <string name="str_acco_notexist_errorcode">Log-in account doesn't not exist...!</string>
+    <string name="str_acco_notexist_errorcode">Log-in account doesn\'t not exist...!</string>
     <string name="str_add_new">Add new contact</string>
     <string name="str_failed_buddies">Failed to import friends</string>
     <string name="str_Import_google">Import from Google account</string>
@@ -294,7 +291,7 @@
     <string name="str_importfriends_nofriendstoimport">No new friends to import</string>
     <string name="str_importnewfriends">Import Kaixin friends ($$)</string>
     <string name="str_kaixian_aeroplanemodeontoast">Please enable Airplane mode to update anything.</string>
-    <string name="str_loginactivity_createaccounttext">Doesn't have one?</string>
+    <string name="str_loginactivity_createaccounttext">Doesn\'t have one?</string>
     <string name="str_loginactivity_signin">Sign up</string>
     <string name="str_SendKaixinMessage_title">Message</string>
     <string name="str_simaccount_exists">The %1$s account already exists.</string>
@@ -349,7 +346,7 @@
     <string name="display_all_contacts">All Contacts</string>
     <string name="display_more_groups">More groups…</string>
     <string name="display_ungrouped">All Other Contacts</string>
-    <string name="display_warn_remove_ungrouped">Removing "%s" from sync will also remove any ungrouped contacts from sync.</string>
+    <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
     <string name="edit_read_only">This contact is read-only</string>
     <string name="eventLabelsGroup">Event</string>
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
@@ -402,7 +399,7 @@
     <string name="starredList">Starred</string>
     <string name="account_type_format">%1$s contact</string>
     <string name="add_2sec_pause">Add 2-sec pause</string>
-    <string name="add_contact_dlg_message_fmt">Add "%s" to contacts?</string>
+    <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
     <string name="add_wait">Add wait</string>
     <string name="addPicture">Add icon</string>
     <string name="attachToContact">Contact icon</string>
@@ -427,7 +424,7 @@
     <string name="chat_qq">Chat using QQ</string>
     <string name="chat_skype">Chat using Skype</string>
     <string name="chat_yahoo">Chat using Yahoo</string>
-    <string name="confirm_export_message">Are you sure to export your contact list to "%s"?</string>
+    <string name="confirm_export_message">Are you sure to export your contact list to \"%s\"?</string>
     <string name="contact_read_only">%1$s contact information is not editable on this device.</string>
     <string name="contact_status_update_attribution">via %1$s</string>
     <string name="contactOptionsTitle">Options</string>
@@ -446,15 +443,14 @@
     <string name="email_other">Email other</string>
     <string name="email_work">Email work</string>
     <string name="emailLabelsGroup">Email</string>
-    <string name="exporting_contact_failed_message">Failed to export contact data.
-Reason for failure: "%s"</string>
-    <string name="exporting_contact_list_message">Exporting contact data to "%s"</string>
+    <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
+    <string name="exporting_contact_list_message">Exporting contact data to \"%s\"</string>
     <string name="exporting_contact_list_progress">%s of %s contacts</string>
-    <string name="fail_reason_cannot_open_destination_dir">Cannot open or create the destination directory "%s"</string>
-    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: "%s"</string>
-    <string name="fail_reason_could_not_open_file">Could not open "%s": %s</string>
-    <string name="fail_reason_error_occurred_during_export">Error occurred during export: "%s"</string>
-    <string name="fail_reason_too_long_filename">Required filename is too long ("%s")</string>
+    <string name="fail_reason_cannot_open_destination_dir">Cannot open or create the destination directory \"%s\"</string>
+    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"%s\"</string>
+    <string name="fail_reason_could_not_open_file">Could not open \"%s\": %s</string>
+    <string name="fail_reason_error_occurred_during_export">Error occurred during export: \"%s\"</string>
+    <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\")</string>
     <string name="from_account_format">from %1$s</string>
     <string name="headerContactGroups">Choose contacts to display</string>
     <string name="imei">IMEI</string>
@@ -497,18 +493,7 @@ Reason for failure: "%s"</string>
     <string name="name_suffix">Name suffix</string>
     <string name="no_contact_details">No additional information for this contact</string>
     <string name="noContacts">No contacts.</string>
-    <string name="noContactsWithPhoneNumbers">You don't have any <b>contacts with phone numbers</b> to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To view contacts, press <b>Menu</b> and touch:
-
-<li><b>Display options</b> to change which contacts are visible
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to restore from SD card
-</li>
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li></string>
+    <string name="noContactsWithPhoneNumbers">You don\'t have any <b>contacts with phone numbers</b> to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo view contacts, press <b>Menu</b> and touch:\n\n<li><b>Display options</b> to change which contacts are visible\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to restore from SD card\n</li>\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li></string>
     <string name="noMatchingContacts">No matching contacts found.</string>
     <string name="organizationLabelsGroup">Organization</string>
     <string name="otherLabelsGroup">Other</string>
@@ -524,8 +509,7 @@ To view contacts, press <b>Menu</b> and touch:
     <string name="postal_street">Street</string>
     <string name="postalLabelsGroup">Postal address</string>
     <string name="private_num">Private number</string>
-    <string name="progress_shower_message">%s
-%s</string>
+    <string name="progress_shower_message">%s\n%s</string>
     <string name="reading_vcard_contacts">%s of %s contacts</string>
     <string name="reading_vcard_files">%s of %s files</string>
     <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>
@@ -540,7 +524,7 @@ To view contacts, press <b>Menu</b> and touch:
     <string name="ringtone_spinner">Ringtone: %1$s</string>
     <string name="savingContact">Saving contact…</string>
     <string name="savingDisplayGroups">Saving display options…</string>
-    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: "%s")</string>
+    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: \"%s\")</string>
     <string name="select_group_title">Groups</string>
     <string name="send_to_voicemail_view">Calls are sent directly to voicemail.</string>
     <string name="separatorJoinAggregateAll">All contacts</string>
@@ -634,7 +618,7 @@ To view contacts, press <b>Menu</b> and touch:
     <string name="str_event_image_title">%1$s uploaded %2$d new pictures</string>
     <string name="str_event_status_fail">Comment send failed</string>
     <string name="str_event_status_pass">Comment send Successfully</string>
-    <string name="str_event_status_title">%1$s's profile updated</string>
+    <string name="str_event_status_title">%1$s\'s profile updated</string>
     <string name="str_event_vote_title">%1s vote for the following topic</string>
     <string name="str_eventtab_noevents">No Events</string>
     <string name="str_eventtab_refreshmenu">Refresh events</string>
@@ -650,12 +634,12 @@ To view contacts, press <b>Menu</b> and touch:
     <string name="str_listmultiplecontacts_selectcontactstoadd">Select contacts to add</string>
     <string name="str_markContacts">Multi-select</string>
     <string name="str_memoryusage_used">Used:</string>
-    <string name="str_mostcontact_clearconfirm">Are you sure to clear "%1$s" from most contacted?</string>
+    <string name="str_mostcontact_clearconfirm">Are you sure to clear \"%1$s\" from most contacted?</string>
     <string name="str_no_contact_to_join">No contacts to join</string>
     <string name="str_nobuddies_import">No buddies to import..!</string>
     <string name="str_nonetworkfound">No network present, please check network settings.</string>
     <string name="str_remove_friends">Remove friends</string>
-    <string name="str_remove_message">Please wait, while removing friend's information</string>
+    <string name="str_remove_message">Please wait, while removing friend\'s information</string>
     <string name="str_removefromfavourite">Remove favorites</string>
     <string name="str_search_contacts">Search contacts</string>
     <string name="str_search_favorites">Search favorites</string>
@@ -674,7 +658,7 @@ To view contacts, press <b>Menu</b> and touch:
     <string name="str_update_status_option">Change Status</string>
     <string name="str_update_viewprofile_option">View my profile</string>
     <string name="str_upload_progress">Uploading is in progress</string>
-    <string name="str_viewgroupmembers_deleteemptygroup">Are you sure to delete the group "%1$s" from your phone?</string>
+    <string name="str_viewgroupmembers_deleteemptygroup">Are you sure to delete the group \"%1$s\" from your phone?</string>
     <string name="str_waitforsend">Please wait...</string>
     <string name="str_widget_myprofiledefaultstatustext">What are you doing?</string>
     <string name="str_widget_profilehint">I am...</string>
@@ -701,101 +685,23 @@ To view contacts, press <b>Menu</b> and touch:
     <string name="str_kaixin_birthday_sending_cake_success">Birthday cake sent successfully</string>
     <string name="str_kaixin_nobday_reminders">No Birthday Reminders</string>
     <string name="str_view_contact_copy">Copy to</string>
-    <string name="noContactsHelpText_sim">You don't have any contacts to display.
-
-To add contacts, press <b>Menu</b> and touch:
-
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to copy contacts from SIM card or restore from SD card.
-</li></string>
-    <string name="noContactsHelpText_uim">You don't have any contacts to display.
-
-To add contacts, press <b>Menu</b> and touch:
-
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to copy contacts from UIM card or restore from SD card.
-</li></string>
-    <string name="noContactsHelpTextWithSync_sim">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b>Menu</b> and touch:
-
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li>
-<li><b>Display options</b> to change which contacts are visible
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to copy contacts from SIM card or restore from SD card
-</li></string>
-    <string name="noContactsHelpTextWithSync_uim">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b>Menu</b> and touch:
-
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li>
-<li><b>Display options</b> to change which contacts are visible
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to copy contacts from UIM card or restore from SD card
-</li></string>
-    <string name="noContactsNoSimHelpText">You don't have any contacts to display.
-
-To add contacts, press <b>Menu</b> and touch:
-
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to restore contacts from SD card
-</li></string>
-    <string name="noContactsNoSimHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b>Menu</b> and touch:
-
-<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone
-</li>
-<li><b>Display options</b> to change which contacts are visible
-</li>
-<li><b>Create contact</b> to create a new contact from scratch
-</li>
-<li><b>Manage contacts</b> to restore from SD card
-</li></string>
-    <string name="noFavoritesHelpText">You currently don't have any favorites.
-
-To add favorites, you can:
-
-<li>Touch the add favorites icon on the left side of Favorites(0)
-</li>
-<li>Touch the star in contact details view
-</li>
-<li>Press <b>Menu</b> and touch <b>Add favorites</b>
-</li></string>
+    <string name="noContactsHelpText_sim">You don\'t have any contacts to display.\n\nTo add contacts, press <b>Menu</b> and touch:\n\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to copy contacts from SIM card or restore from SD card.\n</li></string>
+    <string name="noContactsHelpText_uim">You don\'t have any contacts to display.\n\nTo add contacts, press <b>Menu</b> and touch:\n\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to copy contacts from UIM card or restore from SD card.\n</li></string>
+    <string name="noContactsHelpTextWithSync_sim">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b>Menu</b> and touch:\n\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li>\n<li><b>Display options</b> to change which contacts are visible\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to copy contacts from SIM card or restore from SD card\n</li></string>
+    <string name="noContactsHelpTextWithSync_uim">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b>Menu</b> and touch:\n\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li>\n<li><b>Display options</b> to change which contacts are visible\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to copy contacts from UIM card or restore from SD card\n</li></string>
+    <string name="noContactsNoSimHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b>Menu</b> and touch:\n\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to restore contacts from SD card\n</li></string>
+    <string name="noContactsNoSimHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b>Menu</b> and touch:\n\n<li><b>Accounts</b> to add or configure an account with contacts you can sync to the phone\n</li>\n<li><b>Display options</b> to change which contacts are visible\n</li>\n<li><b>Create contact</b> to create a new contact from scratch\n</li>\n<li><b>Manage contacts</b> to restore from SD card\n</li></string>
+    <string name="noFavoritesHelpText">You currently don\'t have any favorites.\n\nTo add favorites, you can:\n\n<li>Touch the add favorites icon on the left side of Favorites(0)\n</li>\n<li>Touch the star in contact details view\n</li>\n<li>Press <b>Menu</b> and touch <b>Add favorites</b>\n</li></string>
     <string name="str_delete_warningstr">Are you sure to delete the contact from your phone?</string>
-    <string name="str_copyToAccount_noContact">%1$s account does not contain any contacts.
-
-Please choose another account from the above list to copy the contacts or press back key to return.</string>
+    <string name="str_copyToAccount_noContact">%1$s account does not contain any contacts.\n\nPlease choose another account from the above list to copy the contacts or press back key to return.</string>
     <string name="str_operator_movilnet_special_numbers">*5;*611;911;*1;*171;*21</string>
     <string name="str_operator_tme_predefined_contactNames">Atención al Cliente;At. Cliente (extranjero);Inf. 11822;Activar Buzón movistar;Emergencias;Buzón movistar;emoción</string>
     <string name="str_operator_tme_predefined_contactNumbers">609;+34609100609;11822;22500;112;123;22404</string>
     <string name="str_same_name_exist">Contact with this name already exists.</string>
-    <string name="str_same_number_exist">Number already exists as contact "%1$s".</string>
+    <string name="str_same_number_exist">Number already exists as contact \"%1$s\".</string>
     <string name="dialog_new_group_account">Create group under account</string>
-    <string name="noGroupsHelpText">You currently don't have any groups.
-
-To add a group, you can:
-<li>Touch the [create group icon] next to All groups
-</li>
-<li>Press <b>Menu</b> and touch Create group</li></string>
-    <string name="show_sim_display_setting_msg">%1$s contacts have been copied to your phone address book and they shall not be displayed in your contact list.
-
-To view %1$s contacts, you can touch <b>Menu</b> then <b>Display options</b> to enable it.</string>
+    <string name="noGroupsHelpText">You currently don\'t have any groups.\n\nTo add a group, you can:\n<li>Touch the [create group icon] next to All groups\n</li>\n<li>Press <b>Menu</b> and touch Create group</li></string>
+    <string name="show_sim_display_setting_msg">%1$s contacts have been copied to your phone address book and they shall not be displayed in your contact list.\n\nTo view %1$s contacts, you can touch <b>Menu</b> then <b>Display options</b> to enable it.</string>
     <string name="str_add_member">Add Member</string>
     <string name="str_addpicture_choose_mypicture">Choose from Gallery</string>
     <string name="str_addpicture_editpicture">Edit picture</string>
@@ -813,15 +719,9 @@ To view %1$s contacts, you can touch <b>Menu</b> then <b>Display options</b> to 
     <string name="str_mainlayout_menuremovemember">Remove from group</string>
     <string name="str_picture_remove">Remove</string>
     <string name="str_selectmany_title_select_num_for_sms">Select recipients for group SMS/MMS</string>
-    <string name="str_viewgroupmembers_deletegroup">Are you sure to delete the group "%1$s" from your phone? Even after deleting this group, the assigned contacts will still be accessible in your phonebook.</string>
-    <string name="str_duplicate_save_confirm">
-
-Do you still want to save it as another contact?</string>
-    <string name="str_view_contact_cannot_copy">This is a joint contact and cannot be copied, to copy the contact:
-
-<li>Please go back to contact list view and press <b>Menu</b>, touch <b>Manage contacts</b> to copy.</li>
-
-<li>Edit contact and separate the joint contact, then copy them separately.</li></string>
+    <string name="str_viewgroupmembers_deletegroup">Are you sure to delete the group \"%1$s\" from your phone? Even after deleting this group, the assigned contacts will still be accessible in your phonebook.</string>
+    <string name="str_duplicate_save_confirm">\n\nDo you still want to save it as another contact?</string>
+    <string name="str_view_contact_cannot_copy">This is a joint contact and cannot be copied, to copy the contact:\n\n<li>Please go back to contact list view and press <b>Menu</b>, touch <b>Manage contacts</b> to copy.</li>\n\n<li>Edit contact and separate the joint contact, then copy them separately.</li></string>
     <string name="str_copysim_availablespace">Only %1$d contacts can be saved in %2$s.</string>
     <string name="str_copysim_freeupspace">Do you want to free up space in %1$s ?</string>
     <string name="str_delete_partialDelete_p">%1$d of %2$d contacts deleted.</string>
@@ -871,11 +771,7 @@ Do you still want to save it as another contact?</string>
     <string name="str_no_groups_assigned">No groups</string>
     <string name="str_reset_ringtone">Reset ringtone</string>
     <string name="str_ringtone_voice_recorder">Voice recorder</string>
-    <string name="strJointContactCannotAddToGroup">This is a joint contact and can not be added to groups.To add it to group, you need to:
-
-<li>Go to Groups view and select group, then add contact to group from edit group view.</li>
-
-<li>Edit contact and separate the joint contact first, then add them to group seperately.</li></string>
+    <string name="strJointContactCannotAddToGroup">This is a joint contact and can not be added to groups.To add it to group, you need to:\n\n<li>Go to Groups view and select group, then add contact to group from edit group view.</li>\n\n<li>Edit contact and separate the joint contact first, then add them to group seperately.</li></string>
     <string name="str_updatingfavs">Updating favorites...</string>
     <string name="str_operator_tmn_c75_predefined_contactNames">Apoio TMN;Apoio TMN Roaming;Activações Serviços;Saldo Visor;Saldo Roaming;Karga;1820 Informações;Waiting Ring;TMNotícias;VoiceChat;Bolsa Online;Spot Report;City Guide;Número Amarelo;TMN Pontos;SOS Telemóvel</string>
     <string name="str_operator_tmn_c75_predefined_contactNumbers">1696;+351961696000;12045;*#123#;12044;12120;1820;12700;12400;12212;12600;12627;12456;1896;12096;800962222</string>

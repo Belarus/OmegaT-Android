@@ -6,7 +6,7 @@
     <string name="login_password_title">Password</string>
     <string name="login_signin">Login</string>
     <string name="login_signup">Sign up</string>
-    <string name="login_sign_up_here">Don't have an account?</string>
+    <string name="login_sign_up_here">Don\'t have an account?</string>
     <string name="login_clear">Remove account</string>
     <string name="login_about">About</string>
     <string name="login_terms">Terms</string>
@@ -29,7 +29,7 @@
     <string name="sync_contacts_choice_sync_all_description">Sync data about all friends to Contacts</string>
     <string name="sync_contacts_choice_sync_existing">Sync with existing contacts</string>
     <string name="sync_contacts_choice_sync_existing_description">Sync data only about friends already in Contacts</string>
-    <string name="sync_contacts_choice_dont_sync">Don't sync</string>
+    <string name="sync_contacts_choice_dont_sync">Don\'t sync</string>
     <string name="sync_contacts_choice_dont_sync_description">Use information about friends only in Facebook</string>
     <string name="sync_contacts_choice_remove_sync">Remove Facebook data</string>
     <string name="sync_contacts_choice_remove_sync_description">Remove Facebook data from Contacts. Use information about friends only in Facebook.</string>
@@ -42,7 +42,7 @@
     <string name="stream_refresh">Refresh</string>
     <string name="stream_logout_question">Logging out will remove your Facebook data from this phone. Do you want to logout?</string>
     <string name="stream_logging_out">Logging out...</string>
-    <string name="stream_share_hint">What's on your mind?</string>
+    <string name="stream_share_hint">What\'s on your mind?</string>
     <string name="stream_write_hint">Write something...</string>
     <string name="stream_share">Share</string>
     <string name="stream_one_likes">1 likes this</string>
@@ -57,7 +57,7 @@
     <string name="stream_clear_post_comment">Clear</string>
     <string name="stream_feedback">Comment or Like</string>
     <string name="stream_view_profile">View profile</string>
-    <string name="stream_view_target_wall">View %s's wall</string>
+    <string name="stream_view_target_wall">View %s\'s wall</string>
     <string name="stream_remove_comment">Remove comment</string>
     <string name="stream_remove_post">Remove post</string>
     <string name="stream_publishing">Publishing post. Please wait...</string>
@@ -93,7 +93,7 @@
     <string name="profile_photos_tab_title">Photos</string>
     <string name="albums_my_album">My albums</string>
     <string name="albums_albums">Albums</string>
-    <string name="albums_someones_album">%s' albums</string>
+    <string name="albums_someones_album">%s\' albums</string>
     <string name="albums_pick_title">Pick an album</string>
     <string name="albums_subtitle_one_album">1 album</string>
     <string name="albums_subtitle_albums_count">%d albums</string>
@@ -274,11 +274,11 @@
     <string name="upload_add_caption_here">Add a caption here</string>
     <string name="upload_loading">Loading...</string>
     <string name="upload_notification_title">Facebook upload</string>
-    <string name="upload_notification_update_caption">Facebook upload '%s'</string>
+    <string name="upload_notification_update_caption">Facebook upload \'%s\'</string>
     <string name="upload_notification_update_m_of_n">Facebook upload %d of %d</string>
-    <string name="upload_notification_end_ok_caption">Uploaded '%s'</string>
+    <string name="upload_notification_end_ok_caption">Uploaded \'%s\'</string>
     <string name="upload_notification_end_ok_m_of_n">Uploaded %d of %d</string>
-    <string name="upload_notification_end_error_caption">Cannot upload '%s'</string>
+    <string name="upload_notification_end_error_caption">Cannot upload \'%s\'</string>
     <string name="upload_notification_end_error_m_of_n">Cannot upload %d of %d</string>
     <string name="live_folder_name">Facebook Phonebook</string>
     <string name="live_folder_cell_phone">Mobile: %s</string>
@@ -354,7 +354,7 @@
     <string name="hints_subtitle">Facebook for Android</string>
     <string name="eula_title">End-User License Agreement</string>
     <string name="eula_agree">I agree</string>
-    <string name="eula_disagree">I don't agree</string>
+    <string name="eula_disagree">I don\'t agree</string>
     <string name="header_version">1.1 Dev 1</string>
     <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="contacts_profile_action">Facebook profile</string>

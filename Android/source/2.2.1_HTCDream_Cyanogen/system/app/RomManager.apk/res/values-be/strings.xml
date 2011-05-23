@@ -94,7 +94,7 @@
     <string name="developer_mode_on">Advanced Mode is enabled.</string>
     <string name="developer_mode_off">Advanced Mode is disabled.</string>
     <string name="developer_mode_summary">This is available once you enable Advanced Mode from the ROM Manager Main menu.</string>
-    <string name="premium_required_to_download">The Premium version of ROM Manager is required to download this Developer's ROMs!</string>
+    <string name="premium_required_to_download">The Premium version of ROM Manager is required to download this Developer\'s ROMs!</string>
     <string name="free_header">Free</string>
     <string name="premium_header">Premium</string>
     <string name="update_notifications">Update Notifications</string>
@@ -110,7 +110,7 @@
     <string name="automatic_backup">Automatic Backup</string>
     <string name="automatic_backup_disabled">Automatic Backup is disabled.</string>
     <string name="automatic_backup_summary">The next Automatic Backup will take place on %s.</string>
-    <string name="no_su">You must root your phone for ROM Manager to function. Superuser was not found at "/system/bin/su" or "/system/xbin/su". Use Google Search on your computer to find instructions to root your phone.</string>
+    <string name="no_su">You must root your phone for ROM Manager to function. Superuser was not found at \"/system/bin/su\" or \"/system/xbin/su\". Use Google Search on your computer to find instructions to root your phone.</string>
     <string name="invalid_license">Invalid License</string>
     <string name="invalid_license_text">Your ROM Manager License is outdated. Please reinstall ROM Manager via the Market.</string>
     <string name="changelog">Changelog</string>
@@ -149,12 +149,7 @@
     <string name="showads">Show Advertisements</string>
     <string name="showads_summary">Help support ROM Manager! (Changes require application restart.)</string>
     <string name="recovery_failure">Recovery Failure</string>
-    <string name="recovery_broken_fix">There are several ways to fix a "broken" recovery:
-1) Flash an alternate or older recovery and then flash back to the current version.
-2) Try enabling Erase Recovery in ROM Manager's Settings.
-3) Try clearing the download cache via the menu and reflashing.
-4) Flash back to an older recovery.
-5) Fastboot or SBF a recovery onto your phone from your PC.</string>
+    <string name="recovery_broken_fix">There are several ways to fix a \"broken\" recovery:\n1) Flash an alternate or older recovery and then flash back to the current version.\n2) Try enabling Erase Recovery in ROM Manager\'s Settings.\n3) Try clearing the download cache via the menu and reflashing.\n4) Flash back to an older recovery.\n5) Fastboot or SBF a recovery onto your phone from your PC.</string>
     <string name="reboot_fix">Some ROMs have a broken reboot binary. View this thread on your computer for more information: http://bit.ly/dj9qbN.</string>
     <string name="unknown_bug">Please feel free to email me at koush@clockworkmod.com with your bug!</string>
     <string name="buy_premium">Buy Premium</string>

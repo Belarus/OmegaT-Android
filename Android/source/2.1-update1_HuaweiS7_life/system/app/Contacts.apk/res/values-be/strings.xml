@@ -111,7 +111,7 @@
     <string name="noContactsWithPhoneNumbers">No contacts with phone numbers.</string>
     <string name="noFavorites">No favorites.</string>
     <string name="select_group_title">Groups</string>
-    <string name="groupEmpty">Your "%s" group is empty.</string>
+    <string name="groupEmpty">Your \"%s\" group is empty.</string>
     <string name="showAllGroups">All contacts</string>
     <string name="showFilterPhones">Only contacts with phones</string>
     <string name="showFilterPhonesDescrip">Only display contacts that have phone numbers</string>
@@ -167,115 +167,20 @@
     <string name="dialerDialpadHintText">Dial to add a call</string>
     <string name="simContacts_emptyLoading">Loading from SIM card…</string>
     <string name="simContacts_title">SIM card contacts</string>
-    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">Sync your Google contacts!</font> 
-After syncing to your tablet, your contacts will be available to you wherever you go.</string>
-    <string name="noContactsHelpText">You don't have any contacts to display.
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsHelpTextUp">You don't have any contacts to display.
-</string>
-    <string name="noContactsHelpTextDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsHelpTextWithSyncUp">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-</string>
-    <string name="noContactsHelpTextWithSyncDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsNoSimHelpTextUp">You don't have any contacts to display.
-</string>
-    <string name="noContactsNoSimHelpTextDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsNoSimHelpTextWithSyncUp">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-</string>
-    <string name="noContactsNoSimHelpTextWithSyncDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsNoSimHelpText">You don't have any contacts to display.
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noContactsNoSimHelpTextWithSync">You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)
-
-To add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:
- 
-<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet
-</li> 
-<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible
-</li> 
-<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch
-</li> 
-<li><b><font fgcolor="#ffffffff">Import/Export</font></b>
-</li>
-</string>
-    <string name="noFavoritesHelpText">You don't have any favorites.
-
-To add a contact to your list of favorites:
-
-<li>Touch the <b>Contacts</b> tab
-</li> 
-<li>Touch the contact you want to add to your favorites
-</li> 
-<li>Touch the star next to the contact's name
-</li>
-</string>
+    <string name="contactsSyncPlug"><font fgcolor="#ffffffff">Sync your Google contacts!</font> \nAfter syncing to your tablet, your contacts will be available to you wherever you go.</string>
+    <string name="noContactsHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsHelpTextUp">You don\'t have any contacts to display.\n</string>
+    <string name="noContactsHelpTextDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsHelpTextWithSyncUp">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n</string>
+    <string name="noContactsHelpTextWithSyncDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsNoSimHelpTextUp">You don\'t have any contacts to display.\n</string>
+    <string name="noContactsNoSimHelpTextDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsNoSimHelpTextWithSyncUp">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n</string>
+    <string name="noContactsNoSimHelpTextWithSyncDown">To add contacts, you can touch <b><font fgcolor="#ffffffff">[Create new contact icon]</font></b> or use menu:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsNoSimHelpText">You don\'t have any contacts to display.\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noContactsNoSimHelpTextWithSync">You don\'t have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <b><font fgcolor="#ffffffff">Menu</font></b> and touch:\n \n<li><b><font fgcolor="#ffffffff">Accounts</font></b> to add or configure an account with contacts you can sync to the tablet\n</li> \n<li><b><font fgcolor="#ffffffff">Display options</font></b> to change which contacts are visible\n</li> \n<li><b><font fgcolor="#ffffffff">New contact</font></b> to create a new contact from scratch\n</li> \n<li><b><font fgcolor="#ffffffff">Import/Export</font></b>\n</li>\n</string>
+    <string name="noFavoritesHelpText">You don\'t have any favorites.\n\nTo add a contact to your list of favorites:\n\n<li>Touch the <b>Contacts</b> tab\n</li> \n<li>Touch the contact you want to add to your favorites\n</li> \n<li>Touch the star next to the contact\'s name\n</li>\n</string>
     <string name="seclectSyncGroups_title">Select groups to sync</string>
     <string name="liveFolder_all_label">All contacts</string>
     <string name="liveFolder_favorites_label">Starred</string>
@@ -284,7 +189,7 @@ To add a contact to your list of favorites:
     <string name="dialer_returnToInCallScreen">Return to call in progress</string>
     <string name="dialer_addAnotherCall">Add call</string>
     <string name="callDetailTitle">Call details</string>
-    <string name="toast_call_detail_error">Couldn't read details for the requested call.</string>
+    <string name="toast_call_detail_error">Couldn\'t read details for the requested call.</string>
     <string name="call_type">Type</string>
     <string name="type_incoming">Incoming call</string>
     <string name="type_outgoing">Outgoing call</string>
@@ -309,7 +214,7 @@ To add a contact to your list of favorites:
     <string name="callDetailsDurationFormat">%s mins %s secs</string>
     <string name="favoritesFrquentSeparator">Frequently called</string>
     <string name="add_contact_dlg_title">Add contact</string>
-    <string name="add_contact_dlg_message_fmt">Add "%s" to contacts?</string>
+    <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
     <string name="all_tab_label">All</string>
     <string name="description_image_button_one">one</string>
     <string name="description_image_button_two">two</string>
@@ -335,7 +240,7 @@ To add a contact to your list of favorites:
     <string name="import_all_vcard_string">Import all vCard files</string>
     <string name="searching_vcard_message">Searching for vCard data on %s</string>
     <string name="scanning_sdcard_failed_title">Scanning %s failed</string>
-    <string name="scanning_sdcard_failed_message">Scanning %s failed (Reason: "%s")</string>
+    <string name="scanning_sdcard_failed_message">Scanning %s failed (Reason: \"%s\")</string>
     <string name="fail_reason_io_error">I/O Error</string>
     <string name="fail_reason_vcard_parse_error">Failed to parse vCard for unexpected reason</string>
     <string name="fail_reason_vcard_not_supported_error">Failed to parse vCard though it seems in valid format, since the current implementation does not support it</string>
@@ -345,36 +250,33 @@ To add a contact to your list of favorites:
     <string name="fail_reason_unknown">Unknown error</string>
     <string name="select_vcard_title">Select vCard file</string>
     <string name="select_vcard_message">Please select a vCard file to import</string>
-    <string name="progress_shower_message">%s
-%s</string>
+    <string name="progress_shower_message">%s\n%s</string>
     <string name="reading_vcard_title">Importing</string>
     <string name="reading_vcard_message">Reading vCard file(s)</string>
     <string name="importing_vcard_message">Importing vCard data</string>
     <string name="reading_vcard_failed_title">Reading of vCard data has failed</string>
-    <string name="reading_vcard_failed_message">Could not read vCard.
-Reason for failure: "%s"</string>
+    <string name="reading_vcard_failed_message">Could not read vCard.\nReason for failure: \"%s\"</string>
     <string name="reading_vcard_contacts">%s of %s contacts</string>
     <string name="reading_vcard_files">%s of %s files</string>
     <string name="export_all_contacts">All contacts</string>
     <string name="export_phone_local_only">Locally stored contacts</string>
     <string name="export_contact_list">Export contacts</string>
     <string name="confirm_export_title">Confirm export</string>
-    <string name="confirm_export_message">Are you sure you want to export your contact list to "%s"?</string>
+    <string name="confirm_export_message">Are you sure you want to export your contact list to \"%s\"?</string>
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
-    <string name="exporting_contact_failed_message">Failed to export contact data.
-Reason for failure: "%s"</string>
+    <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
     <string name="fail_reason_no_exportable_contact">There is no exportable contact</string>
     <string name="fail_reason_too_many_vcard">Too many vCard files on the %s</string>
-    <string name="fail_reason_too_long_filename">Required filename is too long ("%s")</string>
-    <string name="fail_reason_cannot_open_destination_dir">Cannot open or create the destination directory"%s"</string>
+    <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\")</string>
+    <string name="fail_reason_cannot_open_destination_dir">Cannot open or create the destination directory\"%s\"</string>
     <string name="exporting_contact_list_title">Exporting</string>
-    <string name="exporting_contact_list_message">Exporting contact data to "%s"</string>
-    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: "%s"</string>
-    <string name="fail_reason_error_occurred_during_export">Error occured during export: "%s"</string>
+    <string name="exporting_contact_list_message">Exporting contact data to \"%s\"</string>
+    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"%s\"</string>
+    <string name="fail_reason_error_occurred_during_export">Error occured during export: \"%s\"</string>
     <string name="composer_failed_to_get_database_infomation">Failed to get database information</string>
     <string name="composer_has_no_exportable_contact">There is no exportable contact. You might choose un-exportable data</string>
     <string name="composer_not_initialized">The vCard composer is not correctly initialized</string>
-    <string name="fail_reason_could_not_open_file">Could not open "%s": %s</string>
+    <string name="fail_reason_could_not_open_file">Could not open \"%s\": %s</string>
     <string name="exporting_contact_list_progress">%s of %s contacts</string>
     <string name="search_settings_description">Names of your contacts</string>
     <string name="add_2sec_pause">Add 2-sec pause</string>
@@ -411,7 +313,7 @@ Reason for failure: "%s"</string>
     <string name="display_more_groups">More groups…</string>
     <string name="display_ungrouped">All Other Contacts</string>
     <string name="display_all_contacts">All Contacts</string>
-    <string name="display_warn_remove_ungrouped">Removing '%s' from sync will also remove any ungrouped contacts from sync.</string>
+    <string name="display_warn_remove_ungrouped">Removing \'%s\' from sync will also remove any ungrouped contacts from sync.</string>
     <string name="account_phone">Phone-only (unsynced)</string>
     <string name="label_email_display_name">Display name</string>
     <string name="call_custom">Call %s</string>

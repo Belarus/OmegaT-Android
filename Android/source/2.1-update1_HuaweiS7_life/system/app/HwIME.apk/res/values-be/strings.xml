@@ -5,8 +5,7 @@
     <string name="version">1.4.0</string>
     <string name="setting_about">About Huawei Input Method</string>
     <string name="hwime_about_title">About</string>
-    <string name="hwime_about_content">Huawei Input Method V1.4.0
-Copyright (C) 2009 Huawei Device Co., Ltd.</string>
+    <string name="hwime_about_content">Huawei Input Method V1.4.0\nCopyright (C) 2009 Huawei Device Co., Ltd.</string>
     <string name="ime_list_item">Input method</string>
     <string name="toggle_cn">0</string>
     <string name="toggle_cn_cand">1</string>
@@ -157,7 +156,7 @@ Copyright (C) 2009 Huawei Device Co., Ltd.</string>
     <string name="smil06">^O^</string>
     <string name="smil07">:-*</string>
     <string name="smil08">:(</string>
-    <string name="smil09">:'(</string>
+    <string name="smil09">:\'(</string>
     <string name="smil10">:S</string>
     <string name="smil11">:O</string>
     <string name="smil12">-_-</string>
@@ -198,13 +197,12 @@ Copyright (C) 2009 Huawei Device Co., Ltd.</string>
     <string name="sym17">？</string>
     <string name="sym18"> </string>
     <string name="sym19">。</string>
-    <string name="sym20">
-</string>
+    <string name="sym20">\n</string>
     <string name="sym21">!</string>
     <string name="sym22">$</string>
     <string name="sym23">-</string>
-    <string name="sym24">"</string>
-    <string name="sym25">'</string>
+    <string name="sym24">\"</string>
+    <string name="sym25">\'</string>
     <string name="sym26">:</string>
     <string name="sym27">;</string>
     <string name="sym28">,</string>

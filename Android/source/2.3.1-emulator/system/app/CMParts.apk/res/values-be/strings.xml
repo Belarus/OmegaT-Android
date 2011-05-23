@@ -50,8 +50,7 @@
     <string name="pref_lockscreen_timeout_lock_delay_summary">How long to delay before enabling screen lock when screen times out</string>
     <string name="pref_lockscreen_screenoff_lock_delay_summary">How long to delay before enabling screen lock when screen is turned off</string>
     <string name="title_color_picker">Pick a color</string>
-    <string name="msg_color_picker">Tap on center color to confirm.
-Press back to cancel</string>
+    <string name="msg_color_picker">Tap on center color to confirm.\nPress back to cancel</string>
     <string name="trackball_notifications_title">LED notification colors</string>
     <string name="dialog_color_trackball">Choose a color</string>
     <string name="dialog_blink_trackball">Choose a blink rate</string>
@@ -87,13 +86,13 @@ Press back to cancel</string>
     <string name="trackball_category_add_summary">Add a category to the list</string>
     <string name="trackball_category_remove_title">Remove category</string>
     <string name="trackball_category_remove_summary">Remove a category from the list</string>
-    <string name="trackball_remove_default_toast">Can't remove this category as its the default one.</string>
+    <string name="trackball_remove_default_toast">Can\'t remove this category as its the default one.</string>
     <string name="trackball_reset_all">Reset all colors and categories.</string>
     <string name="trackball_array_error">Unfortunately there was an array error. This package has been forced into Miscellaneous category.</string>
     <string name="trackball_color_notice_title">NOTE:</string>
     <string name="trackball_color_notice_summary">Not all colors will display on all devices.</string>
     <string name="notification_battery_warning_title">WARNING: May cause battery drain</string>
-    <string name="notification_battery_warning">This option has been proven to increase the amount of battery drain by ~3% per hour. If you notice an increase in drain during trackball lights pulsing then this option is why. Do not enable if you don't wish to incur the drain.</string>
+    <string name="notification_battery_warning">This option has been proven to increase the amount of battery drain by ~3% per hour. If you notice an increase in drain during trackball lights pulsing then this option is why. Do not enable if you don\'t wish to incur the drain.</string>
     <string name="input_settings_title">Input settings</string>
     <string name="input_settings_summary">Control button behavior</string>
     <string name="button_settings_title">Button settings</string>
@@ -182,10 +181,8 @@ Press back to cancel</string>
     <string name="title_haptic_notice">REBOOT REQUIRED FOR CHANGES TO APPLY GLOBALLY</string>
     <string name="haptic_delay_desc">ms Off Time</string>
     <string name="haptic_vibe_desc">ms On Time</string>
-    <string name="haptic_down_description">Adjusting haptic values for button DOWN-PRESSES
-(Virtual hardkeys and certain UI interactions.)</string>
-    <string name="haptic_up_description">Adjusting haptic values for button RELEASES
-(Virtual hardkeys and most screen presses.)</string>
+    <string name="haptic_down_description">Adjusting haptic values for button DOWN-PRESSES\n(Virtual hardkeys and certain UI interactions.)</string>
+    <string name="haptic_up_description">Adjusting haptic values for button RELEASES\n(Virtual hardkeys and most screen presses.)</string>
     <string name="haptic_long_description">Adjusting haptic values for LONG-PRESSES.</string>
     <string name="haptic_tap_description">Adjusting haptic values for on-screen keyboard taps</string>
     <string name="haptic_plus_minus_desc">Press the Plus or Minus Buttons to add or remove steps in the sequence.</string>
@@ -418,14 +415,11 @@ Press back to cancel</string>
     <string name="cpu_title">CPU settings</string>
     <string name="cpu_summary">Governor and clock settings</string>
     <string name="cpu_governors_title">Available governors</string>
-    <string name="cpu_governors_summary">List of available governors
-Currently selected: %S</string>
+    <string name="cpu_governors_summary">List of available governors\nCurrently selected: %S</string>
     <string name="cpu_min_freq_title">Min CPU frequency</string>
-    <string name="cpu_min_freq_summary">Minimum CPU frequency
-Currently: %s</string>
+    <string name="cpu_min_freq_summary">Minimum CPU frequency\nCurrently: %s</string>
     <string name="cpu_max_freq_title">Max CPU frequency</string>
-    <string name="cpu_max_freq_summary">Maximum CPU frequency
-Currently: %s</string>
+    <string name="cpu_max_freq_summary">Maximum CPU frequency\nCurrently: %s</string>
     <string name="cpu_set_on_boot">Set on boot</string>
     <string name="cpu_set_on_boot_summary">Restore CPU settings on boot</string>
 </resources>

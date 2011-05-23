@@ -41,7 +41,7 @@
     <string name="error_no_connection">Unable to connect</string>
     <string name="error_out_of_memory">There is not enough memory to start application. Please close some other applications and try again.</string>
     <string name="error_layer_deleted">This layer is not available anymore</string>
-    <string name="error_cant_access_layer">Sorry, we can't access the layer at the moment</string>
+    <string name="error_cant_access_layer">Sorry, we can\'t access the layer at the moment</string>
     <string name="terms_and_conditions">Terms &amp; Conditions</string>
     <string name="view_reality">Reality</string>
     <string name="view_map">Map</string>
@@ -124,7 +124,7 @@
     <string name="screenshot_no_sdcard">No SD-card available for storage</string>
     <string name="screenshot_saved_as">Saved as: %path%</string>
     <string name="search_hint">Search layers</string>
-    <string name="search_results">Results for "%query%"</string>
+    <string name="search_results">Results for \"%query%\"</string>
     <string name="search_no_results">No results found, try a different keyword</string>
     <string name="local_no_results">No local layers found</string>
     <string name="category_no_results">No layers found in this category</string>
@@ -183,18 +183,17 @@
     <string name="user_password">Password</string>
     <string name="user_login">Log in</string>
     <string name="user_welcome_title">Welcome to Layar Reality Browser</string>
-    <string name="user_welcome_text">To purchase layers you'll need an account...</string>
+    <string name="user_welcome_text">To purchase layers you\'ll need an account...</string>
     <string name="user_welcome_create_account">Create account</string>
     <string name="user_welcome_facebook">Connect with Facebook</string>
     <string name="user_welcome_not_now">Not now, remind me later</string>
-    <string name="user_welcome_never">Don't ask me again</string>
+    <string name="user_welcome_never">Don\'t ask me again</string>
     <string name="user_create_title">Create account</string>
     <string name="user_create_keep_informed">Sign me up for the newsletter</string>
     <string name="user_create_create">Create account</string>
     <string name="user_create_privacy">Your email address will never be sold, shared or published. See layar.com/legal/privacy for our privacy policy.</string>
     <string name="user_exists_title">Username taken</string>
-    <string name="user_exists">Username is not available.
-Please choose another.</string>
+    <string name="user_exists">Username is not available.\nPlease choose another.</string>
     <string name="user_email_exists_title">Email already used</string>
     <string name="user_email_exists">An account is already created for this email.</string>
     <string name="user_email_invalid_title">Invalid email</string>
@@ -205,8 +204,8 @@ Please choose another.</string>
     <string name="user_password_length">Password must be at least 6 characters.</string>
     <string name="account_creation_failed">Account creation failed</string>
     <string name="success_user_create"><b>Account created!</b> You are almost there...</string>
-    <string name="user_creation_confirmation_text">Before you can buy stuff you'll need to verify your account. We've sent you an email to do just this. Please check your inbox.</string>
-    <string name="wrong_username_password">We couldn't log you in. Your username, email or password is wrong.</string>
+    <string name="user_creation_confirmation_text">Before you can buy stuff you\'ll need to verify your account. We\'ve sent you an email to do just this. Please check your inbox.</string>
+    <string name="wrong_username_password">We couldn\'t log you in. Your username, email or password is wrong.</string>
     <string name="account_suspended">Sorry, your account has been blocked. Please login with a different account or press Cancel.</string>
     <string name="error_logging_in">Sorry, there was a problem logging you in. Try again later.</string>
     <string name="error_creating_user">Sorry, there was a problem creating your account. Please try again.</string>
@@ -214,11 +213,11 @@ Please choose another.</string>
     <string name="user_forgot_password_title">Forgot password</string>
     <string name="user_forgot_password_link_text"><u>Forgot your password?</u></string>
     <string name="user_forgot_password_header_text">Submit your email address and receive a link to reset your password.</string>
-    <string name="user_forgot_password_sent_confirmation_text">We've sent you an email with instructions to reset your password.</string>
+    <string name="user_forgot_password_sent_confirmation_text">We\'ve sent you an email with instructions to reset your password.</string>
     <string name="user_error_recovery_password">Sorry, there was a problem while requesting to reset your password. Please try again.</string>
     <string name="user_error_nonexistant_email">Oops, there is no account with this email address.</string>
     <string name="user_verification_prompt_title">Verification prompt</string>
-    <string name="user_verification_prompt_text">We're sorry, you'll need to verify your account before you can buy stuff.</string>
+    <string name="user_verification_prompt_text">We\'re sorry, you\'ll need to verify your account before you can buy stuff.</string>
     <string name="user_verification_prompt_send_again">Send verification link again</string>
     <string name="user_verification_prompt_login_another">Log in with another account</string>
     <string name="user_verification_prompt_login_incorrect">Sorry, this account is not verified too. Please use verified account.</string>
@@ -227,7 +226,7 @@ Please choose another.</string>
     <string name="account_not_verified">Your account is not verified.</string>
     <string name="send_verification"><u>Send verification link again</u></string>
     <string name="error_sending_verification_link">There was an error sending the verification link.</string>
-    <string name="account_verification_link_sent">We've emailed you a link that you can use to verify your account.</string>
+    <string name="account_verification_link_sent">We\'ve emailed you a link that you can use to verify your account.</string>
     <string name="multiple_login_title">Log in again</string>
     <string name="multiple_login_message">According to our records, you last logged in on a different device. For security reasons, you will need to log in again...</string>
     <string name="multiple_login_warning">Do you think someone else is using your account?</string>
@@ -238,25 +237,23 @@ Please choose another.</string>
     <string name="logged_in_as">You are logged in as %name%.</string>
     <string name="logout">Log out</string>
     <string name="user_logged_out">You have been logged out.</string>
-    <string name="error_logging_out">We couldn't log you out. Try again.</string>
+    <string name="error_logging_out">We couldn\'t log you out. Try again.</string>
     <string name="development_mode_description">You have been given access to development mode, which allows you to view selected test layers.</string>
     <string name="enable_dev_mode">Enable development mode</string>
     <string name="purchase_layer">Purchase layer</string>
     <string name="error_retrieving_providers">Error retrieving payment providers</string>
     <string name="initiating_payment">Initiating payment...</string>
     <string name="error_initiating_payment">Error initiating payment</string>
-    <string name="purchase_failed_description">We're sorry, something went wrong and the purchase could not be completed.</string>
+    <string name="purchase_failed_description">We\'re sorry, something went wrong and the purchase could not be completed.</string>
     <string name="try_purchase_again">Try again with %paymentprovider%</string>
     <string name="choose_another_payment_provider">Choose another payment provider</string>
     <string name="purchase_succeeded_description">Success! Thank you for purchasing this layer</string>
-    <string name="payment_provider_limitation">Currently you can only purchase layers if you have a PayPal account in the <b>United States</b>, the <b>United Kingdom</b>, <b>Australia</b>, or <b>Canada</b>.
-
-Other countries will be added shortly. Sorry about this...</string>
+    <string name="payment_provider_limitation">Currently you can only purchase layers if you have a PayPal account in the <b>United States</b>, the <b>United Kingdom</b>, <b>Australia</b>, or <b>Canada</b>.\n\nOther countries will be added shortly. Sorry about this...</string>
     <string name="launch_layer">Launch %layername%</string>
     <string name="launch_layar">Launch Layar</string>
     <string name="pay_with">Pay with</string>
     <string name="welcome_title">Welcome to Layar Reality Browser</string>
-    <string name="welcome_intro">The Layar Reality Browser is a beautiful, fun augmented reality app that shows you the things you can't see.</string>
+    <string name="welcome_intro">The Layar Reality Browser is a beautiful, fun augmented reality app that shows you the things you can\'t see.</string>
     <string name="welcome_tip1"><b>See the world</b>. Augmented with layers you have chosen to see.</string>
     <string name="welcome_tip2"><b>Catalog</b> with hundreds of free and paid layers to choose from.</string>
     <string name="welcome_tip3">Create an <b>account</b> to unlock the full potential.</string>
@@ -266,11 +263,11 @@ Other countries will be added shortly. Sorry about this...</string>
     <string name="welcome_skip_dialog_message">Do you want to create an account another time?</string>
     <string name="welcome_skip_dialog_message2">This is needed to purchase paid layers.</string>
     <string name="welcome_skip_dialog_remind">Remind me later</string>
-    <string name="welcome_skip_dialog_dontask">Don't ask again</string>
+    <string name="welcome_skip_dialog_dontask">Don\'t ask again</string>
     <string name="ratings_rate_layer">Rate this layer</string>
     <string name="ratings_stars_1">I hate it</string>
-    <string name="ratings_stars_2">I don't like it</string>
-    <string name="ratings_stars_3">It's OK</string>
+    <string name="ratings_stars_2">I don\'t like it</string>
+    <string name="ratings_stars_3">It\'s OK</string>
     <string name="ratings_stars_4">I like it</string>
     <string name="ratings_stars_5">I love it</string>
     <string name="ratings_rate">Rate</string>
@@ -296,7 +293,7 @@ Other countries will be added shortly. Sorry about this...</string>
     <string name="shortcut_no_space">There is no space to add new shortcut</string>
     <string name="shortcut_same_shortcut">You already have a shortcut to this layer</string>
     <string name="shortcut_choose">Choose the layer</string>
-    <string name="shortcut_no_favorites">You don't have any favorite layers to make shortcuts to.</string>
+    <string name="shortcut_no_favorites">You don\'t have any favorite layers to make shortcuts to.</string>
     <string name="poidetails_more_items_message">There are %num% more items like this around you in this layer:</string>
     <string name="poidetails_one_more_item_message">There is 1 more item like this around you in this layer:</string>
     <string name="filter_title">Filters</string>
@@ -322,6 +319,6 @@ Other countries will be added shortly. Sorry about this...</string>
     <string name="filter_item_range_message">Do not show spots further than %value%</string>
     <string name="filter_item_paid">Show paid content</string>
     <string name="filter_item_paid_true">Show spots from paid layers</string>
-    <string name="filter_item_paid_false">Don't show spots from paid layers</string>
+    <string name="filter_item_paid_false">Don\'t show spots from paid layers</string>
     <string name="filter_reset">Reset filters</string>
 </resources>

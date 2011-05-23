@@ -30,8 +30,7 @@
     <string name="touch_test_complete">Resistor Touchscreen test complete</string>
     <string name="touch_screen_test_uncomplete">Capacitor Touchscreen test uncomplete</string>
     <string name="touch_screen_test_complete">Capacitor Touchscreen test complete</string>
-    <string name="test_success">Test succeeded. Click OK,
- Go to next test item. </string>
+    <string name="test_success">Test succeeded. Click OK,\n Go to next test item. </string>
     <string name="alert_dialog_cancel">Cancel</string>
     <string name="alert_dialog_ok">Confirm</string>
     <string name="alert_dialog_continue_title">Continue test?</string>
@@ -64,10 +63,8 @@
     <string name="gravity_sensor_test_fail">Gravity sensor test failed</string>
     <string name="LCD_Light_Testing">LCD backlight test in progressing…</string>
     <string name="MIC_Receiver_Testing">Mobile phone loopback test in progressing...</string>
-    <string name="MIC_Headset_Testing">Headset inserted. 
- Headset loopback test in progressing…</string>
-    <string name="Headse_if_is_on">Remove the headset. 
- Insert the headset to take headset loopback test.</string>
+    <string name="MIC_Headset_Testing">Headset inserted. \n Headset loopback test in progressing…</string>
+    <string name="Headse_if_is_on">Remove the headset. \n Insert the headset to take headset loopback test.</string>
     <string name="Headse_if_is_off">Insert the headset</string>
     <string name="Headset_out">Headset removed. Insert the headset.</string>
     <string name="Headset_in">Headset inserted. Remove headset…</string>
@@ -97,10 +94,8 @@
     <string name="recovery_system">Restore factory defaults?</string>
     <string name="recovery_system_failed">Restore factory defaults failed.</string>
     <string name="mmi_test_already">MMI test complete.</string>
-    <string name="mmi_test_success">MMI test complete. 
- No failed test items.</string>
-    <string name="bluetooth_discoverying">Searching for Bluetooth devices. 
- Wait for 15 seconds.</string>
+    <string name="mmi_test_success">MMI test complete. \n No failed test items.</string>
+    <string name="bluetooth_discoverying">Searching for Bluetooth devices. \n Wait for 15 seconds.</string>
     <string name="try_again_discovery_title">Bluetooth search again</string>
     <string name="try_again_discovery_message">Bluetooth search failed. Search again?</string>
     <string name="nv_reserved">NV backup in progressing…</string>

@@ -6,7 +6,7 @@
         <item quantity="few">%s secs</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%1$s results for "%2$s"</item>
-        <item quantity="one">%1$s result for "%2$s"</item>
+        <item quantity="other">%1$s results for \"%2$s\"</item>
+        <item quantity="one">%1$s result for \"%2$s\"</item>
     </plurals>
 </resources>

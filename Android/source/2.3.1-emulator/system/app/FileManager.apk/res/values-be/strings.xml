@@ -35,14 +35,14 @@
     <string name="media_scan_excluded">This folder will be excluded during the next media scan.</string>
     <string name="error_creating_new_folder">Could not create new folder.</string>
     <string name="error_deleting_file">Could not delete file.</string>
-    <string name="error_deleting_folder">Could not delete folder '%s'.</string>
+    <string name="error_deleting_folder">Could not delete folder \'%s\'.</string>
     <string name="error_renaming_file">Could not rename file.</string>
     <string name="error_renaming_folder">Could not rename folder.</string>
     <string name="error_moving_file">Could not move file.</string>
     <string name="error_moving_folder">Could not move folder.</string>
     <string name="error_copying_file">Could not copy file.</string>
     <string name="error_file_does_not_exists">File does not exist.</string>
-    <string name="error_deleting_child_file">Could not delete child file '%s'.</string>
+    <string name="error_deleting_child_file">Could not delete child file \'%s\'.</string>
     <string name="error_generic">An error occurred:</string>
     <string name="error_media_scan">Could not change media scan settings.</string>
     <string name="send_not_available">No application available for sending.</string>
@@ -56,9 +56,7 @@
     <string name="update_error">Download application not available.</string>
     <string name="update">Check updates</string>
     <string name="about">About</string>
-    <string name="aboutapp_not_available">Version %s
-
-No compatible extension available to display full info (contact, credits, license).</string>
+    <string name="aboutapp_not_available">Version %s\n\nNo compatible extension available to display full info (contact, credits, license).</string>
     <string name="aboutapp_get">Get OI About</string>
     <string name="about_copyright">Copyright © 2008-2009 OpenIntents</string>
     <string name="about_website_url">http://www.openintents.org/en/node/159</string>

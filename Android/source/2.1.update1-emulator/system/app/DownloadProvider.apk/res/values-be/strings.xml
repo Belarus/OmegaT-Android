@@ -4,7 +4,7 @@
     <string name="permlab_downloadManager">Access download manager.</string>
     <string name="permdesc_downloadManager">Allows the application to access the download manager and to use it to download files. Malicious applications can use this to disrupt downloads and access private information.</string>
     <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
-    <string name="permdesc_downloadManagerAdvanced">Allows the application to access the download manager's advanced functions. Malicious applications can use this to disrupt downloads and access private information.</string>
+    <string name="permdesc_downloadManagerAdvanced">Allows the application to access the download manager\'s advanced functions. Malicious applications can use this to disrupt downloads and access private information.</string>
     <string name="permlab_cacheFilesystem">Use system cache.</string>
     <string name="permdesc_cacheFilesystem">Allows the application to directly access, modify and delete the system cache. Malicious applications can use this to severely disrupt downloads and other applications, and to access private data.</string>
     <string name="permlab_downloadCompletedIntent">Send download notifications.</string>

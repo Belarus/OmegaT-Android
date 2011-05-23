@@ -4,7 +4,7 @@
     <string name="picasa_caption">Caption</string>
     <string name="picasa_album">Album</string>
     <string name="picasa_preview">Preview</string>
-    <string name="upload_failed_notfound">Upload failed: Album doesn't exist.</string>
+    <string name="upload_failed_notfound">Upload failed: Album doesn\'t exist.</string>
     <string name="picasa_toast_file_too_large">You cannot upload a photo larger than 20 MB.</string>
     <string name="new_album_label">Create album</string>
     <string name="album_title_hint">Enter album title</string>
@@ -22,7 +22,7 @@
     <string name="cancel">Cancel</string>
     <string name="uploading_to">Uploading to <b>%s</b></string>
     <string name="uploading_for"> for <b>%s</b></string>
-    <string name="destination_format">%s "%s"</string>
+    <string name="destination_format">%s \"%s\"</string>
     <string name="toast_intent_error">Upload initialization failed.</string>
     <string name="toast_file_error">File not available.</string>
     <string name="account_error">Failed to retrieve account information.</string>
@@ -66,7 +66,7 @@
     <string name="yt_public_access">Share with the world</string>
     <string name="yt_private_access">Private</string>
     <string name="yt_terms_title">Terms of Use</string>
-    <string name="yt_terms">By clicking Upload, you are representing that this video does not violate YouTube's <a href="http://www.youtube.com/t/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.</string>
+    <string name="yt_terms">By clicking Upload, you are representing that this video does not violate YouTube\'s <a href="http://www.youtube.com/t/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.</string>
     <string name="yt_default_description">This video was uploaded from an Android phone.</string>
     <string name="yt_default_tag">mobile</string>
     <string name="yt_toast_file_too_large">You cannot upload a video larger than 1 GB.</string>

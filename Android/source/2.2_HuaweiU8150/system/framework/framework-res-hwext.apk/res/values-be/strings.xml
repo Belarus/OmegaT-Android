@@ -6,9 +6,7 @@
     <string name="verifyNewPin">Type new SIM PIN code again to confirm</string>
     <string name="verifyPUKFailed">The PUK you typed is not correct. Please type PUK code.</string>
     <string name="verifyPINFailed">The SIM PINs you typed do not match. Please type new PIN code.</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message_hw">You have incorrectly tried %d times. 
-
-Please try again in %d seconds.</string>
+    <string name="lockscreen_too_many_failed_attempts_dialog_message_hw">You have incorrectly tried %d times. \n\nPlease try again in %d seconds.</string>
     <string name="temperature_low_warning">The temperature is lower than the operating temperature of the phone, functionality is limited.</string>
     <string name="temperature_high_warning">The temperature is higher than the operating temperature of the phone, functionality is limited.</string>
     <string name="lockscreen_missing_uim_message_short">No UIM card.</string>

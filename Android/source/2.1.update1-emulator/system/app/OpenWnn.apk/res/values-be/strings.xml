@@ -62,35 +62,25 @@
     <string name="user_dictionary_over_max_text_size_message">Length of the string exceeds the limit.</string>
     <string name="user_dictionary_creating_wordlist">Loading</string>
     <string name="user_dictionary_init">Initialize?</string>
-    <string name="openwnn_english_copyright">Ver.1.3.1
-OMRON SOFTWARE Co., Ltd.</string>
-    <string name="openwnn_japanese_copyright">Ver.1.3.1
-OMRON SOFTWARE Co., Ltd.</string>
-    <string name="openwnn_china_copyright">Ver.1.3.1
-OMRON SOFTWARE Co., Ltd.</string>
+    <string name="openwnn_english_copyright">Ver.1.3.1\nOMRON SOFTWARE Co., Ltd.</string>
+    <string name="openwnn_japanese_copyright">Ver.1.3.1\nOMRON SOFTWARE Co., Ltd.</string>
+    <string name="openwnn_china_copyright">Ver.1.3.1\nOMRON SOFTWARE Co., Ltd.</string>
     <string name="button_candidate_select">Select</string>
     <string name="button_candidate_delete">Delete learning?</string>
     <string name="button_candidate_cancel">Close</string>
     <string name="touch_to_continue">Next »</string>
     <string name="touch_to_try">Try it on the button below.</string>
     <string name="touch_to_finish">Try typing and using the keyboard yourself!</string>
-    <string name="tip_to_step1"><b>Like a normal mobile keyboard, tapping ○ three times will result
-in *C*.</b></string>
-    <string name="tip_to_step2_a"><b>For example, let's type "hi."
-- Tap ○ twice to get "h"</b></string>
-    <string name="tip_to_step2_b"><b>
-- Tap → to advance to the right</b></string>
-    <string name="tip_to_step2_c"><b>
-- Tap ○ three times to get "i"</b></string>
-    <string name="tip_to_step2_d"><b>
-- Use touch or ↓ to set the word.</b></string>
+    <string name="tip_to_step1"><b>Like a normal mobile keyboard, tapping ○ three times will result\nin *C*.</b></string>
+    <string name="tip_to_step2_a"><b>For example, let\'s type \"hi.\"\n- Tap ○ twice to get \"h\"</b></string>
+    <string name="tip_to_step2_b"><b>\n- Tap → to advance to the right</b></string>
+    <string name="tip_to_step2_c"><b>\n- Tap ○ three times to get \"i\"</b></string>
+    <string name="tip_to_step2_d"><b>\n- Use touch or ↓ to set the word.</b></string>
     <string name="tip_to_step3_a"><b>The ■ key switches between Japanese, English, and number input.</b></string>
-    <string name="tip_to_step3_b"><b>We've switched from English to numbers. Next is Japanese.</b></string>
-    <string name="tip_to_step3_c"><b>Let's return to English now.</b></string>
-    <string name="tip_to_step4"><b>For other input modes (like full width)
-or a PC style keyboard, hold ■
-for 3 seconds to show the input menu.</b></string>
-    <string name="tip_to_step5"><b>When you're done typing, hit the "back" key (←) to close the keyboard.</b></string>
+    <string name="tip_to_step3_b"><b>We\'ve switched from English to numbers. Next is Japanese.</b></string>
+    <string name="tip_to_step3_c"><b>Let\'s return to English now.</b></string>
+    <string name="tip_to_step4"><b>For other input modes (like full width)\nor a PC style keyboard, hold ■\nfor 3 seconds to show the input menu.</b></string>
+    <string name="tip_to_step5"><b>When you\'re done typing, hit the \"back\" key (←) to close the keyboard.</b></string>
     <string name="tip_to_step6"><b>This is the end of the tutorial.</b></string>
     <string name="openwnn_system_dictionary_japanese">/data/data/jp.co.omronsoft.openwnn/lib/libWnnJpnDic.so</string>
     <string name="openwnn_writable_dictionary_japanese">/data/data/jp.co.omronsoft.openwnn/writableJAJP.dic</string>
@@ -203,6 +193,6 @@ for 3 seconds to show the input menu.</b></string>
     <string name="indicator_caps">CAPS</string>
     <string name="indicator_alt">ALT</string>
     <string name="tip_en_to_open_keyboard"><b>The keyboard opens any time you touch a text field.</b></string>
-    <string name="tip_en_to_close_keyboard"><b>Press "back" (←) to close the keyboard.</b></string>
+    <string name="tip_en_to_close_keyboard"><b>Press \"back\" (←) to close the keyboard.</b></string>
     <string name="tip_en_end_of_tutorial"><b>This is the end of the tutorial.</b></string>
 </resources>

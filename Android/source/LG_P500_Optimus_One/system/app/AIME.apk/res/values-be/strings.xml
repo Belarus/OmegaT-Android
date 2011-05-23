@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="word_separators">。. ,!?¡¿
-()[]*&amp;@{}/&lt;&gt;_+=|"</string>
+    <string name="word_separators">。. ,!?¡¿\n()[]*&amp;@{}/&lt;&gt;_+=|\"</string>
     <string name="sentence_separators">.,!?-@/¡¿</string>
-    <string name="punctuation_and_symbols">!"#$%&amp;'()*+,-./:;¡¿&lt;=&gt;?@[\]^_`{|}~£¥§°×÷–—―‘’“”†‡‥…‧※⁰₀€℃←→∥≠≤≥⊙①②③④⑤⑥⑦⑧⑨⓪ⁿ∅¹½⅓¼⅛²⅔³¾⅜⅝⅞╱╲○◎●◯★☆、。〃々〇〈〉《》「」『』【】〔〕〖〗〜・﹐！＂＃＄％＆＇（）＊＋，／０１２３４５６７８９：；＜＝＞？＠［＼］＾＿｀｛｜｝￠￡￥¢¤©®™„«»¦</string>
-    <string name="word_compounders">'-</string>
+    <string name="punctuation_and_symbols">!\"#$%&amp;\'()*+,-./:;¡¿&lt;=&gt;?@[\\]^_`{|}~£¥§°×÷–—―‘’“”†‡‥…‧※⁰₀€℃←→∥≠≤≥⊙①②③④⑤⑥⑦⑧⑨⓪ⁿ∅¹½⅓¼⅛²⅔³¾⅜⅝⅞╱╲○◎●◯★☆、。〃々〇〈〉《》「」『』【】〔〕〖〗〜・﹐！＂＃＄％＆＇（）＊＋，／０１２３４５６７８９：；＜＝＞？＠［＼］＾＿｀｛｜｝￠￡￥¢¤©®™„«»¦</string>
+    <string name="word_compounders">\'-</string>
     <string name="punctuation_key_label">.,-</string>
     <string name="unicase_letters">ß</string>
     <string name="alternates_for_e">èéêë€</string>
@@ -105,12 +104,12 @@
     <string name="alternates_for_digit_seven">7⅞⑦</string>
     <string name="alternates_for_digit_eight">8⑧</string>
     <string name="alternates_for_digit_nine">9⑨</string>
-    <string name="alternates_for_quotation_mark">"“”＂〃々</string>
+    <string name="alternates_for_quotation_mark">\"“”＂〃々</string>
     <string name="alternates_for_number_sign">#＃</string>
     <string name="alternates_for_dollar_sign">$＄¥￥£￡￠</string>
     <string name="alternates_for_percent_sign">%％°℃</string>
     <string name="alternates_for_ampersand">&amp;＆</string>
-    <string name="alternates_for_apostrophe">'’‘`｀＇</string>
+    <string name="alternates_for_apostrophe">\'’‘`｀＇</string>
     <string name="alternates_for_left_parenthesis">(（【〖〔{｛</string>
     <string name="alternates_for_right_parenthesis">)）】〗〕}｝</string>
     <string name="alternates_for_asterisk">*＊×※★☆</string>
@@ -126,7 +125,7 @@
     <string name="alternates_for_greater_than_sign">&gt;＞〉》</string>
     <string name="alternates_for_commercial_at">@＠⊙○◎●◯</string>
     <string name="alternates_for_left_square_bracket">[［「『</string>
-    <string name="alternates_for_reverse_solidus">\＼╲</string>
+    <string name="alternates_for_reverse_solidus">\\＼╲</string>
     <string name="alternates_for_right_square_bracket">]］」』</string>
     <string name="alternates_for_circumflex_accent">^＾</string>
     <string name="alternates_for_low_line">_＿</string>
@@ -233,7 +232,7 @@
     <string name="pref_auto_acpitalization">Auto-capitalization</string>
     <string name="pref_auto_acpitalization_summary">Capitalize the start of a sentence</string>
     <string name="pref_auto_punctuation">Auto-punctuation</string>
-    <string name="pref_auto_punctuation_summary">Press Space key twice to insert "."</string>
+    <string name="pref_auto_punctuation_summary">Press Space key twice to insert \".\"</string>
     <string name="pref_show_suggestion">Show suggestions</string>
     <string name="pref_show_suggestion_summary">Display suggested words while typing.</string>
     <string name="pref_word_completion">Word completion</string>
@@ -285,14 +284,14 @@
     <string name="pref_handwriting_transparency">Screen transparency</string>
     <string name="voice_warning_title">Voice input</string>
     <string name="voice_warning_locale_not_supported">Voice input is not currently supported for your language, but does work in English.</string>
-    <string name="voice_warning_may_not_understand">Voice input is an experimental feature using Google's networked speech recognition.</string>
+    <string name="voice_warning_may_not_understand">Voice input is an experimental feature using Google\'s networked speech recognition.</string>
     <string name="voice_warning_how_to_turn_off">To turn off voice input, go to keyboard settings.</string>
     <string name="voice_hint_dialog_message">To use voice input, press the microphone button or slide your finger across the on-screen keyboard.</string>
     <string name="voice_listening">Speak now</string>
     <string name="voice_working">Working</string>
     <string name="voice_initializing"></string>
     <string name="voice_error">Error. Please try again.</string>
-    <string name="voice_network_error">Couldn't connect</string>
+    <string name="voice_network_error">Couldn\'t connect</string>
     <string name="voice_too_much_speech">Error, too much speech.</string>
     <string name="voice_audio_error">Audio problem</string>
     <string name="voice_server_error">Server error</string>

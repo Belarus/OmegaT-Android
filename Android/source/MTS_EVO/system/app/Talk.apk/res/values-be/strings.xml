@@ -15,8 +15,7 @@
     <string name="sign_in">Sign in</string>
     <string name="menu_sign_out">Sign out</string>
     <string name="create_account">Create account</string>
-    <string name="gtalk_plug"> <font fgcolor="#ffffffff">Welcome to Google Talk!</font>
- A Google approach to instant communications in the mobile space, which lets you communicate whenever you want, wherever you are. </string>
+    <string name="gtalk_plug"> <font fgcolor="#ffffffff">Welcome to Google Talk!</font>\n A Google approach to instant communications in the mobile space, which lets you communicate whenever you want, wherever you are. </string>
     <string name="signing_in_to">Signing in to Google Talk</string>
     <string name="signing_in_wait">Signing in…</string>
     <string name="menu_cancel_signin">Cancel signin</string>
@@ -43,14 +42,14 @@
     <string name="menu_leave_all_chats">Close all chats</string>
     <string name="confirm_remove_buddy">%s will be removed.</string>
     <string name="confirm_remove_buddy_title">Remove</string>
-    <string name="invisible_failed">Sorry, you can't be invisible because you're signed in to Google Talk from another client that doesn't support invisibility.</string>
+    <string name="invisible_failed">Sorry, you can\'t be invisible because you\'re signed in to Google Talk from another client that doesn\'t support invisibility.</string>
     <string name="save_nickname_failed">Sorry, the nickname could not be saved.</string>
     <string name="save_nickname_empty">The nickname was not saved because it was empty.</string>
     <string name="clear_status_list">Clear custom messages</string>
     <string name="subscription_text">Chat invitation</string>
     <string name="blocked_title">Blocked friends</string>
     <string name="unblock_buddy">Unblock</string>
-    <string name="confirm_unblock">The friend "%s" will be unblocked.</string>
+    <string name="confirm_unblock">The friend \"%s\" will be unblocked.</string>
     <string name="unblock">OK</string>
     <string name="cancel">Cancel</string>
     <string name="menu_go_off_record">Chat off record</string>
@@ -78,8 +77,7 @@
     <string name="user_away">%s is away</string>
     <string name="user_busy">%s is busy</string>
     <string name="user_offline">%s is offline</string>
-    <string name="convert_to_groupchat">This is now a group chat.
-To invite others, press Menu and select "Add to chat".</string>
+    <string name="convert_to_groupchat">This is now a group chat.\nTo invite others, press Menu and select \"Add to chat\".</string>
     <string name="send">Send</string>
     <string name="time_stamp">Sent at %1$s on %2$s</string>
     <string name="time_stamp_date_format">EEEE</string>
@@ -169,8 +167,8 @@ To invite others, press Menu and select "Add to chat".</string>
     <string name="confirm_clear_search_text">Search history will be cleared.</string>
     <string name="pref_gtalk_clear_search_history_title">Clear search history</string>
     <string name="pref_gtalk_clear_search_history_summary">Clear previous Google Talk chat searches from showing up in the Search box</string>
-    <string name="chat_search_history">%1$s results for "%2$s"</string>
-    <string name="no_chats_found">No chats contain "%s"</string>
+    <string name="chat_search_history">%1$s results for \"%2$s\"</string>
+    <string name="no_chats_found">No chats contain \"%s\"</string>
     <string name="switcher_open_hint">(%d) Active chats</string>
     <string name="switcher_xofy">%1$d of %2$d</string>
     <string name="remove">Remove</string>

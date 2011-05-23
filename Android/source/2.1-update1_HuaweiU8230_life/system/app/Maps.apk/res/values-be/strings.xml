@@ -8,8 +8,7 @@
     <string name="da_toward">toward %1$s</string>
     <string name="da_name_delimiter"> / </string>
     <string name="da_list_delimiter">, </string>
-    <string name="da_then_next_step">then
-%1$s</string>
+    <string name="da_then_next_step">then\n%1$s</string>
     <string name="da_continue_for_distance">Continue for %1$s</string>
     <string name="da_destination_will_be_on_the_left">your destination will be on the left.</string>
     <string name="da_destination_will_be_on_the_right">your destination will be on the right.</string>
@@ -42,16 +41,8 @@
     <string name="da_navigation">Navigation</string>
     <string name="da_search_label">Search</string>
     <string name="da_layers">Layers</string>
-    <string name="da_agreement">Google Maps Navigation is in beta. Use caution.
-
-Do not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries.
-
-Keep your eyes on the road!</string>
-    <string name="da_agreement_with_walking">Google Maps Navigation is in beta. Use caution.
-
-Do not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries. Walking routes may be missing sidewalks or pedestrian paths.
-
-Keep your eyes on the road!</string>
+    <string name="da_agreement">Google Maps Navigation is in beta. Use caution.\n\nDo not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries.\n\nKeep your eyes on the road!</string>
+    <string name="da_agreement_with_walking">Google Maps Navigation is in beta. Use caution.\n\nDo not manipulate this application while driving. Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries. Walking routes may be missing sidewalks or pedestrian paths.\n\nKeep your eyes on the road!</string>
     <string name="da_disclaimer_checkbox">Show this message next time</string>
     <string name="da_show_list">Directions List</string>
     <string name="da_switch_to_walking">Switch to Walking</string>
@@ -89,7 +80,7 @@ Keep your eyes on the road!</string>
     <string name="da_dialog_skip">Skip</string>
     <string name="da_dialog_accept">Accept</string>
     <string name="da_dialog_install">Install</string>
-    <string name="da_dialog_dont_accept">Don't Accept</string>
+    <string name="da_dialog_dont_accept">Don\'t Accept</string>
     <string name="da_clear_layers">Clear Map</string>
     <string name="da_layer_name_parking">Parking</string>
     <string name="da_layer_name_gas_stations">Gas Stations</string>
@@ -111,8 +102,7 @@ Keep your eyes on the road!</string>
     <string name="da_point_on_map">Point on map</string>
     <string name="da_volume">Navigation Volume</string>
     <string name="da_exit">Exit</string>
-    <string name="da_exit_button">%1$s
-%2$s</string>
+    <string name="da_exit_button">%1$s\n%2$s</string>
     <string name="da_did_you_mean">Did you mean:</string>
     <string name="da_for_your_end_point">For your end point</string>
     <string name="da_unnamed_road">Unnamed road</string>
@@ -130,12 +120,12 @@ Keep your eyes on the road!</string>
     <string name="da_route_prefixes">N,NE,E,SE,S,SW,W,NW</string>
     <string name="da_route_suffixes">N,NE,E,SE,S,SW,W,NW,Ave,Blvd,Byp,Cir,Ct,Dr,Expy,Fwy,Hwy,Ln,Pkwy,Pl,Rd,St,Thrwy,Way</string>
     <string name="da_no_route">No route found</string>
-    <string name="da_route_not_found">We couldn't find a route to your destination.</string>
-    <string name="da_destination_not_found">We couldn't understand the destination.</string>
+    <string name="da_route_not_found">We couldn\'t find a route to your destination.</string>
+    <string name="da_destination_not_found">We couldn\'t understand the destination.</string>
     <string name="da_navigation_not_supported">Navigation to your destination is not available.</string>
     <string name="da_no_image_available">No image available.</string>
     <string name="da_image_error">Error loading image.</string>
-    <string name="da_no_alternate_routes">We couldn't find alternate routes to your destination.</string>
+    <string name="da_no_alternate_routes">We couldn\'t find alternate routes to your destination.</string>
     <string name="da_error_email_body">Please add further comments to describe the issue now or in a follow up email later.</string>
     <string name="da_error_email_with_voice_body">Voice note attached. You may add more comments now or in a follow up email later.</string>
     <string name="da_see_all_details">See all details</string>

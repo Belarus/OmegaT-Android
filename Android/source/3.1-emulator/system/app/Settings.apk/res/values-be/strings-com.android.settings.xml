@@ -256,9 +256,7 @@
     <string name="crypt_keeper_encrypt_title">Encrypt phone</string>
     <string name="crypt_keeper_encrypt_summary">Require a numeric PIN or password to decrypt your phone each time you power it on</string>
     <string name="crypt_keeper_encrypted_summary">Encrypted</string>
-    <string name="crypt_keeper_desc">You can encrypt your accounts, settings, downloaded applications and their data, media, and other files. Once you encrypt your phone, you must enter a numeric PIN or password to decrypt it each time you power it on: you can't unencrypt your phone except by performing a factory data reset, erasing all your data.
-
-Encryption takes an hour or more. You must start with a charged battery and keep your phone plugged in until encryption is complete. If you interrupt the encryption process, you will lose some or all of your data.</string>
+    <string name="crypt_keeper_desc">You can encrypt your accounts, settings, downloaded applications and their data, media, and other files. Once you encrypt your phone, you must enter a numeric PIN or password to decrypt it each time you power it on: you can\'t unencrypt your phone except by performing a factory data reset, erasing all your data.\n\nEncryption takes an hour or more. You must start with a charged battery and keep your phone plugged in until encryption is complete. If you interrupt the encryption process, you will lose some or all of your data.</string>
     <string name="crypt_keeper_button_text">Encrypt phone</string>
     <string name="crypt_keeper_low_charge_text">Please charge your battery and try again.</string>
     <string name="crypt_keeper_unplugged_text">Please plug in your charger and try again.</string>
@@ -271,7 +269,7 @@ Encryption takes an hour or more. You must start with a charged battery and keep
     <string name="crypt_keeper_cooldown">Try again in ^1 seconds.</string>
     <string name="crypt_keeper_enter_password">Enter your password</string>
     <string name="crypt_keeper_failed_title">Encryption failed</string>
-    <string name="crypt_keeper_failed_summary">Encryption was interrupted and can't complete. You must perform a factory data reset (erasing all your data) before you can resume using your phone. You can try encrypting your phone again after the reset is complete.</string>
+    <string name="crypt_keeper_failed_summary">Encryption was interrupted and can\'t complete. You must perform a factory data reset (erasing all your data) before you can resume using your phone. You can try encrypting your phone again after the reset is complete.</string>
     <string name="lock_settings_picker_title">Configure lock screen</string>
     <string name="unlock_set_unlock_launch_picker_title">Configure lock screen</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Change screen lock</string>
@@ -280,7 +278,7 @@ Encryption takes an hour or more. You must start with a charged battery and keep
     <string name="unlock_set_unlock_off_title">Off</string>
     <string name="unlock_set_unlock_off_summary">Never lock the screen</string>
     <string name="unlock_set_unlock_none_title">Not secured</string>
-    <string name="unlock_set_unlock_none_summary">Don't require a pattern, PIN, or password to unlock the screen</string>
+    <string name="unlock_set_unlock_none_summary">Don\'t require a pattern, PIN, or password to unlock the screen</string>
     <string name="unlock_set_unlock_pattern_title">Pattern</string>
     <string name="unlock_set_unlock_pattern_summary">Require a pattern to unlock the screen</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
@@ -326,16 +324,13 @@ Encryption takes an hour or more. You must start with a charged battery and keep
     <string name="bluetooth_settings_title">Bluetooth settings</string>
     <string name="bluetooth_settings_summary">Manage connections, set device name &amp; discoverability</string>
     <string name="bluetooth_pairing_request">Bluetooth pairing request</string>
-    <string name="bluetooth_enter_pin_msg">
-Enter PIN to pair with "%1$s". (Try 0000 or 1234.) You may need to enter the same PIN on the Bluetooth device.</string>
-    <string name="bluetooth_enter_passkey_msg">
-Enter passkey to pair with "%1$s".</string>
-    <string name="bluetooth_confirm_passkey_msg">To pair with "%1$s", confirm that it is showing the passkey: %2$s.</string>
-    <string name="bluetooth_incoming_pairing_msg">%1$s
-wants to pair.</string>
-    <string name="bluetooth_display_passkey_pin_msg">Enter "%2$s" on "%1$s" to pair followed by return or enter.</string>
+    <string name="bluetooth_enter_pin_msg">\nEnter PIN to pair with \"%1$s\". (Try 0000 or 1234.) You may need to enter the same PIN on the Bluetooth device.</string>
+    <string name="bluetooth_enter_passkey_msg">\nEnter passkey to pair with \"%1$s\".</string>
+    <string name="bluetooth_confirm_passkey_msg">To pair with \"%1$s\", confirm that it is showing the passkey: %2$s.</string>
+    <string name="bluetooth_incoming_pairing_msg">%1$s\nwants to pair.</string>
+    <string name="bluetooth_display_passkey_pin_msg">Enter \"%2$s\" on \"%1$s\" to pair followed by return or enter.</string>
     <string name="bluetooth_pairing_accept">Pair</string>
-    <string name="bluetooth_pairing_decline">Don't Pair</string>
+    <string name="bluetooth_pairing_decline">Don\'t Pair</string>
     <string name="bluetooth_remote_device">bluetooth device</string>
     <string name="bluetooth_error_title">Attention</string>
     <string name="bluetooth_pairing_error_message">There was a problem pairing with %1$s.</string>
@@ -364,7 +359,7 @@ wants to pair.</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s will be disconnected from handsfree audio.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s will be disconnected from input device.</string>
     <string name="bluetooth_disconnect_pan_user_profile">Internet access via %1$s will be disconnected.</string>
-    <string name="bluetooth_disconnect_pan_nap_profile">%1$s will be disconnected from sharing this phone's Internet connection.</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">%1$s will be disconnected from sharing this phone\'s Internet connection.</string>
     <string name="bluetooth_device_advanced_title">%1$s options</string>
     <string name="bluetooth_device_advanced_device_actions_title">Device actions</string>
     <string name="bluetooth_device_advanced_online_mode_title">Connect</string>
@@ -558,7 +553,7 @@ wants to pair.</string>
     <string name="dock_not_found_text">The phone must be docked to configure dock audio</string>
     <string name="dock_sounds_enable_title">Dock insertion sound</string>
     <string name="dock_sounds_enable_summary_on">Play sound when inserting or removing phone from dock</string>
-    <string name="dock_sounds_enable_summary_off">Don't play sound when inserting or removing phone from dock</string>
+    <string name="dock_sounds_enable_summary_off">Don\'t play sound when inserting or removing phone from dock</string>
     <string name="sync_settings">Accounts &amp; sync</string>
     <string name="sync_settings_summary">Add or remove accounts and change account settings</string>
     <string name="search_settings">Search</string>
@@ -590,12 +585,10 @@ wants to pair.</string>
     <string name="sim_reenter_new">Re-type new PIN</string>
     <string name="sim_change_pin">SIM PIN</string>
     <string name="sim_bad_pin">Incorrect PIN!</string>
-    <string name="sim_pins_dont_match">PINs don't match!</string>
-    <string name="sim_change_failed">Unable to change PIN.
-Possibly incorrect PIN.</string>
+    <string name="sim_pins_dont_match">PINs don\'t match!</string>
+    <string name="sim_change_failed">Unable to change PIN.\nPossibly incorrect PIN.</string>
     <string name="sim_change_succeeded">SIM PIN changed successfully</string>
-    <string name="sim_lock_failed">Unable to change SIM card lock state.
-Possibly incorrect PIN.</string>
+    <string name="sim_lock_failed">Unable to change SIM card lock state.\nPossibly incorrect PIN.</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancel</string>
     <string name="device_info_settings">Phone status</string>
@@ -696,21 +689,10 @@ Possibly incorrect PIN.</string>
     <string name="restore_default_apn_completed">Reset default APN settings completed</string>
     <string name="master_clear_title">Factory data reset</string>
     <string name="master_clear_summary">Erases all data on phone</string>
-    <string name="master_clear_desc">This will erase all data from your phone's <b>internal storage</b>, including:
-
-<li>Your Google Account</li>
-<li>System and application data and settings</li>
-<li>Downloaded applications</li></string>
-    <string name="master_clear_accounts">
-
-You are currently signed into the following accounts:
-</string>
-    <string name="master_clear_desc_also_erases_external"><li>Music</li>
-<li>Photos</li>
-<li>Other user data</li></string>
-    <string name="master_clear_desc_erase_external_storage">
-
-To also clear music, pictures, and other user data, the <b>SD card</b> needs to be erased.</string>
+    <string name="master_clear_desc">This will erase all data from your phone\'s <b>internal storage</b>, including:\n\n<li>Your Google Account</li>\n<li>System and application data and settings</li>\n<li>Downloaded applications</li></string>
+    <string name="master_clear_accounts">\n\nYou are currently signed into the following accounts:\n</string>
+    <string name="master_clear_desc_also_erases_external"><li>Music</li>\n<li>Photos</li>\n<li>Other user data</li></string>
+    <string name="master_clear_desc_erase_external_storage">\n\nTo also clear music, pictures, and other user data, the <b>SD card</b> needs to be erased.</string>
     <string name="erase_external_storage">Erase SD card</string>
     <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos.</string>
     <string name="master_clear_button_text">Reset phone</string>
@@ -735,25 +717,25 @@ To also clear music, pictures, and other user data, the <b>SD card</b> needs to 
     <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
     <string name="tether_settings_title_all">Tethering &amp; portable hotspot</string>
-    <string name="tether_settings_summary_usb">Share your phone's mobile data connection via USB</string>
+    <string name="tether_settings_summary_usb">Share your phone\'s mobile data connection via USB</string>
     <string name="tether_settings_summary_wifi">Share your mobile data connection as a portable Wi-Fi hotspot</string>
     <string name="tether_settings_summary_bluetooth">Share your mobile data connection via Bluetooth</string>
-    <string name="tether_settings_summary_usb_wifi">Share your phone's mobile data connection via USB or as a portable Wi-Fi hotspot</string>
-    <string name="tether_settings_summary_usb_bluetooth">Share your phone's mobile data connection via USB or Bluetooth</string>
-    <string name="tether_settings_summary_wifi_bluetooth">Share your phone's mobile data connection via Bluetooth or as a portable Wi-Fi hotspot</string>
-    <string name="tether_settings_summary_all">Share your phone's mobile data connection via USB, Wi-Fi, or Bluetooth</string>
+    <string name="tether_settings_summary_usb_wifi">Share your phone\'s mobile data connection via USB or as a portable Wi-Fi hotspot</string>
+    <string name="tether_settings_summary_usb_bluetooth">Share your phone\'s mobile data connection via USB or Bluetooth</string>
+    <string name="tether_settings_summary_wifi_bluetooth">Share your phone\'s mobile data connection via Bluetooth or as a portable Wi-Fi hotspot</string>
+    <string name="tether_settings_summary_all">Share your phone\'s mobile data connection via USB, Wi-Fi, or Bluetooth</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">USB tethering</string>
     <string name="usb_tethering_available_subtext">USB connected, check to tether</string>
     <string name="usb_tethering_active_subtext">Tethered</string>
-    <string name="usb_tethering_storage_active_subtext">Can't tether when USB storage in use</string>
+    <string name="usb_tethering_storage_active_subtext">Can\'t tether when USB storage in use</string>
     <string name="usb_tethering_unavailable_subtext">USB not connected</string>
     <string name="usb_tethering_errored_subtext">USB tethering error</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth tethering</string>
-    <string name="bluetooth_tethering_available_subtext">Sharing this phone's Internet connection</string>
-    <string name="bluetooth_tethering_device_connected_subtext">Sharing this phone's Internet connection to 1 device</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">Sharing this phone's Internet connection to %1$d devices</string>
-    <string name="bluetooth_tethering_off_subtext">Not sharing this phone's Internet connection</string>
+    <string name="bluetooth_tethering_available_subtext">Sharing this phone\'s Internet connection</string>
+    <string name="bluetooth_tethering_device_connected_subtext">Sharing this phone\'s Internet connection to 1 device</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">Sharing this phone\'s Internet connection to %1$d devices</string>
+    <string name="bluetooth_tethering_off_subtext">Not sharing this phone\'s Internet connection</string>
     <string name="bluetooth_tethering_errored_subtext">Bluetooth tethering error</string>
     <string name="bluetooth_tethering_overflow_error">Cannot tether to more than %1$d devices</string>
     <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
@@ -796,8 +778,8 @@ To also clear music, pictures, and other user data, the <b>SD card</b> needs to 
     <string name="lockpassword_confirm_your_password_header">Confirm your password</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
     <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
-    <string name="lockpassword_confirm_passwords_dont_match">Passwords don't match</string>
-    <string name="lockpassword_confirm_pins_dont_match">PINs don't match</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Passwords don\'t match</string>
+    <string name="lockpassword_confirm_pins_dont_match">PINs don\'t match</string>
     <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
     <string name="lockpassword_password_set_toast">Password has been set</string>
     <string name="lockpassword_pin_set_toast">PIN has been set</string>
@@ -833,17 +815,7 @@ To also clear music, pictures, and other user data, the <b>SD card</b> needs to 
     <string name="skip_button_label">Cancel</string>
     <string name="next_button_label">Next</string>
     <string name="lock_title">Securing your phone</string>
-    <string name="lock_intro_message"><font size="17">Protect your phone from unauthorized use by creating a personal screen unlock pattern. 
-<font height="17">
-</font><b>1</b>  On the next screen, watch while an example pattern is drawn. 
-<font height="17">
-</font><b>2</b>  When ready, draw your own personal unlock pattern. Experiment with different patterns but connect at least four dots. 
-<font height="17">
-</font><b>3</b>  Redraw your pattern to confirm. 
-<font height="17">
-</font><b>Ready to start? Touch “Next”</b>. 
-<font height="3">
-</font>To leave your phone unprotected, touch “Cancel”.</font> </string>
+    <string name="lock_intro_message"><font size="17">Protect your phone from unauthorized use by creating a personal screen unlock pattern. \n<font height="17">\n</font><b>1</b>  On the next screen, watch while an example pattern is drawn. \n<font height="17">\n</font><b>2</b>  When ready, draw your own personal unlock pattern. Experiment with different patterns but connect at least four dots. \n<font height="17">\n</font><b>3</b>  Redraw your pattern to confirm. \n<font height="17">\n</font><b>Ready to start? Touch “Next”</b>. \n<font height="3">\n</font>To leave your phone unprotected, touch “Cancel”.</font> </string>
     <string name="manageapplications_settings_title">Manage applications</string>
     <string name="manageapplications_settings_summary">Manage and remove installed applications</string>
     <string name="applications_settings">Applications</string>
@@ -891,7 +863,7 @@ To also clear music, pictures, and other user data, the <b>SD card</b> needs to 
     <string name="sd_card_storage">SD card storage</string>
     <string name="recompute_size">Recomputing size…</string>
     <string name="clear_data_dlg_title">Delete</string>
-    <string name="clear_data_dlg_text">All of this application's data will be deleted permanently. This includes all files, settings, accounts, databases and so on.</string>
+    <string name="clear_data_dlg_text">All of this application\'s data will be deleted permanently. This includes all files, settings, accounts, databases and so on.</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancel</string>
     <string name="app_not_found_dlg_title">Application not found</string>
@@ -965,7 +937,7 @@ To also clear music, pictures, and other user data, the <b>SD card</b> needs to 
     <string name="auto_caps_summary">Capitalize first letter in sentences</string>
     <string name="auto_punctuate">Auto-punctuate</string>
     <string name="hardkeyboard_category">Physical keyboard settings</string>
-    <string name="auto_punctuate_summary">Press Space key twice to insert "."</string>
+    <string name="auto_punctuate_summary">Press Space key twice to insert \".\"</string>
     <string name="show_password">Visible passwords</string>
     <string name="show_password_summary">Show password as you type</string>
     <string name="ime_security_warning">This input method may be able to collect all the text you type, including personal data like passwords and credit card numbers. It comes from the application %1$s. Use this input method?</string>
@@ -1040,11 +1012,7 @@ To also clear music, pictures, and other user data, the <b>SD card</b> needs to 
     <string name="accessibility_service_security_warning">This accessibility service may be able to collect all the text you type, including personal data credit card numbers except passwords. It may also log your user interface interactions. It comes from the application %1$s. Use this accessibility service?</string>
     <string name="accessibility_service_disable_warning">Disable accessibility?</string>
     <string name="accessibility_service_no_apps_title">No accessibility related applications found</string>
-    <string name="accessibility_service_no_apps_message">You do not have any accessibility-related applications installed.
-
-You can download a screen reader for your device from Android Market.
-
-Click OK to install the screen reader.</string>
+    <string name="accessibility_service_no_apps_message">You do not have any accessibility-related applications installed.\n\nYou can download a screen reader for your device from Android Market.\n\nClick OK to install the screen reader.</string>
     <string name="accessibility_script_injection_category">Accessibility scripts</string>
     <string name="accessibility_script_injection_enabled">Download accessibility scripts</string>
     <string name="accessibility_script_injection_enabled_summary">Allow applications to download accessibility scripts from Google</string>
@@ -1111,7 +1079,7 @@ Click OK to install the screen reader.</string>
     <string name="battery_desc_wifi">Battery used by Wi-Fi</string>
     <string name="battery_sugg_wifi">Turn off Wi-Fi when not using it or where it is not available</string>
     <string name="battery_desc_bluetooth">Battery used by bluetooth</string>
-    <string name="battery_sugg_bluetooth_basic">Turn off bluetooth when you aren't using it</string>
+    <string name="battery_sugg_bluetooth_basic">Turn off bluetooth when you aren\'t using it</string>
     <string name="battery_sugg_bluetooth_headset">Try connecting to a different bluetooth device</string>
     <string name="battery_desc_apps">Battery used by application</string>
     <string name="battery_sugg_apps_info">Stop or uninstall the application</string>
@@ -1131,7 +1099,7 @@ Click OK to install the screen reader.</string>
     <string name="voice_output_category">Voice output</string>
     <string name="recognizer_title">Voice recognizer</string>
     <string name="recognizer_settings_title">Voice recognizer settings</string>
-    <string name="recognizer_settings_summary">Settings for '%s'</string>
+    <string name="recognizer_settings_summary">Settings for \'%s\'</string>
     <string name="tts_settings">Text-to-speech settings</string>
     <string name="tts_settings_title">Text-to-speech settings</string>
     <string name="use_default_tts_settings_title">Always use my settings</string>
@@ -1191,9 +1159,9 @@ Click OK to install the screen reader.</string>
     <string name="vpn_menu_delete">Delete network</string>
     <string name="vpn_error_miss_entering">You must enter %s.</string>
     <string name="vpn_error_miss_selecting">You must select %s.</string>
-    <string name="vpn_error_duplicate_name">The VPN name '%s' already exists. Find another name.</string>
+    <string name="vpn_error_duplicate_name">The VPN name \'%s\' already exists. Find another name.</string>
     <string name="vpn_confirm_profile_deletion">Are you sure you want to delete this VPN?</string>
-    <string name="vpn_confirm_add_profile_cancellation">Are you sure you don't want to create this profile?</string>
+    <string name="vpn_confirm_add_profile_cancellation">Are you sure you don\'t want to create this profile?</string>
     <string name="vpn_confirm_edit_profile_cancellation">Are you sure you want to discard the changes made to this profile?</string>
     <string name="vpn_confirm_reconnect">Unable to connect to the network. Do you want to try again?</string>
     <string name="vpn_reconnect_from_lost">Connection lost. Do you want to connect again?</string>
@@ -1216,8 +1184,8 @@ Click OK to install the screen reader.</string>
     <string name="vpn_connect_hint">Connect to network</string>
     <string name="vpn_name">VPN name</string>
     <string name="vpn_a_name">a VPN name</string>
-    <string name="vpn_profile_added">'%s' is added</string>
-    <string name="vpn_profile_replaced">Changes are made to '%s'</string>
+    <string name="vpn_profile_added">\'%s\' is added</string>
+    <string name="vpn_profile_replaced">Changes are made to \'%s\'</string>
     <string name="vpn_user_certificate_title">Set user certificate</string>
     <string name="vpn_user_certificate">User certificate</string>
     <string name="vpn_a_user_certificate">a user certificate</string>
@@ -1326,11 +1294,9 @@ Click OK to install the screen reader.</string>
     <string name="wifi_setup_status_connecting">Connecting...</string>
     <string name="wifi_setup_status_proceed_to_next">Proceed to the next step</string>
     <string name="wifi_setup_status_eap_not_supported">EAP not supported</string>
-    <string name="wifi_setup_eap_not_supported">You can't configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings, under <b>Wireless &amp; networks</b>.</string>
+    <string name="wifi_setup_eap_not_supported">You can\'t configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings, under <b>Wireless &amp; networks</b>.</string>
     <string name="wifi_setup_description_connecting">Connecting can take a few minutes...</string>
-    <string name="wifi_setup_description_connected">Touch <b>Next</b> to continue with setup.
-
-Touch <b>Back</b> to connect to a different Wi-Fi network.</string>
+    <string name="wifi_setup_description_connected">Touch <b>Next</b> to continue with setup.\n\nTouch <b>Back</b> to connect to a different Wi-Fi network.</string>
     <string name="time_zone_auto_stub">Select Time Zone</string>
     <string name="account_sync_settings_title">Sync settings</string>
     <string name="sync_is_failing">Sync is currently experiencing problems. It will be back shortly.</string>
@@ -1350,13 +1316,11 @@ Touch <b>Back</b> to connect to a different Wi-Fi network.</string>
     <string name="settings_backup_summary">Back up my settings</string>
     <string name="sync_menu_sync_now">Sync now</string>
     <string name="sync_menu_sync_cancel">Cancel sync</string>
-    <string name="sync_one_time_sync">Touch to sync now
-%1$s</string>
+    <string name="sync_one_time_sync">Touch to sync now\n%1$s</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendar</string>
     <string name="sync_contacts">Contacts</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> 
-A Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> \nA Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
     <string name="header_application_sync_settings">Application sync settings</string>
     <string name="header_data_and_synchronization">Data &amp; synchronization</string>
     <string name="preference_change_password_title">Change password</string>
@@ -1365,8 +1329,7 @@ A Google approach to synchronizing data to allow access to your contacts, appoin
     <string name="header_add_an_account">Add an account</string>
     <string name="finish_button_label">Finish</string>
     <string name="really_remove_account_title">Remove account</string>
-    <string name="really_remove_account_message">Do you really want to remove this account? Removing it will also delete all of its messages, contacts, and other data from the phone. 
-Proceed?</string>
+    <string name="really_remove_account_message">Do you really want to remove this account? Removing it will also delete all of its messages, contacts, and other data from the phone. \nProceed?</string>
     <string name="remove_account_failed">This account is required by some applications. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data). You do that in the Settings application, under Privacy.</string>
     <string name="provider_label">Push subscriptions</string>
     <string name="sync_item_title">Sync %s</string>

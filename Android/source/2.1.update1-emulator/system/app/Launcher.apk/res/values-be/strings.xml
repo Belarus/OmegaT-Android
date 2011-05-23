@@ -25,9 +25,9 @@
     <string name="add_photo_frame">Picture frame</string>
     <string name="add_search">Search</string>
     <string name="out_of_space">No more room on this Home screen.</string>
-    <string name="shortcut_installed">Shortcut "%s" created.</string>
-    <string name="shortcut_uninstalled">Shortcut "%s" was removed.</string>
-    <string name="shortcut_duplicate">Shortcut "%s" already exists.</string>
+    <string name="shortcut_installed">Shortcut \"%s\" created.</string>
+    <string name="shortcut_uninstalled">Shortcut \"%s\" was removed.</string>
+    <string name="shortcut_duplicate">Shortcut \"%s\" already exists.</string>
     <string name="title_select_shortcut">Select shortcut</string>
     <string name="title_select_live_folder">Select folder</string>
     <string name="menu_add">Add</string>

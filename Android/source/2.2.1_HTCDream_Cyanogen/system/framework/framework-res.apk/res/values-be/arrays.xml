@@ -86,8 +86,8 @@
         <item>usb0</item>
     </string-array>
     <string-array name="config_tether_upstream_regexs">
-        <item>rmnet\d</item>
-        <item>tiwlan\d</item>
+        <item>rmnet\\d</item>
+        <item>tiwlan\\d</item>
     </string-array>
     <string-array name="imAddressTypes">
         <item>Home</item>

@@ -56,19 +56,15 @@
     <string name="menu_manageConference">Manage conference call</string>
     <string name="menu_showDialpad">Show dialpad</string>
     <string name="menu_hideDialpad">Hide dialpad</string>
-    <string name="menu_answerAndHold">Hold current call
-&amp; answer</string>
-    <string name="menu_answerAndEnd">End current call
-&amp; answer</string>
+    <string name="menu_answerAndHold">Hold current call\n&amp; answer</string>
+    <string name="menu_answerAndEnd">End current call\n&amp; answer</string>
     <string name="ok">OK</string>
     <string name="menuButtonHint">Press Menu for call options.</string>
     <string name="menuButtonKeyboardDialHint">Press Menu for call options  •  Use keyboard to dial</string>
     <string name="menu_answer">Answer</string>
     <string name="menu_ignore">Decline</string>
-    <string name="wait_prompt_str">Send the following tones?
-</string>
-    <string name="pause_prompt_str">Sending Tones
-</string>
+    <string name="wait_prompt_str">Send the following tones?\n</string>
+    <string name="pause_prompt_str">Sending Tones\n</string>
     <string name="send_button">Send</string>
     <string name="pause_prompt_yes">Yes</string>
     <string name="pause_prompt_no">No</string>
@@ -175,7 +171,7 @@
     <string name="messageCFNRy">Number when unanswered</string>
     <string name="sum_cfnry_enabled">Forwarding to {0}</string>
     <string name="sum_cfnry_disabled">Disabled</string>
-    <string name="disable_cfnry_forbidden">Your carrier does not support disabling call-forwarding when your phone doesn't answer.</string>
+    <string name="disable_cfnry_forbidden">Your carrier does not support disabling call-forwarding when your phone doesn\'t answer.</string>
     <string name="labelCFNRc">Forward when unreachable</string>
     <string name="messageCFNRc">Number when unreachable</string>
     <string name="sum_cfnrc_enabled">Forwarding to {0}</string>
@@ -261,12 +257,9 @@
     <string name="change_num">Update</string>
     <string name="vm_save_number">Save voicemail number</string>
     <string name="vm_changed">Voicemail number changed.</string>
-    <string name="vm_change_failed">Voicemail number change unsuccessful.
-Please contact your carrier if this problem persists.</string>
-    <string name="fw_change_failed">Forwarding number change unsuccessful.
-Please contact your carrier if this problem persists.</string>
-    <string name="fw_get_in_vm_failed">Failed to retrieve and save current forwarding number settings.
-Do you want to switch to the new provider anyway?</string>
+    <string name="vm_change_failed">Voicemail number change unsuccessful.\nPlease contact your carrier if this problem persists.</string>
+    <string name="fw_change_failed">Forwarding number change unsuccessful.\nPlease contact your carrier if this problem persists.</string>
+    <string name="fw_get_in_vm_failed">Failed to retrieve and save current forwarding number settings.\nDo you want to switch to the new provider anyway?</string>
     <string name="no_change">No changes were made.</string>
     <string name="sum_voicemail_choose_provider">Choose voicemail service</string>
     <string name="voicemail_default">My carrier</string>
@@ -304,15 +297,12 @@ Do you want to switch to the new provider anyway?</string>
     <string name="throttle_time_frame">Data use period</string>
     <string name="throttle_rate">Data rate policy</string>
     <string name="throttle_help">Learn more</string>
-    <string name="throttle_status_subtext">%1$s (%2$d٪) of %3$s period maximum
-Next period starts in %4$d days (%5$s)</string>
+    <string name="throttle_status_subtext">%1$s (%2$d٪) of %3$s period maximum\nNext period starts in %4$d days (%5$s)</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
-    <string name="throttle_data_rate_reduced_subtext">%1$s maximum exceeded
-Data rate reduced to %2$d Kb/s</string>
-    <string name="throttle_time_frame_subtext">%1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s)</string>
+    <string name="throttle_data_rate_reduced_subtext">%1$s maximum exceeded\nData rate reduced to %2$d Kb/s</string>
+    <string name="throttle_time_frame_subtext">%1$d٪ of cycle elapsed\nNext period starts in %2$d days (%3$s)</string>
     <string name="throttle_rate_subtext">Data rate reduced to %1$d Kb/s if data use limit is exceeded</string>
-    <string name="throttle_help_subtext">More information about your carrier's mobile network data use policy</string>
+    <string name="throttle_help_subtext">More information about your carrier\'s mobile network data use policy</string>
     <string name="cdma_cell_broadcast_sms">Cell Broadcast SMS</string>
     <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
     <string name="enable_disable_cell_bc_sms">Cell Broadcast SMS</string>
@@ -475,8 +465,7 @@ Next period starts in %2$d days (%3$s)</string>
     <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 Blocked. Please change PIN2 and retry!</string>
     <string name="puk2_requested">Password incorrect, SIM is locked! PUK2 requested.</string>
     <string name="puk2_blocked">PUK2 is permanently blocked.</string>
-    <string name="pin2_attempts">
-Attempts Remaining :</string>
+    <string name="pin2_attempts">\nAttempts Remaining :</string>
     <string name="doneButton">Done</string>
     <string name="caller_manage_header">Conference call %s</string>
     <string name="caller_manage_manage_done_text">Back to call</string>
@@ -538,12 +527,9 @@ Attempts Remaining :</string>
     <string name="dialerKeyboardHintText">Use keyboard to dial</string>
     <string name="dtmfDialpadHintText">Touch tone keypad</string>
     <string name="dtmfDialpadHandleLabel">Dialpad</string>
-    <string name="touchLockText">Double-tap
-to unlock</string>
-    <string name="onscreenAnswerText">Double-tap
-to answer</string>
-    <string name="onscreenRejectText">Double-tap
-to decline</string>
+    <string name="touchLockText">Double-tap\nto unlock</string>
+    <string name="onscreenAnswerText">Double-tap\nto answer</string>
+    <string name="onscreenRejectText">Double-tap\nto decline</string>
     <string name="onscreenHoldText">Hold</string>
     <string name="onscreenUnholdText">Unhold</string>
     <string name="onscreenEndCallText">End</string>
@@ -568,12 +554,10 @@ to decline</string>
     <string name="dtmf_tones_summary">Set the length of DTMF tones</string>
     <string name="network_message">Network Message</string>
     <string name="ota_title_activate">Activate your phone</string>
-    <string name="ota_touch_activate">A special call needs to be made to activate your phone service. 
-
-After pressing “Activate”, listen to the instructions provided to activate your phone.</string>
-    <string name="ota_touch_activate_new">Touch “Activate” to place a special call that activates your phone on your carrier's mobile network, so you can place calls and connect to mobile data networks.</string>
+    <string name="ota_touch_activate">A special call needs to be made to activate your phone service. \n\nAfter pressing “Activate”, listen to the instructions provided to activate your phone.</string>
+    <string name="ota_touch_activate_new">Touch “Activate” to place a special call that activates your phone on your carrier\'s mobile network, so you can place calls and connect to mobile data networks.</string>
     <string name="ota_skip_activation_dialog_title">Skip activation?</string>
-    <string name="ota_skip_activation_dialog_message">If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on.</string>
+    <string name="ota_skip_activation_dialog_message">If you skip activation, you can\'t place calls or connect to mobile data networks (though you can connect to Wi-Fi networks). Until you activate your phone, you are asked to activate it each time you turn it on.</string>
     <string name="ota_skip_activation_dialog_skip_label">Skip</string>
     <string name="ota_skip_activation_dialog_continue_label">Activate</string>
     <string name="ota_activate">Activate</string>
@@ -585,10 +569,7 @@ After pressing “Activate”, listen to the instructions provided to activate y
     <string name="ota_progress">Please wait while your phone is being programmed.</string>
     <string name="ota_failure">Programming Unsuccessful</string>
     <string name="ota_successful">Your phone is now activated. It may take up to 15 minutes for service to start.</string>
-    <string name="ota_unsuccessful">Your phone did not activate. 
-You may need to find an area with better coverage (near a window, or outside). 
-
-Try again or call customer service for more options.</string>
+    <string name="ota_unsuccessful">Your phone did not activate. \nYou may need to find an area with better coverage (near a window, or outside). \n\nTry again or call customer service for more options.</string>
     <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
     <string name="ota_call_end">Back</string>
     <string name="ota_try_again">Try again</string>
@@ -610,17 +591,13 @@ Try again or call customer service for more options.</string>
     <string name="voicemail_settings_for">Settings for %s</string>
     <string name="other_settings">Other call settings</string>
     <string name="dial_button_label">Dial</string>
-    <string name="calling_via_template">Calling via ^1
-<b>^2</b></string>
+    <string name="calling_via_template">Calling via ^1\n<b>^2</b></string>
     <string name="slide_to_answer">Drag right to answer</string>
     <string name="slide_to_silence">Drag left to ignore</string>
     <string name="slide_to_decline">Drag left to decline</string>
-    <string name="slide_to_answer_and_hold">Drag right to answer and
-hold active call</string>
-    <string name="slide_to_answer_and_end_active">Drag right to answer and
-end active call</string>
-    <string name="slide_to_answer_and_end_onhold">Drag right to answer and
-end call on hold</string>
+    <string name="slide_to_answer_and_hold">Drag right to answer and\nhold active call</string>
+    <string name="slide_to_answer_and_end_active">Drag right to answer and\nend active call</string>
+    <string name="slide_to_answer_and_end_onhold">Drag right to answer and\nend call on hold</string>
     <string name="slide_to_answer_hint">Answer</string>
     <string name="slide_to_decline_hint">Decline</string>
     <string name="default_value_VM"></string>

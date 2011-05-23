@@ -13,8 +13,7 @@
     <string name="settings_backup_summary">Back up my settings</string>
     <string name="sync_menu_sync_now">Sync now</string>
     <string name="sync_menu_sync_cancel">Cancel sync</string>
-    <string name="sync_one_time_sync">Touch to sync now
-%1$s</string>
+    <string name="sync_one_time_sync">Touch to sync now\n%1$s</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendar</string>
     <string name="sync_contacts">Contacts</string>
@@ -23,8 +22,7 @@
     <string name="sync_undo_deletes">Undo the deletes.</string>
     <string name="sync_do_nothing">Do nothing for now.</string>
     <string name="sync_is_failing">Sync is currently experiencing problems. It will be back shortly.</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> 
-A Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> \nA Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
     <string name="header_application_sync_settings">Application sync settings</string>
     <string name="header_manage_accounts">Manage Huawei Social Club</string>
     <string name="header_general_sync_settings">General sync settings</string>
