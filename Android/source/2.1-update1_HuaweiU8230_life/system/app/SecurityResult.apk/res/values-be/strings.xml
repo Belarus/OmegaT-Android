@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">SecurityResultActivity!</string>
+    <string name="app_name">SecurityResult</string>
+    <string name="poweroff">Power off</string>
+    <string name="Securityresultprompt">Security Data error, please shut down and contact the Operator!</string>
+</resources>

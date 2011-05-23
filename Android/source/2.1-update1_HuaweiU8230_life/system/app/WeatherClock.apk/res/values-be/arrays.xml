@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="MonthOfYear">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+    </string-array>
+    <string-array name="DayOfWeek">
+        <item>SUN</item>
+        <item>MON</item>
+        <item>TUE</item>
+        <item>WED</item>
+        <item>THU</item>
+        <item>FRI</item>
+        <item>SAT</item>
+    </string-array>
+    <string-array name="WeatherNames">
+        <item>Sunny</item>
+        <item>Mostly Sunny</item>
+        <item>Partly Sunny</item>
+        <item>Cloudy</item>
+        <item>Hazy Sunshine</item>
+        <item>Cloudy</item>
+        <item>Cloudy</item>
+        <item>Dreary</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>Fog</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Rain</item>
+        <item>Flurries</item>
+        <item>Flurries</item>
+        <item>Flurries</item>
+        <item>Snow</item>
+        <item>Snow</item>
+        <item>Ice</item>
+        <item>Sleet</item>
+        <item>Freezing Rain</item>
+        <item>Unknown</item>
+        <item>Unknown</item>
+        <item>Snow</item>
+        <item>Hot</item>
+        <item>Cold</item>
+        <item>Windy</item>
+        <item>Clear</item>
+        <item>Clear</item>
+        <item>Cloudy</item>
+        <item>Clouds</item>
+        <item>Hazy</item>
+        <item>Cloudy</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Showers</item>
+        <item>Thunder Showers</item>
+        <item>Flurries</item>
+        <item>Snow</item>
+    </string-array>
+    <string-array name="GMTStrs">
+        <item>GMT-12:00</item>
+        <item>GMT-11:00</item>
+        <item>GMT-10:30</item>
+        <item>GMT-10:00</item>
+        <item>GMT-09:30</item>
+        <item>GMT-09:00</item>
+        <item>GMT-08:30</item>
+        <item>GMT-08:00</item>
+        <item>GMT-07:30</item>
+        <item>GMT-07:00</item>
+        <item>GMT-06:30</item>
+        <item>GMT-06:00</item>
+        <item>GMT-05:30</item>
+        <item>GMT-05:00</item>
+        <item>GMT-04:30</item>
+        <item>GMT-04:00</item>
+        <item>GMT-03:30</item>
+        <item>GMT-03:00</item>
+        <item>GMT-02:30</item>
+        <item>GMT-02:00</item>
+        <item>GMT-01:30</item>
+        <item>GMT-01:00</item>
+        <item>GMT-00:30</item>
+        <item>GMT+00:00</item>
+        <item>GMT+00:30</item>
+        <item>GMT+01:00</item>
+        <item>GMT+01:30</item>
+        <item>GMT+02:00</item>
+        <item>GMT+02:30</item>
+        <item>GMT+03:00</item>
+        <item>GMT+03:30</item>
+        <item>GMT+04:00</item>
+        <item>GMT+04:30</item>
+        <item>GMT+05:00</item>
+        <item>GMT+05:30</item>
+        <item>GMT+06:00</item>
+        <item>GMT+06:30</item>
+        <item>GMT+07:00</item>
+        <item>GMT+07:30</item>
+        <item>GMT+08:00</item>
+        <item>GMT+08:30</item>
+        <item>GMT+09:00</item>
+        <item>GMT+09:30</item>
+        <item>GMT+10:00</item>
+        <item>GMT+10:30</item>
+        <item>GMT+11:00</item>
+        <item>GMT+11:30</item>
+        <item>GMT+12:00</item>
+    </string-array>
+    <string-array name="DisableTimeZone">
+        <item>Get from network</item>
+    </string-array>
+</resources>

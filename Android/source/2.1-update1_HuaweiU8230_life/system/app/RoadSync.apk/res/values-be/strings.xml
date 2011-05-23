@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="weekday_day">%1$s %2$s</string>
+    <string name="gadget_no_events">No upcoming calendar events</string>
+    <string name="calendar_plug"><font fgcolor="#ffffffff">Welcome to Google Calendar!</font> 
+A Google approach to managing your schedule built on the idea that scheduling events can be more intuitive, efficient and accessible. </string>
+    <string name="what_label">What</string>
+    <string name="when_label">When</string>
+    <string name="where_label">Where</string>
+    <string name="repeats_label">Repetition</string>
+    <string name="no_title_label">(No subject)</string>
+    <string name="show_agenda_view">Show agenda</string>
+    <string name="show_day_view">Show day</string>
+    <string name="agenda_view">Agenda</string>
+    <string name="day_view">Day</string>
+    <string name="week_view">Week</string>
+    <string name="month_view">Month</string>
+    <string name="event_view">View event</string>
+    <string name="event_create">New event</string>
+    <string name="event_edit">Edit event</string>
+    <string name="event_delete">Delete event</string>
+    <string name="goto_today">Today</string>
+    <string name="menu_select_calendars">My calendars</string>
+    <string name="menu_preferences">Settings</string>
+    <string name="plus_N_more">(plus %d more …)</string>
+    <string name="calendars_title">My calendars</string>
+    <string name="add_calendars">Add calendars</string>
+    <string name="remove_calendars">Remove calendars</string>
+    <string name="event_edit_title">Event details</string>
+    <string name="hint_what">Event name</string>
+    <string name="hint_where">Event location</string>
+    <string name="hint_description">Event description</string>
+    <string name="creating_event">Creating event…</string>
+    <string name="saving_event">Saving event…</string>
+    <string name="loading_calendars_title">Loading calendars</string>
+    <string name="loading_calendars_message">Loading calendars…</string>
+    <string name="alert_title">Calendar notifications</string>
+    <string name="alert_when_label">When:</string>
+    <string name="alert_where_label">Where:</string>
+    <string name="alert_missed_events_single">(%s more reminder)</string>
+    <string name="alert_missed_events_multiple">(%s more reminders)</string>
+    <string name="event_info_title">View event</string>
+    <string name="event_info_title_invite">Meeting invitation</string>
+    <string name="add_new_reminder">Add reminder</string>
+    <string name="edit_event_to_label">To</string>
+    <string name="edit_event_from_label">From</string>
+    <string name="edit_event_all_day_label">All day</string>
+    <string name="edit_event_calendar_label">Calendar</string>
+    <string name="edit_event_show_extra_options">Show extra options</string>
+    <string name="edit_event_hide_extra_options">Hide extra options</string>
+    <string name="description_label">Description</string>
+    <string name="presence_label">Presence</string>
+    <string name="privacy_label">Privacy</string>
+    <string name="reminders_label">Reminder</string>
+    <string name="no_syncable_calendars">No calendars</string>
+    <string name="no_calendars_found">You have no calendars.</string>
+    <string name="view_event_calendar_label">Calendar</string>
+    <string name="view_event_timezone_label">Local time zone</string>
+    <string name="view_event_response_label">Attending?</string>
+    <string name="agenda_today">Today</string>
+    <string name="num_events">Num events</string>
+    <string name="edit_event_label">Edit event</string>
+    <string name="delete_label">Delete</string>
+    <string name="delete_event_label">Delete event</string>
+    <string name="import_label">Import</string>
+    <string name="snooze_all_label">Snooze all</string>
+    <string name="dismiss_all_label">Dismiss all</string>
+    <string name="does_not_repeat">One-time event</string>
+    <string name="daily">Daily</string>
+    <string name="every_weekday">Every weekday (Mon–Fri)</string>
+    <string name="weekly">Weekly (every %s)</string>
+    <string name="monthly_on_day_count">Monthly (every %1$s %2$s)</string>
+    <string name="monthly_on_day">Monthly (on day %s)</string>
+    <string name="yearly">Yearly (on %s)</string>
+    <string name="custom">Custom… (cannot customize on phone)</string>
+    <string name="modify_event">Change only this event.</string>
+    <string name="modify_all">Change all events in the series.</string>
+    <string name="modify_all_following">Change this and all future events.</string>
+    <string name="delete_this_event_title">This event will be deleted.</string>
+    <string name="delete_title">Delete</string>
+    <string name="change_response_title">Change response</string>
+    <string name="preferences_title">Settings</string>
+    <string name="preferences_general_title">Calendar view setting</string>
+    <string name="preferences_alerts_title">Reminder settings</string>
+    <string name="preferences_hide_declined_title">Hide declined events</string>
+    <string name="preferences_alerts_type_title">Set alerts &amp; notifications</string>
+    <string name="preferences_alerts_type_dialog">Alerts &amp; notifications</string>
+    <string name="preferences_alerts_type_default">1</string>
+    <string name="preferences_alerts_vibrate_title">Vibrate</string>
+    <string name="preferences_alerts_ringtone_title">Select ringtone</string>
+    <string name="preferences_default_reminder_title">Set default reminder</string>
+    <string name="preferences_default_reminder_dialog">Default reminder time</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="same_year_md1_md2">%2$s %3$s – %7$s %8$s</string>
+    <string name="same_year_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+    <string name="same_year_mdy1_mdy2">%2$s %3$s – %7$s %8$s, %9$s</string>
+    <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
+    <string name="same_year_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+    <string name="same_year_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+    <string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
+    <string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+    <string name="numeric_mdy1_mdy2">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
+    <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
+    <string name="numeric_md1_time1_md2_time2">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+    <string name="numeric_mdy1_time1_mdy2_time2">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
+    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
+    <string name="same_month_md1_md2">%2$s %3$s – %8$s</string>
+    <string name="same_month_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+    <string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
+    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
+    <string name="same_month_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+    <string name="same_month_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+    <string name="relative_time">%1$s, %2$s</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
+    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
+    <string name="hour_minute_ampm">%-l:%M%P</string>
+    <string name="hour_minute_cap_ampm">%-l:%M%p</string>
+    <string name="hour_ampm">%-l%P</string>
+    <string name="hour_cap_ampm">%-l%p</string>
+    <string name="noon">noon</string>
+    <string name="Noon">Noon</string>
+    <string name="midnight">midnight</string>
+    <string name="Midnight">Midnight</string>
+    <string name="numeric_date">%m/%d/%Y</string>
+    <string name="abbrev_month_day_year">%b %-d, %Y</string>
+    <string name="abbrev_month_year">%b %Y</string>
+    <string name="abbrev_month_day">%b %-d</string>
+    <string name="abbrev_month">%b</string>
+    <string name="month_day_year">%B %-d, %Y</string>
+    <string name="month_year">%B %Y</string>
+    <string name="month_day">%B %-d</string>
+    <string name="month">%B</string>
+    <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
+    <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
+    <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
+    <string name="date1_date2">%2$s – %5$s</string>
+    <string name="time1_time2">%1$s – %2$s</string>
+    <string name="time_wday_date">%1$s, %2$s, %3$s</string>
+    <string name="wday_date">%2$s, %3$s</string>
+    <string name="time_date">%1$s, %3$s</string>
+    <string name="time_wday">%1$s, %2$s</string>
+    <string name="preposition_for_date">on %s</string>
+    <string name="preposition_for_time">at %s</string>
+    <string name="preposition_for_year">in %s</string>
+    <string name="every_weekday2">Every weekday (Mon–Fri)</string>
+    <string name="daily2">Daily</string>
+    <string name="weekly2">Weekly on %s</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly2">Yearly</string>
+    <string name="ghostData_name">First and Last</string>
+    <string name="menu_done">Done</string>
+    <string name="menu_doNotSave">Revert</string>
+    <string name="send_to_voicemail_checkbox">Send calls directly to voicemail</string>
+    <string name="label_phonetic_name">Phonetic</string>
+    <string name="ghostData_phonetic_name">Phonetic name</string>
+    <string name="selectLabel">Select label</string>
+    <string name="addPicture">Add icon</string>
+    <string name="removePicture">Remove icon</string>
+    <string name="editContact_title_edit">Edit contact</string>
+    <string name="editContact_title_insert">New contact</string>
+    <string name="menu_deleteContact">Delete contact</string>
+    <string name="errorDialogTitle">No pictures</string>
+    <string name="photoPickerNotFoundText">No pictures are available on the phone.</string>
+    <string name="default_ringtone">Default</string>
+    <string name="deleteConfirmation_title">Delete</string>
+    <string name="deleteConfirmation">This contact will be deleted.</string>
+    <string name="customLabelPickerTitle">Custom label name</string>
+    <string name="contactSavedToast">Contact saved.</string>
+    <string name="contactCreatedToast">Contact created.</string>
+    <string name="listSeparatorCallNumber_edit">Phone numbers</string>
+    <string name="listSeparatorSendEmail_edit">Email addresses</string>
+    <string name="listSeparatorSendIm_edit">Chat addresses</string>
+    <string name="listSeparatorMapAddress_edit">Postal addresses</string>
+    <string name="listSeparatorOrganizations">Organizations</string>
+    <string name="label_notes">Notes</string>
+    <string name="ghostData_company">Company</string>
+    <string name="ghostData_title">Position</string>
+    <string name="ghostData_im">IM name</string>
+    <string name="ghostData_notes">My note</string>
+    <string name="label_ringtone">Ringtone</string>
+    <string name="actionIncomingCall">Incoming calls</string>
+    <string name="ghostData_phone">Phone number</string>
+    <string name="ghostData_email">Email address</string>
+    <string name="ghostData_postal">Postal address</string>
+    <string name="app_title">RoadSync by DataViz</string>
+    <string name="direct_push_active">Direct push active</string>
+    <string name="sync_active">Syncing...</string>
+    <string name="remote_service_label">RoadSync status</string>
+    <string name="user_name_label">User name</string>
+    <string name="start_sync_button">Start Sync</string>
+    <string name="cancel_sync_button">Stop Sync</string>
+    <string name="settings_button">Settings</string>
+    <string name="about_button">About RoadSync</string>
+    <string name="check_for_updates_button">Check For Updates</string>
+    <string name="give_us_feedback_button">Give Us Feedback</string>
+    <string name="user_name_preference_label">User name</string>
+    <string name="user_name_preference_summary">Example: Your Name</string>
+    <string name="user_name_preference_dialog_title">Account user name</string>
+    <string name="importance_dialog_title">Message importance</string>
+    <string name="email_enabled_preference_label">E-mail</string>
+    <string name="email_enabled_preference_summary">Sync inbox messages and attachments</string>
+    <string name="contacts_enabled_preference_label">Contacts</string>
+    <string name="contacts_enabled_preference_summary">Sync Exchange contacts to built-in Contacts application</string>
+    <string name="calendar_enabled_preference_label">Calendar</string>
+    <string name="calendar_enabled_preference_summary">Sync Exchange appointments to RoadSync Calendar application</string>
+    <string name="ssl_preference_label">SSL</string>
+    <string name="ssl_preference_summary">Use secure data connection to server</string>
+    <string name="password_preference_label">Password</string>
+    <string name="password_preference_summary">Exchange account password</string>
+    <string name="password_preference_dialog_title">Account password</string>
+    <string name="server_preference_label">Server address</string>
+    <string name="server_preference_summary">Example: server.company.com</string>
+    <string name="server_preference_dialog_title">Exchange server address</string>
+    <string name="domain_preference_label">Domain</string>
+    <string name="domain_preference_summary">Example: COMPANY</string>
+    <string name="domain_preference_dialog_title">Exchange server domain</string>
+    <string name="my_email_preference_label">My e-mail address</string>
+    <string name="my_email_preference_summary">Do not include the following e-mail addresses when replying to all</string>
+    <string name="my_email_preference_dialog_title">My e-mail address</string>
+    <string name="new_email_notification_category">New Email Alert Settings</string>
+    <string name="email_alerts_status_bar_title">Status bar</string>
+    <string name="email_alerts_status_bar_summary">Notify in status bar when email arrives</string>
+    <string name="email_alerts_ringtone_title">Select ringtone</string>
+    <string name="email_alerts_vibrate_title">Vibrate</string>
+    <string name="email_alerts_led_color_title">LED Indicator</string>
+    <string name="preferences_activity_label">Preferences</string>
+    <string name="menu_reset">Reset data</string>
+    <string name="menu_show_cc">Show CC/BCC</string>
+    <string name="menu_hide_cc">Hide CC/BCC</string>
+    <string name="menu_discard">Discard</string>
+    <string name="menu_add_attachment">Attach</string>
+    <string name="menu_attachments">Attachments</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_message_details">Message details</string>
+    <string name="menu_prefs_done">Done</string>
+    <string name="menu_hide_message_details">Hide message details</string>
+    <string name="menu_importance">Priority</string>
+    <string name="message_list_no_messages">No messages</string>
+    <string name="attachment_list_no_attachments">No attachments</string>
+    <string name="attachment_veiw">Attachments</string>
+    <string name="attachment_list_no_messages">No attachments</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="cc">CC</string>
+    <string name="bcc">BCC</string>
+    <string name="subject">Subject</string>
+    <string name="message_details_to_label">To:</string>
+    <string name="message_details_cc_label">CC:</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_set">Set</string>
+    <string name="dialog_confirm_mr_accept">Are you sure you want to accept this meeting?</string>
+    <string name="dialog_confirm_mr_decline">Are you sure you want to decline this meeting?</string>
+    <string name="dialog_confirm_mr_tentative">Are you sure you want to respond as tentative?</string>
+    <string name="dialog_delete_confirm">Delete selected message(s) from the device?</string>
+    <string name="dialog_discard_confirm">Discard changes and remove from the device?</string>
+    <string name="dialog_move_drafts_title">Move to Drafts?</string>
+    <string name="dialog_move_drafts_message">Would you like to modify this message before sending?</string>
+    <string name="dialog_reset_all_title">Reset all data?</string>
+    <string name="dialog_reset_all_message">All Exchange messages, appointments, and contacts will be removed from device and re-downloaded</string>
+    <string name="dialog_reset_email_title">Reset email data?</string>
+    <string name="dialog_reset_email_message">All Exchange messages will be removed from device and re-downloaded</string>
+    <string name="dialog_reset_contacts_title">Reset contact data?</string>
+    <string name="dialog_reset_contacts_message">All Exchange contacts will be removed from device and re-downloaded</string>
+    <string name="dialog_reset_calendar_title">Reset calendar data?</string>
+    <string name="dialog_reset_calendar_message">All Exchange appointments will be removed from device and re-downloaded</string>
+    <string name="inbox">Inbox</string>
+    <string name="drafts">Drafts</string>
+    <string name="sent">Sent Items</string>
+    <string name="outbox">Outbox</string>
+    <string name="saved_drafts">Message saved to Drafts folder</string>
+    <string name="no_subject">(no subject)</string>
+    <string name="no_to">(no recipient)</string>
+    <string name="new_message_failed">Failed to create new message!</string>
+    <string name="reply_message_failed">Failed to reply to the message!</string>
+    <string name="move_outbox_failed">Failed to move message to Outbox!</string>
+    <string name="attachment_add_failed">Failed to add attachment!</string>
+    <string name="engine_unavailable">Sync engine is currently unavailable!</string>
+    <string name="message_invalid">Please fix the address before sending!</string>
+    <string name="email_signature">
+
+***Sent via RoadSync® for Android™</string>
+    <string name="email_re_prefix">RE:</string>
+    <string name="email_fw_prefix">FW:</string>
+    <string name="email_reply_header_prefix">-----Original Message-----</string>
+    <string name="email_smart_reply_header_postfix">-----Unmodified Original Message-----</string>
+    <string name="reply_dialog_title">Reply</string>
+    <string name="attachment_view_remove_dialog">Attachment action</string>
+    <string name="attachment_remove_confirm_title">Remove attachment from this message?</string>
+    <string name="first_use_wizard_welcome_screen_title">Welcome!</string>
+    <string name="license_agreement_screen_title">License Agreement</string>
+    <string name="license_agreement_accept_button_label">Accept</string>
+    <string name="license_agreement_cancel_button_label">Cancel</string>
+    <string name="license_agreement_text">BEFORE INSTALLING THIS SOFTWARE, YOU SHOULD READ THE TERMS AND CONDITIONS OF THIS AGREEMENT. BY INSTALLING AND/OR USING THE PROGRAM, YOU ARE CONSENTING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, YOU SHOULD NOT CONTINUE WITH THE INSTALLATION OR USE OF THE SOFTWARE. 
+
+DataViz End-User License Agreement (rev. 4/25/05)
+
+RoadSync® 
+
+Summary of Key Terms
+
+You may use this program ONLY on up to the maximum number of handheld devices covered by the license package you have purchased. The activation of this program will function solely on the handheld device(s) on which it is originally installed. 
+
+This program is owned by DataViz, Inc. (and its licensors), and is protected by U.S. and international copyright laws. All references to "this program" or "this product" include all products or code included in the program and owned by DataViz' third party licensors. No copying is permitted, except for one (1) back-up copy. No transfer, distribution, modification or translation of this program, electronic or otherwise, is permitted without DataViz's written permission. VIOLATION OF COPYRIGHT IS A SERIOUS OFFENSE, PUNISHABLE BY MONETARY PENALTIES AND POSSIBLE IMPRISONMENT.
+
+DataViz makes no warranties regarding this product, except as to replacement of defective disks (if any) supplied by DataViz. All warranties, including merchantability or fitness for a particular purpose are specifically disclaimed.
+
+IMPORTANT - Read the full license terms and conditions below before installing. This License provides you with limited rights to use the software, conditioned upon your continued compliance with these terms and conditions. INSTALLATION OF THIS SOFTWARE WILL CONSTITUTE YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS.
+
+END-USER LICENSE 
+
+If you have purchased a single license, you may use this program only on a single handheld device. If you have purchased a multiple-license package, this program may be used ONLY on up to the maximum number of handheld computers covered by the license package. You can verify the size of your license package at any time, after you register with DataViz as a user of this program, by contacting DataViz at (203) 874-0085. The activation of this program will function solely on the handheld device(s) on which it is originally installed. 
+
+Except for installation and maintenance of this program by you for your own authorized use, you may not electronically transfer, transmit or provide access to the program from one computer to another over a network, the Internet or any other means, including without limitation making the program, its features or results, available through an application service provider or the like. You may not distribute, sublicense or make available copies of the program or related documentation to others in any form, electronic or otherwise. You may not modify, reverse engineer, decompile, disassemble or translate the program or related documentation without the prior written consent of DataViz. You may make one (1) copy of the program solely for back-up purposes. YOU MAY NOT USE, COPY, MODIFY, OR TRANSFER THE PROGRAM OR DOCUMENTATION, OR ANY COPY EXCEPT AS EXPRESSLY PROVIDED IN THIS LICENSE AGREEMENT. This program is owned by DataViz, Inc. and its licensors, and is protected by U.S. and international copyright laws. VIOLATION OF COPYRIGHT IS A SERIOUS OFFENSE, PUNISHABLE BY MONETARY PENALTIES AND POSSIBLE IMPRISONMENT.
+
+You may not use the program for any unlawful purpose, including infringement of the copyrights or other proprietary rights of DataViz or others, or in any illegal manner or for creation or distribution of illegal content. You agree to indemnify DataViz and its licensors for any and all claims arising from any violation by you of the terms of this End-User License. This indemnity will survive any termination of this End-User License.
+
+AUTOMATIC COMMUNICATION WITH DATAVIZ WEB SITE
+
+This software may include technology that periodically, if an internet connection is available, contacts DataViz servers with information regarding your installed copy of the program and your handheld device. Data collected includes information regarding program product specifications, registration status, type and model of device, desktop operating system, and product usage patterns, including how often used. This information is used to notify you of free maintenance upgrades, product entitlements, new version releases and additional personalized services and offers. Any collected data may also be used for general statistical purposes on an anonymous basis. DataViz may also match your registration and/or product information to personally identifiable information in order to present you with product notifications, offers and invitations (surveys, beta programs, etc.) tailored to you. Any other use of information is governed and limited by DataViz's privacy policy posted at http://www.dataviz.com/privacy. EXCLUSION OF WARRANTY
+
+THIS PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE, ALL OF WHICH ARE SPECIFICALLY DISCLAIMED, TO THE MAXIMUM EXTENT PERMITTED BY LAW. THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE PROGRAM IS ASSUMED BY YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU (AND NOT DATAVIZ OR ITS LICENSORS, SUPPLIERS, DISTRIBUTORS OR DEALERS) ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION. 
+
+NEITHER DATAVIZ NOR ITS LICENSORS, SUPPLIERS, DISTRIBUTORS OR DEALERS WARRANT THAT THE FUNCTIONS CONTAINED IN THE PROGRAM WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE PROGRAM WILL BE UNINTERRUPTED OR ERROR FREE.
+
+If the program has been licensed to you on a CD, DataViz warrants to you, the original licensee, that the CD on which the program is recorded will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of delivery as evidenced by a copy of your receipt. The above express warranty is specifically limited to its terms, and to the extent inconsistent with any disclaimer of warranty contained herein, is not intended to otherwise limit such disclaimer. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS WHICH VARY FROM STATE TO STATE.
+
+NEITHER DATAVIZ NOR ITS LICENSORS, SUPPLIERS, DISTRIBUTORS OR DEALERS OR ANYONE ELSE WHO HAS BEEN INVOLVED IN THE CREATION, PRODUCTION, OR DELIVERY OF THIS PROGRAM SHALL BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES, LOST PROFITS, BUSINESS INTERRUPTION OR LOSS OF INFORMATION ARISING OUT OF THE USE, THE RESULTS OF USE, OR INABILITY TO USE SUCH PROGRAM, OR DAMAGE OF LOSS CAUSED BY THE PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR CLAIM. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. 
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, DATAVIZ'S ENTIRE LIABILITY AND YOUR EXCLUSIVE REMEDY IN THE EVENT OF A BREACH OF DATAVIZ'S OBLIGATIONS IS LIMITED TO A REFUND OF ANY LICENSE FEE YOU ACTUALLY PAID TO DATAVIZ FOR THIS PROGRAM.
+
+TERM 
+
+The End-User License is effective until terminated. You may terminate an End-User License by destroying the program and documentation and all copies thereof. The End-User License is conditioned upon your continued compliance with the Agreement and will terminate automatically and irrevocably if you fail to comply with any term or condition of this Agreement. Trial and evaluation licenses terminate automatically at the end of the trial and evaluation period. Upon any termination you agree to destroy all copies of the program and documentation in your possession or control.
+
+EXPORT LAWS; GOVERNMENT USERS 
+
+You agree and certify that neither the software nor any other technical data received from DataViz, nor the direct product thereof, will be exported outside the United States (i) into any country (or to a national or resident of any such country) as to which the U.S. has embargoed goods, (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders, or (iii) otherwise in violation of or as prohibited by the laws, rules, regulations or administrative orders of the United States, or any unit, agency or department thereof. By opening or downloading the software, you are agreeing to the foregoing and are representing and warranting that you are not located in, under the control of, or a national or resident of any such country, on any such list or order, or subject to any such prohibition, and that you will not further export it to any such prohibited location or person. 
+
+Use, duplication or disclosure by the United States Government (or any unit, agency or department thereof), is subject to the following provisions, which, to the extent applicable, are incorporated by reference herein as if set forth in their entirety: (i) FAR 52.227.19(a) through (d); (ii) in the case of the Department of Defense, DFAR 227.7202.1 through 227.7202-4; (iii) in the case of NASA, the NASA Supplement to the FAR at 18-52.227-86(d); and (iv) all other Federal laws and regulations that protect Licensor's rights in privately developed software. Contractor/manufacturer is DataViz, Inc., Merritt Corporate Woods, 612 Wheelers Farms Road, Milford, CT, 06461.
+
+GENERAL 
+
+This Agreement shall be governed by the laws of the State of Connecticut without regard to principles of conflicts of laws and shall inure to the benefit of DataViz, its successors and assigns (including without limitation, its licensors as third party beneficiaries hereunder). Any disputes relating hereto shall be adjudicated in the state or federal courts in the State of Connecticut, and you hereby consent to the exclusive jurisdiction of said courts for any such disputes. If for any reason a court of competent jurisdiction finds any provision of this License Agreement, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement shall continue in full force and effect.
+
+DataViz shall have the right, upon reasonable prior notice and during regular business hours, to audit/inspect any computer network on which this program is installed to monitor compliance with the terms of this Agreement, including but not limited to confirming the number of handheld devices on which the program is used. You are responsible for assuring compliance with the terms of this Agreement by any persons you authorize to use this program, including but not limited to your employees, and for any violations of the terms hereof by any party.
+
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. YOU FURTHER AGREE THAT THIS IS THE COMPLETE AND EXCLUSIVE AGREEMENT BETWEEN THE PARTIES.
+
+IF YOU DO NOT AGREE TO THE FOREGOING, YOU SHOULD NOT CONTINUE WITH THE INSTALLATION OR USE OF THE SOFTWARE.</string>
+    <string name="simple_question_cancel_button_label">Cancel</string>
+    <string name="simple_question_no_button_label">No</string>
+    <string name="simple_question_yes_button_label">Yes</string>
+    <string name="generic_ok_button_label">OK</string>
+    <string name="first_use_welcome_screen_thanks">Thank you for your interest in RoadSync® by DataViz, Inc.</string>
+    <string name="first_use_welcome_screen_rs_description">This application uses the Microsoft® Exchange ActiveSync® protocol to provide secure, wireless and direct push synchronization of corporate e-mail, attachments, contacts, and calendar. Easily set up your account today!</string>
+    <string name="first_use_welcome_screen_next_button_label">Next</string>
+    <string name="registration_screen_join">Please register your software with DataViz now. This process entitles you to product update notifications, online support resources and exclusive promotions from DataViz.</string>
+    <string name="registration_screen_title">Register Now!</string>
+    <string name="registration_screen_register_button_label">Register</string>
+    <string name="registration_screen_privacy_policy_note">Please note: DataViz will not sell or distribute this information.</string>
+    <string name="registration_screen_privacy_policy">Privacy Policy</string>
+    <string name="registration_screen_invalid_email_warning">Email is not valid. Please enter it again.</string>
+    <string name="registration_screen_required_fields_missing">The following fields are required:</string>
+    <string name="registration_screen_registration_success">Registration was successful!</string>
+    <string name="registration_screen_first_name_field_label">First Name</string>
+    <string name="registration_screen_last_name_field_label">Last Name</string>
+    <string name="registration_screen_email_field_label">Email</string>
+    <string name="registration_screen_progress_dialog_label">Registering...</string>
+    <string name="registration_screen_error_web_service_not_available">The registration server is not available or busy. Please try again at a later time.</string>
+    <string name="registration_screen_error_no_connection">An error occurred while attempting to connect to the internet. Please make sure your APN settings, firewall settings, and application permissions are configured appropriately.</string>
+    <string name="registration_screen_error_during_regi_attempt_generic">An error occurred while attempting registration. Please try again at a later time.</string>
+    <string name="registration_screen_error_during_regi_attempt_specific">An error occurred while attempting registration. Please check your registration information and confirm it is correct. Select the Details button to see information specific to what caused the problem.</string>
+    <string name="registration_error_details_label">Details</string>
+    <string name="registration_screen_warning_message_and">and</string>
+    <string name="unregistered">Unregistered</string>
+    <string name="about_screen_credit_google_text1">Portions of this product are modifications based on work created and</string>
+    <string name="about_screen_link1_text">shared by Google</string>
+    <string name="about_screen_credit_google_text2">and used according to terms described in the</string>
+    <string name="about_screen_link2_text">Creative Commons 2.5 Attribution License</string>
+    <string name="about_screen_title">About</string>
+    <string name="about_screen_dataviz_copyright_rights_reserved">All Rights Reserved</string>
+    <string name="about_screen_beta_edition">Free Beta (Expires October 15, 2009)</string>
+    <string name="about_screen_upgrades_url">www.dataviz.com/roadsync</string>
+    <string name="about_screen_eas_copyright">This product uses Microsoft® Exchange ActiveSync® technology licensed from Microsoft. ©2003-2010</string>
+    <string name="about_screen_rs_logo_trademark">The yellow RoadSync® logo is a trademark of DataViz, Inc. All other product and company names mentioned herein may be trademarks or tradenames of their respective owners.</string>
+    <string name="about_screen_open_source">Copyright (c) 2005-2010, The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+Apache License
+Version 2.0, January 2004 
+http://www.apache.org/licenses/ 
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 
+
+ 1. Definitions. 
+
+"License" shall mean the terms and conditions for use, reproduction,and distribution as defined by Sections 1 through 9 of this document. 
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License. 
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. 
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License. 
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files. 
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types. 
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below). 
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof. 
+
+ "Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution." 
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work. 
+
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. 
+
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed. 
+
+ 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions: 
+
+ (a) You must give any other recipients of the Work or Derivative Works a copy of this License; and 
+
+ (b) You must cause any modified files to carry prominent notices stating that You changed the files; and 
+
+ (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and 
+
+ (d) If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. 
+
+ You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License. 
+
+ 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions. 
+
+ 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file. 
+
+ 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License. 
+
+ 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages. 
+
+ 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability. 
+
+END OF TERMS AND CONDITIONS</string>
+    <string name="about_screen_open_source_see_menu">This product includes software developed as part of The Android Open Source Project. ©2005-2010 See "Menu" for licensing information.</string>
+    <string name="about_screen_open_source_menu">Open Source licenses</string>
+    <string name="version_label">Version:</string>
+    <string name="edition_label">Edition:</string>
+    <string name="registration_number_label">Registration Number:</string>
+    <string name="language_string">en</string>
+    <string name="expired_beta_message_title">RoadSync® Beta Expired</string>
+    <string name="expired_app_message_title">RoadSync® Expired</string>
+    <string name="expired_demo_message_title">Trial Expired</string>
+    <string name="expired_demo_message">Your RoadSync trial has expired.</string>
+    <string name="no_connection">No wireless data connection detected. 
+
+</string>
+    <string name="sync_err_403">Exchange Server denied access, contact administrator</string>
+    <string name="sync_err_507">Server mailbox full, free up space in your mailbox</string>
+    <string name="sync_err_infinite_sync_loop">Detected an "Infinite Sync Loop" problem. Switching to scheduled sync to conserve battery and data.</string>
+    <string name="sync_err">Sync Error:</string>
+    <string name="http_err">HTTP Error:</string>
+    <string name="sync_err_no_connection">No data connection available</string>
+    <string name="sync_err_flight_mode">Airplane mode turned on</string>
+    <string name="dtg_mkt_msg_body">Documents To Go® is available in Android Market and allows you to view, edit and create Microsoft® Word, Excel®, and PowerPoint® files and attachments.</string>
+    <string name="dtg_mkt_msg_close_button_text">Close</string>
+    <string name="dtg_mkt_msg_link_text">Download Now</string>
+    <string name="dtg_mkt_msg_title">Did you know?</string>
+    <string name="contacts_folder_name">Exchange Contacts</string>
+    <string name="resetting_all">Resetting Exchange contacts...</string>
+    <string name="unsupported_server_version">Exchange Server version is not supported</string>
+    <string name="get_message_updates">Sync</string>
+    <string name="view_original_message">View original message</string>
+    <string name="email_date_range_label">Email date range</string>
+    <string name="email_date_range_summary">Choose how much of the past emails to download</string>
+    <string name="email_date_range_dialog_title">Email date range</string>
+    <string name="email_data_size_label">Email download size</string>
+    <string name="email_data_size_summary">Choose how much to download initially</string>
+    <string name="email_data_size_dialog_title">Email download size</string>
+    <string name="email_prefs_category">Email Options</string>
+    <string name="email_signature_preference_label">Signature</string>
+    <string name="email_signature_preference_summary">Customize your e-mail signature</string>
+    <string name="email_signature_preference_dialog_title">Email signature</string>
+    <string name="menu_mark_as_unread">Mark as unread</string>
+    <string name="menu_mark_as_read">Mark as read</string>
+    <string name="menu_view_log">View log</string>
+    <string name="menu_clear_log">Clear log</string>
+    <string name="log_save_button">Save</string>
+    <string name="loading_log">Loading...</string>
+    <string name="log_string_sync_started">Sync started</string>
+    <string name="log_string_sync_finished">Sync finished</string>
+    <string name="log_string_reset_all">"Reset all" started</string>
+    <string name="log_string_reset_email">"Reset email" started</string>
+    <string name="log_string_reset_contacts">"Reset contacts" started</string>
+    <string name="log_string_reset_calendar">"Reset calendar" started</string>
+    <string name="log_string_sync_error">[ERROR]</string>
+    <string name="log_string_sync_canceled">Canceled by user</string>
+    <string name="log_activity_label">RoadSync Log</string>
+    <string name="log_item_skipped">This item was skipped due to an error:</string>
+    <string name="log_exception_thrown_while_processing_item">Exception was thrown while processing this item:</string>
+    <string name="failed_to_save_log">Unable to save the log to the card</string>
+    <string name="log_save_acknowledge">The log was saved to your SD Card in the "roadsync" folder</string>
+    <string name="menu_enable_verbose_log">Enable verbose logging</string>
+    <string name="menu_disable_verbose_log">Disable verbose logging</string>
+    <string name="refresh_log_button">Refresh</string>
+    <string name="attachment_app_not_found">No application found</string>
+    <string name="menu_delete_message">Delete</string>
+    <string name="menu_move_to_drafts">Edit before sending</string>
+    <string name="menu_open_message">Open</string>
+    <string name="menu_reply_forward">Reply / Forward</string>
+    <string name="menu_follow_up">Flag</string>
+    <string name="menu_download_remainder">Download More</string>
+    <string name="download_remainder_preference_label">Auto download</string>
+    <string name="download_remainder_preference_summary">Upon opening of incomplete message, automatically download remainder</string>
+    <string name="menu_stop_download_remainder">Stop Download</string>
+    <string name="download_remainder_button">Download remainder</string>
+    <string name="menu_help">Help</string>
+    <string name="choice_reset_all">Reset all</string>
+    <string name="choice_reset_email">Reset e-mail</string>
+    <string name="choice_reset_calendar">Reset calendar</string>
+    <string name="choice_reset_contacts">Reset contacts</string>
+    <string name="menu_configure">Settings</string>
+    <string name="fodler_dialog_title">Choose folder to display</string>
+    <string name="menu_folders">Folders</string>
+    <string name="sync_schedule_prefs_category">Sync Schedule</string>
+    <string name="roaming_sync_schedule_preference_label">Sync when roaming</string>
+    <string name="roaming_sync_schedule_preference_summary">Use the above sync schedule</string>
+    <string name="roam_sync_warning_dialog_text">Allow sync when roaming? You may incur significant roaming charges!</string>
+    <string name="show_state_indicator_preference_label">Show status icon</string>
+    <string name="show_state_indicator_preference_summary">Display a RoadSync icon in the notification bar</string>
+    <string name="peak_schedule_label">Peak schedule</string>
+    <string name="peak_schedule_dialog_title">Peak schedule</string>
+    <string name="peak_schedule_summary">Choose sync mode during peak time</string>
+    <string name="off_peak_schedule_label">Off peak schedule</string>
+    <string name="off_peak_schedule_dialog_title">Off peak schedule</string>
+    <string name="off_peak_schedule_summary">Choose sync mode during off peak time</string>
+    <string name="peak_start_time_label">Peak start time</string>
+    <string name="peak_start_time_summary">Set the peak schedule start time</string>
+    <string name="peak_start_time_dialog_title">Peak start time</string>
+    <string name="peak_end_time_label">Peak end time</string>
+    <string name="peak_end_time_summary">Set the peak schedule end time</string>
+    <string name="peak_end_time_dialog_title">Peak end time</string>
+    <string name="peak_days_label">Peak days</string>
+    <string name="peak_days_summary">Set which days use the peak schedule</string>
+    <string name="peak_day_monday_label">Monday</string>
+    <string name="peak_day_tuesday_label">Tuesday</string>
+    <string name="peak_day_wednesday_label">Wednesday</string>
+    <string name="peak_day_thursday_label">Thursday</string>
+    <string name="peak_day_friday_label">Friday</string>
+    <string name="peak_day_saturday_label">Saturday</string>
+    <string name="peak_day_sunday_label">Sunday</string>
+    <string name="other_prefs_category">Other preferences</string>
+    <string name="contact_not_found">Contact not found</string>
+    <string name="sync_prefs_category">Server Settings</string>
+    <string name="data_sync_prefs_category">Data Sync Settings</string>
+    <string name="follow_up_action">Follow up</string>
+    <string name="mark_complete_action">Mark complete</string>
+    <string name="clear_follow_up_action">Clear flag</string>
+    <string name="menu_deselct_all">Deselect all</string>
+    <string name="menu_new_message">New message</string>
+    <string name="calendar_folder_name">Exchange Calendar</string>
+    <string name="tentative_button">Tentative</string>
+    <string name="accept_button">Accept</string>
+    <string name="decline_button">Decline</string>
+    <string name="email_accept_prefix">Accepted:</string>
+    <string name="email_tentative_prefix">Tentative:</string>
+    <string name="email_decline_prefix">Declined:</string>
+    <string name="dialog_allow_untrusted_cert_title">Allow Untrusted Certificate?</string>
+    <string name="dialog_allow_untrusted_cert_message">Server sent an untrusted certificate, allow the sync to continue anyway? (Please contact your IT administrator if you are not sure.)</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="calendar_prefs_category">Calendar Options</string>
+    <string name="calendar_date_range_label">Calendar date range</string>
+    <string name="calendar_date_range_summary">Choose how much of the past calendar appointments to download</string>
+    <string name="calendar_date_range_dialog_title">Calendar date range</string>
+    <string name="calendar_item_note_truncation_warning">[Notes were truncated. Modifications will cause data loss.]</string>
+    <string name="sync_err_inbox_missing">While syncing with your Exchange account we did not find "Inbox" folder. Syncing of E-mail will be disable.</string>
+    <string name="sync_err_contacts_missing">While syncing with your Exchange account we did not find "Contacts" folder. Syncing of Contacts will be disable.</string>
+    <string name="sync_err_calendar_missing">While syncing with your Exchange account we did not find "Calendar" folder. Syncing of Calendar will be disable.</string>
+    <string name="sync_err_no_data_type_enabled">Please got to "Settings" and enable E-mail, Contacts, or Calendar.</string>
+    <string name="operation_failed">Unexpected error. Please try again</string>
+    <string name="received">Received</string>
+    <string name="contact_address_street_label">Street</string>
+    <string name="contact_address_city_label">City</string>
+    <string name="contact_address_state_label">State</string>
+    <string name="contact_address_postal_code_label">Postal code</string>
+    <string name="contact_address_country_label">Country</string>
+    <string name="contact_name_label">Contact name</string>
+    <string name="contact_first_name_label">First Name</string>
+    <string name="contact_middle_name_label">Middle Name</string>
+    <string name="contact_postal_address">Postal address</string>
+    <string name="contact_last_name_label">Last Name</string>
+    <string name="contact_syncing_postal_addresses_label">Postal addresses</string>
+    <string name="contact_home_label">Home</string>
+    <string name="contact_work_label">Work</string>
+    <string name="contact_other_label">Other</string>
+    <string name="contact_address_label">address</string>
+    <string name="contact_email_label">Other</string>
+    <string name="contact_unable_to_add_data">Unable to add information because this contact has the max number of values for that field. Please delete one of the current values and try adding again if you would like to sync this value.</string>
+    <string name="contact_note_truncated_warning">[Notes were truncated. Modifications will cause data loss.]</string>
+    <string name="add_attachment_action_title">Add attachment</string>
+    <string name="failed_to_open_db">RoadSync failed to open the internal database. Please restart the device and try again. If the problem persists uninstall and reinstall RoadSync</string>
+    <string name="default_follow_up">Follow up</string>
+    <string name="led_preference_summary">Only available on select devices</string>
+    <string name="wrong_imei_message">This version of RoadSync® is not intended for use on this phone. For the correct installation file, visit: www.dataviz.com/GetRSAndroid1</string>
+    <string name="wrong_imei_title">RoadSync information</string>
+    <string name="auto_discovery_screen_title">Connect to Exchange</string>
+    <string name="auto_discovery_explanation">Enter Exchange account information</string>
+    <string name="auto_discovery_no_password">Please enter your password</string>
+    <string name="auto_discovery_no_domain">Please enter your domain name</string>
+    <string name="auto_discovery_no_server">Please enter your server name</string>
+    <string name="auto_discovery_no_user_name">Please enter your user name</string>
+    <string name="auto_discovery_progress_dialog_label">Discovering settings...</string>
+    <string name="auto_discovery_dialog_allow_untrusted_cert_message">Server sent an untrusted certificate, accept and continue anyway? (Please contact your IT administrator if you are not sure.)</string>
+    <string name="auto_discovery_dialog_next_button_label">Next</string>
+    <string name="auto_discovery_dialog_finish_button_label">Finish</string>
+    <string name="auto_discovery_dialog_manual_settings_button_label">Manual Settings</string>
+    <string name="dialog_send_now_later_title">Send now or later?</string>
+    <string name="dialog_send_now_later">Would you like to send this message now or save in Outbox to be sent next time RoadSync connects to your server account?</string>
+    <string name="dialog_button_now">Send now</string>
+    <string name="dialog_dutton_save">Save in Outbox</string>
+    <string name="new_exchange_messages_notification">new Exchange messages</string>
+    <string name="reply">Reply</string>
+    <string name="reply_to_all">Reply to all</string>
+    <string name="forward">Forward</string>
+    <string name="low_priority">Low</string>
+    <string name="normal_priority">Normal</string>
+    <string name="high_priority">High</string>
+    <string name="view_attachment">View attachment</string>
+    <string name="remove_attachment">Remove attachment</string>
+    <string name="range_or_size_value_all">All</string>
+    <string name="date_range_1_day">1 day</string>
+    <string name="date_range_3_days">3 days</string>
+    <string name="date_range_1_week">1 week</string>
+    <string name="date_range_2_weeks">2 weeks</string>
+    <string name="date_range_1_month">1 month</string>
+    <string name="date_range_3_months">3 months</string>
+    <string name="date_range_6_months">6 months</string>
+    <string name="email_size_headers_only">Headers only</string>
+    <string name="sync_schedule_push">Push</string>
+    <string name="sync_schedule_manual">Manual</string>
+    <string name="sync_schedule_5_minutes">5 minutes</string>
+    <string name="sync_schedule_15_minutes">15 minutes</string>
+    <string name="sync_schedule_1_hour">1 hour</string>
+    <string name="sync_schedule_4_hours">4 hours</string>
+    <string name="sync_schedule_12_hours">12 hours</string>
+    <string name="led_color_blue">Blue</string>
+    <string name="led_color_green">Green</string>
+    <string name="led_color_red">Red</string>
+    <string name="led_color_yellow">Yellow</string>
+    <string name="led_color_none">None</string>
+    <string name="editContactDescription">Edit RoadSync contact</string>
+    <string name="insertContactDescription">Create RoadSync contact</string>
+    <string name="invalid_exception_title">Invalid Date</string>
+    <string name="invalid_exception_msg">Two occurrences of a recurring appointment cannot occur on the same day, overlap, or be scheduled in a sequence different than the one in which they were created. Please select another start date.</string>
+    <string name="no_reminders_for_allday_recurring_title">Invalid Reminder</string>
+    <string name="no_reminders_for_allday_recurring_msg">The reminder for an occurrence cannot be set to appear before the previous occurrence. Please remove the reminder time or lengthen the recurrence period.</string>
+    <string name="availability_free">Free</string>
+    <string name="availability_tentative">Tentative</string>
+    <string name="availability_busy">Busy</string>
+    <string name="availability_out_of_office">Out of Office</string>
+    <string name="visibility_normal">Normal</string>
+    <string name="visibility_personal">Personal</string>
+    <string name="visibility_private">Private</string>
+    <string name="visibility_confindential">Confidential</string>
+    <string name="demo_days_remaining_1">This full functioning trial expires in</string>
+    <string name="demo_days_remaining_short">Expires in</string>
+    <string name="buy_roadsync_link_text">Buy RoadSync</string>
+    <string name="buy_now_button">Buy Now</string>
+    <string name="about_screen_trial">Trial</string>
+    <string name="download_latest_version">Click here to download the latest RoadSync application</string>
+    <string name="demo_try_dialog_button">Try</string>
+    <string name="demo_buy_dialog_button">Buy</string>
+    <string name="newer_version_unlock_key_installed">This unlock key corresponds to a newer version of the main RoadSync application. Would you like to download now?</string>
+    <string name="thanks_for_purchasing">Thank you for purchasing RoadSync® by DataViz, Inc.</string>
+    <string name="unlock_key_explanation">This key unlocks secure, wireless and direct push synchronization of your e-mail, calendar, contacts and attachments with Microsoft Exchange Server.</string>
+    <string name="download_main_application">To finish the installation, you must now download the main application.</string>
+    <string name="download_now">Download Now!</string>
+    <string name="simple_question_later_button_label">Later</string>
+    <string name="trial_expired_buy_now">Your trial has expired. Would you like to review your options to unlock the full version now?</string>
+    <string name="expired_screen_info">This application uses the Microsoft® Exchange ActiveSync® protocol to provide secure, wireless and direct push synchronization of corporate e-mail, attachments, calendar and contacts.</string>
+    <string name="save_label">Save</string>
+    <string name="discard_label">Discard changes</string>
+    <string name="failed_to_provision">Failed to provision RoadSync</string>
+    <string name="err_out_of_storage_space">Not enough storage space to perform this action. Please free up some space and try again.</string>
+    <string name="server_preference_example">server.company.com</string>
+    <string name="user_name_preference_example">Your Name</string>
+    <string name="domain_preference_example">COMPANY</string>
+    <string name="sent_label">Sent</string>
+    <string name="large_message_error">Unable to display because the message is too large.</string>
+    <string name="STR_SELECT">Select</string>
+    <string name="STR_CANCEL_SELECTION">Cancel Selection</string>
+    <string name="gal_view_title">Global Address List</string>
+    <string name="gal_search_local_contacts_title">Local Contacts</string>
+    <string name="gal_search_hint">Enter search string</string>
+    <string name="gal_menu_cancel">Cancel</string>
+    <string name="gal_empty_results_msg">Your search yielded no results</string>
+    <string name="gal_too_many_results_msg">Displaying 50 of %d results. Please refine your search.</string>
+    <string name="gal_empty_search_string_msg">Please enter a search string</string>
+    <string name="gal_search_title">Select a group to search</string>
+    <string name="gal_search_local_contacts_option">Local Contacts</string>
+    <string name="gal_search_gal_option">Global Address List</string>
+    <string name="gal_search_progress_dialog_label">Searching...</string>
+    <string name="gal_display_name_label">Name</string>
+    <string name="gal_contact_title_label">Title</string>
+    <string name="gal_company_label">Company</string>
+    <string name="gal_email_label">Email</string>
+    <string name="gal_work_phone_label">Work Phone</string>
+    <string name="gal_home_phone_label">Home Phone</string>
+    <string name="gal_mobile_phone_label">Mobile Phone</string>
+    <string name="gal_dialog_ok">OK</string>
+    <string name="gal_dialog_add">Add to Contacts</string>
+    <string name="gal_search_button">Search</string>
+    <string name="browse_attachment_label">Attach</string>
+    <string name="first_use_welcome_screen_basic_rs_description">This application uses the Microsoft® Exchange ActiveSync® protocol to provide secure, wireless and direct push synchronization of corporate e-mail, contacts and attachments.
+
+You can access additional features such as calendar synchronization, contact photos, global address list lookup, and message flagging by purchasing unlock keys through Android Market and our online store.
+
+Easily set up your account today!</string>
+    <string name="STR_PREMIUM_FEATURES_NOT_ACTIVATED">The feature you are trying to access is included in the full version of this application.</string>
+    <string name="STR_MARKETING_DEFAULT_MESSAGE_2">Would you like to review your options to unlock this and many other premium features?</string>
+    <string name="STR_EXCITED_YES">YES</string>
+    <string name="STR_PURCHASE">Buy Full Version</string>
+    <string name="alerts_preference_title">Select alert sound</string>
+    <string name="attachment_error_no_sd_card">Please insert an SD card before downloading any attachments</string>
+    <string name="basic_version_with_full_version_key_message">Thank you for installing the RoadSync unlock key. To finish unlocking, you need the full version of RoadSync from the Android Market. Would you like to download now?</string>
+    <string name="download_full_version">Download Full Version</string>
+    <string name="sync_err_401">Sync failed! Please check your user name, password, or domain</string>
+    <string name="memory_err_during_sync">There is not enough memory on phone to perform a sync.</string>
+    <string name="sync_failed_restart">Sync failed! Please restart your device.</string>
+    <string name="err_low_mem_attachment_add">Unable to add attachment.</string>
+    <string name="rs_account_settings_title">General Settings</string>
+    <string name="rs_account_settings">RoadSync Settings</string>
+    <string name="rs_account_settings_summary">Settings, preferences and logs</string>
+    <string name="only_one_rs_account">Only one RoadSync account can be configured</string>
+    <string name="view_event_attendees_label">Attendees:</string>
+    <string name="view_event_organizer_label">(Organizer)</string>
+    <string name="edit_event_show_meeting_request">Add attendees</string>
+    <string name="required_attendees_label">Required attendees</string>
+    <string name="optional_attendees_label">Optional attendees</string>
+    <string name="editingMultiJoinRoadSyncContactErrorMsg">More than one contact is joined to this contact. Only the first contact will open for editing.</string>
+    <string name="editingNonRoadSyncContactErrorMsg">This is not a RoadSync contact. RoadSync cannot edit this contact.</string>
+    <string name="save_to_card_option_internal">Internal memory</string>
+    <string name="save_to_card_option_sdcard">SD card</string>
+    <string name="save_to_sd_card_title">Email storage</string>
+    <string name="save_to_sd_card_summary">Where do you want email data saved?</string>
+    <string name="save_to_sd_card_confirm_title">Move mail storage</string>
+    <string name="reset_email_confirm_text">This will require a reset of all email data. Continue?</string>
+    <string name="enable_email_new_card_title">Enable email sync</string>
+    <string name="insert_sd_card_toast_text">Insert card.</string>
+    <string name="disconnect_sd_card_toast_text">Disconnect from PC.</string>
+    <string name="sd_card_read_only_toast_text">Card is read only.</string>
+    <string name="sd_card_db_not_found_toast_text">Database not found.</string>
+    <string name="sd_card_corrupted_toast_text">Card corrupted.</string>
+    <string name="email_sync_disabled_string">Email sync has been disabled.</string>
+    <string name="email_storage_to_internal_toast_text">Email database moved to internal storage.</string>
+    <string name="no_sd_card_text">Card not inserted.</string>
+    <string name="log_save_acknowledge_internal">The log was saved to your internal storage in the "roadsync" folder</string>
+    <string name="calendar_me">Me</string>
+    <string name="expired_beta_message">Thank you for evaluating RoadSync®. This version of the software has expired. Please check the Android Market for a more recent version or visit www.dataviz.com for more information.</string>
+    <string name="whats_new_notification_dlg_text">Thank you for installing RoadSync. Would you like to see what's new in this release?</string>
+    <string name="build_overwritten_text">RoadSync came with your device and you may have lost functionality when installing this version.</string>
+    <string name="build_overwritten_text_2">Would you like to check for updates optimized for your device?</string>
+    <string name="continue_anyway">Continue Anyway</string>
+    <string name="dont_show_again">Don't show again</string>
+    <string name="contact_edit_help">Help</string>
+    <string name="contact_edit_more_info">More Info</string>
+    <string name="edit_merged_contact_error_explanation">RoadSync is unable to read information for this contact. If this is a RoadSync contact, please try again after separating this contact using the standard editor.</string>
+    <string name="email_sync_disabled_invite_string">Email sync is disabled. The meeting invitation will not be sent.</string>
+    <string name="add_attachment_list_item_pictures">Pictures</string>
+    <string name="add_attachment_list_item_capture_picture">Capture picture</string>
+    <string name="add_attachment_list_item_videos">Videos</string>
+    <string name="add_attachment_list_item_capture_video">Capture video</string>
+    <string name="add_attachment_list_item_audio">Audio</string>
+    <string name="add_attachment_list_item_record_audio">Record audio</string>
+    <string name="add_attachment_list_item_other_files">Other files</string>
+    <string name="message_veiw">RoadSync Message</string>
+    <string name="app_label">RoadSync Calendar</string>
+    <string name="email_preference_hint">email@company.com</string>
+    <string name="about_screen_dataviz_copyright">© 2010 DataViz, Inc.</string>
+    <string name="message_edit">RoadSync Message</string>
+    <string name="message_list_app_name">RoadSync Mail</string>
+    <string name="message_list_app_name_basic_edition">RoadSync Lite</string>
+    <string name="app_name_basic_edition">RoadSync Lite</string>
+    <string name="gadget_title">RoadSync Calendar</string>
+    <string name="app_name">RoadSync</string>
+</resources>

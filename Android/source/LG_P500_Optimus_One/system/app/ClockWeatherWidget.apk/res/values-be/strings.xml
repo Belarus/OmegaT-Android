@@ -13,7 +13,7 @@
     <string name="add_city_title">Add city</string>
     <string name="add_newcity">Add a new city</string>
     <string name="already_exist_post">already exists</string>
-    <string name="already_exist_pre" />
+    <string name="already_exist_pre"></string>
     <string name="city_not_found_post">is not found</string>
     <string name="city_not_found_pre">Sorry, city name including</string>
     <string name="sun">Sunday</string>

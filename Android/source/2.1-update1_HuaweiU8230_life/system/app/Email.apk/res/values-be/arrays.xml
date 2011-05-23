@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-2</item>
+        <item>-1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="mailbox_server_names">
+        <item>Inbox</item>
+        <item>Outbox</item>
+        <item>Drafts</item>
+        <item>Trash</item>
+        <item>Sent</item>
+        <item>Junk</item>
+    </string-array>
+</resources>

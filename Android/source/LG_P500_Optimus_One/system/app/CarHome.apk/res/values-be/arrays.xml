@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <array name="ui_mode_night">
-        <item>@string/ui_mode_night_no</item>
-        <item>@string/ui_mode_night_auto</item>
-        <item>@string/ui_mode_night_yes</item>
-    </array>
-</resources>

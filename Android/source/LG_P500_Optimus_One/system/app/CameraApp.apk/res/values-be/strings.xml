@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">Camera</string>
     <string name="confirm">OK</string>
-    <string name="setting_init">All settings will be reset to the\ndefault values. Continue?</string>
+    <string name="setting_init">All settings will be reset to the
+default values. Continue?</string>
     <string name="reset">Reset</string>
     <string name="cancel">Cancel</string>
     <string name="yes">Yes</string>
@@ -151,7 +152,7 @@
     <string name="help_scene_mode_menu_sports_desc">Capturing scenes with fast moving objects, such as sports</string>
     <string name="help_scene_mode_menu_night_desc">Captures beautiful night scenery. Slow shutter speeds are used to detect night landscapes</string>
     <string name="help_scene_mode_menu_sunset_desc">Captures beautiful sunset scenery</string>
-    <string name="help_iso_menu_desc">Controls camera\'s sensitivity to light</string>
+    <string name="help_iso_menu_desc">Controls camera's sensitivity to light</string>
     <string name="help_white_balance_menu_desc">Improves color qualities under different lighting conditions</string>
     <string name="help_white_balance_menu_auto_desc">Automatically adjusts color</string>
     <string name="help_white_balance_menu_incandescent_desc">For pictures taken in soft lightings</string>
@@ -200,7 +201,7 @@
     <string name="help_face_effect_blur_desc">Automatically detects a face and gives Blur effect on the face</string>
     <string name="help_face_effect_snow_desc">Makes snow falling effect on the head</string>
     <string name="help_face_effect_shallow_focus_desc">Finds the face automatically and sets the background out of focus</string>
-    <string name="help_face_effect_big_face_desc">Makes one\'s face face bigger</string>
+    <string name="help_face_effect_big_face_desc">Makes one's face face bigger</string>
     <string name="help_face_effect_mosaic_desc">Automatically enables Mosaic effect on the face when camera detects a face</string>
     <string name="help_face_effect_fish_eye_desc">Automatically enables Fish-eye effect on the face when camera detects a face</string>
     <string name="help_face_effect_concave_desc">Automatically enables Concave effect on the face when camera detects a face</string>
@@ -242,14 +243,16 @@
     <string name="help_video_voice_unmute_desc">Save video with sound</string>
     <string name="help_video_voice_mute_desc">Save video without sound</string>
     <string name="help_video_show_desc">Review a video after recording</string>
-    <string name="dummy_space" />
+    <string name="dummy_space"></string>
     <string name="camera_application_stopped">Camera Stopped</string>
     <string name="camera_driver_needs_reset">Camera has stopped unexpectedly,need to restart.</string>
     <string name="geo_tag_dialog_title">GPS Service is off</string>
-    <string name="geo_tag_dialog_msg">Turn on the GPS from the setting to use \n Location tag.</string>
+    <string name="geo_tag_dialog_msg">Turn on the GPS from the setting to use 
+ Location tag.</string>
     <string name="geo_tag_dialog_confirm">GPS settings</string>
     <string name="geo_tag_dialog_title_cdma">LBS Service is off</string>
-    <string name="geo_tag_dialog_msg_cdma">Turn on the LBS from the setting to use \n Location tag.</string>
+    <string name="geo_tag_dialog_msg_cdma">Turn on the LBS from the setting to use 
+ Location tag.</string>
     <string name="geo_tag_dialog_confirm_cdma">LBS settings</string>
     <string name="camera_error_title">Camera error</string>
     <string name="cannot_connect_camera">Cannot connect to camera.</string>

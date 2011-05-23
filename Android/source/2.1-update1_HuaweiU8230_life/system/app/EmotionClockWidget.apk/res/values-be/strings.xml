@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="selectstyle_title">Select style</string>
+    <string name="selectstyle_select">Select</string>
+    <string name="selectcity_title">Search city</string>
+    <string name="IsCityDisplayed_Text">Display as</string>
+    <string name="EmotionClock">My Clock</string>
+    <string name="EmotionComplexClock">My World Clock</string>
+</resources>

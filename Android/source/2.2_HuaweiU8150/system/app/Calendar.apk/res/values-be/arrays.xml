@@ -109,11 +109,11 @@
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Only this event</item>
-        <item>This &amp;amp; future events</item>
+        <item>This &amp; future events</item>
         <item>All events</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>This &amp;amp; future events</item>
+        <item>This &amp; future events</item>
         <item>All events</item>
     </string-array>
     <string-array name="change_response_labels">

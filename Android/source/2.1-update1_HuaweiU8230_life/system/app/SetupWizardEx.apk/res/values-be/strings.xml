@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">SetupWizardEx</string>
+    <string name="back_step">Back</string>
+    <string name="next_step">Next</string>
+    <string name="begin_step">Begin</string>
+    <string name="skip_step">Skip</string>
+    <string name="done_step">Done</string>
+    <string name="finish_setup">Finish setup</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="welcome_process_waiting">Please wait while loading...</string>
+    <string name="welcome_device_name">Welcome to %s</string>
+    <string name="welcome_tap_begin">Tap me to begin</string>
+    <string name="welcome_emergency">Emergency dial</string>
+    <string name="welcome_language">Change language</string>
+    <string name="tutorial_intro_title">Learn how to use your %s</string>
+    <string name="tutorial_intro_text_top">There are a few important things to understand to get the most out of your phone.</string>
+    <string name="tutorial_intro_text1">- Using the onscreen keyboard</string>
+    <string name="tutorial_intro_text2">- Setting up your accounts</string>
+    <string name="tutorial_intro_text3">- Important settings</string>
+    <string name="tutorial_intro_text_bottom">Press "Begin" to start the tutorial and find out more.</string>
+    <string name="keyboard_tutorial_title">Using the onscreen keyboard</string>
+    <string name="keyboard_tutorial_text1">Touch any text field to open the keyboard and start typing. When done typing, press your phone's "back" key to close the keyboard. Try it here!</string>
+    <string name="keyboard_tutorial_text2">Learn how to use the onscreen keyboard by playing a video.</string>
+    <string name="keyboard_tutorial_editor_hint">Touch here to start typing</string>
+    <string name="play_video">Play</string>
+    <string name="play_error">An error occurs while playing video, please check the video file</string>
+    <string name="account_apn_menu">APN settings</string>
+    <string name="account_tutorial_dialog_title">Account register</string>
+    <string name="account_tutorial_title">Setting up your accounts</string>
+    <string name="account_tutorial_text">To allow quick usage of the services offered by your %s, tap on the service icons below to set-up your accounts.</string>
+    <string name="account_tutorial_gmail">Google account</string>
+    <string name="account_tutorial_email">Email account</string>
+    <string name="account_tutorial_roadsync">Exchange account</string>
+    <string name="account_tutorial_kaixin">kaixin account</string>
+    <string name="account_tutorial_community">My Community</string>
+    <string name="account_tutorial_google_account">No more google account can be registered, your current account is: </string>
+    <string name="account_tutorial_email_text1">Your current Email accounts:
+</string>
+    <string name="account_tutorial_email_text2">Want to register more account?</string>
+    <string name="account_tutorial_roadsync_text1">No more Exchange account can be registered, your current account is: </string>
+    <string name="account_tutorial_community_text1">Community has not been configured, it will be automatically launched after the tutorial.
+
+Still continue to next step now?</string>
+    <string name="data_switch_title">Data service switch</string>
+    <string name="data_switch_text1">Data service switch provides a way to enable and disable the data traffic, all the network connectivity services will be affected by this setting, such as Synchronization, Internet service, sending and receiving MMS, Email and so on.</string>
+    <string name="data_switch_text2">You can disable data sevice at any time by turning off Data Service in mobile network settings.</string>
+    <string name="data_switch_checkbox">Enable data service</string>
+    <string name="location_sharing_title">Location consent</string>
+    <string name="location_sharing_text1">Google's location service provides applications with your approximate location without using GPS.</string>
+    <string name="location_sharing_text2">You can disable collection at any time by turning off "Use wireless networks" in Settings.</string>
+    <string name="location_sharing_checkbox">Allow Google's location service to collect anonymous and aggregate location data. Collection will occur regardless of whether any applications are active.</string>
+    <string name="sync_intro_title">Your Google account is now linked to this phone</string>
+    <string name="sync_intro_text">Google applicaitons are syncing data now.
+
+When the "syncing" icon %i disappears from the status bar at the top of your screen, the download has finished.</string>
+    <string name="data_switch_title_tme">Internet Access Type</string>
+    <string name="data_service_introduce">The configuration of this mobile phone will be adapted according to the Internet tariff you have contracted.
+
+Do you have an Internet flat tariff rate?</string>
+    <string name="tutorial_netmanger_info">When data service is enabled, you can use NetManager to enable or disable all the network connectivity applications.</string>
+    <string name="data_service_dialog_title">Attention</string>
+    <string name="data_service_dialog_message">Data transmission charges may apply. An unlimited data plan is recommended.</string>
+    <string name="turkcell_video_show_title">Learn your T10</string>
+    <string name="turkcell_video_show_text"> Would you like to learn more of your T10?</string>
+    <string name="turkcell_video_1">Watch The Basics Video</string>
+    <string name="turkcell_video_2">Watch Turkcell Services Video</string>
+    <string name="turkcell_video_3">Watch Customization Video</string>
+    <string name="turkcell_video_show_exit">Exit</string>
+</resources>

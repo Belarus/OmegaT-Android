@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">TouchPal CHT Language Pack</string>
+    <string name="receiver_discover">receiver for discover the language pack</string>
+</resources>

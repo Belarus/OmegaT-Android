@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="myevent_title">My Events</string>
+    <string name="myevent_nonetext">No events today and tomorrow</string>
+</resources>

@@ -13,33 +13,12 @@
         <item>:-!</item>
         <item>:-[</item>
         <item>O:-)</item>
-        <item>:-\\</item>
-        <item>:\'(</item>
+        <item>:-\</item>
+        <item>:'(</item>
         <item>:-X</item>
         <item>:-D</item>
         <item>o_O</item>
     </string-array>
-    <array name="default_text_templates">
-        <item>@string/templates_0</item>
-        <item>@string/templates_1</item>
-        <item>@string/templates_2</item>
-        <item>@string/templates_3</item>
-        <item>@string/templates_4</item>
-        <item>@string/templates_5</item>
-        <item>@string/templates_6</item>
-        <item>@string/templates_7</item>
-        <item>@string/templates_8</item>
-        <item>@string/templates_9</item>
-    </array>
-    <array name="pref_entries_set_validity_period">
-        <item>@string/pref_setup_options_validity_period_1_hour</item>
-        <item>@string/pref_setup_options_validity_period_6_hours</item>
-        <item>@string/pref_setup_options_validity_period_12_hours</item>
-        <item>@string/pref_setup_options_validity_period_1_day</item>
-        <item>@string/pref_setup_options_validity_period_3_day</item>
-        <item>@string/pref_setup_options_validity_period_1_week</item>
-        <item>@string/pref_setup_options_validity_period_maximum</item>
-    </array>
     <string-array name="pref_values_set_validity_period">
         <item>11</item>
         <item>71</item>
@@ -68,10 +47,6 @@
         <item>warning</item>
         <item>free</item>
     </string-array>
-    <array name="copy_move_items">
-        <item>@string/copy_to_usim</item>
-        <item>@string/move_to_usim</item>
-    </array>
     <string-array name="pref_cblanguage_pack_eurobase">
         <item>English</item>
         <item>Italiano</item>
@@ -93,7 +68,7 @@
         <item>Język polski</item>
         <item>slovenski jezik</item>
         <item>中文繁體</item>
-        <item>中文简体\u0020</item>
+        <item>中文简体 </item>
         <item>한국어</item>
     </string-array>
     <string-array name="pref_cblanguage_pack_TMUSbase">

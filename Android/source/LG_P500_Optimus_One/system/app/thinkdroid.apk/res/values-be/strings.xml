@@ -35,11 +35,11 @@
     <string name="calc_title_save_to">Save to</string>
     <string name="calc_title_select_encoding">Text encoding</string>
     <string name="calc_title_goto">Go to</string>
-    <string name="calc_msg_loading">Loading \'%s\'</string>
+    <string name="calc_msg_loading">Loading '%s'</string>
     <string name="calc_msg_enter_passwd">Please enter password</string>
     <string name="calc_msg_reenter_passwd">Incorrect. re-enter password</string>
-    <string name="calc_msg_invalid_dir">Invalid folder: \'%s\'</string>
-    <string name="calc_msg_saved_to">Saved to \'%s\'</string>
+    <string name="calc_msg_invalid_dir">Invalid folder: '%s'</string>
+    <string name="calc_msg_saved_to">Saved to '%s'</string>
     <string name="calc_msg_failed">Failed</string>
     <string name="calc_msg_open_failed">Failed to open</string>
     <string name="calc_msg_empty_sheet">This sheet has no contents</string>
@@ -97,7 +97,7 @@
     <string name="calc_label_type">Type</string>
     <string name="calc_label_row_points">Points : %d</string>
     <string name="calc_label_col_chars">Character counts : %d</string>
-    <string name="calc_msg_saving">Saving \'%s\'</string>
+    <string name="calc_msg_saving">Saving '%s'</string>
     <string name="calc_msg_confirm_save">Do you want to save?</string>
     <string name="calc_msg_enter_sheet_name">Please enter the sheet name</string>
     <string name="calc_msg_formula_circular_ref">One or more formulas contain a circular reference</string>
@@ -106,12 +106,15 @@
     <string name="calc_msg_paste_invalid_selection">The copy/cut area and the paste area are not the same size and shape</string>
     <string name="calc_msg_protected_sheet">Cannot edit a protected or chart sheet</string>
     <string name="calc_msg_need_visible_sheet">A workbook must contain at least 1 visible worksheet</string>
-    <string name="calc_msg_sheet_inserted">\'%s\' was inserted</string>
-    <string name="calc_msg_sheet_deleted">\'%s\' was deleted</string>
-    <string name="calc_msg_sheet_renamed">Sheet name changed to \'%s\'</string>
+    <string name="calc_msg_sheet_inserted">'%s' was inserted</string>
+    <string name="calc_msg_sheet_deleted">'%s' was deleted</string>
+    <string name="calc_msg_sheet_renamed">Sheet name changed to '%s'</string>
     <string name="calc_msg_invalid_sheet_name">Invalid sheet name</string>
-    <string name="calc_msg_merge_multiple_data">The selection contains multiple data values.\nMerging into one cell will keep the upper-left most data only.\nDo you want to continue anyway?</string>
-    <string name="calc_msg_confirm_expand_selection">There is some data next to the selection. Since you have not selected this data, it will not be sorted.\nDo you expand the selection?</string>
+    <string name="calc_msg_merge_multiple_data">The selection contains multiple data values.
+Merging into one cell will keep the upper-left most data only.
+Do you want to continue anyway?</string>
+    <string name="calc_msg_confirm_expand_selection">There is some data next to the selection. Since you have not selected this data, it will not be sorted.
+Do you expand the selection?</string>
     <string name="calc_button_save">Save</string>
     <string name="calc_button_sheet">Sheet</string>
     <string name="calc_button_edit">Edit</string>
@@ -237,7 +240,8 @@
     <string name="msg_rename_failed">Rename failed</string>
     <string name="msg_rename_completed">Rename completed</string>
     <string name="msg_rename_proceessing">Renaming...</string>
-    <string name="msg_rename_confirm_extension">If you change a file name extension, the file may become unusable.\nAre you sure you want to change it?</string>
+    <string name="msg_rename_confirm_extension">If you change a file name extension, the file may become unusable.
+Are you sure you want to change it?</string>
     <string name="move_title">Move to</string>
     <string name="msg_move_exist">The file already exists</string>
     <string name="msg_move_completed">Move completed</string>
@@ -273,7 +277,7 @@
     <string name="copyright_tf_short">©2010 Hancom Inc. All rights reserved.</string>
     <string name="msg_invalid_logininfo">Invalid username or wrong password</string>
     <string name="confirm_deletion_title">Confirm deletion</string>
-    <string name="confirm_deletion_des">Do you really want to delete \"%s\"?</string>
+    <string name="confirm_deletion_des">Do you really want to delete "%s"?</string>
     <string name="msg_delete_failed">The file or folder cannot be removed.</string>
     <string name="msg_delete_completed">The file or folder has been removed successfully.</string>
     <string name="msg_delete_processing">Deleting...</string>
@@ -302,15 +306,15 @@
     <string name="link_privacy"><a href="http://www.thinkfree.com/go?id=privacy">Privacy</a></string>
     <string name="link_ack"><a href="http://www.thinkfree.com/go?id=ack_and">Acknowledgement</a></string>
     <string name="label_copyright">©2010 Hancom Inc. All rights reserved. ThinkFree and ThinkFree logo are trademarks of Hancom Inc(HNC).</string>
-    <string name="label_accord">Portions of this product are modifications based on work created and <a href="http://code.google.com/policies.html">shared by Google</a> and used according to terms of described in the <a href="http://creativecommons.org/licenses/by/2.5">Creative Commons 2.5 Attribution License.</a>\u0020</string>
+    <string name="label_accord">Portions of this product are modifications based on work created and <a href="http://code.google.com/policies.html">shared by Google</a> and used according to terms of described in the <a href="http://creativecommons.org/licenses/by/2.5">Creative Commons 2.5 Attribution License.</a> </string>
     <string name="msg_extracting">Extracting...</string>
-    <string name="msg_extracting_with_filename">Extracting... \"%s\"</string>
+    <string name="msg_extracting_with_filename">Extracting... "%s"</string>
     <string name="msg_extract_failed">The file has not been extracted successfully.</string>
-    <string name="msg_extract_completed">Extracted to \"%s\"</string>
+    <string name="msg_extract_completed">Extracted to "%s"</string>
     <string name="msg_same_directory">Same folder</string>
     <string name="msg_exist_folder_name">Folder name already exists</string>
     <string name="msg_exist_file_name">File name already exists</string>
-    <string name="msg_invalid_filename">A file name cannot contain any of the following characters: \\ / : * ? \" &lt; > |</string>
+    <string name="msg_invalid_filename">A file name cannot contain any of the following characters: \ / : * ? " &lt; &gt; |</string>
     <string name="msg_not_implemented">not implemented yet</string>
     <string name="msg_connection_refused">The network connection has failed</string>
     <string name="msg_file_not_found">%s is not found</string>
@@ -372,7 +376,7 @@
     <string name="pref_back_key">Back button behavior</string>
     <string name="pref_text_encoding">Text encoding</string>
     <string name="activate_now">Activate now</string>
-    <string name="activate_desc">Click \"%1$s\" to activate %2$s on your device.</string>
+    <string name="activate_desc">Click "%1$s" to activate %2$s on your device.</string>
     <string name="activate_result_ok">Activation completed</string>
     <string name="activate_result_failed_network_error">Network connection is required.</string>
     <string name="activate_result_failed_invalid_hardware">%s cannot be activated on this hardware device.</string>
@@ -473,10 +477,10 @@
     <string name="show_label_cut">Cut</string>
     <string name="show_label_paste">Paste</string>
     <string name="show_msg_loading">Loading...</string>
-    <string name="show_msg_opening">Loading \'%s\'</string>
+    <string name="show_msg_opening">Loading '%s'</string>
     <string name="show_msg_open_fail">Failed to open</string>
-    <string name="show_msg_saving">Saving \'%s\'</string>
-    <string name="show_msg_save_success">Saved to \'%s\'</string>
+    <string name="show_msg_saving">Saving '%s'</string>
+    <string name="show_msg_save_success">Saved to '%s'</string>
     <string name="show_msg_save_fail">Failed to save</string>
     <string name="show_msg_zoom">%d%%</string>
     <string name="show_msg_no_slide">No slide</string>
@@ -504,8 +508,11 @@
     <string name="tfp_err_out_of_memory">Error. Not enough memory available to continue.</string>
     <string name="tfp_err_loading_page">Error loading page.</string>
     <string name="tfp_msg_blank_page">Blank Page</string>
-    <string name="tfp_msg_no_read_mode">Reading mode\nnot available\nfor this page.</string>
-    <string name="tfp_msg_err_loading_page">Error loading\npage</string>
+    <string name="tfp_msg_no_read_mode">Reading mode
+not available
+for this page.</string>
+    <string name="tfp_msg_err_loading_page">Error loading
+page</string>
     <string name="tfp_menu_reading_view">Reading view</string>
     <string name="tfp_menu_page_view">Page view</string>
     <string name="tfp_misc_page">%1 of %2</string>
@@ -523,7 +530,7 @@
     <string name="tfp_unknown_name">Unknown.pdf</string>
     <string name="tfp_misc_yes">Yes</string>
     <string name="tfp_misc_no">No</string>
-    <string name="tfp_confirm_save">Save \'%1\' to the memory card?</string>
+    <string name="tfp_confirm_save">Save '%1' to the memory card?</string>
     <string name="tfp_save_complete">Save complete</string>
     <string name="tfp_no_bookmarks">No bookmarks</string>
     <string name="tfp_menu_bookmarks">Bookmarks</string>
@@ -542,7 +549,7 @@
     <string name="tfp_find_hint">Find what?</string>
     <string name="tfp_find_no_matches">No matches found.</string>
     <string name="tfp_find_complete">Find complete.</string>
-    <string name="tfp_finding">Finding \'%1\'. Please wait...</string>
+    <string name="tfp_finding">Finding '%1'. Please wait...</string>
     <string name="tfp_wait_page_load">Please wait for the current page to finish loading.</string>
     <string name="tfp_menu_file">File</string>
     <string name="tfp_menu_zoom">Zoom</string>
@@ -590,7 +597,7 @@
     <string name="write_exit_confirm_title">Exit</string>
     <string name="write_exit_confirm_message">Do you want to save?</string>
     <string name="write_msg_failed_to_save">Failed to save</string>
-    <string name="write_msg_saving">Saving \'%s\'</string>
+    <string name="write_msg_saving">Saving '%s'</string>
     <string name="write_msg_selection_mode">Selection mode</string>
     <string name="write_msg_cancel_selection">Exit selection mode</string>
     <string name="write_pref_title_create_backup_copy">Create backup copy</string>
@@ -608,9 +615,9 @@
     <string name="write_menu_normalscreen">Normal screen</string>
     <string name="write_menu_texttospeech">Text to speech</string>
     <string name="write_menu_display_mode">Display mode</string>
-    <string name="write_msg_saved_as_completed">Saved to \'%s\'</string>
+    <string name="write_msg_saved_as_completed">Saved to '%s'</string>
     <string name="write_msg_failed">Failed</string>
-    <string name="write_msg_loading">Loading \'%s\'</string>
+    <string name="write_msg_loading">Loading '%s'</string>
     <string name="write_msg_failed_to_open">Failed to open</string>
     <string name="write_msg_no_match">No matches found.</string>
     <string name="write_msg_matches">%1$d / %2$d match(es)</string>

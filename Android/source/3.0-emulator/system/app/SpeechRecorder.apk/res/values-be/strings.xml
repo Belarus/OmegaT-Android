@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Speech Recorder</string>
+    <string name="speechrecorderlabel">Speech Recorder</string>
+    <string name="recordButton">Record</string>
+    <string name="redoButton">Redo</string>
+    <string name="callRadioButton">"call ..."
+Utterances</string>
+    <string name="dialNanpRadioButton">"dial NANP"
+Utterances</string>
+    <string name="dialPairsRadioButton">"dial NANP PAIRS"
+Utterances</string>
+</resources>

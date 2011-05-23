@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">OMA Download</string>
+    <string name="file">File</string>
+    <string name="url">URL</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="size">Size</string>
+    <string name="vendor">Vendor</string>
+    <string name="description">Description</string>
+    <string name="download">Download</string>
+    <string name="cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="err_dd_invalid">DD file is invalid</string>
+    <string name="omadownload_conflict">There is a DRM download already! Please wait the download finish.</string>
+    <string name="err_dd_version_invalid">DD version is invalid!</string>
+    <string name="err_parse_ddfile_fail">Parse DD file fail!</string>
+    <string name="err_not_enough_space">Not enought space!</string>
+    <string name="play_or_not">Play or not?</string>
+    <string name="view">View</string>
+    <string name="install_err">Install DRM file error!</string>
+    <string name="file_save_at">File save at %s</string>
+    <string name="err_not_acceptable_content">Cannot download. The content is not supported on this phone.</string>
+</resources>

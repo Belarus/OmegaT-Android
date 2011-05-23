@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">TouchPal Russian Language Pack</string>
+    <string name="receiver_discover">receiver for discover the language pack</string>
+    <string name="content_uri">content://com.cootek.touchpal.languageprovider</string>
+    <string name="content_uri_sysindex">content://com.cootek.touchpal.languageprovider/dictionary/sysindex</string>
+    <string name="content_uri_sysdata">content://com.cootek.touchpal.languageprovider/dictionary/sysdata</string>
+    <string name="content_uri_user">content://com.cootek.touchpal.languageprovider/dictionary/user</string>
+    <string name="mime_dictfile">vnd.android.cursor.dir/vnd.cootek.touchpal.dictfile</string>
+</resources>

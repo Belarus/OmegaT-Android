@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ime_name">Hanvon Calla Handwriting IME</string>
+    <string name="load_settings_failed">Load IME Settings Failed.</string>
+    <string name="create_resource_failed">Load IME Resources Failed.</string>
+</resources>
