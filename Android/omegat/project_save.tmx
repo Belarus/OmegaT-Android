@@ -2184,8 +2184,8 @@
       <tuv lang="en">
         <seg>%1$s successful, %2$s failed.</seg>
       </tuv>
-      <tuv lang="be" changedate="20110425T165734Z" changeid="klyok">
-        <seg>%1$s пасьпяхова, %2</seg>
+      <tuv lang="be" changedate="20110514T115219Z" changeid="klyok">
+        <seg>%1$s пасьпяхова, %2$s не ўдалося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35286,6 +35286,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scanning SD card failed (Reason: &quot;%s&quot;)</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110514T122219Z" changeid="klyok">
+        <seg>Не ўдалося агледзець картку SD (падстава: «%s»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scanning SD card failed (Reason: \&quot;%s\&quot;)</seg>
       </tuv>
       <tuv lang="be" changedate="20110314T071624Z" changeid="klyok">
@@ -43339,8 +43347,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>To use Bluetooth services, you must first turn on Bluetooth.</seg>
       </tuv>
-      <tuv lang="be" changedate="20110425T163309Z" changeid="klyok">
-        <seg>Каб карыстацца службамі Bluetooth, спачатку трэба задзейнічаць Bluetoth.</seg>
+      <tuv lang="be" changedate="20110514T115250Z" changeid="klyok">
+        <seg>Каб карыстацца службамі Bluetooth, спачатку трэба задзейнічаць Bluetooth.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47883,8 +47891,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>You can't use Bluetooth when the phone is in airplane mode.</seg>
       </tuv>
-      <tuv lang="be" changedate="20110425T163235Z" changeid="klyok">
-        <seg>Нельга карыстацца Bluetooth, калі тэлефон у стане «у самалёце».</seg>
+      <tuv lang="be" changedate="20110514T115307Z" changeid="klyok">
+        <seg>Нельга карыстацца Bluetooth, калі тэлефон у стане «ў самалёце».</seg>
       </tuv>
     </tu>
     <tu>
