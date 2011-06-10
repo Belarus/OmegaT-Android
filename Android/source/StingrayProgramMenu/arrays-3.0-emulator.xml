@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="select_dialog_vocode">
+        <item>13K</item>
+        <item>EVRC</item>
+        <item>EVRC-B</item>
+    </string-array>
+    <string-array name="select_dialog_prev">
+        <item>P_REV_9</item>
+        <item>P_REV_6</item>
+        <item>P_REV_4</item>
+        <item>P_REV_3</item>
+        <item>P_REV_1</item>
+    </string-array>
+    <string-array name="data_rates_items">
+        <item>153.6/9.6</item>
+        <item>76.8/38.4</item>
+        <item>38.4/76.8</item>
+        <item>9.6/76.8</item>
+        <item>64/14.4</item>
+        <item>14.4/14.4</item>
+        <item>153.6/153.6</item>
+    </string-array>
+    <string-array name="fts_ftm_array_1">
+        <item>13K</item>
+        <item>Markov 8K</item>
+        <item>Markov 13K</item>
+        <item>Loopback 8K</item>
+        <item>Loopback 13K</item>
+        <item>EVRC</item>
+        <item>EVRC-B</item>
+    </string-array>
+    <string-array name="fts_ftm_array_hybrid_mode">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="fts_ftm_array_evdo_rev">
+        <item>A</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="fts_ftm_array_10">
+        <item>TCP/IP</item>
+        <item>Data Burst</item>
+    </string-array>
+    <string-array name="fts_ftm_array_11">
+        <item>MS based GPS session</item>
+        <item>Network based GPS session</item>
+        <item>Optimal speed</item>
+        <item>Optimal accuracy</item>
+        <item>Optimal data</item>
+    </string-array>
+    <string-array name="fts_ftm_array_network_mode">
+        <item>CDMA and EVDO</item>
+        <item>CDMA only</item>
+        <item>EVDO only</item>
+        <item>GSM/WCDMA, CDMA and EVDO</item>
+    </string-array>
+    <string-array name="fts_ftm_array_cdma_rx_div">
+        <item>Off</item>
+        <item>On</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="fts_ftm_array_hdr_rx_div">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="sms_resend_period_array">
+        <item>Immediate</item>
+        <item>1 min</item>
+        <item>3 min</item>
+        <item>5 min</item>
+    </string-array>
+    <string-array name="sms_resend_period_values_array">
+        <item>0</item>
+        <item>60000</item>
+        <item>180000</item>
+        <item>300000</item>
+    </string-array>
+    <string-array name="sms_resend_count_array">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="sms_email_array">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="mms_resend_count_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="mms_resend_period_array">
+        <item>60sec</item>
+        <item>120sec</item>
+        <item>180sec</item>
+        <item>240sec</item>
+        <item>300sec</item>
+    </string-array>
+    <string-array name="mms_resend_period_values_array">
+        <item>60000</item>
+        <item>120000</item>
+        <item>180000</item>
+        <item>240000</item>
+        <item>300000</item>
+    </string-array>
+    <string-array name="proximity_sensor_settings_array">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="cmas_settings_array">
+        <item>Disabled</item>
+        <item>Enabled</item>
+    </string-array>
+</resources>

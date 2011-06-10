@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="hotseats">
+        <item>intent:#Intent;action=android.intent.action.DIAL;end</item>
+        <item>*BROWSER*</item>
+    </string-array>
+</resources>

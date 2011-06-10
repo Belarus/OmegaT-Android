@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="defaultcities">
+        <item>values (\'Baden\',\'Austria(Lower Austria)\',\'EUR|AT|AU003|BADEN\');</item>
+        <item>values (\'Graz\',\'Austria(Styria)\',\'EUR|AT|AU006|GRAZ\');</item>
+        <item>values (\'Innsbruck\',\'Austria(Tyrol)\',\'EUR|AT|AU007|INNSBRUCK\');</item>
+        <item>values (\'Klagenfurt\',\'Austria(Karnten)\',\'EUR|AT|AU002|KLAGENFURT\');</item>
+        <item>values (\'Linz\',\'Austria(Upper Austria)\',\'EUR|AT|AU004|LINZ\');</item>
+        <item>values (\'Mondsee\',\'Austria(Upper Austria)\',\'EUR|AT|AU004|MONDSEE\');</item>
+        <item>values (\'Salzburg\',\'Austria(Salzburg)\',\'EUR|AT|AU005|SALZBURG\');</item>
+        <item>values (\'Vienna\',\'Austria(Vienna)\',\'EUR|AT|AU009|VIENNA\');</item>
+        <item>values (\'London\',\'England(London)\',\'EUR|UK|UK241|LONDON\');</item>
+        <item>values (\'Paris\',\'France(Paris)\',\'EUR|FR|FR012|PARIS\');</item>
+        <item>values (\'Berlin\',\'Germany(Berlin)\',\'EUR|DE|GM003|BERLIN\');</item>
+        <item>values (\'Bern\',\'Switzerland(Bern)\',\'EUR|CH|SZ006|Bern\');</item>
+        <item>values (\'Rome\',\'Italy(Rome)\',\'EUR|IT|IT007|ROME\');</item>
+        <item>values (\'Madrid\',\'Spain(Madrid)\',\'EUR|ES|SP013|Madrid\');</item>
+        <item>values (\'Athens\',\'Greece(Athens)\',\'EUR|GR|GR007|ATHENS\');</item>
+        <item>values (\'Copenhagen\',\'Denmark(Copenhagen)\',\'EUR|DK|DA012|COPENHAGEN\');</item>
+        <item>values (\'Amsterdam\',\'Netherlands(Amsterdam)\',\'EUR|NL|NL008|AMSTERDAM\');</item>
+        <item>values (\'Helsinki\',\'Finland(Helsinki)\',\'EUR|FI|FI002|HELSINKI\');</item>
+    </string-array>
+    <string-array name="weeknames">
+        <item>Sun.</item>
+        <item>Mon.</item>
+        <item>Tue.</item>
+        <item>Wed.</item>
+        <item>Thur.</item>
+        <item>Fri.</item>
+        <item>Sat.</item>
+    </string-array>
+    <string-array name="monthnames">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="winddirections">
+        <item>North</item>
+        <item>NNE</item>
+        <item>NE</item>
+        <item>ENE</item>
+        <item>East</item>
+        <item>ESE</item>
+        <item>SE</item>
+        <item>SSE</item>
+        <item>South</item>
+        <item>SSW</item>
+        <item>SW</item>
+        <item>WSW</item>
+        <item>West</item>
+        <item>WNW</item>
+        <item>NW</item>
+        <item>NNW</item>
+    </string-array>
+</resources>

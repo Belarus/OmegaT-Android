@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">DrmDialog</string>
+    <string name="roupdate_message">This file is locked. Do you want to unlock it?</string>
+    <string name="cdnorights_message">Copyright expired. Please download again.</string>
+    <string name="permlab_accessDrm">Access DRM content.</string>
+    <string name="permdesc_accessDrm">Allows application to access DRM-protected content.</string>
+    <string name="permlab_installDrm">Install DRM content.</string>
+    <string name="permdesc_installDrm">Allows application to install DRM-protected content.</string>
+</resources>

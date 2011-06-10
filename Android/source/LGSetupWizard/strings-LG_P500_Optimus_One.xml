@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="wizard_welcome_note">Welcome to LG-P500!</string>
+    <string name="wizard_welcome_info">We will guide you through essential settings for LG-P500.</string>
+    <string name="wizard_welcome_info_2">And brief introduction of LG-P500 features will helps you to use LG-P500 easily.</string>
+    <string name="wizard_welcome_note_t">Welcome to LG-P509!</string>
+    <string name="wizard_welcome_info_t">We will guide you through essential settings for LG-P509.</string>
+    <string name="wizard_welcome_info_2_t">And brief introduction of LG-P509 features will helps you to use LG-P509 easily.</string>
+    <string name="wizard_welcome_note_h">Welcome to LG-P500h!</string>
+    <string name="wizard_welcome_info_h">We will guide you through essential settings for LG-P500h.</string>
+    <string name="wizard_welcome_info_2_h">And brief introduction of LG-P500h features will helps you to use LG-P500h easily.</string>
+    <string name="wizard_exit">Exit</string>
+    <string name="wizard_next">Next</string>
+    <string name="wizard_Email_dialog">Would you like to set up an e-mail account now?</string>
+    <string name="wizard_setup_wizard_continue">Continue</string>
+    <string name="wizard_email_skip">Skip</string>
+    <string name="wizard_cancel">Cancel</string>
+    <string name="wizard_usephone">Use phone</string>
+    <string name="wizard_thankyou">Thank you</string>
+    <string name="wizard_email_dont_remind">Don\'t remind again</string>
+    <string name="accounts_title">Your accounts</string>
+    <string name="accounts_welcome">Welcome to Email setup!\n\nUse any email account with Email.\n\nMost popular email accounts can be set up in 2 steps!</string>
+    <string name="sns_title">Set up Social Network Account</string>
+    <string name="setup_email">Setup E-mail</string>
+    <string name="setup_sns">Setup SNS</string>
+    <string name="email_account">Would you like to set up an email account now?</string>
+    <string name="sns_account">Would you like to set up a Social Networking account now?</string>
+    <string name="mobile_title">Mobile network</string>
+    <string name="mobile_mode_summary">Connect to mobile network</string>
+    <string name="Mobile_network_OnMsg">Mobile network is enabled. MMS service is now available.</string>
+    <string name="Mobile_network_OffMsg">Mobile network is disabled. MMS service is unavailable.</string>
+    <string name="mobile_description">Mobile Network is required to access wireless network, when Wi-Fi is not available.</string>
+    <string name="mobile_description_add">Data transmission charges may apply</string>
+    <string name="mobile_mode_summary_on"></string>
+    <string name="wizard_welcome_info_P503">We will guide you through essential settings for LG-P503.</string>
+    <string name="wizard_welcome_note_P503">Welcome to LG-P503!</string>
+</resources>

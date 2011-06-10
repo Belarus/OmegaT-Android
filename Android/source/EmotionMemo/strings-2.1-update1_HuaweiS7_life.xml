@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="new_meno_title">File Name</string>
+    <string name="bt_ondo">Redo</string>
+    <string name="bt_undo">Undo</string>
+    <string name="bt_ok">OK</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_modify">Modify</string>
+    <string name="app_name">Memo</string>
+    <string name="emotion_memo_label">Emotion Memo</string>
+    <string name="back">back</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_sendby">Send by</string>
+    <string name="title_memo">Memo</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="mark_all">Mark All</string>
+    <string name="unmark_all">Unmark All</string>
+    <string name="delete_contents">Delete Contents</string>
+    <string name="memo_delete">Delete</string>
+    <string name="memo_eidt">Edit</string>
+    <string name="memo_send_by">Send by</string>
+    <string name="memo_delete_memo">Delete Memo?</string>
+    <string name="memo_add_text">Add Text</string>
+    <string name="memo_add_draw">Add Drawing</string>
+    <string name="send_by_email">Email</string>
+    <string name="send_by_message">Message</string>
+    <string name="delete_memo_title">Delete Memo</string>
+    <string name="title_add_drawing">Add drawing</string>
+    <string name="title_add_text">Add text</string>
+    <string name="btn_redo">Redo</string>
+    <string name="btn_undo">Undo</string>
+    <string name="btn_edit">Edit</string>
+    <string name="no_memo">No memo to delete.</string>
+    <string name="isnt_emmc">Media is being used and please not mount.</string>
+    <string name="data_file_noexits">Some of data has been destroyed or lost!</string>
+    <string name="memo_textedit_title">Text</string>
+    <string name="memo_drawedit_title">Drawing</string>
+    <string name="memo_emmc_unmount">\n Please mount internal SD card from Settings. \n</string>
+    <string name="memo_emmc_unmount_dialog_button">OK</string>
+    <string name="insert_sd_card">Please insert an SD card</string>
+    <string name="spaceIsLow_content">Your %s has no enough space.</string>
+</resources>
