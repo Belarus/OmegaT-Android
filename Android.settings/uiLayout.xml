@@ -2,28 +2,33 @@
 <VLDocking version="2.1">
 <DockingDesktop name="">
 <DockingPanel>
-<Split orientation="1" location="0.6760224538893344">
-<Split orientation="1" location="0.399284862932062">
-<Split orientation="0" location="0.4985507246376812">
+<Split orientation="1" location="0.7392086330935251">
+<Split orientation="1" location="0.35207823960880197">
+<Split orientation="0" location="0.5029239766081871">
 <Dockable>
 <Key dockName="DICTIONARY"/>
 </Dockable>
-<Split orientation="0" location="0.4502923976608187">
 <Dockable>
 <Key dockName="MACHINE_TRANSLATE"/>
+</Dockable>
+</Split>
+<Split orientation="0" location="0.7690058479532164">
+<Dockable>
+<Key dockName="EDITOR"/>
+</Dockable>
+<Dockable>
+<Key dockName="MULTIPLE_TRANS"/>
+</Dockable>
+</Split>
+</Split>
+<Split orientation="0" location="0.6944444444444444">
+<Dockable>
+<Key dockName="MATCHES"/>
 </Dockable>
 <Dockable>
 <Key dockName="GLOSSARY"/>
 </Dockable>
 </Split>
-</Split>
-<Dockable>
-<Key dockName="EDITOR"/>
-</Dockable>
-</Split>
-<Dockable>
-<Key dockName="MATCHES"/>
-</Dockable>
 </Split>
 </DockingPanel>
 <Border zone="2">
