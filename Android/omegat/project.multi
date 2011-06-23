@@ -1,0 +1,131 @@
+﻿<!-- Alternative translations -->
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Email.apk/res/values-be/plurals.xml</prop>
+    <prop type="id">notification_new_one_account_fmt/few</prop>
+    <tuv lang="en">
+        <seg>%1$d unread (%2$s)</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110601T191046Z">
+        <seg>Непрачытаных: %1$d (%2$s)</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Email.apk/res/values-be/plurals.xml</prop>
+    <prop type="id">notification_new_one_account_fmt/one</prop>
+    <tuv lang="en">
+        <seg>%1$d unread (%2$s)</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110601T191038Z">
+        <seg>Непрачытаных: %1$d (%2$s)</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Email.apk/res/values-be/plurals.xml</prop>
+    <prop type="id">notification_new_one_account_fmt/other</prop>
+    <tuv lang="en">
+        <seg>%1$d unread (%2$s)</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110601T191053Z">
+        <seg>Непрачытаных: %1$d (%2$s)</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Facebook.apk/res/values-be/strings.xml</prop>
+    <prop type="id">affiliation_type_regional</prop>
+    <tuv lang="en">
+        <seg>Regional</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110620T185914Z">
+        <seg>Мясцовае</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Facebook.apk/res/values-be/strings.xml</prop>
+    <prop type="id">events_info_location</prop>
+    <tuv lang="en">
+        <seg>Location</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110620T193406Z">
+        <seg>Мейсца</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Facebook.apk/res/values-be/strings.xml</prop>
+    <prop type="id">stream_home</prop>
+    <tuv lang="en">
+        <seg>Home</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110621T121342Z">
+        <seg>Галоўная</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">compose_title</prop>
+    <tuv lang="en">
+        <seg>Compose</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T114624Z">
+        <seg>Новае паведамленьне</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">delivery_header_title</prop>
+    <tuv lang="en">
+        <seg>Report</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T122454Z">
+        <seg>Справаздача</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">priority_high</prop>
+    <tuv lang="en">
+        <seg>High</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T121918Z">
+        <seg>высокае</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">priority_low</prop>
+    <tuv lang="en">
+        <seg>Low</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T121931Z">
+        <seg>нізкае</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">priority_normal</prop>
+    <tuv lang="en">
+        <seg>Normal</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T121925Z">
+        <seg>звычайнае</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">slideshow_activity</prop>
+    <tuv lang="en">
+        <seg>Slideshow</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T124050Z">
+        <seg>Слайды</seg>
+    </tuv>
+</tu>
+<tu>
+    <prop type="file">2.2_HuaweiU8150/system/app/Mms.apk/res/values-be/strings.xml</prop>
+    <prop type="id">status_read</prop>
+    <tuv lang="en">
+        <seg>Read</seg>
+    </tuv>
+    <tuv lang="be" changeid="klyok" changedate="20110622T122511Z">
+        <seg>Прачытанае</seg>
+    </tuv>
+</tu>

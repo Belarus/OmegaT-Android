@@ -32,11 +32,14 @@ apps	праграмы
 app	праграма
 archive	архіваваць
 Are you sure you want to	Ці ўпэўненыя вы, што хочаце
+artist	выканаўца	
+attached	залучаны	
 attachments	залучнікі
 attachment	залучнік -а
 attach	залучаць
 attention	увага
 audible	чутны
+audio file	гукавы файл	
 authenticating	апазнаваньне
 authentication	апазнаваньне
 authenticator	апазнавальнік
@@ -81,6 +84,8 @@ call	выклік
 call	выклікаць
 Cancel	Скасаваць
 cannot	нельга
+cannot	не ўдаецца
+caption	подпіс
 car mode	стан «у машыне»
 carrier	апэратар
 cc	копія («carbon copy»)
@@ -107,6 +112,7 @@ comment	заўвага
 complete	заканчваць	
 component	складнік
 composer	укладальнік
+compose	набіраць
 computer	кампутар
 conference call	выклік да нарады
 conference	нарада
@@ -122,6 +128,7 @@ contributors	саўдзельнікі
 contributor	саўдзельнік
 conversations	размовы
 conversation	размова
+converting	ператвараецца	
 cookie	бірка	
 copy	перапісваць
 correct	адпаведны
@@ -143,6 +150,8 @@ decline	адхіліць
 default screen	пачатковы экран
 delete	выдаляць
 delete	сьціраць (файлы)	
+deleting	сьціраецца
+delivery report	справаздача па дастаўленым
 desktop	стольніца
 details	падрабязнасьці
 detected	выявілі
@@ -179,6 +188,7 @@ emergency	надзвычайны
 emoticon	пачуцьцезнак
 enable/disable	ці карыстацца
 encryption	тайнапіс
+End-User License Agreement	ліцэнзійнае пагадненьне
 engines	рухавікі
 engine	рухавік
 entered	упісалі
@@ -190,12 +200,15 @@ error occured	здарылася памылка
 error occurred	далі хібу
 error	памылка
 error	хіба
+event	падзея	
 export	вымаць
 exposure	насьвятленьне
 external	вонкавы
+Facebook	Facebook
 failed	не ўдалося
 favorites	улюбёныя
 favorite	улюбёны
+favorite	упадабаны
 FDN	замацаваныя нумары (ЗН)
 feature code	код уласьцівасьці
 featured	прыкмечаныя
@@ -217,6 +230,7 @@ forwarding	перасылаецца
 forwarding	перасыланьне
 forward	перасылаць
 frame	кадр
+friend request	запыт сябраваць
 gateway	брама
 general	галоўны
 geolocation	вызначаць геаграфічнае мейсца
@@ -264,9 +278,11 @@ labels	цэтлікі
 label	цэтлік
 LAC	код мясцовасьці («Location Area Code»)
 landscape	альбомная
+Land	звычайны (тэлефон)	
 Language & keyboard	Мова ды клявіятура
 launcher	пускач
 learn	даведвацца	
+LED	лямпачка
 limit reached	перавысілі абмежаваньне
 link	прывязваць
 link	спасылка	
@@ -306,6 +322,7 @@ name	імя
 name	назва
 negotiation	узгадненьне
 networked	сеткаваны	
+News Feed	стужка навінаў
 Next	Наступны
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
@@ -323,6 +340,7 @@ open	адчыніць
 optional	не абавязкова
 options	можнасьці
 out of space	бракуе прасторы
+overwrite	перазапісваць
 package	пакунак -ка	
 pager	гартач
 pages	бачыны	
@@ -338,6 +356,8 @@ pattern	узор
 PDP	пратакол пакетных зьвестак («Packet Data Protocol»)
 peripherals	вонкавыя прылады
 personal	асабісты
+photos	фатаздымкі
+photo	фатаздымак
 pick	выбіраць
 pictures	здымкі (з камэры)	
 pictures	малюнкі	
@@ -355,6 +375,8 @@ plug-ins	убудовы
 plug-in	убудова
 podcasts	падвяшчальнікі
 podcast	падвяшчальнік
+pokes	штуршкі	
+poke	штуршок
 policy	правілы
 pop-up windows	раптоўныя вокны
 pop-up window	раптоўнае вакно	
@@ -362,6 +384,8 @@ pop-up	раптоўнае
 portable	пераносны
 portrait	кніжная
 port	порт -у
+posts	допісы	
+post	допіс
 Power	«Сілкаваньне»
 preferences	перавагі
 preferred	жаданы
@@ -375,12 +399,15 @@ product	выраб
 progress	поступ	
 provider	пастаўнік
 proxy	пасродак
+quotations	вытрымкі
+quotation	вытрымка	
 quoted text	вытрымка
 radio	радыёсувязь
 range	досяг -у
 rating	ацэнка
 recipient	атрымальнік -а
 recognizer	пазнавальнік
+refreshing	абнаўляецца	
 registered	запісаліся
 registering	запісвацца
 register	запісвацца
@@ -398,6 +425,7 @@ remove	выкрасьляць
 remove	вымаць
 remove	выцягваць
 remove	сьцягваць
+removing	сьціраць	
 resetting	узнаўляецца
 reset	узнаўляць
 resolution	разрозьненьне	
@@ -426,6 +454,7 @@ screen	экран -у
 scrollable	пракручвальны
 SD card	картка SD
 secondary	дапаможны	
+sender	адпраўнік	
 sensor	чуйнік
 server	паслужнік
 Service Dialing Numbers	службовыя нумары
@@ -442,11 +471,14 @@ share	дзяліцца
 shortcuts	выклічнікі
 shortcut	выклічнік
 show previews	аглядацца
+shuffle	мяшаць
 Sign in	Увайсьці
+sign up	запісацца
 silent mode	бязгучны стан
 SIM card	картка SIM
 site	пляцоўка
 slideshow	паказваць слайды	
+slide	слайд -у	
 slide	ссоўваць
 SMS messages	паведамленьні SMS
 snooze	адкладаць
@@ -485,9 +517,12 @@ themes	аздабленьні
 theme	аздабленьне
 There was a problem	Выявілася праблема, калі спрабавалі
 This alarm is set for	Будзька спрацуе праз
+threads	галіны
+thread	галіна
 thumbnail view	абразкі
 thumbnail	абразок
 time zone	часавы пас
+tips	парады
 toast	вынырцы
 tokens	прыкметы
 token	прыкмета
@@ -520,6 +555,7 @@ untitled	бяз назвы
 updated	абнавілі
 upgraded	палепшылі
 upgrade	паляпшаць
+upload	зацягваць	
 USB Mass Storage	сховішча USB
 valid	чынны
 vCard	візытоўка
@@ -545,5 +581,6 @@ WhiteBalance	раўнавага белага
 widgets	віджэты
 widget	віджэт
 will be deleted	сатрэцца	
+window	вакно	
 wireless	бяздротавы
 wizard	сродак
