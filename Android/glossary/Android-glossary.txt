@@ -75,6 +75,7 @@ broadcast	рассылаць
 browser	аглядальнік
 build	зборка
 buttons	кнопкі
+button	кнопка	
 caches	запасьнікі
 cache	запасьнік
 call-forwarding	перасылаць выклікі
@@ -424,6 +425,7 @@ removed	сьцерлі
 remove	выкрасьляць
 remove	вымаць
 remove	выцягваць
+remove	зьнішчаць	
 remove	сьцягваць
 removing	сьціраць	
 resetting	узнаўляецца
@@ -482,6 +484,7 @@ slide	слайд -у
 slide	ссоўваць
 SMS messages	паведамленьні SMS
 snooze	адкладаць
+Social Club	таварыскі клюб
 sockets	гнёзды
 software	праграмныя сродкі
 solarize	перасьвятляць	

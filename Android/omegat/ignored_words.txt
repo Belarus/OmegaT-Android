@@ -452,6 +452,7 @@ panel_background
 PAP
 pastel
 paval
+PC
 PDP
 PEAP
 phone
@@ -558,6 +559,7 @@ SMS
 SMSC
 SMTP
 snow
+SNS
 solarize
 source
 spa-ESP
@@ -576,6 +578,7 @@ steadyphoto
 string
 style
 su
+Suite
 sunset
 superfine
 Superuser
@@ -612,6 +615,7 @@ true
 TTLS
 tty
 TTY
+Twitter
 U
 u0020
 u0020%
