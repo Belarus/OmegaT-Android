@@ -21695,8 +21695,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>EEEE, MMMM d</seg>
       </tuv>
-      <tuv lang="be" changedate="20110502T061825Z" changeid="klyok">
-        <seg>d MMMM EEEE г.</seg>
+      <tuv lang="be" changedate="20110629T042149Z" changeid="Alexander_Buloichik">
+        <seg>d MMMM, EEEE</seg>
       </tuv>
     </tu>
     <tu>
