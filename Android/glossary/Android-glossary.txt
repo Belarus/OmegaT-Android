@@ -587,3 +587,4 @@ will be deleted	сатрэцца
 window	вакно	
 wireless	бяздротавы
 wizard	сродак
+polar clock	дугавы гадзіньнік
