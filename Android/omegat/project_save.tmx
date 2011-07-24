@@ -5558,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/f0&gt;&lt;b1&gt;1&lt;/b1&gt;  On the next screen, watch while an example pattern is drawn.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135719Z" changeid="klyok">
+        <seg>&lt;/f0&gt;&lt;b1&gt;1&lt;/b1&gt;  Сачыце, як на наступным экране намалюецца прыклад узору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/f0&gt;&lt;b1&gt;Why use a Google Account?&lt;/b1&gt;</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T102130Z" changeid="klyok">
@@ -5594,6 +5602,14 @@
       </tuv>
       <tuv lang="be" changedate="20110424T141638Z" changeid="klyok">
         <seg>&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/f2&gt;&lt;b3&gt;2&lt;/b3&gt;  When ready, draw your own personal unlock pattern.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135729Z" changeid="klyok">
+        <seg>&lt;/f2&gt;&lt;b3&gt;2&lt;/b3&gt;  Потым намалюйце ваш асабісты ўзор адмыкаць экран.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,6 +5686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/f4&gt;&lt;b5&gt;3&lt;/b5&gt;  Redraw your pattern to confirm.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135743Z" changeid="klyok">
+        <seg>&lt;/f4&gt;&lt;b5&gt;3&lt;/b5&gt;  Каб пацьвердзіць, намалюйце ўзор яшчэ раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/f4&gt;Use your finger to drag down the status bar to open the Notifications panel, with details about all your current notifications.</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T134205Z" changeid="klyok">
@@ -5702,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/f6&gt;&lt;b7&gt;Ready to start?</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135752Z" changeid="klyok">
+        <seg>&lt;/f6&gt;&lt;b7&gt;Ці можна ўжо пачынаць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/f7&gt;&lt;b8&gt;Ready to start?</seg>
       </tuv>
       <tuv lang="be" changedate="20110401T200202Z" changeid="klyok">
@@ -5714,6 +5746,14 @@
       </tuv>
       <tuv lang="be" changedate="20110424T102711Z" changeid="klyok">
         <seg>&lt;/f8&gt;Не пытаньне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/f8&gt;To leave your phone unprotected, touch “Cancel”.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135823Z" changeid="klyok">
+        <seg>&lt;/f8&gt;Каб пакінуць тэлефон без абароны, націсьніце «Скасаваць».</seg>
       </tuv>
     </tu>
     <tu>
@@ -32212,14 +32252,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>N</seg>
-      </tuv>
-      <tuv lang="be" changedate="20110322T101528Z" changeid="klyok">
-        <seg>Л</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>NONE</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T074353Z" changeid="klyok">
@@ -38118,6 +38150,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect your phone from unauthorized use by creating a personal screen unlock pattern.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135705Z" changeid="klyok">
+        <seg>Абараніце тэлефон ад недазволенага выкарыстаньня — стварыце асабісты ўзор адмыкаць экран.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protocol</seg>
       </tuv>
       <tuv lang="be" changedate="20110219T165139Z" changeid="klyok">
@@ -40802,6 +40842,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110313T111401Z" changeid="klyok">
         <seg>PIN карткі SIM:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SIM Toolkit</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T140130Z" changeid="klyok">
+        <seg>Сродкі SIM</seg>
       </tuv>
     </tu>
     <tu>
@@ -51076,6 +51124,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Touch “Next”&lt;/b7&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T135803Z" changeid="klyok">
+        <seg>Націсьніце «Наступны»&lt;/b7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Touch “Next”&lt;/b8&gt;.</seg>
       </tuv>
       <tuv lang="be" changedate="20110401T102435Z" changeid="klyok">
@@ -55809,6 +55865,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can disable these features in Settings, under Location &amp; Security and under Privacy.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T140029Z" changeid="klyok">
+        <seg>Вы можаце забараніць гэтую функцыю ў наладах: пункт «Бясьпека ды месцазнаходжаньне», — і праз «Адасобленасьць».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can disable these features in Settings, under Location &amp; Security and under Search.</seg>
       </tuv>
       <tuv lang="be" changedate="20110719T092726Z" changeid="klyok">
@@ -55845,6 +55909,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110524T065932Z" changeid="klyok">
         <seg>Яго можна зьнішчыць, толькі ўзнавіўшы тэлефон да пачатковага завадзкога стану (што сатрэ ўсе асабістыя зьвесткі).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can restore this data if you replace your phone or reinstall an application.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T140048Z" changeid="klyok">
+        <seg>Гэтыя зьвесткі можна аднавіць, калі вы заменіце тэлефон, або нанова ўсталюеце праґраму.</seg>
       </tuv>
     </tu>
     <tu>
