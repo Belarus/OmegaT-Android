@@ -372,6 +372,7 @@ mailbox_name_display_junk
 mailbox_name_display_outbox
 mailbox_name_display_sent
 mailbox_name_display_trash
+maps.google.com
 Market
 market.android.com
 media
@@ -380,6 +381,7 @@ menu_background
 menu_background_fill_parent_width
 menu_selector
 menu_stats_last_unplugged
+metric
 Microsoft
 mm
 MM
@@ -448,6 +450,14 @@ p
 P
 P2P
 PAD
+palette_black_c
+palette_gray
+palette_halloween
+palette_matrix
+palette_oceanic
+palette_violet
+palette_white_c
+palette_zenburn
 panel_background
 PAP
 pastel

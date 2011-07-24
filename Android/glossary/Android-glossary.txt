@@ -56,6 +56,7 @@ back up	захаваць адноўку
 Back	«Назад»
 bad	кепскі
 band	паласа
+bar	паліца
 batch	зборны
 battery level	узровень зараду батарэі
 battery	батарэя
@@ -96,6 +97,7 @@ charger	зарада
 charging	зараджаецца
 chats	гамана
 chats	гамана
+check-in	адзначацца	
 Checkout	Каса
 CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
 clipboard	кішэня
@@ -154,6 +156,7 @@ delete	сьціраць (файлы)
 deleting	сьціраецца
 delivery report	справаздача па дастаўленым
 desktop	стольніца
+destination	кірунак
 details	падрабязнасьці
 detected	выявілі
 detect	выяўляць
@@ -163,6 +166,10 @@ devices	прылады
 device	прылада
 dial pad	наборнік
 dial	набіраць
+Did you mean	можа, мелася на ўвазе	
+Directions & Navigation	Шляхі ды навіґацыя
+directions	шляхі
+direction	шлях
 discard	адкідаць
 discharging	разраджаецца
 disconnected	адлучыліся
@@ -236,6 +243,7 @@ general	галоўны
 geolocation	вызначаць геаграфічнае мейсца
 Google	Google
 Google Mail	Пошта Google	
+Google Maps Navigation	Навіґацыя мапамі Google
 Google Messaging Service	служба паведамленьняў Google	
 Google Talk	Гутарка Google	
 guests	запрошаныя
@@ -280,7 +288,10 @@ LAC	код мясцовасьці («Location Area Code»)
 landscape	альбомная
 Land	звычайны (тэлефон)	
 Language & keyboard	Мова ды клявіятура
+Latitude	Спадарожнік	
 launcher	пускач
+layers	пласты
+layer	пласт
 learn	даведвацца	
 LED	лямпачка
 limit reached	перавысілі абмежаваньне
@@ -300,6 +311,7 @@ lost	згубілі
 mailbox	паштовая скрынка
 Malicious applications can use this to	Зламысныя праграмы могуць карыстацца гэтым, каб
 malicious	зламысны
+maps live wallpaper	жывыя шпалеры з мапаў
 market	крама
 media	мэдыя
 media	сховішчы
@@ -320,6 +332,7 @@ multicast	бязадрасны
 My downloads	Маё спампаванае
 name	імя
 name	назва
+navigation	навіґацыя	Navigation
 negotiation	узгадненьне
 networked	сеткаваны	
 News Feed	стужка навінаў
@@ -377,6 +390,7 @@ podcasts	падвяшчальнікі
 podcast	падвяшчальнік
 pokes	штуршкі	
 poke	штуршок
+polar clock	дугавы гадзіньнік
 policy	правілы
 pop-up windows	раптоўныя вокны
 pop-up window	раптоўнае вакно	
@@ -442,10 +456,12 @@ restore	аднаўляць
 restoring	аднаўляюцца
 restricted	абмяжоўваецца
 restricted	забаронены
+reviews	водгукі
 review	водгук
 ringtone	мэлёдыя
 rotate left	павярніце налева
 rotate right	павярніце направа
+route	шлях	
 rows	радкі
 SafeSearch	Бясьпечны пошук
 scanning	аглядаем
@@ -494,6 +510,7 @@ space	прастора
 spam	лухта
 speaker	галосьнік
 speech synthesis	агучваньне
+starred	адзначаны	
 star	зорачка
 status bar	паліца стану
 statusbar	паліца стану
@@ -515,6 +532,7 @@ tags	біркі
 tag	бірка
 terms and conditions	умовы ды азначэньні
 Terms of Service	Умовы абслугоўваньня
+text-to-speech	агучваньне	
 themes	аздабленьні
 theme	аздабленьне
 There was a problem	Выявілася праблема, калі спрабавалі
@@ -557,6 +575,9 @@ untitled	бяз назвы
 updated	абнавілі
 upgraded	палепшылі
 upgrade	паляпшаць
+uploaded	запампавалі	
+uploading	запампоўваецца	
+uploads	запампаванае
 upload	запампоўваць
 USB Mass Storage	сховішча USB
 valid	чынны
@@ -583,36 +604,8 @@ WhiteBalance	раўнавага белага
 widgets	віджэты
 widget	віджэт
 will be deleted	сатрэцца	
+will be uploaded	запампуецца
 window	вакно	
 wireless	бяздротавы
 wizard	сродак
-polar clock	дугавы гадзіньнік
-reviews	водгукі
-navigation	навіґацыя	Navigation
-layer	пласт
-layers	пласты
-Google Maps Navigation	Навіґацыя мапамі Google
-direction	шлях
-directions	шляхі
-route	шлях	
-
-text-to-speech	агучваньне	
-
-Did you mean	можа, мелася на ўвазе	
-
-starred	адзначаны	
-
-destination	кірунак
-Directions & Navigation	Шляхі ды навіґацыя
-Latitude	Спадарожнік	
-
-check-in	адзначацца	
-
-maps live wallpaper	жывыя шпалеры з мапаў
-uploaded	запампавалі	
-
-bar	паліца
-uploads	запампаванае
-uploading	запампоўваецца	
-
-will be uploaded	запампуецца
+Blogger	Блоґер
