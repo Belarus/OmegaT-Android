@@ -588,3 +588,25 @@ window	вакно
 wireless	бяздротавы
 wizard	сродак
 polar clock	дугавы гадзіньнік
+reviews	водгукі
+navigation	навіґацыя	Navigation
+layer	пласт
+layers	пласты
+Google Maps Navigation	Навіґацыя мапамі Google
+direction	шлях
+directions	шляхі
+route	шлях	
+
+text-to-speech	агучваньне	
+
+Did you mean	можа, мелася на ўвазе	
+
+starred	адзначаны	
+
+destination	кірунак
+Directions & Navigation	Шляхі ды навіґацыя
+Latitude	Спадарожнік	
+
+check-in	адзначацца	
+
+maps live wallpaper	жывыя шпалеры з мапаў

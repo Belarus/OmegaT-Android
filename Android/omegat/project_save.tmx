@@ -2047,8 +2047,8 @@
       <tuv lang="en">
         <seg>%1$s - %2$s</seg>
       </tuv>
-      <tuv lang="be" changedate="20110421T165009Z" changeid="klyok">
-        <seg>%1$s - %2$s</seg>
+      <tuv lang="be" changedate="20110723T184758Z" changeid="klyok">
+        <seg>%1$s — %2$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2141,6 +2141,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%1$s d %2$s hr</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184731Z" changeid="klyok">
+        <seg>%1$s дз. %2$s гадз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%1$s day ago</seg>
       </tuv>
       <tuv lang="be" changedate="20110421T170038Z" changeid="klyok">
@@ -2181,6 +2189,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%1$s hr %2$s min</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184741Z" changeid="klyok">
+        <seg>%1$s гадз. %2$s хв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%1$s maximum exceeded</seg>
       </tuv>
       <tuv lang="be" changedate="20110401T195220Z" changeid="klyok">
@@ -2202,6 +2218,14 @@
       </tuv>
       <tuv lang="be" changedate="20110622T120800Z" changeid="klyok">
         <seg>Паведамленьняў у размове: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$s min</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184746Z" changeid="klyok">
+        <seg>%1$s хв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2306,6 +2330,22 @@
       </tuv>
       <tuv lang="be" changedate="20110421T172522Z" changeid="klyok">
         <seg>%1$s вынікаў для «%2$s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$s review</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183008Z" changeid="klyok">
+        <seg>%1$s водгук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$s reviews</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182957Z" changeid="klyok">
+        <seg>Водгукаў: %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,10 +2614,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%1$s, then %2$s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193542Z" changeid="klyok">
+        <seg>Спачатку %1$s, потым %2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%1$s: touch to manage</seg>
       </tuv>
       <tuv lang="be" changedate="20110402T224145Z" changeid="klyok">
         <seg>%1$s: каб кіраваць, націсьніце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$s:%2$s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184753Z" changeid="klyok">
+        <seg>%1$s:%2$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -3388,6 +3444,14 @@
       </tuv>
       <tuv lang="be" changedate="20110425T065304Z" changeid="klyok">
         <seg>%s: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193205Z" changeid="klyok">
+        <seg>і</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4338,14 @@
       </tuv>
       <tuv lang="be" changedate="20110421T130245Z" changeid="klyok">
         <seg>1,1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1-click report a problem</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190803Z" changeid="klyok">
+        <seg>Хутка паведаміць пра праблему</seg>
       </tuv>
     </tu>
     <tu>
@@ -7853,6 +7925,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A 1-click shortcut may be enabled in the application settings.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T191639Z" changeid="klyok">
+        <seg>Выклічнік да «Хутка паведаміць пра праблему» можна вызначыць у наладах праґрамы. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;b0&gt;^1&lt;/b0&gt; account is required.</seg>
       </tuv>
       <tuv lang="be" changedate="20110425T070851Z" changeid="klyok">
@@ -8242,10 +8322,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ATMs &amp; Banks</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193057Z" changeid="klyok">
+        <seg>Банкаматы ды банкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>About</seg>
       </tuv>
       <tuv lang="be" changedate="20110620T194837Z" changeid="klyok">
         <seg>Пра праґраму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About Driveabout</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193233Z" changeid="klyok">
+        <seg>Пра Driveabout</seg>
       </tuv>
     </tu>
     <tu>
@@ -9520,6 +9616,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
         <seg>Пасьля наступных %d няўдалых спробаў яго намаляваць, вас запытаюцца адамкнуць ваш тэлефон з дапамогаю вашага рахунку Google.\n
 \n
 Калі ласка, праз %d сэкундаў паспрабуйце зноўку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 15 seconds, your message will automatically be sent to Google along with your current location and route.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T191020Z" changeid="klyok">
+        <seg>Праз 15 сэкундаў вашае паведамленьне дашлецца ў Google разам са зьвесткамі пра вашае месцазнаходжаньне ды шлях.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12068,6 +12172,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also share this Latitude check-in:</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201341Z" changeid="klyok">
+        <seg>Паказваць іншым, што вы тут адзначыліся:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also sync calendar from this account</seg>
       </tuv>
       <tuv lang="be" changedate="20110324T215625Z" changeid="klyok">
@@ -13892,6 +14004,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BETA</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183327Z" changeid="klyok">
+        <seg>БЭТА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BSSID :</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T121537Z" changeid="klyok">
@@ -13904,6 +14024,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110601T190341Z" changeid="klyok">
         <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back to Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195722Z" changeid="klyok">
+        <seg>Вярнуцца да кірунку</seg>
       </tuv>
     </tu>
     <tu>
@@ -14096,6 +14224,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110418T151209Z" changeid="klyok">
         <seg>Зьвесткі пра банкаўскі рахунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Banks and ATMs</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193116Z" changeid="klyok">
+        <seg>Банкі ды банкаматы</seg>
       </tuv>
     </tu>
     <tu>
@@ -17057,6 +17193,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check in at {0}?</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203527Z" changeid="klyok">
+        <seg>Ці адзначыцца тут: {0}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check in at?</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203536Z" changeid="klyok">
+        <seg>Ці адзначыцца?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check progress in the Notifications panel.</seg>
       </tuv>
       <tuv lang="be" changedate="20110425T164500Z" changeid="klyok">
@@ -17097,6 +17249,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check-in failed.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203603Z" changeid="klyok">
+        <seg>Не ўдалося адзначыцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checked in at {0}</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203451Z" changeid="klyok">
+        <seg>Адзначыліся тут: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checking avalaible version failed</seg>
       </tuv>
       <tuv lang="be" changedate="20110322T092455Z" changeid="klyok">
@@ -17125,6 +17293,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T222159Z" changeid="klyok">
         <seg>Спраўджваюцца налады ўваходнага паслужніку…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checking navigation availability</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192647Z" changeid="klyok">
+        <seg>Спраўджваецца наяўнасьць навіґацыі</seg>
       </tuv>
     </tu>
     <tu>
@@ -17173,6 +17349,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110313T102848Z" changeid="klyok">
         <seg>Кітайская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195855Z" changeid="klyok">
+        <seg>Абраць кірунак</seg>
       </tuv>
     </tu>
     <tu>
@@ -17349,6 +17533,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110325T094617Z" changeid="klyok">
         <seg>Ачысьціць налады пускача ADW і запусьціць яго нанова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear Map</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193020Z" changeid="klyok">
+        <seg>Ачысьціць мапу</seg>
       </tuv>
     </tu>
     <tu>
@@ -18512,6 +18704,214 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continue for %1$s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183503Z" changeid="klyok">
+        <seg>Трэба праехаць яшчэ %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s feet</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193848Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s футаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s kilometer</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182734Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s kilometers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182731Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s meters</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193627Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s мэтраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182919Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s мілю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s miles</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182911Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for %1$s yards</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193852Z" changeid="klyok">
+        <seg>Працягвайце рухацца %1$s ярдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for a half mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194115Z" changeid="klyok">
+        <seg>Працягвайце рухацца паўмілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for a quarter mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193903Z" changeid="klyok">
+        <seg>Працягвайце рухацца чвэрць мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for one and a half kilometers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193642Z" changeid="klyok">
+        <seg>Працягвайце рухацца кілямэтар з паловаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for one and a half miles</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194153Z" changeid="klyok">
+        <seg>Працягвайце рухацца мілю з паловаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue for three quarters of a mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194133Z" changeid="klyok">
+        <seg>Працягвайце рухацца тры чвэрці мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %1$s for a half mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194244Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %1$s паўмілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %1$s for a quarter mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194230Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %1$s чвэрць мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %1$s for one and a half kilometers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193742Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %1$s кілямэтар з паловаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %1$s for one and a half miles</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194305Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %1$s мілю з паловаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %1$s for three quarters of a mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194255Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %1$s тры чвэрці мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s feet</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194204Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s футаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s kilometer</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182836Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s kilometers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182834Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s meters</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193733Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s мэтраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182932Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s мілю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s miles</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182923Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue on %2$s for %1$s yards</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194210Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %2$s %1$s ярдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue straight</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193754Z" changeid="klyok">
+        <seg>Працягвайце рухацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue without SIM card</seg>
       </tuv>
       <tuv lang="be" changedate="20110313T112431Z" changeid="klyok">
@@ -19362,6 +19762,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Data connection lost</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183742Z" changeid="klyok">
+        <seg>Згубілі злучэньне зь сецівам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Data connection lost...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192420Z" changeid="klyok">
+        <seg>Згубілі злучэньне зь сецівам…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Data connectivity problem</seg>
       </tuv>
       <tuv lang="be" changedate="20110425T174941Z" changeid="klyok">
@@ -20202,6 +20618,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195500Z" changeid="klyok">
+        <seg>Кірунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Details</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T102004Z" changeid="klyok">
@@ -20214,6 +20638,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110402T232914Z" changeid="klyok">
         <seg>Пра азначальнік карыстальніка %d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192719Z" changeid="klyok">
+        <seg>Падрабязнасьці адсутнічаюць</seg>
       </tuv>
     </tu>
     <tu>
@@ -20420,10 +20852,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did you mean:</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193451Z" changeid="klyok">
+        <seg>Можа, мелася на ўвазе:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Did you mean: ^1</seg>
       </tuv>
       <tuv lang="be" changedate="20110421T164150Z" changeid="klyok">
         <seg>Можа, мелася на ўвазе: ^1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you say:</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193501Z" changeid="klyok">
+        <seg>Можа, вы сказалі:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20504,6 +20952,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110125T151117Z" changeid="alex73">
         <seg>Наўпроставае паведамленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Directions &amp; Navigation</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200831Z" changeid="klyok">
+        <seg>Шляхі ды навіґацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Directions List</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185928Z" changeid="klyok">
+        <seg>Сьпіс шляхоў</seg>
       </tuv>
     </tu>
     <tu>
@@ -21020,6 +21484,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not manipulate this application while driving.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185255Z" changeid="klyok">
+        <seg>Не адцягвайце сваю ўвагу на дзеяньні з праґрамаю, калі кіруеце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not notify me</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T104322Z" changeid="klyok">
@@ -21307,6 +21779,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T213338Z" changeid="klyok">
         <seg>Вузел\\Імя_карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't Accept</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193009Z" changeid="klyok">
+        <seg>Не прымаць</seg>
       </tuv>
     </tu>
     <tu>
@@ -21845,6 +22325,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Driving</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200738Z" changeid="klyok">
+        <seg>Ехаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drop to Uninstall</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T084848Z" changeid="klyok">
@@ -22217,6 +22705,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110304T134048Z" changeid="klyok">
         <seg>Ліставаць на хатні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Email me when resolved</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190703Z" changeid="klyok">
+        <seg>Ліставаць мне, калі праблема вырашыцца</seg>
       </tuv>
     </tu>
     <tu>
@@ -22710,6 +23206,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End point</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080615Z" changeid="klyok">
+        <seg>Канцавы пункт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>End-User License Agreement</seg>
       </tuv>
       <tuv lang="be" changedate="20110620T193137Z" changeid="klyok">
@@ -22802,6 +23306,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110331T082502Z" changeid="klyok">
         <seg>Упішыце пароль, які адамкне экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter an address</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200839Z" changeid="klyok">
+        <seg>Упішыце адрас</seg>
       </tuv>
     </tu>
     <tu>
@@ -22986,6 +23498,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110620T205852Z" changeid="klyok">
         <seg>Далі хібу, калі чыталі запыты сябраваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading image.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194630Z" changeid="klyok">
+        <seg>Не ўдалося прачытаць відарыс.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23362,6 +23882,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110418T154138Z" changeid="klyok">
         <seg>Існыя карыстальніцкія дадзеныя захаваюцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193432Z" changeid="klyok">
+        <seg>Выйсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit Navigation</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190253Z" changeid="klyok">
+        <seg>Спыніць навіґацыю</seg>
       </tuv>
     </tu>
     <tu>
@@ -24409,6 +24945,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the route</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192500Z" changeid="klyok">
+        <seg>Трымайцеся шляху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow the spoken instructions until you hear that activation is complete.</seg>
       </tuv>
       <tuv lang="be" changedate="20110313T131132Z" changeid="klyok">
@@ -24453,6 +24997,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T155616Z" changeid="klyok">
         <seg>Дзеля бясьпекі тэлефон наладжаны забараняць усталёўваць праграмы, атрыманыя ня з крамы Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For voice-guided navigation, you need to install text-to-speech support from the Android Market.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193003Z" changeid="klyok">
+        <seg>Каб чуць падказкі голасам, трэба ўсталяваць падтрымку агучваньня з Крамы Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For your end point</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193515Z" changeid="klyok">
+        <seg>Да канцавога пункту</seg>
       </tuv>
     </tu>
     <tu>
@@ -24898,6 +25458,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GPS is disabled</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192726Z" changeid="klyok">
+        <seg>GPS не задзейнічалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GPS signal lost</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183736Z" changeid="klyok">
+        <seg>Згубілі сыґнал GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GPS usage</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T111525Z" changeid="klyok">
@@ -25034,6 +25610,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gas Stations</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193035Z" changeid="klyok">
+        <seg>АЗС</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gateway</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T120821Z" changeid="klyok">
@@ -25114,6 +25698,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Get Directions</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193015Z" changeid="klyok">
+        <seg>Атрымаць шляхі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Get PDP list</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T114014Z" changeid="klyok">
@@ -25126,6 +25718,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110325T093358Z" changeid="klyok">
         <seg>Атрымаць аздабленьні!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting driving directions</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192525Z" changeid="klyok">
+        <seg>Атрымваюцца шляхі руху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting walking directions</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192541Z" changeid="klyok">
+        <seg>Атрымваюцца пешаходныя шляхі</seg>
       </tuv>
     </tu>
     <tu>
@@ -25294,6 +25902,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110326T181638Z" changeid="klyok">
         <seg>Пошта Google</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Maps</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183029Z" changeid="klyok">
+        <seg>Мапы Google</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Maps Navigation</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183308Z" changeid="klyok">
+        <seg>Навіґацыя мапамі Google</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Maps Navigation is in beta.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185049Z" changeid="klyok">
+        <seg>Навіґацыя мапамі Google яшчэ выпрабоўваецца,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Maps Navigation is not yet available in this location.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194611Z" changeid="klyok">
+        <seg>Навіґацыя мапамі Google у гэтым месцы яшчэ недаступная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26323,6 +26963,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If enabled, pressing the camera button will start problem reporting.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192037Z" changeid="klyok">
+        <seg>Калі задзейнічаць, паведаміць пра праблему можна будзе, націснуўшы на кнопку камэры.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If enabled, pressing the trackball will start problem reporting.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192025Z" changeid="klyok">
+        <seg>Калі задзейнічаць, паведаміць пра праблему можна будзе, націснуўшы на трэкбол.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it continues, call Customer Care.</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T101416Z" changeid="klyok">
@@ -26351,6 +27007,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T163003Z" changeid="klyok">
         <seg>Калі не атрымваецца ўвайсьці з адпаведнымі паштовым адрасам і паролем, мажліва, вы ня маеце платнага «прасунутага» рахунку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you choose to receive email updates when the issue is resolved, your email address will be stored with the location and your comments until the problem is resolved.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T191838Z" changeid="klyok">
+        <seg>Калі вы пажадалі, каб вам паведамілі, калі праблема вырашыцца, адрас вашае электроннае скрыні, разам зь месцазнаходжаньнем і вашымі заўвагамі, будзе захоўвацца, пакуль праблема ня вырашыцца.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26579,6 +27243,78 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In %1$s feet</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193802Z" changeid="klyok">
+        <seg>Праз %1$s футаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In %1$s kilometer</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182449Z" changeid="klyok">
+        <seg>Праз %1$s км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In %1$s kilometers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182336Z" changeid="klyok">
+        <seg>Праз %1$s км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In %1$s meters</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193548Z" changeid="klyok">
+        <seg>Праз %1$s мэтраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In %1$s mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182852Z" changeid="klyok">
+        <seg>Праз %1$s мілю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In %1$s miles</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T182847Z" changeid="klyok">
+        <seg>Праз %1$s мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In %1$s yards</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193806Z" changeid="klyok">
+        <seg>Праз %1$s ярдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a half mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193816Z" changeid="klyok">
+        <seg>Праз паўмілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a quarter mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193810Z" changeid="klyok">
+        <seg>Праз чвэрць мілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a relationship</seg>
       </tuv>
       <tuv lang="be" changedate="20110620T205512Z" changeid="klyok">
@@ -26659,10 +27395,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In one and a half kilometers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193614Z" changeid="klyok">
+        <seg>Праз кілямэтар з паловаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In one and a half miles</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193838Z" changeid="klyok">
+        <seg>Праз адну з паловаю мілю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In service</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T113342Z" changeid="klyok">
         <seg>Абслугоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In three quarters of a mile</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193823Z" changeid="klyok">
+        <seg>Праз тры чвэрці мілі</seg>
       </tuv>
     </tu>
     <tu>
@@ -27811,6 +28571,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep your eyes on the road!</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185645Z" changeid="klyok">
+        <seg>Сачыце за дарогаю!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Kernel version</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T124608Z" changeid="klyok">
@@ -28027,6 +28795,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last Updated: {0}</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080257Z" changeid="klyok">
+        <seg>Апошняе абнаўленьне: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Last allowed:</seg>
       </tuv>
       <tuv lang="be" changedate="20110322T093558Z" changeid="klyok">
@@ -28092,6 +28868,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Latitude</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203432Z" changeid="klyok">
+        <seg>Спадарожнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Laughing</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T103006Z" changeid="klyok">
@@ -28144,6 +28928,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T153826Z" changeid="klyok">
         <seg>Пратакол L2TP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Layers</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184859Z" changeid="klyok">
+        <seg>Пласты</seg>
       </tuv>
     </tu>
     <tu>
@@ -28208,6 +29000,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110315T141742Z" changeid="klyok">
         <seg>Спосаб для левае рукі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legal Notices</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190213Z" changeid="klyok">
+        <seg>Юрыдычныя заўвагі</seg>
       </tuv>
     </tu>
     <tu>
@@ -28452,6 +29252,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading friends...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080317Z" changeid="klyok">
+        <seg>Чытаецца сьпіс сяброў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading friends…</seg>
       </tuv>
       <tuv lang="be" changedate="20110620T193651Z" changeid="klyok">
@@ -28480,6 +29288,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110314T063111Z" changeid="klyok">
         <seg>Чытаецца з карткі UIM…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading image</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192702Z" changeid="klyok">
+        <seg>Чытаецца відарыс</seg>
       </tuv>
     </tu>
     <tu>
@@ -28544,6 +29360,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110620T203057Z" changeid="klyok">
         <seg>Чытаюцца фатаздымкі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading route details</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192655Z" changeid="klyok">
+        <seg>Чытаюцца падрабязнасьці шляху</seg>
       </tuv>
     </tu>
     <tu>
@@ -28936,6 +29760,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T153149Z" changeid="klyok">
         <seg>Націсьніце і трымайце кнопку «адкласьці», каб скасаваць будзьку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lookahead view</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190044Z" changeid="klyok">
+        <seg>Глядзець зьверху</seg>
       </tuv>
     </tu>
     <tu>
@@ -29848,6 +30680,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110125T151417Z" changeid="alex73">
         <seg>Адрас на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map mode</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080932Z" changeid="klyok">
+        <seg>Выгляд мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maps</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080350Z" changeid="klyok">
+        <seg>Мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maps live wallpaper</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080847Z" changeid="klyok">
+        <seg>Жывыя шпалеры з мапаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maps live wallpaper settings</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T081219Z" changeid="klyok">
+        <seg>Налады жывых шпалераў з мапаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -31324,10 +32188,66 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195907Z" changeid="klyok">
+        <seg>Знайсьці шлях да</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184818Z" changeid="klyok">
+        <seg>Навіґацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation Volume</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193425Z" changeid="klyok">
+        <seg>Гучнасьць навіґацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation resumed</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183824Z" changeid="klyok">
+        <seg>Навіґацыя аднавілася</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation suspended</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190229Z" changeid="klyok">
+        <seg>Навіґацыю прыпынілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigation to your destination is not available.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195807Z" changeid="klyok">
+        <seg>Навіґацыя да абранага кірунку пакуль не даступная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Need a Google Account?</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T130638Z" changeid="klyok">
         <seg>Хочаце займець рахунак Google?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Need network access</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080455Z" changeid="klyok">
+        <seg>Патрабуецца доступ да сеткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -31420,6 +32340,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Network Unavailable</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080600Z" changeid="klyok">
+        <seg>Сетка недаступная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Network busy</seg>
       </tuv>
       <tuv lang="be">
@@ -31448,6 +32376,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110326T085241Z" changeid="klyok">
         <seg>Выбачайце, сетка дала хібу. Калі ласка, паспрабуйце пазьней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Network failure</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080542Z" changeid="klyok">
+        <seg>Сетка дала хібу</seg>
       </tuv>
     </tu>
     <tu>
@@ -31616,6 +32552,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110325T094336Z" changeid="klyok">
         <seg>Новы каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New Contact</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194828Z" changeid="klyok">
+        <seg>Новы кантакт</seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,6 +32784,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110125T145019Z" changeid="alex73">
         <seg>Наступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195702Z" changeid="klyok">
+        <seg>Наступны кірунак</seg>
       </tuv>
     </tu>
     <tu>
@@ -32364,6 +33316,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No image available.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194621Z" changeid="klyok">
+        <seg>Няма відарысу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No installed accessibility services.</seg>
       </tuv>
       <tuv lang="be" changedate="20110402T233815Z" changeid="klyok">
@@ -32604,6 +33564,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No physical buttons are available.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192102Z" changeid="klyok">
+        <seg>Няма даступных фізычных кнопак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No pictures are available on the phone.</seg>
       </tuv>
       <tuv lang="be" changedate="20110125T152300Z" changeid="alex73">
@@ -32648,6 +33616,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110219T190849Z" changeid="klyok">
         <seg>Задоўга чакаем адказу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No route found</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194408Z" changeid="klyok">
+        <seg>Не знайшлі шляху</seg>
       </tuv>
     </tu>
     <tu>
@@ -32950,8 +33926,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="be" changedate="20110622T121925Z" changeid="klyok">
-        <seg>звычайнае</seg>
+      <tuv lang="be" changedate="20110724T080950Z" changeid="klyok">
+        <seg>Як звычайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -34676,6 +35652,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parking</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193025Z" changeid="klyok">
+        <seg>Паркоўка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error</seg>
       </tuv>
       <tuv lang="be" changedate="20110326T205139Z" changeid="klyok">
@@ -35462,6 +36446,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Places</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080608Z" changeid="klyok">
+        <seg>Месцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Play</seg>
       </tuv>
       <tuv lang="be" changedate="20110322T095858Z" changeid="klyok">
@@ -35710,6 +36702,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact your carrier.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080519Z" changeid="klyok">
+        <seg>Калі ласка, зьвяжыцеся са сваім апэратарам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please correct the recipient(s) or they will not receive the message.</seg>
       </tuv>
       <tuv lang="be" changedate="20110622T115328Z" changeid="klyok">
@@ -35722,6 +36722,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110622T122919Z" changeid="klyok">
         <seg>Калі ласка, сатрыце старыя паведамленьні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please describe the problem</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183831Z" changeid="klyok">
+        <seg>Калі ласка, апішыце праблему</seg>
       </tuv>
     </tu>
     <tu>
@@ -35754,6 +36762,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110418T150810Z" changeid="klyok">
         <seg>Калі ласка, упішыце адрас аплаты, каб захаваць яго ў вашым рахунку Google.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please exit and restart.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080734Z" changeid="klyok">
+        <seg>Выйдзіце з праґрамы ды запусьціце яе нанова.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36094,6 +37110,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Point on map</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195730Z" changeid="klyok">
+        <seg>Паказаць на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Point-to-Point Tunneling Protocol</seg>
       </tuv>
       <tuv lang="be" changedate="20110421T153816Z" changeid="klyok">
@@ -36298,6 +37322,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110501T072250Z" changeid="klyok">
         <seg>Як на афішах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Posting as {0}</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201150Z" changeid="klyok">
+        <seg>Імя: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36678,6 +37710,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190151Z" changeid="klyok">
+        <seg>Правілы адасобленасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Privacy policy</seg>
       </tuv>
       <tuv lang="be" changedate="20110502T072719Z" changeid="klyok">
@@ -36722,6 +37762,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T162355Z" changeid="klyok">
         <seg>Выявілася праблема, калі чыталі віджэт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problem reported</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190711Z" changeid="klyok">
+        <seg>Паведамілі пра праблему</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problem reporting not available in your current location.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192123Z" changeid="klyok">
+        <seg>У бягучым месцазнаходжаньні нельга паведаміць пра праблему.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37086,6 +38142,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rate Places</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201129Z" changeid="klyok">
+        <seg>Ацаніць месцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rate it!</seg>
       </tuv>
       <tuv lang="be" changedate="20110418T144225Z" changeid="klyok">
@@ -37374,6 +38438,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recent Destinations</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195851Z" changeid="klyok">
+        <seg>Апошнія кірункі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recent friend check-ins</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203721Z" changeid="klyok">
+        <seg>Нядаўна адзначаліся</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recently added</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T152403Z" changeid="klyok">
@@ -37434,6 +38514,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110402T060003Z" changeid="klyok">
         <seg>Нанова вылічваецца памер…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Record Feedback</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193239Z" changeid="klyok">
+        <seg>Запішыце водгук</seg>
       </tuv>
     </tu>
     <tu>
@@ -37522,6 +38610,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110621T121851Z" changeid="klyok">
         <seg>Абнаўляюцца жывільнікі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refreshing friends...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080347Z" changeid="klyok">
+        <seg>Абнаўляецца сьпіс сяброў…</seg>
       </tuv>
     </tu>
     <tu>
@@ -38294,10 +39390,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Report a Problem</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T191853Z" changeid="klyok">
+        <seg>Паведаміць пра праблему</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Report a defective or malicious application:</seg>
       </tuv>
       <tuv lang="be" changedate="20110418T152717Z" changeid="klyok">
         <seg>Паведаміць пра благую або зламысную праграму:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Report a problem</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T191856Z" changeid="klyok">
+        <seg>Паведаміць пра праблему</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Report a problem allows you to record a short voice message describing an issue with the map or your route.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190928Z" changeid="klyok">
+        <seg>Вы можаце запісаць кароткае галасавое паведамленьне, якое апісвае праблему з мапаю ці шляхам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38482,6 +39602,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110425T062039Z" changeid="klyok">
         <seg>Трэба запусьціць нанова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rerouting...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193131Z" changeid="klyok">
+        <seg>Шукаецца новы шлях…</seg>
       </tuv>
     </tu>
     <tu>
@@ -39166,6 +40294,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Route Info</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185935Z" changeid="klyok">
+        <seg>Зьвесткі пра шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Route options</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195915Z" changeid="klyok">
+        <seg>Можнасьці шляху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rows</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T092143Z" changeid="klyok">
@@ -39678,6 +40822,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Satellite</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T081039Z" changeid="klyok">
+        <seg>Спадарожнікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saturday</seg>
       </tuv>
       <tuv lang="be" changedate="20110421T132736Z" changeid="klyok">
@@ -39858,6 +41010,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110315T142911Z" changeid="klyok">
         <seg>Рахунка захоўваецца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Say more</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201221Z" changeid="klyok">
+        <seg>Заўвага</seg>
       </tuv>
     </tu>
     <tu>
@@ -40110,6 +41270,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Again</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201019Z" changeid="klyok">
+        <seg>Шукаць зноўку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Android Market</seg>
       </tuv>
       <tuv lang="be" changedate="20110418T153505Z" changeid="klyok">
@@ -40318,10 +41486,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193355Z" changeid="klyok">
+        <seg>Шукаць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searchable items</seg>
       </tuv>
       <tuv lang="be" changedate="20110502T074736Z" changeid="klyok">
         <seg>Што шукаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searched for:</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201012Z" changeid="klyok">
+        <seg>Шукалі:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40342,10 +41526,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Searching for GPS...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192416Z" changeid="klyok">
+        <seg>Шукаецца GPS…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searching for Service</seg>
       </tuv>
       <tuv lang="be" changedate="20110323T075400Z" changeid="klyok">
         <seg>Шукаецца абслугоўваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for alternate routes</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192708Z" changeid="klyok">
+        <seg>Шукаюцца іншыя шляхі</seg>
       </tuv>
     </tu>
     <tu>
@@ -40586,6 +41786,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110321T151825Z" changeid="klyok">
         <seg>Абраць, які гадзіньнік паказваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a nearby place:</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201054Z" changeid="klyok">
+        <seg>Абярыце месца побач:</seg>
       </tuv>
     </tu>
     <tu>
@@ -40898,6 +42106,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110325T094042Z" changeid="klyok">
         <seg>Абраць малюнак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select place to rate</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201045Z" changeid="klyok">
+        <seg>Абярыце, што ацаніць</seg>
       </tuv>
     </tu>
     <tu>
@@ -41671,6 +42887,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Serious error.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080648Z" changeid="klyok">
+        <seg>Сур’ёзная памылка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Server</seg>
       </tuv>
       <tuv lang="be" changedate="20110310T095013Z" changeid="klyok">
@@ -41811,6 +43035,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110322T095851Z" changeid="klyok">
         <seg>Вызначыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195728Z" changeid="klyok">
+        <seg>Вызначыць кірунак</seg>
       </tuv>
     </tu>
     <tu>
@@ -42655,6 +43887,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcut icon</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200901Z" changeid="klyok">
+        <seg>Значак выклічніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shortcut name</seg>
       </tuv>
       <tuv lang="be" changedate="20110401T194123Z" changeid="klyok">
@@ -42699,6 +43939,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110426T173839Z" changeid="klyok">
         <seg>Паказаць кансоль JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Map</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185939Z" changeid="klyok">
+        <seg>Паказаць мапу</seg>
       </tuv>
     </tu>
     <tu>
@@ -42895,6 +44143,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show location settings?</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192740Z" changeid="klyok">
+        <seg>Ці паказаць налады месцазнаходжаньня?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show me as</seg>
       </tuv>
       <tuv lang="be" changedate="20110321T130856Z" changeid="klyok">
@@ -43039,10 +44295,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show the current weather on the map</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T081320Z" changeid="klyok">
+        <seg>Паказваць надвор’е на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show the labels on app drawer</seg>
       </tuv>
       <tuv lang="be" changedate="20110325T091615Z" changeid="klyok">
         <seg>Паказваць у рысавальніку подпісы праграмаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show this message next time</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185900Z" changeid="klyok">
+        <seg>Паказваць гэта наступным разам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show traffic</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T081302Z" changeid="klyok">
+        <seg>Паказаць загружанасьць дарогаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -43695,6 +44975,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Software Upgrade</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080813Z" changeid="klyok">
+        <seg>Абнавіць праґрамныя сродкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Solarize</seg>
       </tuv>
       <tuv lang="be" changedate="20110501T073543Z" changeid="klyok">
@@ -44191,6 +45479,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speak Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195848Z" changeid="klyok">
+        <seg>Прамовіць кірунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak now</seg>
       </tuv>
       <tuv lang="be" changedate="20110503T162143Z" changeid="klyok">
@@ -44263,10 +45559,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Starred Items</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T194746Z" changeid="klyok">
+        <seg>Адзначаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Starred contacts</seg>
       </tuv>
       <tuv lang="be" changedate="20110125T152912Z" changeid="alex73">
         <seg>Адзначаныя кантакты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Starred items are automatically synchronized with maps.google.com.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200023Z" changeid="klyok">
+        <seg>Адзначаныя пункты самарушна сынхранізуюцца з мапамі maps.google.com.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44307,6 +45619,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110502T071821Z" changeid="klyok">
         <seg>Пачаць нанова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start point</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080629Z" changeid="klyok">
+        <seg>Пачатковы пункт</seg>
       </tuv>
     </tu>
     <tu>
@@ -44419,6 +45739,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110402T232352Z" changeid="klyok">
         <seg>Заставацца ўключаным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stay on %1$s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183916Z" changeid="klyok">
+        <seg>Працягвайце рухацца па %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -44779,6 +46107,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110501T061330Z" changeid="klyok">
         <seg>Выдатная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Supermarkets</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193048Z" changeid="klyok">
+        <seg>Крамы</seg>
       </tuv>
     </tu>
     <tu>
@@ -45456,6 +46792,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tap to sign into Latitude</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203744Z" changeid="klyok">
+        <seg>Націсьніце, каб увайсьці ў Спадарожнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tap twice for zoom control</seg>
       </tuv>
       <tuv lang="be" changedate="20110324T160855Z" changeid="klyok">
@@ -45552,6 +46896,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms and Conditions</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190149Z" changeid="klyok">
+        <seg>Умовы ды азначэньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms and conditions</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T133103Z" changeid="klyok">
@@ -45564,6 +46916,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T170724Z" changeid="klyok">
         <seg>Умовы абслугоўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms, Privacy &amp; Notices</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190138Z" changeid="klyok">
+        <seg>Правілы абслугоўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terrain</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T081202Z" changeid="klyok">
+        <seg>Рэльеф</seg>
       </tuv>
     </tu>
     <tu>
@@ -46610,6 +47978,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110622T121557Z" changeid="klyok">
         <seg>Паведамленьне сатрэцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mode of the map e.g. Satellite</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T081249Z" changeid="klyok">
+        <seg>Выгляд мапы: напрыклад, «спадарожнікі»</seg>
       </tuv>
     </tu>
     <tu>
@@ -47743,10 +49119,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This application cannot be used until you grant it permission to send and receive data over the network.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080444Z" changeid="klyok">
+        <seg>Гэтая праґрама будзе працаваць толькі тады, калі вы дазволіце ёй дасылаць і атрымваць дадзеныя па сетцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This application has access to the following:</seg>
       </tuv>
       <tuv lang="be" changedate="20110418T153416Z" changeid="klyok">
         <seg>Гэтая праграма мае доступ да наступнага:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This application requires a data connection.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080510Z" changeid="klyok">
+        <seg>Гэтая праґрама патрабуе доступу да злучэньня зь сецівам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This application requires a working data connection.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080535Z" changeid="klyok">
+        <seg>Гэтая праґрама патрабуе дзейнага злучэньня зь сецівам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49380,6 +50780,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Traffic</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190054Z" changeid="klyok">
+        <seg>Загружанасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traffic data is not real-time, and directions may be wrong, dangerous, prohibited, or involve ferries.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185725Z" changeid="klyok">
+        <seg>Зьвесткі пра загружанасьць дарогаў падаюцца не ў сапраўдным часе, шляхі могуць быць памылковымі, небясьпечнымі, могуць улучаць закрытыя ўчасткі дарогаў ці паромныя пераправы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traffic view</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185949Z" changeid="klyok">
+        <seg>Загружанасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Transfer</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T095649Z" changeid="klyok">
@@ -49740,6 +51164,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Turn-by-turn navigation</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201010Z" changeid="klyok">
+        <seg>Навіґацыя па кроках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Turning off…</seg>
       </tuv>
       <tuv lang="be" changedate="20110331T100044Z" changeid="klyok">
@@ -49816,6 +51248,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be">
         <seg>Тып</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type Destination</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195833Z" changeid="klyok">
+        <seg>Надрукаваць кірунак</seg>
       </tuv>
     </tu>
     <tu>
@@ -50702,6 +52142,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown location</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201101Z" changeid="klyok">
+        <seg>Невядомае месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unknown name</seg>
       </tuv>
       <tuv lang="be" changedate="20110322T093515Z" changeid="klyok">
@@ -50850,6 +52298,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110331T125553Z" changeid="klyok">
         <seg>Адмацоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unmute</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T190102Z" changeid="klyok">
+        <seg>Гучэць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unnamed road</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193523Z" changeid="klyok">
+        <seg>Дарога бяз назвы</seg>
       </tuv>
     </tu>
     <tu>
@@ -51014,6 +52478,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updated {0}</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201241Z" changeid="klyok">
+        <seg>Абнавілі {} таму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updated: %s</seg>
       </tuv>
       <tuv lang="be" changedate="20110324T221415Z" changeid="klyok">
@@ -51074,6 +52546,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110620T192816Z" changeid="klyok">
         <seg>Абнаўляцца альбом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating directions</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195923Z" changeid="klyok">
+        <seg>Абнаўляюцца шляхі</seg>
       </tuv>
     </tu>
     <tu>
@@ -51394,6 +52874,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T152708Z" changeid="klyok">
         <seg>Заўжды выкарыстоўваць для гэтага.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use caution.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185103Z" changeid="klyok">
+        <seg>таму будзьце асьцярожнымі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51872,6 +53360,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vector Maps</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183313Z" changeid="klyok">
+        <seg>Вэктарныя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Verify your profile</seg>
       </tuv>
       <tuv lang="be" changedate="20110424T133506Z" changeid="klyok">
@@ -51972,6 +53468,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110326T104224Z" changeid="klyok">
         <seg>Вельмі марудна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Via %s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193143Z" changeid="klyok">
+        <seg>Праз %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -52312,6 +53816,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>View check-in location</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203732Z" changeid="klyok">
+        <seg>Месцы, у якіх адзначаўся карыстальнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View comments</seg>
       </tuv>
       <tuv lang="be" changedate="20110621T122235Z" changeid="klyok">
@@ -52508,6 +54020,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110313T110410Z" changeid="klyok">
         <seg>Адасабленьне голасу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice guidance</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192855Z" changeid="klyok">
+        <seg>Падказваць голасам</seg>
       </tuv>
     </tu>
     <tu>
@@ -52801,6 +54321,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Waiting for location</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T192614Z" changeid="klyok">
+        <seg>Вызначаецца месцазнаходжаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Waiting for location...</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201109Z" changeid="klyok">
+        <seg>Вызначаецца месцазнаходжаньне…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Waiting for operation on %1$d conversation.</seg>
       </tuv>
       <tuv lang="be" changedate="20110621T180514Z" changeid="klyok">
@@ -52821,6 +54357,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110401T184518Z" changeid="klyok">
         <seg>Чакаем, пакуль сынхранізуецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Walking</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200746Z" changeid="klyok">
+        <seg>Ісьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Walking routes may be missing sidewalks or pedestrian paths.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T185843Z" changeid="klyok">
+        <seg>На пешаходных шляхах могуць адсутнічаць ходнікі або пешаходныя дарожкі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52925,6 +54477,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110401T201554Z" changeid="klyok">
         <seg>Мы ня можам дадаваць рэчы невядомага віду :-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We couldn't find a route to your destination.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195751Z" changeid="klyok">
+        <seg>Мы не змаглі знайсьці шляху да кірунку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We couldn't find alternate routes to your destination.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195818Z" changeid="klyok">
+        <seg>Мы не змаглі знайсьці іншыя шляхі да кірунку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We couldn't understand the destination.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195757Z" changeid="klyok">
+        <seg>Мы не змаглі зразумець кірунку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53277,6 +54853,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110402T234558Z" changeid="klyok">
         <seg>Налады Wi-Fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Widget name</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080622Z" changeid="klyok">
+        <seg>Назва віджэту</seg>
       </tuv>
     </tu>
     <tu>
@@ -53673,6 +55257,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can add new contacts or set addresses for existing contacts in the Contacts app.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200716Z" changeid="klyok">
+        <seg>Дадаць новыя кантакты ці пазначыць адрас у існых можна ў праґраме «Кантакты».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change this later in Facebook Settings.</seg>
       </tuv>
       <tuv lang="be" changedate="20110621T173916Z" changeid="klyok">
@@ -53789,6 +55381,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T163611Z" changeid="klyok">
         <seg>Таксама можна абраць значак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can star search results in Google Maps by tapping the star icon near the address.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200101Z" changeid="klyok">
+        <seg>Каб пазначыць вынікі пошуку на Мапе Google, трэба націснуць на зорачку побач з адрасам.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53993,6 +55593,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You don't have any contacts with addresses.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200241Z" changeid="klyok">
+        <seg>Вы ня маеце ніводнага кантакту з адрасам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You don't have any favorites.</seg>
       </tuv>
       <tuv lang="be" changedate="20110401T180946Z" changeid="klyok">
@@ -54013,6 +55621,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
 &lt;l2&gt;Націсьніце на кантакт, які вы хочаце дадаць да ўлюбёных\n
 &lt;/l2&gt;\n
 &lt;l3&gt;Націсьніце на зорачку праваруч ад імені кантакту\n&lt;/l3&gt;\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You don't have any starred items.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195941Z" changeid="klyok">
+        <seg>Вы ня маеце захаваных адзначаных пунктаў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54127,6 +55743,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110324T205811Z" changeid="klyok">
         <seg>Вы прынялі запрашэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have arrived.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183708Z" changeid="klyok">
+        <seg>Вы прыехалі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54389,6 +56013,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You must install a new version to use this application.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110724T080757Z" changeid="klyok">
+        <seg>Каб карыстацца праґрамаю, трэба ўсталяваць навейшую вэрсію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You must select %s.</seg>
       </tuv>
       <tuv lang="be" changedate="20110421T163426Z" changeid="klyok">
@@ -54409,6 +56041,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110418T154540Z" changeid="klyok">
         <seg>Раней вы ўжо куплялі гэта ды вярнулі грошы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You rated:</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T201313Z" changeid="klyok">
+        <seg>Вашая ацэнка:</seg>
       </tuv>
     </tu>
     <tu>
@@ -54441,6 +56081,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T165139Z" changeid="klyok">
         <seg>Вы ўжо ацанілі гэтае відэа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You've been checked into {0}</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203612Z" changeid="klyok">
+        <seg>Вы адзначыліся тут: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -54673,6 +56321,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110418T150553Z" changeid="klyok">
         <seg>[н/д]Ваша крэдытная карта не бярэцца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your destination is on the left.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195537Z" changeid="klyok">
+        <seg>Кірунак — леваруч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your destination is on the right.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195656Z" changeid="klyok">
+        <seg>Кірунак — праваруч.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56912,6 +58576,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>here now</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T203504Z" changeid="klyok">
+        <seg>зараз тут</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>high</seg>
       </tuv>
       <tuv lang="be" changedate="20110526T140802Z" changeid="klyok">
@@ -57148,6 +58820,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T130223Z" changeid="klyok">
         <seg>ime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>imperial</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184713Z" changeid="klyok">
+        <seg>metric</seg>
       </tuv>
     </tu>
     <tu>
@@ -58000,10 +59680,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>on left</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183834Z" changeid="klyok">
+        <seg>леваруч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on right</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183843Z" changeid="klyok">
+        <seg>праваруч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>one</seg>
       </tuv>
       <tuv lang="be" changedate="20110125T153151Z" changeid="alex73">
         <seg>адзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>onto %1$s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183411Z" changeid="klyok">
+        <seg>на дарогу %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -58984,6 +60688,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>then</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T183446Z" changeid="klyok">
+        <seg>тады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>third</seg>
       </tuv>
       <tuv lang="be">
@@ -58996,6 +60708,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110125T153201Z" changeid="alex73">
         <seg>тры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to %s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T193149Z" changeid="klyok">
+        <seg>да %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -59060,6 +60780,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110526T140918Z" changeid="klyok">
         <seg>torch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>toward %1$s</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195505Z" changeid="klyok">
+        <seg>у накірунку %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -59408,6 +61136,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>you will arrive at your destination.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195533Z" changeid="klyok">
+        <seg>вы прыедзе да кірунку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>your destination will be on the left.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195510Z" changeid="klyok">
+        <seg>кірунак будзе леваруч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>your destination will be on the right.</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T195526Z" changeid="klyok">
+        <seg>кірунак будзе праваруч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>youtube</seg>
       </tuv>
       <tuv lang="be" changedate="20110526T140817Z" changeid="klyok">
@@ -59456,6 +61208,46 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} ft</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184328Z" changeid="klyok">
+        <seg>{0} футы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} km</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184552Z" changeid="klyok">
+        <seg>{0} км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} m</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184600Z" changeid="klyok">
+        <seg>{0} м</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} mi</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184311Z" changeid="klyok">
+        <seg>{0} міля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} yd</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184545Z" changeid="klyok">
+        <seg>{0} ярдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0}: Not forwarded</seg>
       </tuv>
       <tuv lang="be" changedate="20110323T075408Z" changeid="klyok">
@@ -59476,6 +61268,46 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110421T134726Z" changeid="klyok">
         <seg>{0}: {1} пасьля {2} сэк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}ft</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184540Z" changeid="klyok">
+        <seg>{0} футы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}km</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184555Z" changeid="klyok">
+        <seg>{0} км</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}m</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184603Z" changeid="klyok">
+        <seg>{0} м</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}mi</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184315Z" changeid="klyok">
+        <seg>{0} міля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}yd</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T184548Z" changeid="klyok">
+        <seg>{0} ярдаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -59988,6 +61820,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changedate="20110316T190038Z" changeid="klyok">
         <seg>Пра MagnetLink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“%1$s”</seg>
+      </tuv>
+      <tuv lang="be" changedate="20110723T200756Z" changeid="klyok">
+        <seg>«%1$s»</seg>
       </tuv>
     </tu>
     <tu>
