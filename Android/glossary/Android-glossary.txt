@@ -171,12 +171,11 @@ discoverability	бачнасьць
 DockBar	латок-паліца
 dock	латок
 domain	вузел
-downloaded	сьцягвалі
-downloaded	сьцягнутыя
-downloader	сьцягвальнік
-Download Manager	Кіраўнік сьцягванага
-downloads	сьцягванае
-download	сьцягваць
+downloaded	спампавалі
+downloader	спампоўвальнік
+Download Manager	Кіраўнік спампаванага
+downloads	спампоўванае
+download	спампоўваць
 Do you want	Ці хочаце вы
 drag left	перацягніце налева
 drag right	перацягніце направа
@@ -318,7 +317,7 @@ mode	стан
 mount	мацаваць
 move	перасоўваць
 multicast	бязадрасны
-My downloads	Маё сьцягнутае
+My downloads	Маё спампаванае
 name	імя
 name	назва
 negotiation	узгадненьне
@@ -558,7 +557,7 @@ untitled	бяз назвы
 updated	абнавілі
 upgraded	палепшылі
 upgrade	паляпшаць
-upload	зацягваць	
+upload	запампоўваць
 USB Mass Storage	сховішча USB
 valid	чынны
 vCard	візытоўка
@@ -610,3 +609,10 @@ Latitude	Спадарожнік
 check-in	адзначацца	
 
 maps live wallpaper	жывыя шпалеры з мапаў
+uploaded	запампавалі	
+
+bar	паліца
+uploads	запампаванае
+uploading	запампоўваецца	
+
+will be uploaded	запампуецца
