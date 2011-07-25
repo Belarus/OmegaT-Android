@@ -63,8 +63,8 @@ battery	батарэя
 bcc	сьляпая копія (СК; «blind carbon copy»)
 Begin	«Пачаць»	
 block	затрымваць
-blogger	блоґер -а
 Blogger	Блоґер
+blogger	блоґер -а
 Bluetooth	Bluetooth
 BluetoothShare manager	кіраўнік дзяліцца па Bluetooth
 bookmarks	закладкі
@@ -85,6 +85,7 @@ call log	гісторыя выклікаў
 calls	выклікі
 call	выклік
 call	выклікаць
+camcorder	відэакамэра	
 Cancel	Скасаваць
 cannot	нельга
 cannot	не ўдаецца
@@ -382,8 +383,8 @@ playlists	сьпісы
 playlist	сьпіс
 play sounds	гучэць
 play sound	гучэць
-plugged in	улучылі
 plugged in	улучаны
+plugged in	улучылі
 plug-ins	убудовы	
 plug-in	убудова
 podcasts	падвяшчальнікі

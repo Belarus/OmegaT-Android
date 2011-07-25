@@ -70,6 +70,7 @@ ApplicationLauncher
 aqua
 archive
 arrow_down_float
+ascending
 audio
 auto
 Automatic
@@ -87,6 +88,7 @@ BBC
 beach
 Beispiel
 Belarusian
+Big5
 bin
 bin-signed.zip
 blues
@@ -113,6 +115,7 @@ btn_toggle
 C
 ç
 Call
+CANCEL
 CDMA
 cdma_eri
 cell
@@ -123,6 +126,7 @@ CID
 classical
 client
 clock
+CLOSE
 cloudy-daylight
 CNN
 color
@@ -167,6 +171,7 @@ de
 default
 DEFAULT
 delete
+descending
 detail
 deu-DEU
 Deutsch
@@ -223,6 +228,7 @@ ESPN
 espn.com
 Este
 eth
+EUC-JP
 EvDo
 example
 exchange
@@ -231,6 +237,7 @@ expander_group
 Facebook
 FACTORY_TEST
 Fake
+FAR
 FDN
 ff000000
 ffffffff
@@ -248,6 +255,7 @@ Froyo
 für
 Fwd
 g
+GBK
 Gecko
 geesun
 gl
@@ -316,6 +324,7 @@ iPhone
 IPSec
 is
 ISDN
+ISO
 ist
 ita-ITA
 italiano
@@ -336,6 +345,7 @@ jog_tab_right_confirm_gray
 jog_tab_right_normal
 jog_tab_right_pressed
 jog_tab_target_gray
+JP
 jp.co.omronsoft.openwnn
 k
 KHTML
@@ -345,6 +355,8 @@ L2TP
 LAC
 landscape
 lang
+LARGER
+LARGEST
 Latin
 LatinIME
 like
@@ -376,6 +388,7 @@ maps.google.com
 Market
 market.android.com
 media
+MEDIUM
 MEID
 menu_background
 menu_background_fill_parent_width
@@ -425,6 +438,7 @@ no
 no_flash
 none
 normal
+NORMAL
 notification
 notsilent
 null
@@ -440,8 +454,11 @@ O
 OBEX
 of
 off
+OFF
 older
 on
+ON
+ON_DEMAND
 o_O
 òóôõöœø
 OpenWnnJAJP
@@ -474,6 +491,7 @@ Pico
 PIN
 PIN2
 PinyinIME
+PLAY
 pop
 POP3
 popup_bottom_bright
@@ -516,6 +534,7 @@ PUSH
 QQ
 QsbSearchActivity
 Questo
+QVGA
 rac2030
 Re
 red
@@ -550,6 +569,7 @@ Sense
 sepia
 SetPrimary
 settings
+SHIFT_JIS
 SHOW
 sileht
 silent
@@ -565,6 +585,8 @@ SipDomain
 site
 sites.google.com
 Skype
+SMALLER
+SMALLEST
 SMS
 SMSC
 SMTP
@@ -579,6 +601,7 @@ speakerphone
 speech
 spinner_dropdown_background
 Sprachsynthese
+square
 srs_wowhd
 ß
 SSID
