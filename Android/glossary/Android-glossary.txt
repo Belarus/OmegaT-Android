@@ -28,8 +28,8 @@ APN	пункт доступу
 applications	праграмы
 application	праграма
 apply	ужыць
-apps	праграмы
-app	праграма
+apps	праґрамы
+app	праґрама
 archive	архіваваць
 Are you sure you want to	Ці ўпэўненыя вы, што хочаце
 artist	выканаўца	
@@ -63,7 +63,7 @@ battery	батарэя
 bcc	сьляпая копія (СК; «blind carbon copy»)
 Begin	«Пачаць»	
 block	затрымваць
-blogger	блогер -а	Blogger
+blogger	блоґер -а
 Blogger	Блоґер
 Bluetooth	Bluetooth
 BluetoothShare manager	кіраўнік дзяліцца па Bluetooth
@@ -156,7 +156,7 @@ delete	выдаляць
 delete	сьціраць (файлы)	
 deleting	сьціраецца
 delivery report	справаздача па дастаўленым
-desktop	стольніца
+desktop	стальніца
 destination	кірунак
 details	падрабязнасьці
 detected	выявілі
@@ -181,7 +181,7 @@ dock	латок
 domain	вузел
 downloaded	спампавалі
 downloader	спампоўвальнік
-Download Manager	Кіраўнік спампаванага
+Download Manager	Кіраўнік спампоўванага
 downloads	спампоўванае
 download	спампоўваць
 Do you want	Ці хочаце вы
@@ -189,7 +189,7 @@ drag left	перацягніце налева
 drag right	перацягніце направа
 drag	перацягваць
 drawer	рысавальнік
-DTMF tones	танальныя сыгналы
+DTMF tones	танальныя сыґналы
 email arrives	прыходзіць пошта
 email	эл. пошта
 emergency	надзвычайны
@@ -214,8 +214,7 @@ exposure	насьвятленьне
 external	вонкавы
 Facebook	Facebook
 failed	не ўдалося
-favorites	улюбёныя
-favorite	улюбёны
+favorites	упадабаныя
 favorite	упадабаны
 FDN	замацаваныя нумары (ЗН)
 feature code	код уласьцівасьці
@@ -229,8 +228,8 @@ fetch	атрымваць
 firewall	сетказаслона
 flashlight	ліхтарык
 flash	выбліск
-folders	каталёгі
-folder	каталёг
+folders	каталёґі
+folder	каталёґ
 format	разьмячаць
 for more information	каб даведацца болей
 form	блянк
@@ -241,7 +240,7 @@ frame	кадр
 friend request	запыт сябраваць
 gateway	брама
 general	галоўны
-geolocation	вызначаць геаграфічнае мейсца
+geolocation	вызначаць ґеаґрафічнае мейсца
 Google	Google
 Google Mail	Пошта Google	
 Google Maps Navigation	Навіґацыя мапамі Google
@@ -333,14 +332,14 @@ multicast	бязадрасны
 My downloads	Маё спампаванае
 name	імя
 name	назва
-navigation	навіґацыя	Navigation
+navigation	навіґацыя
 negotiation	узгадненьне
 networked	сеткаваны	
 News Feed	стужка навінаў
 Next	Наступны
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
-Not for use by normal applications	Звычайнымі праграмамі не выкарыстоўваецца
+Not for use by normal applications	Звычайнымі праґрамамі не выкарыстоўваецца
 not found	не знайшлі
 notifications	спавяшчэньні
 notification	спавяшчэньне
@@ -379,12 +378,12 @@ picture	здымак -ка
 picture	малюнак -ку
 PIN code	код PIN
 pitch	вышыня
-playlists	сьпіс
+playlists	сьпісы
 playlist	сьпіс
 play sounds	гучэць
 play sound	гучэць
 plugged in	улучылі
-plugged in	ўлучаны
+plugged in	улучаны
 plug-ins	убудовы	
 plug-in	убудова
 podcasts	падвяшчальнікі
@@ -440,7 +439,6 @@ remove	выкрасьляць
 remove	вымаць
 remove	выцягваць
 remove	зьнішчаць	
-remove	сьцягваць
 removing	сьціраць	
 resetting	узнаўляецца
 reset	узнаўляць
@@ -502,9 +500,9 @@ SMS messages	паведамленьні SMS
 snooze	адкладаць
 Social Club	таварыскі клюб
 sockets	гнёзды
-software	праграмныя сродкі
+software	праґрамныя сродкі
 solarize	перасьвятляць	
-song	сьпеў
+song	песьня
 sorry	выбачайце
 spacebar	прагал	
 space	прастора
