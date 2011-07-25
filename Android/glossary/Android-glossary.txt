@@ -64,6 +64,7 @@ bcc	сьляпая копія (СК; «blind carbon copy»)
 Begin	«Пачаць»	
 block	затрымваць
 blogger	блогер -а	Blogger
+Blogger	Блоґер
 Bluetooth	Bluetooth
 BluetoothShare manager	кіраўнік дзяліцца па Bluetooth
 bookmarks	закладкі
@@ -608,4 +609,3 @@ will be uploaded	запампуецца
 window	вакно	
 wireless	бяздротавы
 wizard	сродак
-Blogger	Блоґер
