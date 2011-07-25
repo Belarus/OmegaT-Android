@@ -11654,8 +11654,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Allows bouncy scrolling desktop screens</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T081136Z">
-        <seg>Дазваляе спружыніць, гартаючы экраны стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103034Z">
+        <seg>Дазваляе спружыніць, гартаючы экраны стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -13838,8 +13838,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Autohide desktop indicator</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T092405Z">
-        <seg>Самарушна хаваць паказальнік стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103151Z">
+        <seg>Самарушна хаваць паказальнік стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -14198,8 +14198,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Backing up desktop configuration...</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T090635Z">
-        <seg>Захоўваецца адноўку настаўленьняў стольніцаў…</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103127Z">
+        <seg>Захоўваецца адноўку настаўленьняў стальніцаў…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14246,16 +14246,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Backup desktop configuration</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T085317Z">
-        <seg>Стварыць адноўку настаўленьняў стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103123Z">
+        <seg>Стварыць адноўку настаўленьняў стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Backup desktop configuration?</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110401T201720Z">
-        <seg>Ці стварыць адноўку настаўленьняў стольніцаў?</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103125Z">
+        <seg>Ці стварыць адноўку настаўленьняў стальніцаў?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14966,8 +14966,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Bottom (Shrink desktop)</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T075455Z">
-        <seg>Унізе (пашырыць стольніцу)</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102949Z">
+        <seg>Унізе (пашырыць стальніцу)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20668,64 +20668,64 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Desktop Columns</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T090944Z">
-        <seg>Слупкі стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103135Z">
+        <seg>Слупкі стальніцы</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop Rows</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T091102Z">
-        <seg>Радкі стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103140Z">
+        <seg>Радкі стальніцы</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop behavior</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T092616Z">
-        <seg>Паводзіны стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103157Z">
+        <seg>Паводзіны стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop configuration</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T085231Z">
-        <seg>Настаўленьні стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103118Z">
+        <seg>Настаўленьні стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop dots</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T082743Z">
-        <seg>Кропкі стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103056Z">
+        <seg>Кропкі стальніцы</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop layout</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T092612Z">
-        <seg>Разьмяшчэньне стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103155Z">
+        <seg>Разьмяшчэньне стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop overshoot</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T081019Z">
-        <seg>Адхіленьне стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103016Z">
+        <seg>Адхіленьне стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Desktop scrolling speed</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T080823Z">
-        <seg>Хуткасьць гартаць стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102955Z">
+        <seg>Хуткасьць гартаць стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -26548,8 +26548,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Hide desktop icon labels</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T083703Z">
-        <seg>Хаваць подпісы значкаў стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103108Z">
+        <seg>Хаваць подпісы значкаў стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -29790,8 +29790,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Lock Desktop</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T101145Z">
-        <seg>Замкнуць стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103206Z">
+        <seg>Замкнуць стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -31894,24 +31894,24 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Move to default desktop</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T074421Z">
-        <seg>Да пачатковае стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102920Z">
+        <seg>Да пачатковае стальніцы</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move to default desktop/Open notifications</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110326T080825Z">
-        <seg>Да пачатковае стольніцы або адчыніць спавяшчэньні</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102930Z">
+        <seg>Да пачатковае стальніцы або адчыніць спавяшчэньні</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Move to default desktop/show previews</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T074648Z">
-        <seg>Да пачатковае стольніцы ці агледзецца</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102924Z">
+        <seg>Да пачатковае стальніцы ці агледзецца</seg>
       </tuv>
     </tu>
     <tu>
@@ -34118,8 +34118,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>None (expand desktop)</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T075442Z">
-        <seg>Няма (пашырыць стольніцу)</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102939Z">
+        <seg>Няма (пашырыць стальніцу)</seg>
       </tuv>
     </tu>
     <tu>
@@ -40040,16 +40040,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Restore desktop configuration</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T085239Z">
-        <seg>Аднавіць настаўленьні стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103120Z">
+        <seg>Аднавіць настаўленьні стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Restore desktop configuration?</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110401T201727Z">
-        <seg>Ці аднавіць настаўленьні стольніцаў?</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103130Z">
+        <seg>Ці аднавіць настаўленьні стальніцаў?</seg>
       </tuv>
     </tu>
     <tu>
@@ -40104,8 +40104,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Restoring desktop configuration...</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T090753Z">
-        <seg>Аднаўляюцца настаўленьні стольніцаў…</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103133Z">
+        <seg>Аднаўляюцца настаўленьні стальніцаў…</seg>
       </tuv>
     </tu>
     <tu>
@@ -42496,8 +42496,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Select the number of columns to use on desktop</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T091052Z">
-        <seg>Абраць, колькі слупкоў будзе мець стольніца</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103138Z">
+        <seg>Абраць, колькі слупкоў будзе мець стальніца</seg>
       </tuv>
     </tu>
     <tu>
@@ -42536,8 +42536,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Select the number of rows to use on desktop</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T091108Z">
-        <seg>Абраць, колькі радкоў будзе мець стольніца</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103144Z">
+        <seg>Абраць, колькі радкоў будзе мець стальніца</seg>
       </tuv>
     </tu>
     <tu>
@@ -43649,8 +43649,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Set the speed used to fling desktops screens</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T080928Z">
-        <seg>Вызначыць хуткасьць, зь якою перакідваюцца экраны стольніцаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103013Z">
+        <seg>Вызначыць хуткасьць, зь якою перакідваюцца экраны стальніцаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -44249,8 +44249,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Show a visual hint on scrolling desktop</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T092319Z">
-        <seg>Зрокавая падказка, калі гартаем стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103148Z">
+        <seg>Зрокавая падказка, калі гартаем стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -44377,8 +44377,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Show desktop indicator</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T092241Z">
-        <seg>Адлюстроўваць паказальнік стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103146Z">
+        <seg>Адлюстроўваць паказальнік стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -44633,8 +44633,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Show/hide the nexus style pagination dots</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T082832Z">
-        <seg>Паказаць або схаваць кропкі гартаць стольніцы як у Nexus</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103102Z">
+        <seg>Паказаць або схаваць кропкі гартаць стальніцы як у Nexus</seg>
       </tuv>
     </tu>
     <tu>
@@ -50723,8 +50723,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Top (Shrink desktop)</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T075447Z">
-        <seg>Уверсе (пашырыць стольніцу)</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T102943Z">
+        <seg>Уверсе (пашырыць стальніцу)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52560,8 +52560,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Unlock Desktop</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T101202Z">
-        <seg>Адамкнуць стольніцы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103210Z">
+        <seg>Адамкнуць стальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -53504,8 +53504,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Use the new sense-like implementation</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110325T082312Z">
-        <seg>Аглядаць стольніцы па-новаму, як у абалонцы Sense</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110725T103047Z">
+        <seg>Аглядаць стальніцы па-новаму, як у абалонцы Sense</seg>
       </tuv>
     </tu>
     <tu>
