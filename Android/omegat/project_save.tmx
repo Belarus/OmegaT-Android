@@ -24142,14 +24142,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>F</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110322T103324Z">
-        <seg>П</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>FAX</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110323T074547Z">
@@ -30000,14 +29992,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110323T081751Z">
         <seg>Доступ нізкага ўзроўню ды кіраваньне сыстэмаю.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>M</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110413T103107Z">
-        <seg>П</seg>
       </tuv>
     </tu>
     <tu>
@@ -40646,14 +40630,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>S</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110413T103109Z">
-        <seg>Н</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>SD card</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T114730Z">
@@ -46899,14 +46875,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T060952Z">
         <seg>Абнаўленьні сыстэмы нельга ўсталёўваць на вонкавыя сховішчы.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>T</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110413T103102Z">
-        <seg>А</seg>
       </tuv>
     </tu>
     <tu>
@@ -54761,14 +54729,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>W</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110322T103311Z">
-        <seg>С</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>WCDMA only</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T200431Z">
@@ -62527,5 +62487,75 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_friday</prop>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072041Z">
+        <seg>Пт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_monday</prop>
+      <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072013Z">
+        <seg>Пн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_saturday</prop>
+      <tuv lang="en">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072047Z">
+        <seg>Сб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_sunday</prop>
+      <tuv lang="en">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072051Z">
+        <seg>Нд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_thursday</prop>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072031Z">
+        <seg>Чц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_tuesday</prop>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072019Z">
+        <seg>Аў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="id">day_wednesday</prop>
+      <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alexander_Buloichik" changedate="20110725T072024Z">
+        <seg>Ср</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
