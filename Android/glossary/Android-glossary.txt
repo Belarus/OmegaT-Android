@@ -62,6 +62,7 @@ battery level	узровень зараду батарэі
 battery	батарэя
 bcc	сьляпая копія (СК; «blind carbon copy»)
 Begin	«Пачаць»	
+blocked	забаронены
 block	затрымваць
 Blogger	Блоґер
 blogger	блоґер -а
@@ -99,6 +100,9 @@ charger	зарада
 charging	зараджаецца
 chats	гамана
 chats	гамана
+chat	гутарка
+chat	гутаркі
+chat	гутарыць	
 check-in	адзначацца	
 Checkout	Каса
 CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
@@ -145,6 +149,7 @@ county	акруга
 crash	аварыя	
 credentials	даверчыя лісты
 Customer Care	служба падтрымкі
+custom	уласны	
 databases	базы зьвестак
 data	дадзеныя
 data	зьвесткі
@@ -247,6 +252,8 @@ Google Mail	Пошта Google
 Google Maps Navigation	Навіґацыя мапамі Google
 Google Messaging Service	служба паведамленьняў Google	
 Google Talk	Гутарка Google	
+group	суполка
+group	супольны
 guests	запрошаныя
 handle	апрацоўваць
 handset	тэлефонная слухаўка
@@ -279,6 +286,7 @@ installer	усталёўца
 install	усталёўваць
 instant	хуткі	
 invalid	хібны
+invites	запрашэньні
 IP	адрас IP
 junk	лухта
 kernel	ядро
@@ -295,6 +303,7 @@ layers	пласты
 layer	пласт
 learn	даведвацца	
 LED	лямпачка
+legal	прававыя зьвесткі
 limit reached	перавысілі абмежаваньне
 link	прывязваць
 link	спасылка	
@@ -327,6 +336,8 @@ mock	падрабляцца
 mock	падробны
 mock	удаваны
 mode	стан
+monitor	сачыльнік	
+monitor	сачыць	
 mount	мацаваць
 move	перасоўваць
 multicast	бязадрасны
@@ -347,7 +358,9 @@ notification	спавяшчэньне
 not readable	нельга прачытаць
 objectionable	непажаданы
 obtaining	атрымваем
+offline	адлучаны	
 OK	Добра
+online	далучаны	
 onscreen	экранны
 opening	адчыняецца
 open	адчыніць
@@ -514,6 +527,7 @@ starred	адзначаны
 star	зорачка
 status bar	паліца стану
 statusbar	паліца стану
+status message	апісаньне стану	
 status	стан
 storage	сховішча
 stories	рэпартажы
@@ -562,6 +576,7 @@ typing	друкаваць
 UID	азначальнік карыстальніка
 unable	немагчыма
 unavailable	адсутнічае	
+unavailable	недаступны	
 undo	адрабіць
 uninstall	высталёўваць
 unlocked	адамкнулі

@@ -270,6 +270,7 @@ gps
 GPS
 green-tint
 GSM
+GTalk
 GTC
 h
 H
@@ -719,6 +720,7 @@ www.wikipedia.org
 www.yahoo.com
 WyContacts
 Wysie
+x
 X
 XDA
 Y
