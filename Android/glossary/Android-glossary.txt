@@ -231,6 +231,7 @@ feeds	жывільнікі
 feed	жывільнік
 fetching	атрымваецца
 fetch	атрымваць
+file	файл -а
 firewall	сетказаслона
 flashlight	ліхтарык
 flash	выбліск
@@ -335,6 +336,7 @@ mock locations	удаваныя крыніцы
 mock	падрабляцца
 mock	падробны
 mock	удаваны
+moderate	сярэдне
 mode	стан
 monitor	сачыльнік	
 monitor	сачыць	

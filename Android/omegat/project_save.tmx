@@ -3168,6 +3168,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%s VPN connected</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153640Z">
+        <seg>Далучыліся да сеткі VPN «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%s VPN disconnected</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153632Z">
+        <seg>Адлучыліся ад сеткі VPN «%s»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>%s [%d/%s]</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T193030Z">
@@ -9850,6 +9866,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Afrikaans (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163222Z">
+        <seg>афрыканс (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T152615Z">
@@ -10366,8 +10390,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>All time</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110421T170139Z">
-        <seg>Увесь час</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110729T152732Z">
+        <seg>За ўвесь час</seg>
       </tuv>
     </tu>
     <tu>
@@ -13316,6 +13340,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Applies only to Google search by voice</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160514Z">
+        <seg>Ужываецца толькі калі шукаем голасам у Google</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apply theme!</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T093334Z">
@@ -13376,6 +13408,134 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T100248Z">
         <seg>Пад вадою</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Algeria)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163223Z">
+        <seg>арабская (Альжыр)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Egypt)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163224Z">
+        <seg>арабская (Эґіпэт)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Iraq)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163225Z">
+        <seg>арабская (Ірак)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Israel)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163226Z">
+        <seg>арабская (Ізраіль)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Jordan)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163227Z">
+        <seg>арабская (Ярданія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Kuwait)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163228Z">
+        <seg>арабская (Кувэйт)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Lebanon)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163229Z">
+        <seg>арабская (Лібан)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Libya)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163230Z">
+        <seg>арабская (Лібія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Morocco)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163231Z">
+        <seg>арабская (Марока)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Qatar)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163232Z">
+        <seg>арабская (Катар)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Saudi Arabia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163233Z">
+        <seg>арабская (Саудаўская Арабія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Sudan)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163234Z">
+        <seg>арабская (Судан)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Syria)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163235Z">
+        <seg>арабская (Сірыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Tunisia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163236Z">
+        <seg>арабская (Туніс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (United Arab Emirates)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163237Z">
+        <seg>арабская (Аб’яднаныя Арабскія Эміраты)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arabic (Yemen)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163238Z">
+        <seg>арабская (Емэн)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14828,10 +14988,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Belarusian (Belarus)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163241Z">
+        <seg>беларуская (Беларусь)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Below average</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110418T153352Z">
         <seg>Ніжэй за сярэдняе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bengali (Bangladesh)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163253Z">
+        <seg>бэнґальская (Банґлядэш)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14952,6 +15128,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110728T185301Z">
         <seg>Забараніць сябра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Block offensive words</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160651Z">
+        <seg>Забараніць абразьлівыя словы</seg>
       </tuv>
     </tu>
     <tu>
@@ -15416,6 +15600,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T232246Z">
         <seg>Налады ўбудаванае клявіятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bulgarian (Bulgaria)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163255Z">
+        <seg>баўгарская (Баўгарыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17057,6 +17249,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Catalan (Spain)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163256Z">
+        <seg>каталёнская (Гішпанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Catalog Name</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T094340Z">
@@ -17857,6 +18057,70 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chinese, Mandarin (China, Simplified)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163521Z">
+        <seg>кітайская, пэкінская (Кітай, спрошчаная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Mandarin (Hong Kong, Simplified)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163525Z">
+        <seg>кітайская, пэкінская (Ганконґ, спрошчаная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Mandarin (Hong Kong, Traditional)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163526Z">
+        <seg>кітайская, пэкінская (Ганконґ, звычаёвая)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Mandarin (Singapore, Simplified)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163528Z">
+        <seg>кітайская, пэкінская (Сынґапур, спрошчаная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Mandarin (Taiwan, Simplified)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163530Z">
+        <seg>кітайская, пэкінская (Тайвань, спрошчаная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Mandarin (Taiwan, Traditional)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163533Z">
+        <seg>кітайская, пэкінская (Тайвань, звычаёвая)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Yue (China, Simplified)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163619Z">
+        <seg>кітайская, кантонская (Кітай, спрошчаная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chinese, Yue (Hong Kong, Traditional)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T163629Z">
+        <seg>кітайская, кантонская (Ганконґ, звычаёвая)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose Destination</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T195855Z">
@@ -17893,6 +18157,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T092943Z">
         <seg>Абраць, на які нумар даслаць паведамленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose an input language</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155856Z">
+        <seg>Абярыце мову маўленьня</seg>
       </tuv>
     </tu>
     <tu>
@@ -19052,6 +19324,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Connection problem</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155525Z">
+        <seg>Праблема са злучэньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connection problem or invalid MMI code.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T104729Z">
@@ -19096,6 +19376,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110307T110724Z">
         <seg>Падрабязнасьці кантакту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact dialing</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155704Z">
+        <seg>Выклікаем кантакт</seg>
       </tuv>
     </tu>
     <tu>
@@ -20034,6 +20322,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Croatian (Croatia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165246Z">
+        <seg>харвацкая (Харватыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Crop</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T063459Z">
@@ -20218,6 +20514,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Czech (Czech Republic)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165247Z">
+        <seg>чэская (Чэская рэспубліка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T101539Z">
@@ -20294,6 +20598,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T092848Z">
         <seg>Небясьпечна. Задзейнічайце гэта, каб забараніць сыстэме забіваць пускач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Danish (Denmark)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165249Z">
+        <seg>дацкая (Данія)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20638,6 +20950,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T105042Z">
         <seg>Перадвызначана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default - %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160217Z">
+        <seg>Звычайная — %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -21234,6 +21554,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dev</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170635Z">
+        <seg>Распрацоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dev 1</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110621T175443Z">
@@ -21436,6 +21764,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Did you mean...</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155602Z">
+        <seg>Можа, мелася на ўвазе…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Did you mean:</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T193451Z">
@@ -21448,6 +21784,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T164150Z">
         <seg>Можа, мелася на ўвазе: ^1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Did you say...</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155615Z">
+        <seg>Можа, вы сказалі…</seg>
       </tuv>
     </tu>
     <tu>
@@ -21552,6 +21896,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T185928Z">
         <seg>Сьпіс шляхоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153834Z">
+        <seg>Шляхі да</seg>
       </tuv>
     </tu>
     <tu>
@@ -23061,6 +23413,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dutch (Belgium)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165250Z">
+        <seg>галяндзкая (Бэльґія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dutch (Netherlands)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165251Z">
+        <seg>галяндзкая (Галяндыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EEE, MMM d, yyyy</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110628T131516Z">
@@ -23902,6 +24270,166 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English (Australia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165255Z">
+        <seg>анґельская (Аўстралія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Bangladesh)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165302Z">
+        <seg>анґельская (Банґлядэш)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Canada)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165303Z">
+        <seg>анґельская (Канада)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Generic)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165254Z">
+        <seg>анґельская (агульная)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Hong Kong)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165303Z">
+        <seg>анґельская (Ганконґ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (India)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165304Z">
+        <seg>анґельская (Індыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Ireland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165305Z">
+        <seg>анґельская (Ірляндыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Kenya)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165306Z">
+        <seg>анґельская (Кенія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Malaysia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165316Z">
+        <seg>анґельская (Малайзія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (New Zealand)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165315Z">
+        <seg>анґельская (Новая Зэляндыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Nigeria)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165318Z">
+        <seg>анґельская (Ніґерыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Pakistan)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165319Z">
+        <seg>анґельская (Пакістан)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Philippines)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165320Z">
+        <seg>анґельская (Філіпіны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Singapore)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165320Z">
+        <seg>анґельская (Сынґапур)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165322Z">
+        <seg>анґельская (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Sudan)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165322Z">
+        <seg>анґельская (Судан)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Tanzania)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165323Z">
+        <seg>анґельская (Танзанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (UK)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165325Z">
+        <seg>анґельская (Вялікабрытанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (US)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165326Z">
+        <seg>анґельская (ЗША)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English (Uganda)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165324Z">
+        <seg>анґельская (Уґанда)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter PIN code</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T144409Z">
@@ -24286,6 +24814,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Estonian (Estonia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165328Z">
+        <seg>эстонская (Эстонія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Europe</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T154512Z">
@@ -24648,8 +25184,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Extra Large</seg>
       </tuv>
-      <tuv lang="be" changeid="alex73" changedate="20110125T151000Z">
-        <seg>Вельмі вялікія</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110729T152959Z">
+        <seg>Вельмі вялікі</seg>
       </tuv>
     </tu>
     <tu>
@@ -25353,6 +25889,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filipino (Philippines)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165329Z">
+        <seg>філіпіна (Філіпіны)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T055856Z">
@@ -25405,6 +25949,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T095729Z">
         <seg>Скончыць уладкоўваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finnish (Finland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165334Z">
+        <seg>фінская (Фінляндыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25978,6 +26530,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>French (Belgium)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165335Z">
+        <seg>француская (Бэльґія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>French (Canada)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165336Z">
+        <seg>француская (Канада)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>French (France)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165337Z">
+        <seg>француская (Францыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>French (Switzerland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165337Z">
+        <seg>француская (Швэйцарыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequent</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110307T110803Z">
@@ -26314,6 +26898,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Galician (Spain)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165341Z">
+        <seg>ґальская (Гішпанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gallery</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T152302Z">
@@ -26414,6 +27006,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104755Z">
         <seg>Нямецкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German (Austria)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165343Z">
+        <seg>нямецкая (Аўстрыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German (Germany)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165346Z">
+        <seg>нямецкая (Нямеччына)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German (Liechtenstein)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165349Z">
+        <seg>нямецкая (Ліхтэнштэйн)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German (Switzerland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165348Z">
+        <seg>нямецкая (Швэйцарыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26810,6 +27434,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google voice recognition settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155839Z">
+        <seg>Налады пазнаваць голас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google's location service provides applications with your approximate location without using GPS.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T142836Z">
@@ -26830,6 +27462,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110719T093421Z">
         <seg>Трава</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Greek (Greece)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165351Z">
+        <seg>грэцкая (Грэцыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27050,6 +27690,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hebrew (Israel)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165353Z">
+        <seg>іўрыт (Ізраіль)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hello World, TestActivity</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T170357Z">
@@ -27234,6 +27882,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide recognized offensive voice results</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160725Z">
+        <seg>Не паказваць вынікі пошуку, што зьмяшчаюць пазнаныя абразьлівыя словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide the background for the Action Buttons</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T083647Z">
@@ -27342,6 +27998,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110719T092542Z">
         <seg>Назва ВНУ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hindi (India)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165355Z">
+        <seg>гінды (Індыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27531,6 +28195,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hungarian (Hungary)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165357Z">
+        <seg>вугорская (Вугоршчына)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I agree</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T193042Z">
@@ -27711,6 +28383,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T104455Z">
         <seg>ISO-2022-JP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Icelandic (Iceland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165359Z">
+        <seg>ісьляндзкая (Ісьляндыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28475,6 +29155,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indonesian (Indonesia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165400Z">
+        <seg>інданэзійская (Інданэзія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Infinite</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T152722Z">
@@ -29051,6 +29739,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Irish (Ireland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165402Z">
+        <seg>ірляндзкая (Ірляндыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Iron</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110719T095453Z">
@@ -29235,6 +29931,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Italian (Italy)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165227Z">
+        <seg>італьянская (Італія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Italian (Switzerland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165228Z">
+        <seg>італьянская (Швэйцарыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It’s easy and only takes a few steps.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T135525Z">
@@ -29311,6 +30023,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T105237Z">
         <seg>Японскі (ISO-2022-JP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese (Japan)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165229Z">
+        <seg>японская (Японія)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29487,6 +30207,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110313T102842Z">
         <seg>Карэйская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Korean (South Korea)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165231Z">
+        <seg>карэйская (Паўднёвая Карэя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29772,6 +30500,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Latvian (Latvia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165232Z">
+        <seg>латыская (Латвія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Laughing</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T091935Z">
@@ -30040,6 +30776,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T235442Z">
         <seg>Праслухаць прыклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lithuanian (Lithuania)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165234Z">
+        <seg>літоўская (Літва)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31076,6 +31820,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Malay (Malaysia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165235Z">
+        <seg>малайская (Малайзія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Malay (Singapore)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165236Z">
+        <seg>малайская (Сынґапур)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Male</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110403T000329Z">
@@ -31580,6 +32340,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mandarin (zh-cn)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170654Z">
+        <seg>Пэкінская (zh-cn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manual setup</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T210550Z">
@@ -31616,6 +32384,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T080932Z">
         <seg>Выгляд мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153837Z">
+        <seg>Мапа</seg>
       </tuv>
     </tu>
     <tu>
@@ -32404,6 +33180,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moderate — Filter explicit images only</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160418Z">
+        <seg>Сярэдне — не паказваць непрыстойныя відарысы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modify Browser geolocation permissions</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T151408Z">
@@ -32736,6 +33520,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T221215Z">
         <seg>Перасоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/525.10+ (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155818Z">
+        <seg>Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/525.10+ (KHTML, like Gecko) Version/3.0.4 Mobile Safari/523.12.2</seg>
       </tuv>
     </tu>
     <tu>
@@ -34756,6 +35548,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No suggestions</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155758Z">
+        <seg>Няма прапаноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No topic entered.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T181149Z">
@@ -35000,6 +35800,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T174817Z">
         <seg>Адлюстроўваць звычайным чынам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Norwegian Bokmål (Norway)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165237Z">
+        <seg>нарвэская букмол (Нарвэґія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Norwegian Nynorsk (Norway)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165238Z">
+        <seg>нарвэская нюнорск (Нарвэґія)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35484,6 +36300,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVERRIDE: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160059Z">
+        <seg>ЗАМЕНІЦЬ: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Obex authentication request</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T170249Z">
@@ -35536,6 +36360,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T111515Z">
         <seg>Выкл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Off — Do not filter my search results</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160250Z">
+        <seg>Не прасейваць — паказваць вынікі, як ёсьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -36932,6 +37764,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path to output file :</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161335Z">
+        <seg>Шлях да выходнага файла:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pattern</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T082408Z">
@@ -37098,6 +37938,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110418T154301Z">
         <seg>У наяўных абнаўленьнях %1$d з %2$d праґрамаў зьмяніліся дазволы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Persian (Iran)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165245Z">
+        <seg>фарсі (Іран)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38294,6 +39142,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Polish (Poland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165448Z">
+        <seg>польская (Польшча)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Political Views</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T205314Z">
@@ -38398,6 +39254,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Portuguese (Angola)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165540Z">
+        <seg>партуґальская (Анґола)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portuguese (Brazil)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165549Z">
+        <seg>партуґальская (Бразылія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portuguese (Portugal)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165557Z">
+        <seg>партуґальская (Партуґалія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Possibly incorrect PIN.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T195858Z">
@@ -38418,6 +39298,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110418T144231Z">
         <seg>Выказацца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154132Z">
+        <seg>Допіс у </seg>
       </tuv>
     </tu>
     <tu>
@@ -38978,6 +39866,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110621T174816Z">
         <seg>Апрацоўваецца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prod</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170602Z">
+        <seg>Выпуск</seg>
       </tuv>
     </tu>
     <tu>
@@ -39682,6 +40578,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T060003Z">
         <seg>Нанова вылічваецца памер…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Record</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161342Z">
+        <seg>Запісаць</seg>
       </tuv>
     </tu>
     <tu>
@@ -41454,6 +42358,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Romanian (Romania)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165604Z">
+        <seg>румынская (Румынія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T062907Z">
@@ -41562,6 +42474,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T221609Z">
         <seg>Запушчаныя службы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Russian (Belarus)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165613Z">
+        <seg>расейская (Беларусь)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Russian (Russia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165616Z">
+        <seg>расейская (Расея)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41970,6 +42898,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T213215Z">
         <seg>Паслужнік SMTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SSFE Locale</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161436Z">
+        <seg>Мясцовасьць SSFE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SSFE Server</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161409Z">
+        <seg>Паслужнік SSFE</seg>
       </tuv>
     </tu>
     <tu>
@@ -44159,6 +45103,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sepedi (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165658Z">
+        <seg>паўночная сота (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sepia</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110501T071933Z">
@@ -44171,6 +45123,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T132603Z">
         <seg>верасень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Serbian (Serbia, Cyrillic)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165717Z">
+        <seg>сэрбская (Сэрбія, кірыліца)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44235,6 +45195,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110403T001552Z">
         <seg>Не ўдалося ўзгадніць з паслужніком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Server problem</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155536Z">
+        <seg>Праблема з паслужніком</seg>
       </tuv>
     </tu>
     <tu>
@@ -44323,6 +45291,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T145157Z">
         <seg>Платныя паслугі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sesotho (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165730Z">
+        <seg>сэсота (Паўднёвая Афрыка)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44875,6 +45851,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T235136Z">
         <seg>Вызначае, які рухавік агучваньня выкарыстоўваць, каб вымаўляць тэкст </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setswana (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165746Z">
+        <seg>цвана (Паўднёвая Афрыка)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46223,6 +47207,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Slovak (Slovakia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165804Z">
+        <seg>славацкая (Славакія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slovenian (Slovenia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165810Z">
+        <seg>славенская (Славенія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slow</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104229Z">
@@ -46241,8 +47241,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Small (Default)</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110217T222610Z">
-        <seg>Маленькія (перадвызначана)</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153005Z">
+        <seg>Маленькі (перадвызначана)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46855,10 +47855,186 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spanish (Argentina)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165844Z">
+        <seg>гішпанская (Арґентына)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Bolivia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165849Z">
+        <seg>гішпанская (Балівія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Chile)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165853Z">
+        <seg>гішпанская (Чылі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Colombia)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165904Z">
+        <seg>гішпанская (Калюмбія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Costa Rica)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165910Z">
+        <seg>гішпанская (Коста Рыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Cuba)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165916Z">
+        <seg>гішпанская (Куба)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Dominican Republic)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165935Z">
+        <seg>гішпанская (Дамініканская рэспубліка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Ecuador)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165954Z">
+        <seg>гішпанская (Эквадор)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (El Salvador)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170002Z">
+        <seg>гішпанская (Сальвадор)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Guatemala)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170020Z">
+        <seg>гішпанская (Ґватэмала)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Honduras)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170030Z">
+        <seg>гішпанская (Гандурас)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Mexico)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170101Z">
+        <seg>гішпанская (Мэксыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Nicaragua)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170118Z">
+        <seg>гішпанская (Нікараґуа)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Panama)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170121Z">
+        <seg>гішпанская (Панама)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Paraguay)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170141Z">
+        <seg>гішпанская (Параґвай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Peru)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170144Z">
+        <seg>гішпанская (Пэру)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Puerto Rico)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170206Z">
+        <seg>гішпанская (Пуэрта-Рыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Spain)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170212Z">
+        <seg>гішпанская (Гішпанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (US)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170225Z">
+        <seg>гішпанская (ЗША)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Uruguay)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170243Z">
+        <seg>гішпанская (Уруґвай)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spanish (Venezuela)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170258Z">
+        <seg>гішпанская (Вэнэсуэла)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speak Destination</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T195848Z">
         <seg>Прамовіць кірунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speak again</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155649Z">
+        <seg>Прамоўце зноўку</seg>
       </tuv>
     </tu>
     <tu>
@@ -46903,6 +48079,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speech recognition is not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155742Z">
+        <seg>Пазнавальнік голас недаступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Speech recognizer busy</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155552Z">
+        <seg>Пазнавальнік голас заняты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Speed at which the text is spoken</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T235203Z">
@@ -46915,6 +48107,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110313T102255Z">
         <seg>Навіны спорту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Staging</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170622Z">
+        <seg>Ставіцца</seg>
       </tuv>
     </tu>
     <tu>
@@ -47059,6 +48259,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T204049Z">
         <seg>Запускаецца пасьлядоўнасьць коду ўласьцівасьці…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Starting up</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155519Z">
+        <seg>Запускаецца</seg>
       </tuv>
     </tu>
     <tu>
@@ -47291,6 +48499,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T095216Z">
         <seg>Строга</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strict — Filter both explicit text and explicit images</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160437Z">
+        <seg>Строга — не паказваць непрыстойныя відарысы ды тэксты</seg>
       </tuv>
     </tu>
     <tu>
@@ -47575,6 +48791,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Swahili (Kenya)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170315Z">
+        <seg>суахілі (Кенія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swahili (Tanzania)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170320Z">
+        <seg>суахілі (Танзанія)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swahili (Uganda)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170326Z">
+        <seg>суахілі (Уґанда)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Swap</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110313T125749Z">
@@ -47587,6 +48827,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T115709Z">
         <seg>Зьмяніць выклік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swedish (Finland)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170345Z">
+        <seg>швэдзкая (Фінляндыя)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swedish (Sweden)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170353Z">
+        <seg>швэдзкая (Швэцыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -48336,6 +49592,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Terms of use violation</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153407Z">
+        <seg>Парушэньне ўмоў абслугоўваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Terms, Privacy &amp; Notices</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T190138Z">
@@ -48716,6 +49980,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T120220Z">
         <seg>чц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thai (Thailand)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170401Z">
+        <seg>тайская (Тайлянд)</seg>
       </tuv>
     </tu>
     <tu>
@@ -49378,6 +50650,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T190833Z">
         <seg>Гэты цэтлік не існуе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The language that will be used instead is: %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160820Z">
+        <seg>Мова, якая будзе ўжывацца замест абранае: %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51451,8 +52731,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Timed out.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110421T165004Z">
-        <seg>[н/д]Час мінуў.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153316Z">
+        <seg>Скончыўся тэрмін чакаць на злучэньне.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51605,6 +52885,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T160248Z">
         <seg>Каб выклікаць празь сеціва, спачатку спраўдзіце злучэньне зь сецівам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To switch to a different voice search language, visit Settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160842Z">
+        <seg>Каб шукаць голасам іншаю моваю, завітайце ў налады.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To switch to this or another voice search language, visit Settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161229Z">
+        <seg>Каб шукаць голасам іншаю моваю, завітайце ў налады.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52121,6 +53417,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Touch to reconnect to a VPN.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153712Z">
+        <seg>Націсьніце, каб зноўку далучыцца да сеткі VPN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Touch to select music.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T112948Z">
@@ -52532,6 +53836,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tshivenda (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170419Z">
+        <seg>вэнда (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tu</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T120218Z">
@@ -52552,6 +53864,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T132731Z">
         <seg>аўторак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turkish (Turkey)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170425Z">
+        <seg>турэцкая (Турцыя)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53212,6 +54532,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ukrainian (Ukraine)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170431Z">
+        <seg>украінскія (Украіна)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to change PIN.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T195856Z">
@@ -53738,6 +55066,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T093515Z">
         <seg>Невядомая назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown problem</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155557Z">
+        <seg>Невядомая праблема</seg>
       </tuv>
     </tu>
     <tu>
@@ -54374,6 +55710,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Urdu (Pakistan)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170436Z">
+        <seg>урду (Пакістан)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage Time</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T111929Z">
@@ -55000,6 +56344,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>VPN Services</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T153542Z">
+        <seg>Службы VPN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VPN name</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110403T001741Z">
@@ -55400,6 +56752,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vietnamese (Vietnam)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170451Z">
+        <seg>віетнамская (Віетнам)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T165425Z">
@@ -55712,10 +57072,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Voice Log</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161316Z">
+        <seg>Справаздача</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Voice Privacy</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110313T110410Z">
         <seg>Адасабленьне голасу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice Search</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155509Z">
+        <seg>Шукаць голасам</seg>
       </tuv>
     </tu>
     <tu>
@@ -55808,10 +57184,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Voice search is not currently supported for your device's language.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160801Z">
+        <seg>Шукаць голасам моваю вашае прылады пакуль нельга.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Voice search not installed</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110503T162410Z">
         <seg>Галасавы шукач не ўсталяваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice search now supports a different default language for your device: %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161215Z">
+        <seg>Шукаць голасам цяпер можна й іншаю моваю: %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Voice search now supports your device's language: %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161247Z">
+        <seg>Шукаць голасам цяпер можна й моваю вашае прылады: %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55836,6 +57236,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110323T074500Z">
         <seg>Галасавая служба і служба SMS забароненыя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VoiceSearch Label</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161355Z">
+        <seg>Цэтлік шукаць голасам</seg>
       </tuv>
     </tu>
     <tu>
@@ -56861,6 +58269,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110307T104412Z">
         <seg>Wysie, ChainsDD, geesun, niuchl, rac2030, sileht ды астатнія з XDA! :)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Xitsonga (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170507Z">
+        <seg>цонґа (Паўднёвая Афрыка)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58505,6 +59921,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your voice search language has been changed to: %s.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161001Z">
+        <seg>Мова шукаць голасам зьмянілася; зараз ужываецца %s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ZIP code</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110304T134451Z">
@@ -59088,6 +60512,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>af-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161627Z">
+        <seg>af-ZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alarm_clock</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130110Z">
@@ -59184,6 +60616,134 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ar-AE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162210Z">
+        <seg>ar-AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-DZ</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161632Z">
+        <seg>ar-DZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-EG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161637Z">
+        <seg>ar-EG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-IL</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161648Z">
+        <seg>ar-IL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-IQ</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161643Z">
+        <seg>ar-IQ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-JO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161653Z">
+        <seg>ar-JO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-KW</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161657Z">
+        <seg>ar-KW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-LB</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161704Z">
+        <seg>ar-LB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-LY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161709Z">
+        <seg>ar-LY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-MA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161714Z">
+        <seg>ar-MA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-QA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161719Z">
+        <seg>ar-QA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-SA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161724Z">
+        <seg>ar-SA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-SD</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161731Z">
+        <seg>ar-SD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-SY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T161746Z">
+        <seg>ar-SY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-TN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162210Z">
+        <seg>ar-TN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ar-YE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162211Z">
+        <seg>ar-YE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>archive</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T181337Z">
@@ -59264,10 +60824,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>be-BY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162211Z">
+        <seg>be-BY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>beach</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T141102Z">
         <seg>beach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bg-BG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162212Z">
+        <seg>bg-BG</seg>
       </tuv>
     </tu>
     <tu>
@@ -59328,6 +60904,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>bn-BD</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162212Z">
+        <seg>bn-BD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>by %1$s</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110418T151809Z">
@@ -59340,6 +60924,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T113628Z">
         <seg>байтаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ca-ES</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162213Z">
+        <seg>ca-ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -59452,6 +61044,54 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T140938Z">
         <seg>cloudy-daylight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cmn-Hans-CN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162213Z">
+        <seg>cmn-Hans-CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cmn-Hans-HK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162214Z">
+        <seg>cmn-Hans-HK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cmn-Hans-SG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162215Z">
+        <seg>cmn-Hans-SG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cmn-Hans-TW</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162215Z">
+        <seg>cmn-Hans-TW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cmn-Hant-HK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162214Z">
+        <seg>cmn-Hant-HK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cmn-Hant-TW</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162216Z">
+        <seg>cmn-Hant-TW</seg>
       </tuv>
     </tu>
     <tu>
@@ -59704,6 +61344,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>cs-CZ</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162218Z">
+        <seg>cs-CZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>custom</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T192157Z">
@@ -59724,6 +61372,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T113646Z">
         <seg>дБм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>da-DK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162219Z">
+        <seg>da-DK</seg>
       </tuv>
     </tu>
     <tu>
@@ -59776,9 +61432,41 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>de-AT</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162236Z">
+        <seg>de-AT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>de-CH</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162237Z">
+        <seg>de-CH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>de-DE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162236Z">
+        <seg>de-DE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>de-LI</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162237Z">
+        <seg>de-LI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>default</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T142735Z">
+      <tuv lang="be" changeid="klyok" changedate="20110729T160202Z">
         <seg>default</seg>
       </tuv>
     </tu>
@@ -60040,10 +61728,178 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>el-GR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162238Z">
+        <seg>el-GR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>emote</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T090431Z">
         <seg>emote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-001</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162220Z">
+        <seg>en-001</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-AU</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162221Z">
+        <seg>en-AU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-BD</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162222Z">
+        <seg>en-BD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-CA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162222Z">
+        <seg>en-CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-GB</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162230Z">
+        <seg>en-GB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-HK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162223Z">
+        <seg>en-HK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-IE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162224Z">
+        <seg>en-IE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-IN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162223Z">
+        <seg>en-IN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-KE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162224Z">
+        <seg>en-KE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-MY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162225Z">
+        <seg>en-MY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-NG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162226Z">
+        <seg>en-NG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-NZ</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162225Z">
+        <seg>en-NZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-PH</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162227Z">
+        <seg>en-PH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-PK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162226Z">
+        <seg>en-PK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-SD</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162228Z">
+        <seg>en-SD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-SG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162227Z">
+        <seg>en-SG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-TZ</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162229Z">
+        <seg>en-TZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-UG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162229Z">
+        <seg>en-UG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-US</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162230Z">
+        <seg>en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162228Z">
+        <seg>en-ZA</seg>
       </tuv>
     </tu>
     <tu>
@@ -60112,6 +61968,182 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>es-AR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162259Z">
+        <seg>es-AR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-BO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162259Z">
+        <seg>es-BO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-CL</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162300Z">
+        <seg>es-CL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-CO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162300Z">
+        <seg>es-CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-CR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162301Z">
+        <seg>es-CR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-CU</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162302Z">
+        <seg>es-CU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-DO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162302Z">
+        <seg>es-DO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-EC</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162303Z">
+        <seg>es-EC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-ES</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162308Z">
+        <seg>es-ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-GT</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162304Z">
+        <seg>es-GT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-HN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162304Z">
+        <seg>es-HN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-MX</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162305Z">
+        <seg>es-MX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-NI</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162306Z">
+        <seg>es-NI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-PA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162306Z">
+        <seg>es-PA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-PE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162307Z">
+        <seg>es-PE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-PR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162308Z">
+        <seg>es-PR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-PY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162307Z">
+        <seg>es-PY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-SV</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162303Z">
+        <seg>es-SV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-US</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162309Z">
+        <seg>es-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-UY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162310Z">
+        <seg>es-UY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>es-VE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162310Z">
+        <seg>es-VE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>et-EE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162231Z">
+        <seg>et-EE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>eth\\d</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130300Z">
@@ -60144,6 +62176,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fa-IR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162250Z">
+        <seg>fa-IR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fair</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T150631Z">
@@ -60164,6 +62204,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T141804Z">
         <seg>упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fi-FI</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162232Z">
+        <seg>fi-FI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fil-PH</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162232Z">
+        <seg>fil-PH</seg>
       </tuv>
     </tu>
     <tu>
@@ -60312,6 +62368,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fr-BE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162233Z">
+        <seg>fr-BE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fr-CA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162233Z">
+        <seg>fr-CA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fr-CH</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162234Z">
+        <seg>fr-CH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fr-FR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162234Z">
+        <seg>fr-FR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fra-FRA</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104845Z">
@@ -60360,6 +62448,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ga-IE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162242Z">
+        <seg>ga-IE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>games</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110416T144558Z">
@@ -60372,6 +62468,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T130723Z">
         <seg>атрымваць зьвесткі зь бясьпечнага сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gl-ES</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162235Z">
+        <seg>gl-ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -60432,6 +62536,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>hi-IN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162239Z">
+        <seg>hi-IN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>high</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T140802Z">
@@ -60468,6 +62580,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T152959Z">
         <seg>гадз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>hr-HR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162218Z">
+        <seg>hr-HR</seg>
       </tuv>
     </tu>
     <tu>
@@ -60568,6 +62688,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.google.com/m/voice-search</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155809Z">
+        <seg>http://www.google.com/m/voice-search</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.google.com/m?client=ms-{CID}&amp;source=android-home</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110426T173005Z">
@@ -60648,6 +62776,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>hu-HU</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162240Z">
+        <seg>hu-HU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>iGoogle accounts</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T070126Z">
@@ -60660,6 +62796,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T060823Z">
         <seg>iPhone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>id-ID</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162241Z">
+        <seg>id-ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -60904,10 +63048,74 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>is-IS</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162240Z">
+        <seg>is-IS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>isiNdebele (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T164906Z">
+        <seg>ндбэле (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>isiXhosa (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T164914Z">
+        <seg>коса (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>isiZulu (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T164921Z">
+        <seg>зулу (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>it-CH</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162245Z">
+        <seg>it-CH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>it-IT</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162244Z">
+        <seg>it-IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ita-ITA</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T105124Z">
         <seg>ita-ITA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>iw-IL</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162239Z">
+        <seg>iw-IL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ja-JP</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162245Z">
+        <seg>ja-JP</seg>
       </tuv>
     </tu>
     <tu>
@@ -60924,6 +63132,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110323T084442Z">
         <seg>забіваць працэсы, што на заднім пляне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ko-KR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162246Z">
+        <seg>ko-KR</seg>
       </tuv>
     </tu>
     <tu>
@@ -60988,6 +63204,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T140807Z">
         <seg>low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lt-LT</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162247Z">
+        <seg>lt-LT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lv-LV</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162246Z">
+        <seg>lv-LV</seg>
       </tuv>
     </tu>
     <tu>
@@ -61144,6 +63376,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>moderate</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T160558Z">
+        <seg>moderate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>modify Gmail</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T181552Z">
@@ -61264,6 +63504,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ms-MY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162248Z">
+        <seg>ms-MY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ms-SG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162248Z">
+        <seg>ms-SG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ms-android-google</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T061613Z">
@@ -61292,6 +63548,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T165216Z">
         <seg>мае відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>nb-NO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162249Z">
+        <seg>nb-NO</seg>
       </tuv>
     </tu>
     <tu>
@@ -61400,6 +63664,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>nl-BE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162219Z">
+        <seg>nl-BE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>nl-NL</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162220Z">
+        <seg>nl-NL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>nn-NO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162249Z">
+        <seg>nn-NO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>no_flash</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T141207Z">
@@ -61468,6 +63756,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T112518Z">
         <seg>notsilent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>nr-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162242Z">
+        <seg>nr-ZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>nso-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162255Z">
+        <seg>nso-ZA</seg>
       </tuv>
     </tu>
     <tu>
@@ -61712,6 +64016,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>pl-PL</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162250Z">
+        <seg>pl-PL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>playlists</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T165242Z">
@@ -61828,6 +64140,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T090903Z">
         <seg>закрытае для: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pt-AO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162251Z">
+        <seg>pt-AO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pt-BR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162252Z">
+        <seg>pt-BR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>pt-PT</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162252Z">
+        <seg>pt-PT</seg>
       </tuv>
     </tu>
     <tu>
@@ -62120,10 +64456,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ro-RO</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162253Z">
+        <seg>ro-RO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>rock</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T105320Z">
         <seg>rock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ru-BY</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162253Z">
+        <seg>ru-BY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ru-RU</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162254Z">
+        <seg>ru-RU</seg>
       </tuv>
     </tu>
     <tu>
@@ -62312,6 +64672,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>siSwati (South Africa)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T165753Z">
+        <seg>свазі (Паўднёвая Афрыка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>silent</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T134519Z">
@@ -62332,6 +64700,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T153212Z">
         <seg>шэсьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sk-SK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162257Z">
+        <seg>sk-SK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sl-SI</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162258Z">
+        <seg>sl-SI</seg>
       </tuv>
     </tu>
     <tu>
@@ -62384,10 +64768,34 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sr-Cyrl-RS</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162255Z">
+        <seg>sr-Cyrl-RS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>srs_wowhd</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T105226Z">
         <seg>srs_wowhd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ss-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162257Z">
+        <seg>ss-ZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>st-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162256Z">
+        <seg>st-ZA</seg>
       </tuv>
     </tu>
     <tu>
@@ -62412,6 +64820,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T133309Z">
         <seg>(моц)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>strict</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170528Z">
+        <seg>strict</seg>
       </tuv>
     </tu>
     <tu>
@@ -62488,6 +64904,46 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sv-FI</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162312Z">
+        <seg>sv-FI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sv-SE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162313Z">
+        <seg>sv-SE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sw-KE</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162311Z">
+        <seg>sw-KE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sw-TZ</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162311Z">
+        <seg>sw-TZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sw-UG</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162312Z">
+        <seg>sw-UG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>sync_active</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130215Z">
@@ -62560,6 +65016,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>th-TH</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162314Z">
+        <seg>th-TH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>theatre</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T141057Z">
@@ -62588,6 +65052,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T153201Z">
         <seg>тры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tn-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162256Z">
+        <seg>tn-ZA</seg>
       </tuv>
     </tu>
     <tu>
@@ -62672,10 +65144,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tr-TR</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162315Z">
+        <seg>tr-TR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>true</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T211654Z">
         <seg>true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ts-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162317Z">
+        <seg>ts-ZA</seg>
       </tuv>
     </tu>
     <tu>
@@ -62692,6 +65180,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T153153Z">
         <seg>два</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>uk-UA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162315Z">
+        <seg>uk-UA</seg>
       </tuv>
     </tu>
     <tu>
@@ -62716,6 +65212,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T160518Z">
         <seg>абнаўляць статыстыку выкарыстаньня складніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ur-PK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162316Z">
+        <seg>ur-PK</seg>
       </tuv>
     </tu>
     <tu>
@@ -62760,10 +65264,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ve-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162314Z">
+        <seg>ve-ZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>version %1$s</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T060612Z">
         <seg>вэрсія %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>vi-VN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162316Z">
+        <seg>vi-VN</seg>
       </tuv>
     </tu>
     <tu>
@@ -63000,6 +65520,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>xh-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162243Z">
+        <seg>xh-ZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>year</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T152200Z">
@@ -63056,6 +65584,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>yue-Hans-CN</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162216Z">
+        <seg>yue-Hans-CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>yue-Hant-HK</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162217Z">
+        <seg>yue-Hant-HK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>yyyy-MM-dd</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T154548Z">
@@ -63080,6 +65624,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>zh-cn</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170805Z">
+        <seg>zh-cn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>zh_CN</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T112250Z">
@@ -63092,6 +65644,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T112255Z">
         <seg>zh_TW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>zu-ZA</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T162243Z">
+        <seg>zu-ZA</seg>
       </tuv>
     </tu>
     <tu>
@@ -64306,6 +66866,2543 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110728T192546Z">
         <seg>Пераслаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/arrays_VERSION.xml</prop>
+      <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170814Z">
+        <seg>Default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/arrays_VERSION.xml</prop>
+      <tuv lang="en">
+        <seg>Mandarin (zh-cn)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170824Z">
+        <seg>Mandarin (zh-cn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/arrays_VERSION.xml</prop>
+      <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T170515Z">
+        <seg>Не прасейваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_action_call</prop>
+      <tuv lang="en">
+        <seg>打</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154647Z">
+        <seg>打</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>驾车路线</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154655Z">
+        <seg>驾车路线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_action_map_of</prop>
+      <tuv lang="en">
+        <seg>地图</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154658Z">
+        <seg>地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>前往</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154651Z">
+        <seg>前往</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>发微博</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154701Z">
+        <seg>发微博</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154706Z">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154727Z">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154730Z">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154722Z">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_CN_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154734Z">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_action_call</prop>
+      <tuv lang="en">
+        <seg>打</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154808Z">
+        <seg>打</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>驾车路线</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154813Z">
+        <seg>驾车路线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_action_map_of</prop>
+      <tuv lang="en">
+        <seg>地图</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154815Z">
+        <seg>地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>前往</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154810Z">
+        <seg>前往</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>发微博</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154817Z">
+        <seg>发微博</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154819Z">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt; 怎么开</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154823Z">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt; 怎么开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154826Z">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154821Z">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_HK_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154828Z">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_action_call</prop>
+      <tuv lang="en">
+        <seg>打</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154833Z">
+        <seg>打</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>驾车路线</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154838Z">
+        <seg>驾车路线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_action_map_of</prop>
+      <tuv lang="en">
+        <seg>地图</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154840Z">
+        <seg>地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>前往</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154835Z">
+        <seg>前往</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>发微博</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154842Z">
+        <seg>发微博</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154844Z">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154850Z">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154852Z">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154847Z">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_SG_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154855Z">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_action_call</prop>
+      <tuv lang="en">
+        <seg>打</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154737Z">
+        <seg>打</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>驾车路线</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154746Z">
+        <seg>驾车路线</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_action_map_of</prop>
+      <tuv lang="en">
+        <seg>地图</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154749Z">
+        <seg>地图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>前往</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154741Z">
+        <seg>前往</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>发微博</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154751Z">
+        <seg>发微博</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154753Z">
+        <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154757Z">
+        <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154800Z">
+        <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154756Z">
+        <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">cmn_Hans_TW_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154806Z">
+        <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_action_call</prop>
+      <tuv lang="en">
+        <seg>Anrufen</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154943Z">
+        <seg>Anrufen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Weg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154947Z">
+        <seg>Weg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Karte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154949Z">
+        <seg>Karte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Fahrtroute</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154945Z">
+        <seg>Fahrtroute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154951Z">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154953Z">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154956Z">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154958Z">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154954Z">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_AT_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155002Z">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_action_call</prop>
+      <tuv lang="en">
+        <seg>Anrufen</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155004Z">
+        <seg>Anrufen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Weg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155007Z">
+        <seg>Weg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Karte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155009Z">
+        <seg>Karte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Fahrtroute</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155006Z">
+        <seg>Fahrtroute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155011Z">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155013Z">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155016Z">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155018Z">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155014Z">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_CH_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155020Z">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_action_call</prop>
+      <tuv lang="en">
+        <seg>Anrufen</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154920Z">
+        <seg>Anrufen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Weg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154928Z">
+        <seg>Weg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Karte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154929Z">
+        <seg>Karte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Fahrtroute</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154923Z">
+        <seg>Fahrtroute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154931Z">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154934Z">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154937Z">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154939Z">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154936Z">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_DE_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154941Z">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_action_call</prop>
+      <tuv lang="en">
+        <seg>Anrufen</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155022Z">
+        <seg>Anrufen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Weg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155025Z">
+        <seg>Weg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Karte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155027Z">
+        <seg>Karte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Fahrtroute</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155024Z">
+        <seg>Fahrtroute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155029Z">
+        <seg>Schicke Buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155031Z">
+        <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155035Z">
+        <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155036Z">
+        <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; zum brandenburg tor</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155033Z">
+        <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; zum brandenburg tor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">de_LI_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155038Z">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154607Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154609Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154605Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154611Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154613Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154630Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154637Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154615Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_001_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154643Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154339Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154343Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154346Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154341Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154349Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154354Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154359Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154401Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154356Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_AU_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154404Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154227Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154231Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154235Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154229Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154237Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154239Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154255Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154258Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154253Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_CA_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154301Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154304Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154310Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154313Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154306Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154317Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154319Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154329Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154333Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154321Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_GB_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154336Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154428Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154432Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154434Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154430Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154436Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154439Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154444Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154447Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154441Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_IN_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154450Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154407Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154410Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154413Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154409Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154415Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154417Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154421Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154424Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154419Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_NZ_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154426Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154452Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154458Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154502Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154454Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154504Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154524Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154528Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154530Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154526Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_SG_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154534Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154138Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154157Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154200Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154146Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154208Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154214Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154219Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154221Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154217Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_US_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154224Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154536Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Directions to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154540Z">
+        <seg>Directions to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Map of</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154543Z">
+        <seg>Map of</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Navigate to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154538Z">
+        <seg>Navigate to</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Post buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154546Z">
+        <seg>Post buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154548Z">
+        <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154555Z">
+        <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154557Z">
+        <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154551Z">
+        <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_ZA_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154600Z">
+        <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">en_action_call</prop>
+      <tuv lang="en">
+        <seg>Call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154603Z">
+        <seg>Call</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_action_call</prop>
+      <tuv lang="en">
+        <seg>Llama</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155247Z">
+        <seg>Llama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Cómo llegar</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155251Z">
+        <seg>Cómo llegar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Mapa</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155252Z">
+        <seg>Mapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Guíame</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155249Z">
+        <seg>Guíame</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Publicar buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155255Z">
+        <seg>Publicar buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;llama a&lt;/a0&gt; patricia gómez al móvil</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155257Z">
+        <seg>&lt;a0&gt;llama a&lt;/a0&gt; patricia gómez al móvil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;cómo llegar a&lt;/a0&gt; la puerta del sol</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155431Z">
+        <seg>&lt;a0&gt;cómo llegar a&lt;/a0&gt; la puerta del sol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;mapa de&lt;/a0&gt; sidrerías en oviedo</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155433Z">
+        <seg>&lt;a0&gt;mapa de&lt;/a0&gt; sidrerías en oviedo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;guíame a&lt;/a0&gt; la sagrada familia</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155301Z">
+        <seg>&lt;a0&gt;guíame a&lt;/a0&gt; la sagrada familia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">es_ES_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;publicar buzz&lt;/a0&gt; hola mundo</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155436Z">
+        <seg>&lt;a0&gt;publicar buzz&lt;/a0&gt; hola mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_action_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155113Z">
+        <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155116Z">
+        <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_action_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155118Z">
+        <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155115Z">
+        <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155120Z">
+        <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_hint_call</prop>
+      <tuv lang="en">
+        <seg>Appeler</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155104Z">
+        <seg>Appeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>Itinéraire</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155107Z">
+        <seg>Itinéraire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>Carte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155109Z">
+        <seg>Carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155106Z">
+        <seg>Direction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_BE_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Poster un buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155111Z">
+        <seg>Poster un buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_action_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155132Z">
+        <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155136Z">
+        <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_action_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155137Z">
+        <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155134Z">
+        <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155139Z">
+        <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_hint_call</prop>
+      <tuv lang="en">
+        <seg>Appeler</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155122Z">
+        <seg>Appeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>Itinéraire</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155126Z">
+        <seg>Itinéraire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>Carte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155128Z">
+        <seg>Carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155125Z">
+        <seg>Direction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_CH_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Poster un buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155130Z">
+        <seg>Poster un buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_action_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155053Z">
+        <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155059Z">
+        <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_action_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155101Z">
+        <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155057Z">
+        <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155103Z">
+        <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_hint_call</prop>
+      <tuv lang="en">
+        <seg>Appeler</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155040Z">
+        <seg>Appeler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>Itinéraire</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155044Z">
+        <seg>Itinéraire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>Carte</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155046Z">
+        <seg>Carte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155042Z">
+        <seg>Direction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">fr_FR_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Poster un buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155048Z">
+        <seg>Poster un buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_action_call</prop>
+      <tuv lang="en">
+        <seg>Chiama</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155229Z">
+        <seg>Chiama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Indicazioni</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155233Z">
+        <seg>Indicazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Mappa</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155234Z">
+        <seg>Mappa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Guidami</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155231Z">
+        <seg>Guidami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Pubblica buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155236Z">
+        <seg>Pubblica buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;chiama&lt;/a0&gt; mario rossi cellulare</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155238Z">
+        <seg>&lt;a0&gt;chiama&lt;/a0&gt; mario rossi cellulare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;indicazioni per&lt;/a0&gt; piazza di spagna</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155241Z">
+        <seg>&lt;a0&gt;indicazioni per&lt;/a0&gt; piazza di spagna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;mappa delle&lt;/a0&gt; pizzerie di napoli</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155243Z">
+        <seg>&lt;a0&gt;mappa delle&lt;/a0&gt; pizzerie di napoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;guidami al&lt;/a0&gt; colosseo</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155239Z">
+        <seg>&lt;a0&gt;guidami al&lt;/a0&gt; colosseo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_CH_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;pubblica buzz&lt;/a0&gt; ciao!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155244Z">
+        <seg>&lt;a0&gt;pubblica buzz&lt;/a0&gt; ciao!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_action_call</prop>
+      <tuv lang="en">
+        <seg>Chiama</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155141Z">
+        <seg>Chiama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>Indicazioni</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155150Z">
+        <seg>Indicazioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_action_map_of</prop>
+      <tuv lang="en">
+        <seg>Mappa</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155217Z">
+        <seg>Mappa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>Guidami</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155210Z">
+        <seg>Guidami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>Pubblica buzz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155219Z">
+        <seg>Pubblica buzz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_hint_call</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;chiama&lt;/a0&gt; mario rossi cellulare</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155221Z">
+        <seg>&lt;a0&gt;chiama&lt;/a0&gt; mario rossi cellulare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;indicazioni per&lt;/a0&gt; piazza di spagna</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155224Z">
+        <seg>&lt;a0&gt;indicazioni per&lt;/a0&gt; piazza di spagna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;mappa delle&lt;/a0&gt; pizzerie di napoli</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155226Z">
+        <seg>&lt;a0&gt;mappa delle&lt;/a0&gt; pizzerie di napoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;guidami al&lt;/a0&gt; colosseo</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155222Z">
+        <seg>&lt;a0&gt;guidami al&lt;/a0&gt; colosseo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">it_IT_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;pubblica buzz&lt;/a0&gt; ciao!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155227Z">
+        <seg>&lt;a0&gt;pubblica buzz&lt;/a0&gt; ciao!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_action_call</prop>
+      <tuv lang="en">
+        <seg>電話</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154857Z">
+        <seg>電話</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>行き方</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154902Z">
+        <seg>行き方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_action_map_of</prop>
+      <tuv lang="en">
+        <seg>地図</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154904Z">
+        <seg>地図</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>ナビゲーション</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154900Z">
+        <seg>ナビゲーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>バズにポスト</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154906Z">
+        <seg>バズにポスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_hint_call</prop>
+      <tuv lang="en">
+        <seg>鈴木太郎の携帯に&lt;a0&gt;電話&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154909Z">
+        <seg>鈴木太郎の携帯に&lt;a0&gt;電話&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>東京タワーへの&lt;a0&gt;行き方&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154913Z">
+        <seg>東京タワーへの&lt;a0&gt;行き方&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>東京渋谷のレストラン&lt;a0&gt;地図&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154915Z">
+        <seg>東京渋谷のレストラン&lt;a0&gt;地図&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>東京タワーまで&lt;a0&gt;ナビ&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154911Z">
+        <seg>東京タワーまで&lt;a0&gt;ナビ&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ja_JP_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;バズにポスト&lt;/a0&gt;ハローワールド</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T154918Z">
+        <seg>&lt;a0&gt;バズにポスト&lt;/a0&gt;ハローワールド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_action_call</prop>
+      <tuv lang="en">
+        <seg>전화</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155438Z">
+        <seg>전화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_action_directions_to</prop>
+      <tuv lang="en">
+        <seg>길찾기</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155442Z">
+        <seg>길찾기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_action_map_of</prop>
+      <tuv lang="en">
+        <seg>지도</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155444Z">
+        <seg>지도</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_action_navigate_to</prop>
+      <tuv lang="en">
+        <seg>실사 길찾기</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155440Z">
+        <seg>실사 길찾기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_action_post_buzz</prop>
+      <tuv lang="en">
+        <seg>버즈 올리기</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155445Z">
+        <seg>버즈 올리기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_hint_call</prop>
+      <tuv lang="en">
+        <seg>김철수 &lt;a0&gt;전화&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155447Z">
+        <seg>김철수 &lt;a0&gt;전화&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_hint_directions_to</prop>
+      <tuv lang="en">
+        <seg>강남역 &lt;a0&gt;길찾기&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155451Z">
+        <seg>강남역 &lt;a0&gt;길찾기&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_hint_map_of</prop>
+      <tuv lang="en">
+        <seg>대치동 편의점 &lt;a0&gt;지도&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155452Z">
+        <seg>대치동 편의점 &lt;a0&gt;지도&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_hint_navigate_to</prop>
+      <tuv lang="en">
+        <seg>광화문 &lt;a0&gt;실사 길찾기&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155449Z">
+        <seg>광화문 &lt;a0&gt;실사 길찾기&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;버즈 올리기&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155457Z">
+        <seg>&lt;a0&gt;버즈 올리기&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="id">ko_KR_hint_post_buzz</prop>
+      <tuv lang="en">
+        <seg>안녕!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110729T155454Z">
+        <seg>안녕!</seg>
       </tuv>
     </tu>
     <tu>
