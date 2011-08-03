@@ -186,6 +186,7 @@ container
 cos
 cs-CZ
 custom_topics
+CVC
 CyanogenMod
 d
 D
@@ -602,6 +603,7 @@ PIN2
 PinyinIME
 PLAY
 pl-PL
+PLZ
 pop
 POP3
 popup_bottom_bright

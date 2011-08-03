@@ -1,3 +1,4 @@
+ABI	двайковы праґрамны інтэрфэйс	Application Binary Interface
 accessibility	даступнасьць
 AccountAuthenticators	АпазнавальнікіРахунку
 AccountManagerService	СлужбаКіравацьРахункам
@@ -104,6 +105,7 @@ chat	гутарка
 chat	гутаркі
 chat	гутарыць	
 check-in	адзначацца	
+checkin	адзначацца	
 Checkout	Каса
 CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
 clipboard	кішэня
@@ -146,6 +148,7 @@ could not	не магчы
 could not	ня здолець
 couldn\'t	нельга
 county	акруга
+CPU	ЦП
 crash	аварыя	
 credentials	даверчыя лісты
 Customer Care	служба падтрымкі
@@ -402,6 +405,7 @@ plugged in	улучаны
 plugged in	улучылі
 plug-ins	убудовы	
 plug-in	убудова
+PLZ	PLZ (нямецкі паштовы код)	
 podcasts	падвяшчальнікі
 podcast	падвяшчальнік
 pokes	штуршкі	
@@ -477,6 +481,7 @@ ringtone	мэлёдыя
 rotate left	павярніце налева
 rotate right	павярніце направа
 route	шлях	
+routing	маршрутаваньне
 rows	радкі
 SafeSearch	Бясьпечны пошук
 scanning	аглядаем
@@ -606,10 +611,12 @@ vibrate	трымцець
 vibrator	трымценьнік
 viewer	прагляднік	
 view	зірнуць
+visualizer	узнаўляльнік	
 Voice input & output	Уводзіць і выводзіць голасам
 Voice input	Уводзіць голасам
 voicemail	галасавая пошта
 voice output	выводзіць голасам
+VU meter	вальтмэтар
 warnings	перасьцярогі	
 warning	перасьцярога
 web page	бачына сеціва
