@@ -2119,8 +2119,8 @@
       <tuv lang="en">
         <seg>%1$s contact information is not editable on this device.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T122036Z">
-        <seg>Зьвесткі пра кантакт %1$s нельга рэдаґаваць на гэтае прыладзе.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171135Z">
+        <seg>Зьвесткі пра кантакт %1$s нельга правіць на гэтае прыладзе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11870,8 +11870,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Allows application to write to SMS messages stored on your phone or SIM card.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110421T155024Z">
-        <seg>Дазваляе праґраме рэдаґаваць паведамленьні SMS, якія захоўваюцца на тэлефоне або картцы SIM.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171224Z">
+        <seg>Дазваляе праґраме правіць паведамленьні SMS, якія захоўваюцца на тэлефоне або картцы SIM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15494,72 +15494,80 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Bluetooth share: File %1$s not received</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163828Z">
-        <seg>Дзяліцца па Bluetooth: файл %1$s не атрымалі</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090831Z">
+        <seg>Bluetooth: файл %1$s не атрымалі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: File %1$s not sent</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163851Z">
-        <seg>Дзяліцца па Bluetooth: файл %1$s не даслалі</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090858Z">
+        <seg>Bluetooth: файл %1$s не даслалі</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Incoming file</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163737Z">
-        <seg>Дзяліцца па Bluetooth: уваходны файл</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090824Z">
+        <seg>Bluetooth: уваходны файл</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Received %1$s</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163810Z">
-        <seg>Дзяліцца па Bluetooth: атрымалі %1$s</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090829Z">
+        <seg>Bluetooth: атрымалі %1$s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Received files</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T165656Z">
-        <seg>Дзяліцца па Bluetooth: атрыманыя файлы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090913Z">
+        <seg>Bluetooth: атрыманыя файлы</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Receiving %1$s</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163758Z">
-        <seg>Дзяліцца па Bluetooth: атрымваем %1$s</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090826Z">
+        <seg>Bluetooth: атрымваем %1$s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Sending %1$s</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163833Z">
-        <seg>Дзяліцца па Bluetooth: дасылаем %1$s</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090837Z">
+        <seg>Bluetooth: дасылаем %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bluetooth share: Sending file</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090847Z">
+        <seg>Bluetooth: дасылаем файл</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Sent %1$s</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T163839Z">
-        <seg>Дзяліцца па Bluetooth: даслалі %1$s</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090851Z">
+        <seg>Bluetooth: даслалі %1$s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Bluetooth share: Sent files</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T165651Z">
-        <seg>Дзяліцца па Bluetooth: дасланыя файлы</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090909Z">
+        <seg>Bluetooth: дасланыя файлы</seg>
       </tuv>
     </tu>
     <tu>
@@ -16094,8 +16102,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>CLEAR</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110326T081820Z">
-        <seg>АЧЫСЬЦІЦЬ</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T091224Z">
+        <seg>СЬЦЕРЦІ</seg>
       </tuv>
     </tu>
     <tu>
@@ -20732,8 +20740,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>DELETE</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110524T070622Z">
-        <seg>СЬЦЕРЦІ</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T091236Z">
+        <seg>ВЫКРАСЬЛІЦЬ</seg>
       </tuv>
     </tu>
     <tu>
@@ -23703,96 +23711,96 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Edit</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110622T120414Z">
-        <seg>Рэдаґаваць</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171047Z">
+        <seg>Правіць</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit access point</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T122134Z">
-        <seg>Рэдаґаваць пункт доступу</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171258Z">
+        <seg>Правіць пункт доступу</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit alarm</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T122106Z">
-        <seg>Рэдаґаваць будзьку</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171141Z">
+        <seg>Правіць будзьку</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit album</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110620T190125Z">
-        <seg>Рэдаґаваць альбом</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171153Z">
+        <seg>Правіць альбом</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit bookmark</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110425T171529Z">
-        <seg>Рэдаґаваць закладку</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171112Z">
+        <seg>Правіць закладку</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit caption</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110620T203020Z">
-        <seg>Рэдаґаваць подпіс</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171158Z">
+        <seg>Правіць подпіс</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit contact</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T112056Z">
-        <seg>Рэдаґаваць кантакт</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171126Z">
+        <seg>Правіць кантакт</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit details</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T114515Z">
-        <seg>Рэдаґаваць падрабязнасьці</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171149Z">
+        <seg>Правіць падрабязнасьці</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit event</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T110551Z">
-        <seg>Рэдаґаваць падзею</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171119Z">
+        <seg>Правіць падзею</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit fixed dialing number</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T122126Z">
-        <seg>Рэдаґаваць замацаваны нумар</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171249Z">
+        <seg>Правіць замацаваны нумар</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit information below</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110620T192722Z">
-        <seg>Рэдаґаваць зьвесткі ніжэй</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171208Z">
+        <seg>Правіць зьвесткі ніжэй</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit network</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T122154Z">
-        <seg>Рэдаґаваць сетку</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171313Z">
+        <seg>Правіць сетку</seg>
       </tuv>
     </tu>
     <tu>
@@ -23807,24 +23815,24 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Edit photo</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110621T174710Z">
-        <seg>Рэдаґаваць фатаздымак</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171204Z">
+        <seg>Правіць фатаздымак</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit slide</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110622T124028Z">
-        <seg>Рэдаґаваць слайд</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171236Z">
+        <seg>Правіць слайд</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit slideshow</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110622T124022Z">
-        <seg>Рэдаґаваць слайды</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171231Z">
+        <seg>Правіць слайды</seg>
       </tuv>
     </tu>
     <tu>
@@ -23839,16 +23847,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Edit text</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110622T124016Z">
-        <seg>Рэдаґаваць тэкст</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171107Z">
+        <seg>Правіць тэкст</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Edit word</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110725T122014Z">
-        <seg>Рэдаґаваць слова</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171059Z">
+        <seg>Правіць слова</seg>
       </tuv>
     </tu>
     <tu>
@@ -34822,8 +34830,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Next</seg>
       </tuv>
-      <tuv lang="be" changeid="alex73" changedate="20110125T145019Z">
-        <seg>Наступны</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T090954Z">
+        <seg>Далей</seg>
       </tuv>
     </tu>
     <tu>
@@ -39942,6 +39950,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110804T091010Z">
+        <seg>Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Primary</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110315T142934Z">
@@ -41592,16 +41608,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Rename</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110424T152323Z">
-        <seg>Новая назва</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T170842Z">
+        <seg>Назваць</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Rename folder</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T143615Z">
-        <seg>Даць новую назву каталёґу</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T170839Z">
+        <seg>Назваць каталёґ</seg>
       </tuv>
     </tu>
     <tu>
@@ -53862,8 +53878,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Touch “Next”&lt;/b7&gt;.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110724T135803Z">
-        <seg>Націсьніце «Наступны»&lt;/b7&gt;.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T091108Z">
+        <seg>Націсьніце «Далей»&lt;/b7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62018,8 +62034,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>edit SMS or MMS</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110323T083006Z">
-        <seg>рэдаґаваць SMS або MMS</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110804T171213Z">
+        <seg>правіць SMS або MMS</seg>
       </tuv>
     </tu>
     <tu>

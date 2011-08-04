@@ -199,6 +199,7 @@ drag right	перацягніце направа
 drag	перацягваць
 drawer	рысавальнік
 DTMF tones	танальныя сыґналы
+edit	правіць
 email arrives	прыходзіць пошта
 email	эл. пошта
 emergency	надзвычайны
@@ -353,7 +354,7 @@ navigation	навіґацыя
 negotiation	узгадненьне
 networked	сеткаваны	
 News Feed	стужка навінаў
-Next	Наступны
+Next	«Далей»	
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
 Not for use by normal applications	Звычайнымі праґрамамі не выкарыстоўваецца
@@ -460,6 +461,7 @@ remove	вымаць
 remove	выцягваць
 remove	зьнішчаць	
 removing	сьціраць	
+rename	назваць
 resetting	узнаўляецца
 reset	узнаўляць
 resolution	разрозьненьне	
