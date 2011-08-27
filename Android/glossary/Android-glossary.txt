@@ -17,6 +17,7 @@ administrators	кіраўнікі
 administrator	кіраўнік
 advanced	адмысловы	
 ADW.Launcher	Пускач ADW
+ad	абвестка	
 again	зноўку
 alarm	будзька
 alerts	папярэджаньні
@@ -59,6 +60,7 @@ bad	кепскі
 band	паласа
 bar	паліца
 batch	зборны
+Bathing Cat	Кацяня ў ваньне	
 battery level	узровень зараду батарэі
 battery	батарэя
 bcc	сьляпая копія (СК; «blind carbon copy»)
@@ -104,10 +106,12 @@ chats	гамана
 chat	гутарка
 chat	гутаркі
 chat	гутарыць	
+check in	адзначацца
 check-in	адзначацца	
 checkin	адзначацца	
 Checkout	Каса
 CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
+circles	колы	
 clipboard	кішэня
 close	зачыняць
 closing	зачыняецца
@@ -117,8 +121,10 @@ codec	кодэк
 codename	найменьне	
 columns	слупкі
 comments	выказваньні
+comments	выказваньні
 comments	заўвагі
 comment	выказацца
+comment	выказваньне	
 comment	заўвага
 complete	заканчваць	
 component	складнік
@@ -156,6 +162,8 @@ custom	уласны
 databases	базы зьвестак
 data	дадзеныя
 data	зьвесткі
+debug	выпраўляць	
+debug	папраўчы
 declined	адмовілі
 declined	адхілілі
 decline	адмовіць
@@ -226,6 +234,8 @@ Facebook	Facebook
 failed	не ўдалося
 favorites	упадабаныя
 favorite	упадабаны
+FCs	памылкі	
+FC	памылка
 FDN	замацаваныя нумары (ЗН)
 feature code	код уласьцівасьці
 featured	прыкмечаныя
@@ -270,6 +280,7 @@ hint	намінка
 home button	кнопка «дамоў»
 home screen	галоўны экран
 hotspot	адметны пункт
+huddle	таемка	
 icons	значкі
 icon	значак
 identity	тоеснасьць
@@ -303,6 +314,7 @@ landscape	альбомная
 Land	звычайны (тэлефон)	
 Language & keyboard	Мова ды клявіятура
 Latitude	Спадарожнік	
+LauncherActions	Дзеяньні пускача	
 launcher	пускач
 layers	пласты
 layer	пласт
@@ -386,6 +398,7 @@ parser	разьбіральнік
 passwords	паролі
 password	пароль
 pattern	узор
+paused	прыпынілі
 PDP	пратакол пакетных зьвестак («Packet Data Protocol»)
 peripherals	вонкавыя прылады
 personal	асабісты
@@ -462,6 +475,7 @@ remove	выцягваць
 remove	зьнішчаць	
 removing	сьціраць	
 rename	назваць
+report abuse	скардзіцца
 resetting	узнаўляецца
 reset	узнаўляць
 resolution	разрозьненьне	
@@ -541,6 +555,7 @@ status	стан
 storage	сховішча
 stories	рэпартажы
 story	рэпартаж
+stream	плынь
 style	выгляд
 submitted	падалі
 submit	падаваць	
@@ -553,6 +568,7 @@ suspended	прыпынілі
 sync	сынхранізаваць
 tags	біркі
 tag	бірка
+tag	пазнака	Tag
 terms and conditions	умовы ды азначэньні
 Terms of Service	Умовы абслугоўваньня
 text-to-speech	агучваньне	
@@ -574,6 +590,7 @@ total	агулам
 total	разам
 trackball	трэкбол
 transfers	перадаванае
+TransPot	ТранШпарт
 trash	сьметніца
 TTS	сыстэма агучваць тэкст
 Turn off USB storage	Выключыць сховішча USB

@@ -1,3 +1,4 @@
++
 $02d
 1024x768
 10min
@@ -107,6 +108,7 @@ be-BY
 Beispiel
 Belarusian
 bg-BG
+big
 Big5
 bin
 bin-signed.zip
@@ -117,6 +119,7 @@ Bluetooth
 bluetooth_content_share
 bn-BD
 BookmarkSearch
+bot.talk.google.com
 br
 BROWSER
 BSSID
@@ -169,13 +172,21 @@ com.android.phone
 com.android.providers.applications
 com.android.vending
 com.facebook.katana
+com.google.android.apps.circles.realtimechat.ACCOUNT_ENABLED
+com.google.android.apps.circles.realtimechat.BACKEND
+com.google.android.apps.circles.realtimechat.DEBUG_ENABLED
+com.google.android.apps.circles.realtimechat.NOTIFY
+com.google.android.apps.circles.realtimechat.SOUND
+com.google.android.apps.circles.realtimechat.VIBRATE
 com.google.android.apps.maps
+com.google.android.apps.plus
 com.google.android.backup
 com.google.android.gm
 com.google.android.googlequicksearchbox
 com.google.android.location.GeocodeProvider
 com.google.android.location.NetworkLocationProvider
 com.google.android.talk
+com.google.plus.uploader
 com.huawei.inputmethod.hwpal
 complete
 component
@@ -204,6 +215,8 @@ de-DE
 default
 Default
 DEFAULT
+DEFAULT_NOTIFICATION_URI
+DEFAULT_RINGTONE_URI
 delete
 de-LI
 descending
@@ -252,6 +265,7 @@ el-GR
 emote
 en
 en-001
+ENABLE_MEDIA_DETECTOR
 en-AU
 en-BD
 en-CA
@@ -316,8 +330,10 @@ Facebook
 FACTORY_TEST
 fa-IR
 Fake
+false
 FAR
 FDN
+feedback
 ff000000
 ffffffff
 fi-FI
@@ -329,6 +345,7 @@ fireworks
 fluorescent
 FlylinkDC
 flylinkdc.com
+font
 forget
 fra-FRA
 français
@@ -351,6 +368,7 @@ gmail.com
 Google
 google_app_label
 google.com
+Google.com
 gov
 GPRS
 gps
@@ -548,6 +566,10 @@ none
 normal
 NORMAL
 notification
+notifications_enabled
+notifications_ringtone
+notifications_synchronized
+notifications_vibrate
 notsilent
 nr-ZA
 nso-ZA
@@ -652,6 +674,7 @@ Questo
 QVGA
 rac2030
 Re
+realtime-chat
 red
 red-tint
 refresh_interval
@@ -705,6 +728,7 @@ sites.google.com
 sk-SK
 Skype
 sl-SI
+small
 SMALLER
 SMALLEST
 SMS
@@ -736,6 +760,7 @@ string
 style
 st-ZA
 su
+submit
 Suite
 sunset
 superfine
@@ -774,6 +799,7 @@ tn-ZA
 toast
 toggle
 T-Online
+tools
 torch
 TransDroid
 tr-TR
@@ -831,6 +857,7 @@ voz
 VPN
 WAP
 WAP-PUSH
+waterloo
 WCDMA
 webkit
 WEP
