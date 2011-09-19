@@ -20,6 +20,7 @@ ADW.Launcher	Пускач ADW
 ad	абвестка	
 again	зноўку
 alarm	будзька
+album	альбом -у
 alerts	папярэджаньні
 alert	папярэджаньне
 always	заўжды
@@ -246,6 +247,7 @@ feed	жывільнік
 fetching	атрымваецца
 fetch	атрымваць
 file	файл -а
+Find Friends	Шукаць сяброў	
 firewall	сетказаслона
 flashlight	ліхтарык
 flash	выбліск
@@ -262,11 +264,13 @@ friend request	запыт сябраваць
 gateway	брама
 general	галоўны
 geolocation	вызначаць ґеаґрафічнае мейсца
+Go offline	Адлучыцца
 Google	Google
 Google Mail	Пошта Google	
 Google Maps Navigation	Навіґацыя мапамі Google
 Google Messaging Service	служба паведамленьняў Google	
 Google Talk	Гутарка Google	
+Go online	Далучыцца	
 group	суполка
 group	супольны
 guests	запрошаныя
@@ -566,6 +570,7 @@ supplicant	просьбіт
 support	падтрымваць
 suspended	прыпынілі
 sync	сынхранізаваць
+tab	зрух
 tags	біркі
 tag	бірка
 tag	пазнака	Tag
