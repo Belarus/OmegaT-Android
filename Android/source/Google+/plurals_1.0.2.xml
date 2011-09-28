@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">New Google+ notifications</item>
+        <item quantity="one">New Google+ notification</item>
+    </plurals>
+    <plurals name="notifications_content_title">
+        <item quantity="other">New Google+ notifications</item>
+        <item quantity="one">New Google+ notification</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="platform_annotation_names_and_count">
+        <item quantity="other">%1$s and %2$s people +1\'d this</item>
+        <item quantity="one">%1$s and %2$s person +1\'d this</item>
+    </plurals>
+    <plurals name="platform_plusone_count">
+        <item quantity="other">%1$d people +1\'d this</item>
+        <item quantity="one">%1$d person +1\'d this</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="circle_count">
+        <item quantity="other">%d circles</item>
+        <item quantity="one">%d circle</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d comments</item>
+        <item quantity="one">%d comment</item>
+    </plurals>
+    <plurals name="loop_like_count">
+        <item quantity="other">%d people</item>
+        <item quantity="one">%d person</item>
+    </plurals>
+    <plurals name="like_count">
+        <item quantity="other">%d others</item>
+        <item quantity="one">%d other</item>
+    </plurals>
+    <plurals name="person">
+        <item quantity="other">%d people</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="report_comments_confirm_message">
+        <item quantity="other">comments will be reported</item>
+        <item quantity="one">1 comment will be reported</item>
+    </plurals>
+    <plurals name="delete_comments_confirm_message">
+        <item quantity="other">comments will be removed</item>
+        <item quantity="one">1 comment will be removed</item>
+    </plurals>
+    <plurals name="success_delete_comments">
+        <item quantity="other">comments deleted</item>
+        <item quantity="one">comment deleted</item>
+    </plurals>
+    <plurals name="success_report_comments">
+        <item quantity="other">comments reported</item>
+        <item quantity="one">comment reported</item>
+    </plurals>
+</resources>

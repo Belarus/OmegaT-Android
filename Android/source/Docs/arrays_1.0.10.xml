@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="prefs_cache_size_choice_options">
+        <item>5 MB</item>
+        <item>10 MB</item>
+        <item>25 MB</item>
+        <item>50 MB</item>
+    </string-array>
+    <string-array name="prefs_cache_size_choice_values">
+        <item>5</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="fast_scroll_time_grouper_in_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

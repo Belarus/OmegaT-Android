@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="push_timeout_values">
+        <item>1800</item>
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>21600</item>
+        <item>43200</item>
+        <item>86400</item>
+        <item>259200</item>
+        <item>432000</item>
+        <item>604800</item>
+    </string-array>
+    <string-array name="push_timeout_values_lite">
+        <item>3600</item>
+        <item>7200</item>
+        <item>14400</item>
+        <item>21600</item>
+    </string-array>
+    <string-array name="color_values">
+        <item>None</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="image_size_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="chat_text_size_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="Default_Templates">
+        <item>Absolutely not!</item>
+        <item>Are you available for a call now?</item>
+        <item>Are you on mobile?</item>
+        <item>Excuse me.</item>
+        <item>Glad to see you online!</item>
+        <item>Greetings from ...</item>
+        <item>Greetings!</item>
+        <item>Hahahaha!</item>
+        <item>Honey, I\'m home!</item>
+        <item>Hope you are doing well!</item>
+        <item>How are you doing?</item>
+        <item>How are you?</item>
+        <item>I\'ll be there at ...</item>
+        <item>I\'m leaving tomorrow.</item>
+        <item>I\'m on a business trip.</item>
+        <item>I\'m thinking ...</item>
+        <item>I\'m well.</item>
+        <item>I\'m writing from my Android now.</item>
+        <item>It\'s just my humble opinion..</item>
+        <item>My greetings to ...</item>
+        <item>Nice to meet you!</item>
+        <item>Please call me now.</item>
+        <item>See you later.</item>
+        <item>See you.</item>
+        <item>Take care.</item>
+        <item>Thank you.</item>
+        <item>Thanks for your time!</item>
+        <item>Yes, you\'re right.</item>
+        <item>You\'re welcome.</item>
+        <item>What are you doing?</item>
+        <item>What are your plans for today?</item>
+        <item>What\'s your mobile number?</item>
+        <item>Where are you now?</item>
+    </string-array>
+    <string-array name="LED_Values">
+        <item>None</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string-array name="push_timeout_names">
+        <item>30 min</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>4 hours</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>1 day</item>
+        <item>3 days</item>
+        <item>5 days</item>
+        <item>7 days</item>
+    </string-array>
+    <string-array name="push_timeout_names_lite">
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>4 hours</item>
+        <item>6 hours</item>
+    </string-array>
+    <string-array name="image_size_names">
+        <item>Keep original size</item>
+        <item>1600x1200</item>
+        <item>1024x768</item>
+        <item>800x600</item>
+        <item>640x480</item>
+    </string-array>
+    <string-array name="chat_font_names">
+        <item>Tiny</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+</resources>

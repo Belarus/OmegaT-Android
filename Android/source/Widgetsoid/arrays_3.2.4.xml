@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="widgets_size">
+        <item>Indicator (1*1)</item>
+        <item>Clock (1*2)</item>
+        <item>Mixed (1*4)</item>
+        <item>Switcher (1*1)</item>
+        <item>Switcher (1*2)</item>
+        <item>Switcher (1*3)</item>
+        <item>Switcher (1*4)</item>
+        <item>Switcher (1*5)</item>
+        <item>Switcher (2*1)</item>
+        <item>Switcher (3*1)</item>
+        <item>Switcher (5*1)</item>
+    </string-array>
+    <string-array name="background_clock">
+        <item>None</item>
+        <item>Custom color</item>
+        <item>Custom image</item>
+    </string-array>
+    <string-array name="bright_levels">
+        <item>1 level</item>
+        <item>2 levels</item>
+        <item>3 levels</item>
+    </string-array>
+    <string-array name="alpha_level">
+        <item>0%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="flash_toggle_type">
+        <item>Auto</item>
+        <item>Method 1</item>
+        <item>Method 2</item>
+        <item>Method 3</item>
+        <item>Method 4</item>
+    </string-array>
+    <string-array name="data_toggle_type">
+        <item>APN rename</item>
+        <item>APN toggle</item>
+        <item>Root toggle</item>
+    </string-array>
+    <string-array name="indicator_type">
+        <item>None</item>
+        <item>Long</item>
+        <item>Short</item>
+        <item>Circle</item>
+    </string-array>
+    <string-array name="reboot_name">
+        <item>Normal</item>
+        <item>Recovery</item>
+        <item>Bootloader</item>
+        <item>Choose on click</item>
+        <item>Hot reboot</item>
+        <item>Power off</item>
+    </string-array>
+    <string-array name="brightness_name">
+        <item>10/40/100</item>
+        <item>10/30/100</item>
+        <item>Custom (seekbar)</item>
+        <item>Custom levels</item>
+    </string-array>
+    <string-array name="apn_modifier_names">
+        <item>Classic: \"[disabled]\"</item>
+        <item>APNdroid: \"apndroid\"</item>
+        <item>Simple prefix: \"-\"</item>
+    </string-array>
+    <string-array name="date_format_preferences">
+        <item>16/06/1998</item>
+        <item>06/16/1998</item>
+        <item>16-06-1998</item>
+        <item>06-16-1998</item>
+        <item>1998/16/06</item>
+        <item>1998/06/16</item>
+        <item>1998-16-06</item>
+        <item>1998-06-16</item>
+        <item>06 October 1998</item>
+        <item>October, 06 1998</item>
+        <item>06 Oct 1998</item>
+        <item>Oct, 06 1998</item>
+        <item>Mon, Oct 06, 1998</item>
+        <item>Mon 06 Oct 1998</item>
+        <item>Monday 06 Oct 1998</item>
+        <item>Monday, 06 Oct 1998</item>
+    </string-array>
+    <string-array name="date_format_valeurs_preferences">
+        <item>dd/MM/y</item>
+        <item>MM/dd/y</item>
+        <item>dd-MM-y</item>
+        <item>MM-dd-y</item>
+        <item>y/dd/MM</item>
+        <item>y/MM/dd</item>
+        <item>y-dd-MM</item>
+        <item>y-MM-dd</item>
+        <item>dd MMMM y</item>
+        <item>MMMM, dd y</item>
+        <item>dd MMM y</item>
+        <item>MMM, dd y</item>
+        <item>EEE, MMM dd, y</item>
+        <item>EEE dd MMM y</item>
+        <item>EEEE dd MMM y</item>
+        <item>EEEE, dd MMM y</item>
+    </string-array>
+    <string-array name="ringModeWidget">
+        <item>Sound+Vibrate/Vibrate</item>
+        <item>Sound/Vibrate</item>
+        <item>Sound/Silent</item>
+        <item>Sound+Vib/Vib/Silent</item>
+        <item>Sound/Vibrate/Silent</item>
+        <item>Normal/Vibrate/Silent</item>
+        <item>Sound+Vib/Silent</item>
+    </string-array>
+    <string-array name="backgroundWidget">
+        <item>Grey</item>
+        <item>White</item>
+        <item>None</item>
+        <item>Custom color</item>
+        <item>Custom image</item>
+    </string-array>
+    <string-array name="color_icone">
+        <item>White</item>
+        <item>Black</item>
+        <item>Custom color</item>
+    </string-array>
+    <string-array name="colorsIndicator">
+        <item>Cyan</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Grey</item>
+        <item>Pink</item>
+        <item>Blue</item>
+        <item>White</item>
+        <item>Custom color</item>
+    </string-array>
+    <string-array name="colorsImageIndicator">
+        <item>Cyan</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Pink</item>
+        <item>Blue</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="colorsImageIndicatorValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="choix_images">
+        <item>None</item>
+        <item>Wifi</item>
+        <item>Network</item>
+        <item>Wifi/Network</item>
+        <item>Battery</item>
+    </string-array>
+    <string-array name="choix_images_valeur">
+        <item>1a</item>
+        <item>2b</item>
+        <item>3c</item>
+        <item>4d</item>
+    </string-array>
+    <string-array name="screenTimeoutWidget">
+        <item>15s/1m/5m</item>
+        <item>30s/2m/5m</item>
+    </string-array>
+    <string-array name="screenTimeoutWidget_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="icon_pack">
+        <item>wifi_on</item>
+        <item>wifiap_on</item>
+        <item>gps_on</item>
+        <item>bluetooth_on</item>
+        <item>mount_on</item>
+        <item>sdcard_on</item>
+        <item>sync_on</item>
+        <item>applications_on</item>
+        <item>screen_timeout_on</item>
+        <item>display_on</item>
+        <item>charger_1</item>
+        <item>tether_on</item>
+        <item>airplane_on</item>
+        <item>force_sync_on</item>
+        <item>reboot_on</item>
+        <item>prev_on</item>
+        <item>pause_on</item>
+        <item>play_on</item>
+        <item>next_on</item>
+        <item>always_on_on</item>
+        <item>stay_awake_on</item>
+        <item>start</item>
+        <item>net_4g_on</item>
+        <item>net_3g_on</item>
+        <item>net_2g_on</item>
+        <item>net_e_on</item>
+        <item>net_h_on</item>
+        <item>display_auto_on</item>
+        <item>ram_on</item>
+        <item>rom_on</item>
+        <item>sd_on</item>
+        <item>contact_1</item>
+        <item>deplacer_3</item>
+        <item>ecran</item>
+        <item>email_2</item>
+        <item>email</item>
+        <item>flashlight_on</item>
+        <item>ic_volume_control</item>
+        <item>information_3</item>
+        <item>language_on</item>
+        <item>lock_on</item>
+        <item>lock_screen_on</item>
+        <item>modifier_1</item>
+        <item>options_1</item>
+        <item>orientation_on</item>
+        <item>profil_2</item>
+        <item>raccourcis_1</item>
+        <item>scanner_on</item>
+        <item>security_on</item>
+        <item>silent_on</item>
+        <item>vibrate_on</item>
+        <item>sound_ring_on</item>
+        <item>son_3</item>
+        <item>speaker_on</item>
+        <item>siteweb</item>
+        <item>supprimer_2</item>
+        <item>theme_4</item>
+        <item>appels_1</item>
+        <item>reseau_menu</item>
+        <item>appliquer_3</item>
+        <item>aide_1</item>
+        <item>autre_2</item>
+    </string-array>
+</resources>

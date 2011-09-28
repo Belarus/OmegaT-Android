@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="tag_header_keys_collapsed">
+        <item>home</item>
+        <item>user/-/state/com.google/reading-list</item>
+        <item>user/-/state/com.google/broadcast-friends</item>
+        <item>explore</item>
+        <item>subscriptions</item>
+    </string-array>
+    <string-array name="tag_header_keys_expanded">
+        <item>home</item>
+        <item>user/-/state/com.google/reading-list</item>
+        <item>user/-/state/com.google/starred</item>
+        <item>user/-/state/com.google/self</item>
+        <item>user/-/state/com.google/broadcast-friends</item>
+        <item>explore</item>
+        <item>subscriptions</item>
+    </string-array>
+    <string-array name="ranking_keys">
+        <item>newest</item>
+        <item>oldest</item>
+        <item>auto</item>
+    </string-array>
+</resources>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="msg_def">
+        <item>Now my English is better than yours.HaHa!</item>
+        <item>Now I\'m here. Let\'s party.</item>
+        <item>Yo, where my snacks at?</item>
+        <item>Feel like checking the temperature?</item>
+        <item>Why are you watching me bathe? Do you like me?</item>
+        <item>Your pad is cozy. I think I\'ll stay.</item>
+        <item>Cool is cool. I hate heat!</item>
+        <item>I not just a bathing cat, I\'m actually working.</item>
+        <item>When the human\'s away, the cat will play.</item>
+        <item>Do you know this proverb? \"Trust a cat with milk.\"</item>
+        <item>There\'s always time for milk♪</item>
+        <item>Shall I play with you?</item>
+        <item>You have a cat who wants to talk to you.</item>
+        <item>I\'m always behind you♥</item>
+        <item>What are you doing? Are you looking at me?</item>
+        <item>Are you there?</item>
+        <item>There is a lovely cat in front of you♥</item>
+        <item>I guess I can say how the bath feels sometimes.</item>
+        <item>Come to think of it, where\'s my milk?</item>
+        <item>It\'s a bother, but here are bath levels.</item>
+        <item>OK, who said I\'m useless?</item>
+        <item>I see infatuation for me in your eyes.</item>
+        <item>If the levels are high, the cat draws nigh.</item>
+        <item>You are starting to resemble me, aren\'t you?</item>
+        <item>Life is full of ups and downs.</item>
+        <item>Don\'t forget you are not alone.</item>
+    </string-array>
+    <string-array name="msg_charging">
+        <item>I love you again!</item>
+        <item>I\'m baaaaaack!</item>
+        <item>Cool, hot water! Thanx.</item>
+        <item>Thx 4 H two Oh!</item>
+        <item>Got Dihydrogen Monoxide?</item>
+        <item>Got milk with that?</item>
+        <item>Hot water and love!</item>
+        <item>Thx 4 hot water!</item>
+        <item>Now I like you.</item>
+        <item>You made me happy. Now go away.</item>
+        <item>You are a genius! You are my angel!</item>
+        <item>I am seeing you in a new light.</item>
+        <item>Thx 4 hot water! Way to goooo!</item>
+        <item>Good for you!</item>
+        <item>Just what I wanted, hot water!</item>
+        <item>yippeeeeeeee!!!</item>
+        <item>Oh, I\'m getting all choked up!</item>
+        <item>Water, water! Hot water!</item>
+        <item>Yahoo....! Here comes hot water!</item>
+        <item>Yay! Nice and warm bath.</item>
+        <item>I knew you were reliable.</item>
+        <item>Now you have one satisfied cat!</item>
+        <item>I had been waiting for this moment.</item>
+        <item>I admit I was sometimes rude. My bad!</item>
+        <item>The most happy you\'ve ever made me.</item>
+        <item>I don\'t thank you enough.</item>
+        <item>You are a true great among humans.</item>
+        <item>You are my undoubtedly my favorite human!</item>
+    </string-array>
+    <string-array name="msg_morning">
+        <item>Good morning! Where is my milk?</item>
+        <item>I want meeeeelk!</item>
+        <item>Let\'s get it on!</item>
+        <item>Hurry,you\'ll be late!</item>
+        <item>Top of the morning to you!</item>
+        <item>Sleep well?</item>
+        <item>Rise and Shine!</item>
+        <item>A new day for me to shine.</item>
+        <item>Up and at \'em!</item>
+        <item>Breakfast for my beauty.</item>
+        <item>\"Milch\", I know it in German, too!</item>
+        <item>Yo! Your hair is a fright!</item>
+        <item>Beauty comes from delicious milk!</item>
+        <item>You have to wake up!!</item>
+        <item>Good morning.</item>
+        <item>Have a wonderful day!</item>
+        <item>Are you awake?</item>
+        <item>Look at your hair! HaHa..</item>
+        <item>Aah! A nice bath to start the day!</item>
+        <item>What\'s up with your hair?!</item>
+        <item>I\'d be happy if I don\'t cry today.</item>
+        <item>OK, morning. Time to be served.</item>
+        <item>Remember, first my bath, then your work.</item>
+    </string-array>
+    <string-array name="msg_lunch">
+        <item>Time for lunch.</item>
+        <item>Are you still watching soap operas?</item>
+        <item>OK, you can take five.</item>
+        <item>Have a good fast lunch.</item>
+        <item>..by the way.., MILK!!</item>
+        <item>I\'m going to rest. Don\'t bother me.</item>
+        <item>Lunch time neow?</item>
+        <item>You said I\'m always on break, didn\'t you?</item>
+        <item>Finish your lunch! I\'m hungry too!</item>
+        <item>Hello. You started working? How about my lunch?</item>
+        <item>Don\'t work, look at me!</item>
+    </string-array>
+    <string-array name="msg_night">
+        <item>Are you still awake!?</item>
+        <item>Are you still working!?</item>
+        <item>Nightmice get eaten!</item>
+        <item>Nightowls get eaten!</item>
+        <item>Nightowls get bad skin!</item>
+        <item>You\'re still working,aren\'t you?</item>
+        <item>I\'m going to bed now,see you!</item>
+        <item>I need my beauty sleep.</item>
+        <item>Go to sleep. I need you tomorrow.</item>
+        <item>You\'re still working, and not for me.</item>
+        <item>It\'s getting late. I think I\'ll retire.</item>
+        <item>I\'m so sleepy...</item>
+        <item>Your skin needs to rest.</item>
+        <item>What are you doing up this late?</item>
+        <item>Did you have a good time today?</item>
+        <item>Sleep tight, good meeight!</item>
+        <item>Sweet dreams!</item>
+    </string-array>
+    <string-array name="msg_overheat">
+        <item>I\'m boiling!</item>
+        <item>hoooooo!!</item>
+        <item>COOL ME OFF..please..</item>
+        <item>Where\'d you go, I\'m getting hot.</item>
+        <item>Is it me or is it hot in here?</item>
+        <item>My fur is burning!</item>
+        <item>Heeeeeeelp!</item>
+        <item>I\'m drenched in sweat...</item>
+        <item>Hoooo! It\'s really hot...!!</item>
+        <item>Ha... ho... hot...</item>
+        <item>Give meow ice cubes...</item>
+        <item>Don\'t forget about meow...</item>
+        <item>Aah?! I\'m on the sun?</item>
+    </string-array>
+    <string-array name="msg_few">
+        <item>....</item>
+        <item>Meow meow meow</item>
+        <item>I want you to add some hot water.</item>
+        <item>The hot water is little.</item>
+        <item>Why are you neglecting me?</item>
+        <item>If you give me water I\'ll kiss you.</item>
+        <item>Needy cat here.</item>
+        <item>...me....need....waaater....</item>
+        <item>Give me hot water and I\'ll forgive you.</item>
+        <item>Why don\'t you like me?</item>
+        <item>I can\'t wait...</item>
+        <item>Forgive my straightforwardness, but...pleaaase...waaaater...</item>
+        <item>I think that you may as well add hot water...</item>
+        <item>If you give me water I\'ll give you a special deal.</item>
+        <item>No one is at home...</item>
+        <item>I feel sorry for me...</item>
+        <item>I\'m feeling pretty low right now...</item>
+        <item>Excuse meow...</item>
+        <item>Hot water please...</item>
+        <item>I need some hot water...</item>
+        <item>What are you doing? Busy?</item>
+        <item>Ah meow... H-O-T-W-A-T-E-R...</item>
+        <item>Look at meow...</item>
+        <item>Please forgive my need for water.</item>
+        <item>Low water, pipes broken?</item>
+        <item>Low water, forget to pay the bills.</item>
+        <item>I\'m sorry for everything. water?</item>
+        <item>A-choo! Could you sir provide water?</item>
+    </string-array>
+    <string-array name="msg_angry">
+        <item>Don\'t you know I\'m important?!</item>
+        <item>Hey, you\'re my human!</item>
+        <item>Eh, no water?</item>
+        <item>Whoa, where\'s my water?</item>
+        <item>How long do I have to wait?</item>
+        <item>What!? No milk OR water!?</item>
+        <item>How dare you!!!!</item>
+        <item>What\'s the idea?</item>
+        <item>You are doing this on purpose, aren\'t you?</item>
+        <item>I\'m getting a raw deal.</item>
+        <item>Hello. Pay attention to me!</item>
+        <item>Look at Meow!!!!!</item>
+        <item>The worst bath ever!</item>
+        <item>I can\'t believe you..</item>
+        <item>Help! Help Meow!!!!!</item>
+        <item>You.Sir.Have.Responsibilities.Of.My.Bath.</item>
+        <item>Why do you prefer work over me?</item>
+        <item>You must choose, your hobby or my need!</item>
+        <item>Where did my human go?</item>
+        <item>I\'m losing patience with you.</item>
+    </string-array>
+    <string-array name="msg_dead">
+        <item>・・・・・</item>
+        <item>You\'ve maltreated me..</item>
+        <item>You\'ve treated me so badly..</item>
+        <item>I\'ll get you for this..</item>
+        <item>And to think I was such a good cat ...</item>
+        <item>I knew it...</item>
+        <item>Words fail me...</item>
+        <item>Time will tell...</item>
+        <item>This is getting out of hand...</item>
+        <item>Comfortable bathing has been difficult...</item>
+        <item>What am I bathing for...?</item>
+        <item>What\'s done is done...</item>
+        <item>I\'ll curse you...</item>
+        <item>I\'m gonna curse you...</item>
+        <item>You made me a boogie-cat...</item>
+        <item>I asked about water so many times...</item>
+        <item>You need to prepare for what happens...</item>
+        <item>Don\'t you have feelings?</item>
+        <item>To bathe or not to bathe...</item>
+    </string-array>
+    <string-array name="msg_milk">
+        <item>I love you again!</item>
+        <item>Milk and love!</item>
+        <item>Thx 4 miiiiiilk!</item>
+        <item>Mmmmmmm. Milk. Yummy.</item>
+        <item>Yummy! Yummy! Yummy!</item>
+        <item>That really hit the spot!</item>
+        <item>This milk is lovely!</item>
+        <item>Thank goodness, milk!</item>
+        <item>Now I appreciate milk.</item>
+        <item>Thanks, but you\'re late.</item>
+        <item>GUUUUUUULP! MORE!</item>
+        <item>This milk is almost good enough for me.</item>
+        <item>This is the moment I\'ve been waiting for!!!</item>
+    </string-array>
+    <string-array name="msg_hungry">
+        <item>I\'m starving...Grrrrrr..</item>
+        <item>NO MILK, NO LIFE..</item>
+        <item>Grrrrrr...please miiiiiilk..</item>
+        <item>Give me milk...</item>
+        <item>Grrrrrr... M-I-L-K...</item>
+        <item>...me....need....miiiiiilk....</item>
+        <item>Excuse meow.. please..milk...</item>
+    </string-array>
+</resources>
