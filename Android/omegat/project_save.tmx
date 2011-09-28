@@ -3610,16 +3610,16 @@
       <tuv lang="en">
         <seg>%s has been added</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T102755Z">
-        <seg>%s дадалі</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T110405Z">
+        <seg>Дадалі: %s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>%s has been added to your Contact list.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T112133Z">
-        <seg>%1 дадалі да сьпісу кантактаў.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T110957Z">
+        <seg>Дадалі да сьпісу кантактаў: %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,16 +3642,16 @@
       <tuv lang="en">
         <seg>%s has been removed</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T102759Z">
-        <seg>%s выкрасьлілі</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T110414Z">
+        <seg>Выкрасьлілі: %s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>%s has been removed from your Contacts.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T111720Z">
-        <seg>Выкрасьлілі з кантактаў: %d.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113424Z">
+        <seg>Выкрасьлілі з кантактаў: %s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,8 +3826,8 @@
       <tuv lang="en">
         <seg>%s likes this.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110621T121712Z">
-        <seg>Упадабалі: %d.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113512Z">
+        <seg>%s падабае на гэта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5526,6 +5526,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1234567</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065336Z">
+        <seg>1234567</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>127</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065332Z">
+        <seg>127</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1280</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130314Z">
@@ -5602,6 +5618,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104144Z">
         <seg>15000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>15696</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065254Z">
+        <seg>15696</seg>
       </tuv>
     </tu>
     <tu>
@@ -5918,6 +5942,110 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>27.434363</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065232Z">
+        <seg>27.434363</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.480294</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064946Z">
+        <seg>27.480294</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.480884</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065100Z">
+        <seg>27.480884</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.527479</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065211Z">
+        <seg>27.527479</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.539039</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065220Z">
+        <seg>27.539039</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.543975</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065238Z">
+        <seg>27.543975</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.551351</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064525Z">
+        <seg>27.551351</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.552102</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065205Z">
+        <seg>27.552102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.56283</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065003Z">
+        <seg>27.56283</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.57637</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065227Z">
+        <seg>27.57637</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.592603</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065029Z">
+        <seg>27.592603</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.600886</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065037Z">
+        <seg>27.600886</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>27.627617</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065012Z">
+        <seg>27.627617</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>28</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T185329Z">
@@ -6014,6 +6142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>30 min</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121540Z">
+        <seg>30 хв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>30 minutes</seg>
       </tuv>
       <tuv lang="be">
@@ -6062,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>329,27,13,14,13,13,13,14,13,13,13,14,13,17,18,18,18,18,18,18,18,17,18,18,17,18,18,17,18,18,17,18,21,21,13,13,13,14,13,13,13,14,13,13,13,14,13,13,13,14,17,18,18,18,18,17,18,18,17,17,17,17,17,17,17,17,20,20,21,21</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065337Z">
+        <seg>329,27,13,14,13,13,13,14,13,13,13,14,13,17,18,18,18,18,18,18,18,17,18,18,17,18,18,17,18,18,17,18,21,21,13,13,13,14,13,13,13,14,13,13,13,14,13,13,13,14,17,18,18,18,18,17,18,18,17,17,17,17,17,17,17,17,20,20,21,21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>350</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T200103Z">
@@ -6082,6 +6226,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130049Z">
         <seg>36149777</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D compass</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120646Z">
+        <seg>Компас 3D</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,6 +6398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>5,,6,,3,56,4,,2,,2,,2,,2,,1,,3,</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065631Z">
+        <seg>5,,6,,3,56,4,,2,,2,,2,,2,,1,,3,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>50</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104731Z">
@@ -6266,6 +6426,110 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T165347Z">
         <seg>5060</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.861848</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064945Z">
+        <seg>53.861848</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.880426</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065036Z">
+        <seg>53.880426</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.893867</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064524Z">
+        <seg>53.893867</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.900903</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065204Z">
+        <seg>53.900903</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.903934</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065231Z">
+        <seg>53.903934</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.904746</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065043Z">
+        <seg>53.904746</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.905628</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065220Z">
+        <seg>53.905628</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.908017</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065210Z">
+        <seg>53.908017</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.909616</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065237Z">
+        <seg>53.909616</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.916346</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065003Z">
+        <seg>53.916346</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.919183</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065028Z">
+        <seg>53.919183</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.921028</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065226Z">
+        <seg>53.921028</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>53.928382</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065011Z">
+        <seg>53.928382</seg>
       </tuv>
     </tu>
     <tu>
@@ -7198,6 +7462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b1&gt;recent conversations.&lt;/b1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T112811Z">
+        <seg>&lt;b1&gt;апошніх размоў&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;b2&gt;&lt;f3&gt;&lt;l4&gt;Accounts to add or configure an account with contacts you can sync to the phone</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T180740Z">
@@ -7358,6 +7630,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;b&gt;This email isn't valid&lt;/b&gt; Please check it and try it again.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111654Z">
+        <seg>&lt;b&gt;Хібны адрас эл. пошты&lt;/b&gt; Спраўдзіце, калі ласка, і паспрабуйце зноўку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b&gt;Version 1.3.0:&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T140138Z">
+        <seg>&lt;b&gt;Вэрсія 1.3.0:&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;b&gt;Version 1.3.5:&lt;/b&gt;</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T142610Z">
@@ -7370,6 +7658,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T142302Z">
         <seg>&lt;b&gt;Вэрсія 1.3.6:&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b&gt;Wrong number&lt;/b&gt; Please include country code (e.g. +44 1234567)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111621Z">
+        <seg>&lt;b&gt;Неадпаведны нумар&lt;/b&gt; Калі ласка, дадайце код краіны (пр., +44 1234567)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10636,8 +10932,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Add people from my Skype Contact list to my address book contacts.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115839Z">
-        <seg>Дадаць кантакты са Skype-у ў адрасную кнігу тэлефону.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111214Z">
+        <seg>Дадаць кантакты са Skype у адрасную кнігу тэлефону.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10970,6 +11266,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional application Layar is not installed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121533Z">
+        <seg>Дадатковую праґраму «Layar» не ўсталявалі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional application Velcom recommends is not installed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121526Z">
+        <seg>Дадатковую праґраму «Velcom раіць» не ўсталявалі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional call settings</seg>
       </tuv>
       <tuv lang="be">
@@ -10990,6 +11302,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T144046Z">
         <seg>Дадатковыя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121325Z">
+        <seg>Дадаткова</seg>
       </tuv>
     </tu>
     <tu>
@@ -14110,8 +14430,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>An Online Number is perfect if you have friends, family or business colleagues who aren't on Skype.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T101338Z">
-        <seg>Сеціўны нумар — выдатны спосаб падтрымваць сувязь зь сябрамі, роднымі ці калеґамі, якія ня маюць Skype-у.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111124Z">
+        <seg>Сеціўны нумар — выдатны спосаб падтрымваць сувязь зь сябрамі, роднымі ці калеґамі, якія ня маюць Skype.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14260,10 +14580,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when downloading updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122041Z">
+        <seg>Далі хібу, калі спампоўвалі абнаўленьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred when signing in.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110628T134507Z">
         <seg>Далі хібу, калі ўваходзілі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while checking for updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122031Z">
+        <seg>Далі хібу, калі шукалі абнаўленьні</seg>
       </tuv>
     </tu>
     <tu>
@@ -14328,6 +14664,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110625T153302Z">
         <seg>Раіцца карыстацца неабмежаваным тарыфным плянам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An updated schedule is now downloading.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122007Z">
+        <seg>Спампоўваецца абноўлены расклад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15358,8 +15702,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Are you sure you want to sign out of Skype?</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T101025Z">
-        <seg>Ці ўпэўненыя вы, што хочаце выйсьці са Skype-у?</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111119Z">
+        <seg>Ці ўпэўненыя вы, што хочаце выйсьці са Skype?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16028,6 +16372,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic update</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120759Z">
+        <seg>Абнаўляцца самарушна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic update failed</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T092056Z">
@@ -16056,6 +16408,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T085648Z">
         <seg>Самарушна вызначаць мейсца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically find nearest stop if GPS swithed on.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121023Z">
+        <seg>Самарушна вызначаць найбліжэйшы прыпынак, калі працуе GPS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17540,6 +17900,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buses</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121816Z">
+        <seg>аўтобусаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Business and Financial News</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110313T102247Z">
@@ -18072,6 +18440,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T094010Z">
         <seg>Выклікаць ізноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Call any phone worldwide at tiny per-minute rates, plus text mobiles from Skype for next to nothing.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111514Z">
+        <seg>Тэлефануйце, куды пажадаеце, і дасылайце SMS па танных коштах.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18895,8 +19271,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Cannot connect to Skype</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T094055Z">
-        <seg>Не ўдаецца злучыцца са Skype-ам</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111057Z">
+        <seg>Не ўдаецца злучыцца са Skype</seg>
       </tuv>
     </tu>
     <tu>
@@ -20021,6 +20397,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110728T193558Z">
         <seg>Гутаркі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check for updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120827Z">
+        <seg>Зірнуць абнаўленьні</seg>
       </tuv>
     </tu>
     <tu>
@@ -23006,6 +23390,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T101539Z">
         <seg>С</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D compass</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120321Z">
+        <seg>Компас</seg>
       </tuv>
     </tu>
     <tu>
@@ -26173,6 +26565,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121536Z">
+        <seg>Цягам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During a call, notify me of incoming calls</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T123752Z">
@@ -29001,6 +29401,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find stop by name</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120658Z">
+        <seg>Шукаць прыпынак паводле назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find stop on map</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120702Z">
+        <seg>Шукаць прыпынак на мапе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find stop using GPS.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121003Z">
+        <seg>Шукаць прыпынак па GPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finding your contacts</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T105557Z">
@@ -31602,6 +32026,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hindsight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121222Z">
+        <seg>Погляд у мінулае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hip-Hop</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T105200Z">
@@ -33197,8 +33629,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Incoming Skype calls</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T113810Z">
-        <seg>Уваходныя выклікі па Skype-у</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111208Z">
+        <seg>Уваходныя выклікі праз Skype</seg>
       </tuv>
     </tu>
     <tu>
@@ -34191,6 +34623,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110403T001509Z">
         <seg>Мажліва, вы месьціцеся за сетказаслонаю, якая не дазваляе вам злучыцца з гэтым паслужніком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is useful to know which vehicles had just left.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121302Z">
+        <seg>Карысна ведаць, які транспарт толькі што сышоў.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35356,6 +35796,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Load from Android Market.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121501Z">
+        <seg>Спампаваць з Крамы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load images</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T172417Z">
@@ -36020,6 +36468,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Look into the future</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121040Z">
+        <seg>Погляд у будучыню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lookahead view</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T190044Z">
@@ -36028,10 +36484,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for nearest stop</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120713Z">
+        <seg>Шукаем найбліжэйшы прыпынак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Looking for updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121931Z">
+        <seg>Шукаем абнаўленьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Looking up your address book contacts in the Skype directory.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T105000Z">
-        <seg>Шукаем у адраснае кнізе кантакты, якія маюцца ў каталёґу Skype.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113120Z">
+        <seg>Шукаем у адраснае кнізе кантакты, якія маюцца ў даведніку Skype.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37686,8 +38158,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Missed Skype call: %s</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115453Z">
-        <seg>Прапушчаны выклік па Skype-у: %s</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111041Z">
+        <seg>Прапушчаны выклік праз Skype: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -41998,8 +42470,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Only sync people from my Skype Contact list with those already in my address book contacts.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115916Z">
-        <seg>Сынхранізаваць толькі тых людзей са Skype-у, што ўжо маюцца ў адраснае кнізе.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111219Z">
+        <seg>Сынхранізаваць толькі тых людзей са Skype, што ўжо маюцца ў адраснае кнізе.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45454,6 +45926,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press to check update manually.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120912Z">
+        <seg>Націсьніце, каб зірнуць абнаўленьні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press to see applications recommended by Velcom.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121422Z">
+        <seg>Націсьніце, каб зірнуць праґрамы, якія раіць Velcom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press your phone's Back button to close the keyboard.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T142616Z">
@@ -48607,6 +49095,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Route</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121731Z">
+        <seg>Шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Route Info</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T185935Z">
@@ -49567,6 +50063,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Schedule</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113208Z">
+        <seg>Расклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Screen ON time:</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T120608Z">
@@ -49719,6 +50223,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search &lt;b0&gt;Contacts&lt;/b0&gt; to call</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111949Z">
+        <seg>Каб выклікаць або пачаць гутарыць,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Again</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T201019Z">
@@ -49785,8 +50297,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Search Skype directory</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T104711Z">
-        <seg>Шукаць у каталёґу Skype</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113109Z">
+        <seg>Шукаць у даведніку Skype</seg>
       </tuv>
     </tu>
     <tu>
@@ -49945,8 +50457,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Search of address book contacts on Skype directory did not find any contacts.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T105301Z">
-        <seg>У каталёґу Skype не знайшлося ніводнага кантакту з вашае адраснае кнігі.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113134Z">
+        <seg>У даведніку Skype не знайшлося ніводнага кантакту з вашае адраснае кнігі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50007,10 +50519,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search the &lt;b0&gt;Skype directory&lt;/b0&gt; to</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T112838Z">
+        <seg>Каб знайсьці й дадаць сяброў,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search the web</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110426T173013Z">
         <seg>Шукаць у сеціве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search your &lt;b0&gt;calls&lt;/b0&gt; and</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T112759Z">
+        <seg>Шукайце сярод &lt;b0&gt;выклікаў&lt;/b0&gt; і</seg>
       </tuv>
     </tu>
     <tu>
@@ -50543,6 +51071,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select direction</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121745Z">
+        <seg>Абярыце кірунак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select filter options</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T055907Z">
@@ -50587,6 +51123,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T065147Z">
         <seg>Абярыце, колькі часу паказваць кожны слайд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select how many minutes to display `in the past`.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121321Z">
+        <seg>Абярыце, які адцінак часу «мінулага» паказваць.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53922,8 +54466,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Skype call</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T092432Z">
-        <seg>Выклікаць па Skype-у</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111053Z">
+        <seg>Выклікаць праз Skype</seg>
       </tuv>
     </tu>
     <tu>
@@ -53938,8 +54482,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Skype call: %s</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115442Z">
-        <seg>Выклік па Skype-у: %s</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111005Z">
+        <seg>Выклік праз Skype: %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -53954,8 +54498,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Skype directory</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T104717Z">
-        <seg>Каталёґ Skype</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113113Z">
+        <seg>Даведнік Skype</seg>
       </tuv>
     </tu>
     <tu>
@@ -53994,8 +54538,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Skype status</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T113750Z">
-        <seg>Стан Skype-у</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111202Z">
+        <seg>Стан Skype</seg>
       </tuv>
     </tu>
     <tu>
@@ -55104,6 +55648,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify the time in minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121323Z">
+        <seg>Пазначце час (у хвілінах)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify when to switch from Wi-Fi to mobile data</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T120627Z">
@@ -55506,8 +56058,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Stop`s name</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110816T115807Z">
-        <seg>Назва прыпынку</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113219Z">
+        <seg>назвы прыпынку</seg>
       </tuv>
     </tu>
     <tu>
@@ -55532,6 +56084,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T171513Z">
         <seg>Спыняецца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stops</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113154Z">
+        <seg>Прыпынкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -57975,6 +58535,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The interval of time over which you will see traffic coming.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121136Z">
+        <seg>Адцінак часу, за які будзе паказвацца, што прыбывае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The keyboard opens any time you touch a text field</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110503T160448Z">
@@ -58836,6 +59404,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110418T153627Z">
         <seg>Няма падобнага зьместу ў краме Android.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no update available.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121937Z">
+        <seg>Абнаўленьняў няма.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61445,6 +62021,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trams</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121825Z">
+        <seg>трамваяў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TransPot</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110816T115557Z">
@@ -61473,6 +62057,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T153015Z">
         <seg>Празрыстасьць (толькі калі прыцемнены)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transport</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113158Z">
+        <seg>Транспарт</seg>
       </tuv>
     </tu>
     <tu>
@@ -61513,6 +62105,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T100830Z">
         <seg>Мейсца сьметніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trolleybuses</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121819Z">
+        <seg>тралейбусаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -63335,10 +63935,42 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Update is available</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120718Z">
+        <seg>Маецца абнаўленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update is available.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121942Z">
+        <seg>Маецца абнаўленьне.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update loaded successfully</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122120Z">
+        <seg>Абнаўленьне спампавалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Update of \"%1$s\" unsuccessful.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T103155Z">
         <seg>Не ўдалося абнавіць «%1$s».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update schedule automatically in case if internet is connected</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122146Z">
+        <seg>Самарушна абнаўляць расклад, калі маецца злучэньне зь сецівам</seg>
       </tuv>
     </tu>
     <tu>
@@ -63355,6 +63987,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T103201Z">
         <seg>Абнавіць не ўдалося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update using WiFi only</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120727Z">
+        <seg>Абнаўляць толькі праз Wi-Fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update will be loaded only if WiFi is connected</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120752Z">
+        <seg>Абнаўленьні будуць спампоўвацца, толькі калі злучыліся з Wi-Fi</seg>
       </tuv>
     </tu>
     <tu>
@@ -63737,8 +64385,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Uploaded '%s'</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110724T123918Z">
-        <seg>Запампавалі «%d»</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113431Z">
+        <seg>Запампавалі «%s»</seg>
       </tuv>
     </tu>
     <tu>
@@ -64557,6 +65205,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T183313Z">
         <seg>Вэктарныя мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Velcom - фирменный центр продаж</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064523Z">
+        <seg>Velcom — фірмовы цэнтар продажу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Velcom recommends</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121356Z">
+        <seg>Velcom раіць</seg>
       </tuv>
     </tu>
     <tu>
@@ -65932,8 +66596,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>We cannot connect you to Skype at this time.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T104242Z">
-        <seg>Мы пакуль ня можам злучыць вас са Skype-ам.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111146Z">
+        <seg>Мы пакуль ня можам злучыць вас са Skype.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65980,8 +66644,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>We've searched the Skype directory for your address book contacts and found the following matches.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T105055Z">
-        <seg>Пашукаўшы ў каталёґу Skype кантакты з вашае адраснае кнігі, мы знайшлі наступныя супадзеньні.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113128Z">
+        <seg>Пашукаўшы ў даведніку Skype кантакты з вашае адраснае кнігі, мы знайшлі наступныя супадзеньні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66162,6 +66826,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What are you doing?</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T140317Z">
+        <seg>Што вы робіце?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What does this do?</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110826T093404Z">
@@ -66284,8 +66956,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>When you answer an incoming call, your Skype call will be put on hold.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T113355Z">
-        <seg>Ваш выклік па Skype-у будзе ўтрымвацца, калі адказаць на ўваходны выклік.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111159Z">
+        <seg>Выклік па Skype будзе ўтрымвацца, калі адказаць на ўваходны выклік.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67044,16 +67716,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>You and %d others like this.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110621T122554Z">
-        <seg>Вы ды яшчэ %s чал. упадабалі на гэта.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113606Z">
+        <seg>Спадабалася вам ды яшчэ некалькім (%d) людзям..</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>You and %s like this.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110621T122539Z">
-        <seg>Вы ды карыстальнік %s упадабалі на гэта.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113613Z">
+        <seg>Вы ды %s упадабалі на гэта.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68072,8 +68744,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>You must be at least 13 to use Skype.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T094806Z">
-        <seg>Карыстацца Skype-ам можна з 13 год.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111113Z">
+        <seg>Карыстаць Skype можна з 13 год.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68182,10 +68854,18 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You need some Skype Credit to call and text phones</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T110402Z">
+        <seg>Каб выклікаць і пісаць на тэлефонныя нумары, трэба мець крэдыт у Skype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You need to be online to search the Skype directory.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T104337Z">
-        <seg>Каб шукаць у каталёґу Skype, трэба далучыцца да сеткі.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113101Z">
+        <seg>Каб шукаць у даведніку Skype, трэба далучыцца да сеткі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68200,8 +68880,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>You need to have Skype Credit or a subscription to forward calls from Skype.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T102620Z">
-        <seg>Каб перасылаць выклікі са Skype-у, трэба мець крэдыт у Skype альбо падпіску.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T111139Z">
+        <seg>Каб перасылаць выклікі са Skype, трэба мець крэдыт у Skype альбо падпіску.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69881,6 +70561,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ago</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121549Z">
+        <seg>таму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alarm_clock</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130110Z">
@@ -69917,6 +70605,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T084628Z">
         <seg>непразрыстасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064416Z">
+        <seg>alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -70137,6 +70833,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>arrive...</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121618Z">
+        <seg>прыбудзе…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>arrives</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121635Z">
+        <seg>прыбывае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>arrives in:</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121631Z">
+        <seg>прыбывае а:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ascending</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T121308Z">
@@ -70157,6 +70877,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T143740Z">
         <seg>у &lt;x0&gt;%s&lt;/x0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>attribution</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064338Z">
+        <seg>attribution</seg>
       </tuv>
     </tu>
     <tu>
@@ -70325,6 +71053,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T091435Z">
         <seg>buddycount_policy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bus</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121827Z">
+        <seg>аўтобус</seg>
       </tuv>
     </tu>
     <tu>
@@ -70785,6 +71521,62 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>com.transpot.auto_update</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120754Z">
+        <seg>com.transpot.auto_update</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>com.transpot.find_stop_by_gps</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120839Z">
+        <seg>com.transpot.find_stop_by_gps</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>com.transpot.manual_update</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120821Z">
+        <seg>com.transpot.manual_update</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>com.transpot.min_to_show_backward</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120841Z">
+        <seg>com.transpot.min_to_show_backward</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>com.transpot.min_to_show_forward</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120839Z">
+        <seg>com.transpot.min_to_show_forward</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>com.transpot.velcom_recomendation</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121336Z">
+        <seg>com.transpot.velcom_recomendation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>com.transpot.wifi_update</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T120720Z">
+        <seg>com.transpot.wifi_update</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>comment deleted</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110815T135729Z">
@@ -71121,6 +71913,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>deltas</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065250Z">
+        <seg>deltas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>descending</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T121303Z">
@@ -71165,6 +71965,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110302T112629Z">
         <seg>выклікаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dimension</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064415Z">
+        <seg>dimension</seg>
       </tuv>
     </tu>
     <tu>
@@ -71253,6 +72061,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T083904Z">
         <seg>display_images_key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>distance</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064456Z">
+        <seg>distance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>doNotIndex</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064507Z">
+        <seg>doNotIndex</seg>
       </tuv>
     </tu>
     <tu>
@@ -71885,6 +72709,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T162928Z">
         <seg>file:///android_asset/webkit/android-weberror.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>find and add your friends.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113035Z">
+        <seg>шукайце ў &lt;b0&gt;даведніку Skype&lt;/b0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72561,10 +73393,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>id</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064336Z">
+        <seg>id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>id-ID</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110729T162241Z">
         <seg>id-ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>imageURL</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064343Z">
+        <seg>imageURL</seg>
       </tuv>
     </tu>
     <tu>
@@ -72581,6 +73429,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T184713Z">
         <seg>metric</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>in</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121628Z">
+        <seg>праз</seg>
       </tuv>
     </tu>
     <tu>
@@ -72761,6 +73617,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>inFocus</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064506Z">
+        <seg>inFocus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>incandescent</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T140923Z">
@@ -72843,8 +73707,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>is not listed in the Skype directory.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T104643Z">
-        <seg>адсутнічае ў каталёґу Skype.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113105Z">
+        <seg>адсутнічае ў даведніку Skype.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72969,10 +73833,42 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lat</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064341Z">
+        <seg>lat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>limit number of running processes</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110323T090457Z">
         <seg>абмяжоўваць колькасьць запушчаных працэсаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>line2</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064413Z">
+        <seg>line2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>line3</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064412Z">
+        <seg>line3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>line4</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064404Z">
+        <seg>line4</seg>
       </tuv>
     </tu>
     <tu>
@@ -73005,6 +73901,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T081934Z">
         <seg>log</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lon</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064342Z">
+        <seg>lon</seg>
       </tuv>
     </tu>
     <tu>
@@ -73137,6 +74041,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>metro</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121831Z">
+        <seg>мэтро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>midnight</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T152231Z">
@@ -73148,6 +74060,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
         <seg>min</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T152940Z">
+        <seg>хв.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>min.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121025Z">
         <seg>хв.</seg>
       </tuv>
     </tu>
@@ -73413,6 +74333,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T165216Z">
         <seg>мае відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>name</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065248Z">
+        <seg>name</seg>
       </tuv>
     </tu>
     <tu>
@@ -73697,6 +74625,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>number_of_stops</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065251Z">
+        <seg>number_of_stops</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>numbers, and periods.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T133012Z">
@@ -73789,6 +74725,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T183411Z">
         <seg>на дарогу %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>operator_id</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065246Z">
+        <seg>operator_id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or IM your friends.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T112731Z">
+        <seg>знайдзіце суразмоўцу ў &lt;b0&gt;кантактах&lt;/b0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74441,6 +75393,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>relativeAlt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064417Z">
+        <seg>relativeAlt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>rename secure storage</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T130916Z">
@@ -74537,6 +75497,30 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>route_num</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065244Z">
+        <seg>route_num</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>route_num_int</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065252Z">
+        <seg>route_num_int</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>route_type_id</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065246Z">
+        <seg>route_type_id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ru-BY</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110729T162253Z">
@@ -74557,6 +75541,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T133939Z">
         <seg>запускаць у стане завадзкіх выпрабаваньняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>schedule</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121741Z">
+        <seg>расклад</seg>
       </tuv>
     </tu>
     <tu>
@@ -74745,6 +75737,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>showBiwOnClick</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064509Z">
+        <seg>showBiwOnClick</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>showSmallBiw</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064507Z">
+        <seg>showSmallBiw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>show_fav_contacts</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T091503Z">
@@ -74917,6 +75925,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T183136Z">
         <seg>зорачка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>start_time</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065250Z">
+        <seg>start_time</seg>
       </tuv>
     </tu>
     <tu>
@@ -75209,6 +76225,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>title</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064340Z">
+        <seg>title</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>tn-ZA</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110729T162256Z">
@@ -75237,6 +76261,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T195346Z">
         <seg>каб адхіліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>to stop</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121646Z">
+        <seg>да прыпынку</seg>
       </tuv>
     </tu>
     <tu>
@@ -75305,6 +76337,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tram</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121835Z">
+        <seg>трамвай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>transport_type_id</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065245Z">
+        <seg>transport_type_id</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>transpot</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121512Z">
+        <seg>transpot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trolleybus</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121833Z">
+        <seg>тралейбус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>true</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T211654Z">
@@ -75333,6 +76397,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T153153Z">
         <seg>два</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>type</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064414Z">
+        <seg>type</seg>
       </tuv>
     </tu>
     <tu>
@@ -75585,6 +76657,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>was</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121548Z">
+        <seg>быў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>water?</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T165815Z">
@@ -75605,6 +76685,38 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T152157Z">
         <seg>тыдзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>week_days</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065248Z">
+        <seg>week_days</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>week_days_details</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065249Z">
+        <seg>week_days_details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>weekdays</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121839Z">
+        <seg>будні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>weekend</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121905Z">
+        <seg>субота й нядзеля</seg>
       </tuv>
     </tu>
     <tu>
@@ -76265,6 +77377,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Минск-Южный</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065331Z">
+        <seg>Мінск-Паўднёвы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Настройки</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T185931Z">
@@ -76505,10 +77625,146 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>выбранного</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121734Z">
+        <seg>абранага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>д/с Дружная - ж\д ст.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065313Z">
+        <seg>д/с Дружная — чыг. ст.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>д/с Дружная - ж\д ст. Минск-Южный</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T070253Z">
+        <seg>д/с Дружная — чыг. ст. Мінск-Паўднёвы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ж\д ст. Минск-Южный - д/с Дружная</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T070604Z">
+        <seg>д/с Дружная — чыг. ст. Мінск-Паўднёвы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>о MagnetLink</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T190038Z">
         <seg>Пра MagnetLink</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>пер. Михайловский, 4</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T064944Z">
+        <seg>зав. Міхайлаўскі, 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>пр-т Дзержинского, 104, ТЦ «Титан»</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065001Z">
+        <seg>пр-т Дзяржынскага, 104, ГЦ «Тытан»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>пр-т Машерова, 19</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065009Z">
+        <seg>пр-т Машэрава, 19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>пр-т Независимости, 105</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065026Z">
+        <seg>пр-т Незалежнасці, 105</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>пр-т Независимости, 60</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065033Z">
+        <seg>пр-т Незалежнасці, 60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>пр-т Партизанский, 12</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065041Z">
+        <seg>пр-т Партызанскі, 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Бельского, 14</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065203Z">
+        <seg>вул. Бельскага, 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Интернациональная, 3</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065208Z">
+        <seg>вул. Інтэрнацыянальная, 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Кальварийская, 24, ТЦ «Корона»</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065218Z">
+        <seg>вул. Кальварыйская, 24, ГЦ «Карона»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Кальварийская, 4</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065224Z">
+        <seg>вул. Кальварыйская, 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Куйбышева, 69</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065230Z">
+        <seg>вул. Куйбышава, 69</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Лобанка, 14</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065236Z">
+        <seg>вул. Лабанка, 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ул. Мельникайте, 14</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T065242Z">
+        <seg>вул. Мельнікайтэ, 14</seg>
       </tuv>
     </tu>
     <tu>
@@ -76541,6 +77797,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T173626Z">
         <seg>℉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>№</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121837Z">
+        <seg>№</seg>
       </tuv>
     </tu>
     <tu>
@@ -76617,7 +77881,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">(thrid party)/BathingCat_VERSION.xml</prop>
+      <prop type="file">BathingCat/arrays_VERSION.xml</prop>
+      <tuv lang="en">
+        <seg>What are you doing?</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110926T140326Z">
+        <seg>Што ты робіш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">BathingCat/strings_VERSION.xml</prop>
       <tuv lang="en">
         <seg>What are you doing?</seg>
       </tuv>
@@ -76626,7 +77899,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">(thrid party)/BathingCat_VERSION.xml</prop>
+      <prop type="file">BathingCat/strings_VERSION.xml</prop>
       <prop type="id">health_unknown</prop>
       <tuv lang="en">
         <seg>unknown</seg>
@@ -76636,273 +77909,13 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">(thrid party)/BathingCat_VERSION.xml</prop>
+      <prop type="file">BathingCat/strings_VERSION.xml</prop>
       <prop type="id">status_unknown</prop>
       <tuv lang="en">
         <seg>unknown</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T173835Z">
         <seg>невядома</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Google+_VERSION.xml</prop>
-      <prop type="id">compose_update_submit</prop>
-      <tuv lang="en">
-        <seg>Post</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110826T103630Z">
-        <seg>Апублікаваць</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Google+_VERSION.xml</prop>
-      <prop type="id">people_report_reason_spam</prop>
-      <tuv lang="en">
-        <seg>Spam</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110826T093503Z">
-        <seg>Лухта (спам)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">call_options_menu_resume</prop>
-      <tuv lang="en">
-        <seg>Resume</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T112826Z">
-        <seg>Аднавіць</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">call_participant_status_stopped</prop>
-      <tuv lang="en">
-        <seg>Left</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T112853Z">
-        <seg>Сыходзіць</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">chat_pending</prop>
-      <tuv lang="en">
-        <seg>Pending</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T113641Z">
-        <seg>Яшчэ не прачыталі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">contacts_context_menu_call_mobile</prop>
-      <tuv lang="en">
-        <seg>Call mobile</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T105318Z">
-        <seg>Выклікаць па перасоўным</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">contacts_context_menu_call_office</prop>
-      <tuv lang="en">
-        <seg>Call office</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T105314Z">
-        <seg>Выклікаць па працоўным</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">contacts_list_group_online</prop>
-      <tuv lang="en">
-        <seg>Online</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T091649Z">
-        <seg>У сетцы</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">events_dialog_im</prop>
-      <tuv lang="en">
-        <seg>IM</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115011Z">
-        <seg>Гутарыць</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">general_credits_not_available</prop>
-      <tuv lang="en">
-        <seg>Not available</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T094623Z">
-        <seg>Адсутнічае</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">my_profile_activate</prop>
-      <tuv lang="en">
-        <seg>Active</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T100754Z">
-        <seg>Дзейнічае</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">my_profile_change_status_text_online</prop>
-      <tuv lang="en">
-        <seg>Online</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T100830Z">
-        <seg>У сетцы</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">phone_number_home_type</prop>
-      <tuv lang="en">
-        <seg>Home</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115730Z">
-        <seg>Хатні</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">phone_number_other_type</prop>
-      <tuv lang="en">
-        <seg>Other</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T115736Z">
-        <seg>Іншы</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">profile_action_unblock</prop>
-      <tuv lang="en">
-        <seg>Unblock</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T092452Z">
-        <seg>Адамкнуць</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">profile_request_block</prop>
-      <tuv lang="en">
-        <seg>Block</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T092532Z">
-        <seg>Замкнуць</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_edit_message_key</prop>
-      <tuv lang="en">
-        <seg>message</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T091553Z">
-        <seg>message</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_privacy_anyone</prop>
-      <tuv lang="en">
-        <seg>Anyone</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T114354Z">
-        <seg>ад усіх</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_privacy_contacts_only</prop>
-      <tuv lang="en">
-        <seg>Contacts only</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T114411Z">
-        <seg>толькі ад кантактаў</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_video_call_show_my_video_to_anyone</prop>
-      <tuv lang="en">
-        <seg>Anyone</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T114151Z">
-        <seg>ўсім</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_video_call_show_my_video_to_only_contact</prop>
-      <tuv lang="en">
-        <seg>Contacts only</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T114159Z">
-        <seg>толькі кантактам</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_video_call_video_quality_high</prop>
-      <tuv lang="en">
-        <seg>High</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T114214Z">
-        <seg>Высокая</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">settings_video_call_video_quality_low</prop>
-      <tuv lang="en">
-        <seg>Low</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T114219Z">
-        <seg>Нізкая</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">sms_pending</prop>
-      <tuv lang="en">
-        <seg>Pending</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T140552Z">
-        <seg>Яшчэ не прачыталі</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/Skype_VERSION.xml</prop>
-      <prop type="id">video_setting_no_video</prop>
-      <tuv lang="en">
-        <seg>Video off</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110913T120756Z">
-        <seg>Няма відэа</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">(thrid party)/TransPot_VERSION.xml</prop>
-      <prop type="id">name</prop>
-      <tuv lang="en">
-        <seg>Name:</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110816T115834Z">
-        <seg>Назва:</seg>
       </tuv>
     </tu>
     <tu>
@@ -77383,6 +78396,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
+      <prop type="file">Google+/strings_VERSION.xml</prop>
+      <prop type="id">compose_update_submit</prop>
+      <tuv lang="en">
+        <seg>Post</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110826T103630Z">
+        <seg>Апублікаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Google+/strings_VERSION.xml</prop>
+      <prop type="id">people_report_reason_spam</prop>
+      <tuv lang="en">
+        <seg>Spam</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110826T093503Z">
+        <seg>Лухта (спам)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">MediaUploader/strings_VERSION.xml</prop>
       <prop type="id">yt_private_access</prop>
       <tuv lang="en">
@@ -77423,6 +78456,236 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">call_options_menu_resume</prop>
+      <tuv lang="en">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T112826Z">
+        <seg>Аднавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">call_participant_status_stopped</prop>
+      <tuv lang="en">
+        <seg>Left</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T112853Z">
+        <seg>Сыходзіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">chat_pending</prop>
+      <tuv lang="en">
+        <seg>Pending</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T113641Z">
+        <seg>Яшчэ не прачыталі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">contacts_context_menu_call_mobile</prop>
+      <tuv lang="en">
+        <seg>Call mobile</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T105318Z">
+        <seg>Выклікаць па перасоўным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">contacts_context_menu_call_office</prop>
+      <tuv lang="en">
+        <seg>Call office</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T105314Z">
+        <seg>Выклікаць па працоўным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">contacts_list_group_online</prop>
+      <tuv lang="en">
+        <seg>Online</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T091649Z">
+        <seg>У сетцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">events_dialog_im</prop>
+      <tuv lang="en">
+        <seg>IM</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T115011Z">
+        <seg>Гутарыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">general_credits_not_available</prop>
+      <tuv lang="en">
+        <seg>Not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T094623Z">
+        <seg>Адсутнічае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">my_profile_activate</prop>
+      <tuv lang="en">
+        <seg>Active</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T100754Z">
+        <seg>Дзейнічае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">my_profile_change_status_text_online</prop>
+      <tuv lang="en">
+        <seg>Online</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T100830Z">
+        <seg>У сетцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">phone_number_home_type</prop>
+      <tuv lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T115730Z">
+        <seg>Хатні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">phone_number_other_type</prop>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T115736Z">
+        <seg>Іншы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">profile_action_unblock</prop>
+      <tuv lang="en">
+        <seg>Unblock</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T092452Z">
+        <seg>Адамкнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">profile_request_block</prop>
+      <tuv lang="en">
+        <seg>Block</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T092532Z">
+        <seg>Замкнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_edit_message_key</prop>
+      <tuv lang="en">
+        <seg>message</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T091553Z">
+        <seg>message</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_privacy_anyone</prop>
+      <tuv lang="en">
+        <seg>Anyone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T114354Z">
+        <seg>ад усіх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_privacy_contacts_only</prop>
+      <tuv lang="en">
+        <seg>Contacts only</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T114411Z">
+        <seg>толькі ад кантактаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_video_call_show_my_video_to_anyone</prop>
+      <tuv lang="en">
+        <seg>Anyone</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T114151Z">
+        <seg>ўсім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_video_call_show_my_video_to_only_contact</prop>
+      <tuv lang="en">
+        <seg>Contacts only</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T114159Z">
+        <seg>толькі кантактам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_video_call_video_quality_high</prop>
+      <tuv lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T114214Z">
+        <seg>Высокая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">settings_video_call_video_quality_low</prop>
+      <tuv lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T114219Z">
+        <seg>Нізкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">sms_pending</prop>
+      <tuv lang="en">
+        <seg>Pending</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T140552Z">
+        <seg>Яшчэ не прачыталі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="id">video_setting_no_video</prop>
+      <tuv lang="en">
+        <seg>Video off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110913T120756Z">
+        <seg>Няма відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Talk/strings_VERSION.xml</prop>
       <prop type="id">block_button</prop>
       <tuv lang="en">
@@ -77440,6 +78703,76 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110728T192546Z">
         <seg>Пераслаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">home_page_favorite</prop>
+      <tuv lang="en">
+        <seg>Favorite</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122401Z">
+        <seg>Упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">mins_couple</prop>
+      <tuv lang="en">
+        <seg>min</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121712Z">
+        <seg>хвіліны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">mins_many</prop>
+      <tuv lang="en">
+        <seg>min</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121718Z">
+        <seg>хвілінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">mins_one</prop>
+      <tuv lang="en">
+        <seg>min</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T121704Z">
+        <seg>хвіліну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">name</prop>
+      <tuv lang="en">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110816T115834Z">
+        <seg>Назва:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">pref_category_update</prop>
+      <tuv lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122256Z">
+        <seg>Абнаўленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="id">update_btn_load</prop>
+      <tuv lang="en">
+        <seg>Load</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110928T122021Z">
+        <seg>Спампаваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -77965,8 +79298,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110729T155002Z">
-        <seg>Schicke Buzz</seg>
+      <tuv lang="be" changeid="klyok" changedate="20110926T113354Z">
+        <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
       </tuv>
     </tu>
     <tu>

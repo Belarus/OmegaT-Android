@@ -210,6 +210,13 @@ complete
 component
 com.skype.raider
 com.svox.pico
+com.transpot.auto_update
+com.transpot.find_stop_by_gps
+com.transpot.manual_update
+com.transpot.min_to_show_backward
+com.transpot.min_to_show_forward
+com.transpot.velcom_recomendation
+com.transpot.wifi_update
 Connect
 ContactsLaunchActivity
 container
@@ -519,6 +526,7 @@ LARGER
 LARGEST
 Latin
 LatinIME
+Layar
 LG
 like
 Linux
@@ -885,6 +893,7 @@ tools
 torch
 tou
 TransDroid
+transpot
 tr-TR
 true
 ts-ZA
@@ -924,6 +933,7 @@ V8
 vCard
 vcf
 VCO
+Velcom
 Version
 ve-ZA
 videortp-release
