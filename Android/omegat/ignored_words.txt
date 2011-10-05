@@ -1,5 +1,6 @@
 +
 $02d
+100x100
 1024x768
 10min
 15min
@@ -9,6 +10,7 @@ $02d
 1month
 1s
 1week
+1x1
 2048x1536
 2592x1936
 2592x1944
@@ -20,6 +22,8 @@ $02d
 3days
 3G
 4G
+4x2
+50x50
 5min
 802.1x
 a
@@ -43,6 +47,7 @@ ACM
 acoustic
 action
 ActiveSync
+AdFree
 advanced
 ADW
 adw_launcher.db
@@ -56,6 +61,9 @@ ALT
 always
 Always
 Amazon
+amberfog
+Amberfog
+amberfog.com
 am-google
 an
 android
@@ -377,7 +385,9 @@ files
 fil-PH
 fine
 fireworks
+firstname
 fluorescent
+flv
 Flyer
 FlylinkDC
 flylinkdc.com
@@ -390,6 +400,7 @@ fr-BE
 fr-CA
 fr-CH
 fr-FR
+friend
 Froyo
 fullname
 für
@@ -423,12 +434,14 @@ H
 Hanna.Jakimovich
 HCO
 HD
+HD720
 HH
 HIDE
 high
 hi-IN
 hint_foreground_dark
 hint_foreground_light
+hints
 hip_hop
 history
 hl
@@ -442,6 +455,7 @@ HTML
 http
 HTTP
 https
+HTTPS
 hu-HU
 ic_emergency
 ic_list_drafts
@@ -453,6 +467,7 @@ ic_list_spam
 ic_list_trash
 ICQ
 id
+id1708231
 id-ID
 if
 iGoogle
@@ -511,6 +526,26 @@ jog_tab_target_gray
 JP
 jp.co.omronsoft.openwnn
 k
+Kate
+key_autoupdate
+key_first_tab
+key_images
+key_long_pull
+key_news_friend
+key_news_note
+key_news_photo
+key_news_photo_tag
+key_news_post
+key_notifications
+key_notify_interval
+key_notify_led
+key_notify_messages
+key_notify_news
+key_notify_ringtone
+key_notify_sound
+key_notify_vibration
+key_online
+key_wifi
 KHTML
 khtosci
 ko-KR
@@ -524,10 +559,12 @@ language
 languages
 LARGER
 LARGEST
+lastname
 Latin
 LatinIME
 Layar
 LG
+Light
 like
 Linux
 list
@@ -628,6 +665,7 @@ no_flash
 none
 normal
 NORMAL
+note
 notification
 notifications_enabled
 notifications_ringtone
@@ -684,6 +722,8 @@ phone_home
 phone_mobile
 phone_office
 phone_signal
+photo
+photo_tag
 Picasa
 picasaweb.google.com
 Pico
@@ -705,6 +745,7 @@ popup_full_dark
 popup_top_bright
 popup_top_dark
 portrait
+post
 POSTDATA
 posterize
 PPP
@@ -757,6 +798,7 @@ Revolution
 rmnet
 rmnet0
 rock
+RockPlayer
 ro-RO
 RSSI
 ru-BY
@@ -901,6 +943,7 @@ TTLS
 tty
 TTY
 Twitter
+twitter.com
 U
 u0020
 u0020%
@@ -939,6 +982,10 @@ ve-ZA
 videortp-release
 viewer
 vi-VN
+vk_amberfog
+vkamberfog.blogspot.com
+vk.amberfog.com
+vkontakte.ru
 vocale
 voice
 voice_mode_main
@@ -948,6 +995,7 @@ voice-search
 Voici
 volume
 voz
+VPlayer
 VPN
 WAP
 WAP-PUSH

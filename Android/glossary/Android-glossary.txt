@@ -9,6 +9,7 @@ accounts	рахункі
 account	рахунак
 activities	дзейнасьці
 activity	дзейнасьць
+added	новы
 Additional Privacy Policy	дадатковыя правілы адасобленасьці
 adjust	настаўляць
 administration	кіраваньне
@@ -43,9 +44,12 @@ attach	залучаць
 attention	увага
 audible	чутны
 audio file	гукавы файл
+audio	аўдыёзапіс	
+audio	гуказапіс	
 authenticating	апазнаваньне
 authentication	апазнаваньне
 authenticator	апазнавальнік
+authorization	упаўнаважаньне	
 automatically	самарушна
 auto-refresh	самарушна абнаўляцца
 auto	самарушна
@@ -94,6 +98,7 @@ camcorder	відэакамэра
 Cancel	Скасаваць
 cannot	нельга
 cannot	не ўдаецца
+captcha	???
 caption	подпіс
 car mode	стан «у машыне»
 carrier	апэратар
@@ -104,6 +109,7 @@ charger	зарада
 charging	зараджаецца
 chats	гамана
 chats	гамана
+chats	гутаркі
 chat	гутарка
 chat	гутаркі
 chat	гутарыць
@@ -121,6 +127,7 @@ coarse	грубы
 codec	кодэк
 codename	найменьне
 columns	слупкі
+comment added	выказаліся
 comments	выказваньні
 comments	выказваньні
 comments	заўвагі
@@ -253,6 +260,8 @@ flashlight	ліхтарык
 flash	выбліск
 folders	каталёґі
 folder	каталёґ
+followers	падпісанты
+follower	падпісант	
 format	разьмячаць
 for more information	каб даведацца болей
 form	блянк
@@ -271,6 +280,7 @@ Google Maps Navigation	Навіґацыя мапамі Google
 Google Messaging Service	служба паведамленьняў Google
 Google Talk	Гутарка Google
 Go online	Далучыцца
+groups	суполкі
 group	суполка
 group	супольны
 guests	запрошаныя
@@ -314,9 +324,11 @@ keyboard	клявіятура
 labels	цэтлікі
 label	цэтлік
 LAC	код мясцовасьці («Location Area Code»)
+landline	гарадзкі
 landscape	альбомная
 Land	звычайны (тэлефон)
 Language & keyboard	Мова ды клявіятура
+latest	найноўшая
 Latitude	Спадарожнік
 LauncherActions	Дзеяньні пускача
 launcher	пускач
@@ -325,6 +337,7 @@ layers	пласты
 layer	пласт
 learn	даведвацца
 LED	лямпачка
+LED	мігцець
 legal	прававыя зьвесткі
 limit reached	перавысілі абмежаваньне
 link	прывязваць
@@ -338,6 +351,7 @@ location	месцазнаходжаньне
 locked	замкнёны
 locking	замыкаць
 lock	замыкаць
+Log Out	выйсьці
 log	справаздача
 lost	згубілі
 mailbox	паштовая скрынка
@@ -347,6 +361,7 @@ maps live wallpaper	жывыя шпалеры з мапаў
 market	крама
 media	мэдыя
 media	сховішчы
+mention	згадваньне
 Menu	«Мэню»
 methods	спосабы
 method	спосаб
@@ -364,6 +379,8 @@ monitor	сачыць
 mount	мацаваць
 move	перасоўваць
 multicast	бязадрасны
+mutual	агульны
+mutual	супольны	
 My downloads	Маё спампаванае
 name	імя
 name	назва
@@ -374,6 +391,7 @@ News Feed	стужка навінаў
 Next	«Далей»
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
+note	зацемка
 Not for use by normal applications	Звычайнымі праґрамамі не выкарыстоўваецца
 not found	не знайшлі
 notifications	спавяшчэньні
@@ -408,6 +426,8 @@ PDP	пратакол пакетных зьвестак («Packet Data Protocol»
 peripherals	вонкавыя прылады
 personal	асабісты
 photos	фатаздымкі
+photo	здымак
+photo	здымак -ка
 photo	фатаздымак
 pick	выбіраць
 pictures	здымкі (з камэры)
@@ -416,6 +436,7 @@ picture	здымак -ка
 picture	малюнак -ку
 PIN code	код PIN
 pitch	вышыня
+player	прайгравальнік -а	
 playlists	сьпісы
 playlist	сьпіс
 play sounds	гучэць
@@ -431,6 +452,7 @@ pokes	штуршкі
 poke	штуршок
 polar clock	дугавы гадзіньнік
 policy	правілы
+poll	апытаньне
 pop-up windows	раптоўныя вокны
 pop-up window	раптоўнае вакно
 pop-up	раптоўнае
@@ -524,6 +546,7 @@ setting	налады
 set up	уладкоўваць
 setup	уладкоўваць
 set wallpaper	усталяваць шпалеры
+sex	плоць
 shared	супольны
 share	дзяліцца
 shortcuts	выклічнікі
@@ -572,8 +595,11 @@ supplicant	просьбіт
 support	падтрымваць
 suspended	прыпынілі
 sync	сынхранізаваць
+tabs	укладкі
 tab	зрух
+tab	укладка
 tags	біркі
+tags	пазнакі
 tag	бірка
 tag	пазнака	Tag
 terms and conditions	умовы ды азначэньні
@@ -601,6 +627,7 @@ TransPot	ТранШпарт
 trash	сьметніца
 TTS	сыстэма агучваць тэкст
 Turn off USB storage	Выключыць сховішча USB
+Twitter	Twitter
 typed	набралі
 types	віды
 type	від
@@ -635,10 +662,14 @@ verified	пацьверджаны
 verified	праверылі
 verifying	правяраецца
 vibrate	трымцець
+vibration	трымцець	
 vibrator	трымценьнік
+video	відэа
+video	відэазапіс
 viewer	прагляднік
 view	зірнуць
 visualizer	узнаўляльнік
+VKontakte	УКантакце
 Voice input & output	Уводзіць і выводзіць голасам
 Voice input	Уводзіць голасам
 voicemail	галасавая пошта
@@ -659,5 +690,12 @@ will be uploaded	запампуецца
 window	вакно
 wireless	бяздротавы
 wizard	сродак
+Yandex.Maps	Яндэкс.Мапы
 ж\д ст.	чыг. ст.
+маршрут	шлях
+метки	пазнакі
 Минск-Южный	Мінск-Паўднёвы
+слои	пласты
+слой	пласт
+Яндекс.Карты	Яндэкс.Мапы	
+Яндекс.Пробки	Яндэкс.Заторы
