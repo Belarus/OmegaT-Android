@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="auto_correction_threshold_values">
+        <item></item>
+        <item>0.22</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="keyboard_layout_modes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="subtype_locale_exception_keys">
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="subtype_locale_exception_values">
+        <item>English (US)</item>
+        <item>English (UK)</item>
+    </string-array>
+</resources>

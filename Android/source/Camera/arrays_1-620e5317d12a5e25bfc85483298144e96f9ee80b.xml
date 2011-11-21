@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="pref_video_quality_entryvalues">
+        <item>high</item>
+        <item>low</item>
+        <item>mms</item>
+        <item>youtube</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues">
+        <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1024x768</item>
+        <item>320x240</item>
+    </string-array>
+    <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>superfine</item>
+        <item>fine</item>
+        <item>normal</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>auto</item>
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>torch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>cloudy-daylight</item>
+    </string-array>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>none</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>aqua</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>auto</item>
+        <item>action</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>night</item>
+        <item>night-portrait</item>
+        <item>theatre</item>
+        <item>beach</item>
+        <item>snow</item>
+        <item>sunset</item>
+        <item>steadyphoto</item>
+        <item>fireworks</item>
+    </string-array>
+    <string-array name="pref_camera_quickcapture_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+</resources>

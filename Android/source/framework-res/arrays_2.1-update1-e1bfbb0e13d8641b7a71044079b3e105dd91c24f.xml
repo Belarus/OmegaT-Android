@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Work Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="status_bar_icon_order">
+        <item>clock</item>
+        <item>battery</item>
+        <item>sdcard</item>
+        <item>phone_signal</item>
+        <item>phone_evdo_signal</item>
+        <item>data_connection</item>
+        <item>cdma_eri</item>
+        <item>tty</item>
+        <item>alarm_clock</item>
+        <item>light</item>
+        <item>volume</item>
+        <item>mute</item>
+        <item>speakerphone</item>
+        <item>wifi</item>
+        <item>tty</item>
+        <item>bluetooth</item>
+        <item>gps</item>
+        <item>sync_active</item>
+        <item>sync_failing</item>
+        <item>ime</item>
+    </string-array>
+    <string-array name="default_web_search_providers">
+        <item>com.google.android.providers.enhancedgooglesearch/.Launcher</item>
+        <item>com.android.googlesearch/.GoogleSearch</item>
+        <item>com.android.websearch/.Search.1</item>
+    </string-array>
+    <string-array name="networkAttributes">
+        <item>default,wifi,0</item>
+        <item>default,mobile,0</item>
+        <item>mms,mobile,1</item>
+        <item>supl,mobile,1</item>
+        <item>dun,mobile,1</item>
+        <item>hipri,mobile,2</item>
+    </string-array>
+    <string-array name="radioAttributes">
+        <item>wifi,1,1</item>
+        <item>mobile,0,1</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+</resources>

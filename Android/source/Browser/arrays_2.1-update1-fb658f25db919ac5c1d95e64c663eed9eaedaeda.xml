@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="extensions">
+        <item>amr</item>
+        <item>imy</item>
+        <item>xmf</item>
+        <item>rtttl</item>
+        <item>awb</item>
+        <item>pmd</item>
+        <item>au</item>
+        <item>rmf</item>
+        <item>aac</item>
+        <item>mpg4</item>
+        <item>m4v</item>
+        <item>3gpp</item>
+        <item>3gpp2</item>
+        <item>rmvb</item>
+        <item>flv</item>
+        <item>log</item>
+        <item>c</item>
+        <item>h</item>
+        <item>ini</item>
+        <item>vcf</item>
+        <item>csv</item>
+        <item>xml</item>
+        <item>rtx</item>
+        <item>pdf</item>
+        <item></item>
+        <item>wpl</item>
+        <item>jar</item>
+        <item>jad</item>
+        <item>z</item>
+        <item>gz</item>
+        <item>bz2</item>
+        <item>doc</item>
+        <item>ppt</item>
+        <item>xls</item>
+        <item>chm</item>
+        <item>pdb</item>
+        <item>umd</item>
+        <item>chm</item>
+        <item>class</item>
+        <item>bin</item>
+        <item>dat</item>
+        <item>cab</item>
+        <item>exe</item>
+        <item>dll</item>
+        <item>apk</item>
+        <item>sys</item>
+        <item>fnt</item>
+        <item>flt</item>
+        <item>cfg</item>
+        <item>hlp</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Tiny</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Huge</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>SMALLEST</item>
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Far</item>
+        <item>Medium</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="pref_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+    </string-array>
+    <string-array name="pref_development_ua_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>life:)</item>
+        <item>http://life.com.by/</item>
+        <item>life:) Развлечения</item>
+        <item>http://wap.life.com.by/ru/entertainment.html</item>
+        <item>Мобильное телевидение</item>
+        <item>http://wap.itv.by</item>
+        <item>Однокласcники.ru</item>
+        <item>http://www.odnoklassniki.ru/</item>
+        <item>В Контакте</item>
+        <item>http://vkontakte.ru/</item>
+        <item>Youtube</item>
+        <item>http://www.youtube.com/</item>
+        <item>TUT.BY</item>
+        <item>http://tut.by/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Fring</item>
+        <item>http://www.fring.com/russia/</item>
+        <item>Nimbuzz!</item>
+        <item>http://www.nimbuzz.com/ru</item>
+    </string-array>
+</resources>

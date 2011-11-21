@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="select_call_options">
+        <item>Call</item>
+        <item>Edit Before Call</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Organization</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="auto_refr">
+        <item>Enabled</item>
+        <item>Disabled</item>
+        <item>Only Home network</item>
+    </string-array>
+    <string-array name="rfrsh_intvl">
+        <item>Every 5 mins</item>
+        <item>Every 30 mins</item>
+        <item>Every 1 hr</item>
+        <item>Every 8 hrs</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Customize</item>
+    </string-array>
+    <string-array name="game_noti">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="Widget_event">
+        <item>From imported friends</item>
+        <item>From all friends</item>
+    </string-array>
+    <string-array name="events_smiley_text">
+        <item>:)</item>
+        <item>//cry</item>
+        <item>:(</item>
+        <item>//angry</item>
+        <item>//amazed</item>
+        <item>//missyou</item>
+        <item>//tanglement</item>
+        <item>//heart</item>
+        <item>//loving</item>
+        <item>//green</item>
+        <item>//cake</item>
+        <item>//sun</item>
+        <item>//rainbow</item>
+        <item>//praise</item>
+        <item>//crown</item>
+        <item>//snow</item>
+        <item>//help</item>
+        <item>//music</item>
+        <item>//car</item>
+        <item>//cheers</item>
+        <item>//paint</item>
+        <item>//travel</item>
+        <item>//pighead</item>
+        <item>//daze</item>
+        <item>//shutup</item>
+        <item>//yy</item>
+        <item>//kiss</item>
+        <item>//woundplast</item>
+        <item>//football</item>
+        <item>//star</item>
+        <item>//moon</item>
+        <item>//thunder</item>
+        <item>//cup</item>
+        <item>//diamond</item>
+        <item>//happiness</item>
+        <item>//camera</item>
+        <item>//leer</item>
+        <item>//watermelon</item>
+        <item>//rain</item>
+        <item>//octopus</item>
+        <item>//ices</item>
+        <item>//mushroom</item>
+        <item>//wail</item>
+        <item>//sleeping</item>
+    </string-array>
+    <string-array name="updated_smiley_names">
+        <item>Happy</item>
+        <item>Cry</item>
+        <item>Sorrow</item>
+        <item>Angry</item>
+        <item>Amazed</item>
+        <item>Miss You</item>
+        <item>Tanglement</item>
+        <item>Heart</item>
+        <item>Loving</item>
+        <item>Green</item>
+        <item>Cake</item>
+        <item>Sun</item>
+        <item>Rainbow</item>
+        <item>Praise</item>
+        <item>Crown</item>
+        <item>Snow</item>
+        <item>Help</item>
+        <item>Music</item>
+        <item>Car</item>
+        <item>Cheers</item>
+        <item>Paint</item>
+        <item>Football</item>
+        <item>Travel</item>
+        <item>Pighead</item>
+    </string-array>
+    <string-array name="default_smileys_text">
+        <item>:)</item>
+        <item>:(</item>
+        <item>;(</item>
+        <item>:@</item>
+        <item>:O</item>
+        <item>:[</item>
+        <item>:*</item>
+        <item>:!</item>
+        <item>:D</item>
+    </string-array>
+    <string-array name="default_smileys_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Cry</item>
+        <item>Angry</item>
+        <item>Amazed</item>
+        <item>MissYou</item>
+        <item>Kiss</item>
+        <item>ShutUp</item>
+        <item>Happiness</item>
+    </string-array>
+    <string-array name="sina_smiley_text">
+        <item>[呵呵]</item>
+        <item>[哼]</item>
+        <item>[怒]</item>
+        <item>[困]</item>
+        <item>[衰]</item>
+        <item>[晕]</item>
+        <item>[足球]</item>
+        <item>[心]</item>
+        <item>[蛋糕]</item>
+        <item>[太阳]</item>
+        <item>[干杯]</item>
+        <item>[猪头]</item>
+    </string-array>
+</resources>
