@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <plurals name="notes_reminder_count">
-        <item quantity="other">%d notes on today</item>
-        <item quantity="one">1 note on today</item>
-    </plurals>
-</resources>

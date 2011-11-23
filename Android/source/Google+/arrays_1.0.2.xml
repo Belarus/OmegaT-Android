@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string-array name="realtimechat_backends">
-        <item>realtime-chat@bot.talk.google.com</item>
-        <item>realtime-chat-dev@bot.talk.google.com</item>
-        <item>realtime-chat-canary@bot.talk.google.com</item>
-    </string-array>
-</resources>

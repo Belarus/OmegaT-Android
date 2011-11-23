@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string name="app_name">User Guide</string>
-    <string name="tutorial_path">/system/doc/HUAWEI_S7_Tablet_User_Guide.pdf</string>
-    <string name="hint_file_not_exist">The file does not exist.</string>
-</resources>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string name="application_name">Gmail Storage</string>
-    <string name="read_perm_label">read Gmail</string>
-    <string name="read_perm_desc">Allows this application to read your Gmail.</string>
-    <string name="write_perm_label">modify Gmail</string>
-    <string name="write_perm_desc">Allows this application to modify your Gmail, including sending and deleting mail.</string>
-    <string name="provider_label">Gmail</string>
-</resources>

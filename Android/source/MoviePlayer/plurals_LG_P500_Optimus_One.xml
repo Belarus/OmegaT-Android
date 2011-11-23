@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <plurals name="divx_expired_contents">
-        <item quantity="other">This DivX rental has used %d out of %d views.</item>
-        <item quantity="one">This DivX rental has used %d out of %d view.</item>
-    </plurals>
-</resources>

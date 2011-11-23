@@ -84292,7 +84292,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Google+/strings_VERSION.xml</prop>
+      <prop type="file">GooglePlus/strings_VERSION.xml</prop>
       <prop type="id">compose_update_submit</prop>
       <tuv lang="en">
         <seg>Post</seg>
@@ -84302,7 +84302,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Google+/strings_VERSION.xml</prop>
+      <prop type="file">GooglePlus/strings_VERSION.xml</prop>
       <prop type="id">people_report_reason_spam</prop>
       <tuv lang="en">
         <seg>Spam</seg>
@@ -84312,7 +84312,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Kate Mobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
       <prop type="id">label_menu_zoom</prop>
       <tuv lang="en">
         <seg>Zoom buttons</seg>
@@ -84322,7 +84322,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Kate Mobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
       <prop type="id">name_empty</prop>
       <tuv lang="en">
         <seg>Name is empty</seg>
@@ -84332,7 +84332,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Kate Mobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
       <prop type="id">notify_sound</prop>
       <tuv lang="en">
         <seg>Sound</seg>
@@ -84342,7 +84342,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Kate Mobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
       <prop type="id">title_audio_info</prop>
       <tuv lang="en">
         <seg>Audio</seg>
@@ -84352,7 +84352,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Kate Mobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
       <prop type="id">title_videos_info</prop>
       <tuv lang="en">
         <seg>Video</seg>
@@ -87940,7 +87940,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Яндекс.Карты/strings_VERSION.xml</prop>
+      <prop type="file">YandexMaps/strings_VERSION.xml</prop>
       <prop type="id">app_name_en</prop>
       <tuv lang="en">
         <seg>Yandex.Maps</seg>
