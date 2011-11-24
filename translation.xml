@@ -1,35 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <translation xmlns="control.android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<app dirName="AccountAndSyncSettings" packageName="com.android.providers.subscribedfeeds" cyanogenDir="android_packages_apps_AccountsAndSyncSettings" translated="true"/>
-	<app dirName="ADWLauncher" packageName="org.adw.launcher" translated="true"/>
+	<app dirName="AccountAndSyncSettings" packageName="com.android.providers.subscribedfeeds" translated="true">
+	    <cyanogen src="android_packages_apps_AccountsAndSyncSettings/res" />
+	</app>
+	<app dirName="ADWLauncher" packageName="org.adw.launcher" translated="true">
+	    <cyanogen src="android_packages_apps_ADWLauncher/res" />
+	</app>
 	<app dirName="AIME" packageName="com.lge.android.aime" translated="true"/>
 	<app dirName="AlarmClock" packageName="com.android.alarmclock" translated="true"/>
 	<app dirName="AnalogClockWidget" packageName="com.lge.android.analogclock.widget" translated="true"/>
 	<app dirName="Androidian" packageName="com.tmobile.theme.Androidian" translated="true"/>
-	<app dirName="AndroidTerm" packageName="jackpal.androidterm2" cyanogenDir="android_packages_apps_AndroidTerm" translated="true"/>
-	<app dirName="ApplicationsProvider" packageName="com.android.providers.applications" cyanogenDir="android_packages_providers_ApplicationsProvider" translated="true"/>
-	<app dirName="Bluetooth" packageName="com.android.bluetooth" cyanogenDir="android_packages_apps_Bluetooth" translated="true"/>
+	<app dirName="AndroidTerm" packageName="jackpal.androidterm2" translated="true">
+	    <cyanogen src="android_packages_apps_AndroidTerm/res" />
+	</app>
+	<app dirName="ApplicationsProvider" packageName="com.android.providers.applications" translated="true">
+	    <cyanogen src="android_packages_providers_ApplicationsProvider/res" />
+	</app>
+	<app dirName="Bluetooth" packageName="com.android.bluetooth" translated="true">
+	    <cyanogen src="android_packages_apps_Bluetooth/res" />
+	</app>
 	<app dirName="BookmarksWidget" packageName="com.lge.android.bookmarks.widget" translated="true"/>
-	<app dirName="Browser" packageName="com.android.browser" cyanogenDir="android_packages_apps_Browser" translated="true"/>
-	<app dirName="Calculator" packageName="com.android.calculator2" cyanogenDir="android_packages_apps_Calculator" translated="true"/>
-	<app dirName="Calendar" packageName="com.android.calendar" cyanogenDir="android_packages_apps_Calendar" translated="true"/>
-	<app dirName="CalendarProvider" packageName="com.android.providers.calendar" cyanogenDir="android_packages_providers_CalendarProvider" translated="true"/>
+	<app dirName="Browser" packageName="com.android.browser" translated="true">
+	    <cyanogen src="android_packages_apps_Browser/res" />
+	</app>
+	<app dirName="Calculator" packageName="com.android.calculator2" translated="true">
+	    <cyanogen src="android_packages_apps_Calculator/res" />
+	</app>
+	<app dirName="Calendar" packageName="com.android.calendar" translated="true">
+	    <cyanogen src="android_packages_apps_Calendar/res" />
+	</app>
+	<app dirName="CalendarProvider" packageName="com.android.providers.calendar" translated="true">
+	    <cyanogen src="android_packages_providers_CalendarProvider/res" />
+	</app>
 	<app dirName="CalendarWidget" packageName="com.lge.android.calendarwidget" translated="true"/>
-	<app dirName="Camera" packageName="com.android.camera" cyanogenDir="android_packages_apps_Camera" translated="true"/>
+	<app dirName="Camera" packageName="com.android.camera" translated="true">
+	    <cyanogen src="android_packages_apps_Camera/res" />
+	</app>
 	<app dirName="CertInstaller" packageName="com.android.certinstaller" translated="true"/>
-	<app dirName="Contacts" packageName="com.android.contacts" cyanogenDir="android_packages_apps_Contacts" translated="true"/>
-	<app dirName="ContactsProvider" packageName="com.android.providers.contacts" cyanogenDir="android_packages_providers_ContactsProvider" translated="true"/>
-	<app dirName="DefaultContainerService" packageName="com.android.defcontainer" translated="true"/>
-	<app dirName="DeskClock" packageName="com.android.deskclock" cyanogenDir="android_packages_apps_DeskClock" translated="true"/>
-	<app dirName="DownloadProvider" packageName="com.android.providers.downloads" cyanogenDir="android_packages_providers_DownloadProvider" translated="true"/>
-	<app dirName="Email" packageName="com.android.email" cyanogenDir="android_packages_apps_Email" translated="true"/>
+	<app dirName="Contacts" packageName="com.android.contacts" translated="true">
+	    <cyanogen src="android_packages_apps_Contacts/res" />
+	</app>
+	<app dirName="ContactsProvider" packageName="com.android.providers.contacts" translated="true">
+	    <cyanogen src="android_packages_providers_ContactsProvider/res" />
+	</app>
+	<app dirName="DefaultContainerService" packageName="com.android.defcontainer" translated="true">
+	    <cyanogen src="android_frameworks_base/packages/DefaultContainerService/res" />
+	</app>
+	<app dirName="DeskClock" packageName="com.android.deskclock" translated="true">
+	    <cyanogen src="android_packages_apps_DeskClock/res" />
+	</app>
+	<app dirName="DownloadProvider" packageName="com.android.providers.downloads" translated="true">
+	    <cyanogen src="android_packages_providers_DownloadProvider/res" />
+	    <cyanogen src="android_packages_providers_DownloadProvider/ui/res" outSuffix="ui" />
+	</app>
+	<app dirName="Email" packageName="com.android.email" translated="true">
+	    <cyanogen src="android_packages_apps_Email/res" />
+	</app>
 	<app dirName="EmotionClockWidget" packageName="com.huawei.widget.emotionclock" translated="true"/>
 	<app dirName="EnhancedGoogleSearchProvider" packageName="com.google.android.providers.enhancedgooglesearch" translated="true"/>
 	<app dirName="Exchange" packageName="com.android.exchange" translated="true"/>
 	<app dirName="Facebook" packageName="com.facebook.katana" translated="true"/>
-	<app dirName="framework-res" packageName="android" cyanogenDir="android_frameworks_base" translated="true"/>
+	<app dirName="framework-res" packageName="android" translated="true">
+	    <cyanogen src="android_frameworks_base/core/res/res" />
+	    <cyanogen src="android_frameworks_base/packages/SystemUI/res" outSuffix="SystemUI"/>
+	</app>
 	<app dirName="framework-res-hwext" packageName="androidhwext" translated="true"/>
-	<app dirName="Gallery" packageName="com.android.gallery" cyanogenDir="android_packages_apps_Gallery" translated="true"/>
+	<app dirName="Gallery" packageName="com.android.gallery" translated="true">
+	    <cyanogen src="android_packages_apps_Gallery/res" />
+	</app>
 	<app dirName="GenieWidget" packageName="com.google.android.apps.genie.geniewidget" translated="true"/>
 	<app dirName="Gmail" packageName="com.google.android.gm" translated="true"/>
 	<app dirName="GmailProvider" packageName="com.google.android.providers.gmail" translated="true"/>
@@ -44,34 +82,55 @@
 	<app dirName="KateMobile" packageName="com.perm.kate" translated="true"/>
 	<app dirName="LatinIME" packageName="com.android.inputmethod.latin" translated="true"/>
 	<app dirName="LatinImeTutorial" packageName="com.google.android.latinimetutorial" translated="true"/>
-	<app dirName="Launcher" packageName="com.android.launcher" cyanogenDir="android_packages_apps_ADWLauncher" translated="true"/>
-	<app dirName="Launcher2" cyanogenDir="android_packages_apps_Launcher2" translated="true"/>
+	<app dirName="Launcher2" packageName="com.android.launcher" translated="true">
+	    <cyanogen src="android_packages_apps_Launcher2/res" />
+	</app>
 	<app dirName="LiveWallpapers" packageName="com.android.wallpaper" translated="true"/>
-	<app dirName="LiveWallpapersPicker" packageName="com.android.wallpaper.livepicker" cyanogenDir="android_packages_wallpapers_LivePicker" translated="true"/>
+	<app dirName="LiveWallpapersPicker" packageName="com.android.wallpaper.livepicker" translated="true">
+	    <cyanogen src="android_packages_wallpapers_LivePicker/res" />
+	</app>
 	<app dirName="Maps" packageName="com.google.android.apps.maps" translated="true"/>
 	<app dirName="MediaUploader" packageName="com.google.android.apps.uploader" translated="true"/>
-	<app dirName="Mms" packageName="com.android.mms" cyanogenDir="android_packages_apps_Mms" translated="true"/>
-	<app dirName="Music" packageName="com.android.music" cyanogenDir="android_packages_apps_Music" translated="true"/>
+	<app dirName="Mms" packageName="com.android.mms" translated="true">
+	    <cyanogen src="android_packages_apps_Mms/res" />
+	</app>
+	<app dirName="Music" packageName="com.android.music" translated="true">
+	    <cyanogen src="android_packages_apps_Music/res" />
+	</app>
 	<app dirName="MyBookmarks" packageName="com.huawei.android.appwidget" translated="true"/>
 	<app dirName="MyCalendar" packageName="com.huawei.android.calendarwidget" translated="true"/>
 	<app dirName="MyVideo" packageName="com.huawei.widget.video" translated="true"/>
 	<app dirName="NetworkLocation" packageName="com.google.android.location" translated="true"/>
-	<app dirName="PackageInstaller" packageName="com.android.packageinstaller" cyanogenDir="android_packages_apps_PackageInstaller" translated="true"/>
-	<app dirName="Phone" packageName="com.android.phone" cyanogenDir="android_packages_apps_Phone" translated="true"/>
-	<app dirName="QuickSearchBox" packageName="com.android.quicksearchbox" cyanogenDir="android_packages_apps_QuickSearchBox" translated="true"/>
+	<app dirName="PackageInstaller" packageName="com.android.packageinstaller" translated="true">
+	    <cyanogen src="android_packages_apps_PackageInstaller/res" />
+	</app>
+	<app dirName="Phone" packageName="com.android.phone" translated="true">
+	    <cyanogen src="android_packages_apps_Phone/res" />
+	</app>
+	<app dirName="QuickSearchBox" packageName="com.android.quicksearchbox" translated="true">
+	    <cyanogen src="android_packages_apps_QuickSearchBox/res" />
+	</app>
 	<app dirName="RomManager" packageName="com.koushikdutta.rommanager" translated="true"/>
-	<app dirName="Settings" packageName="com.android.settings" cyanogenDir="android_packages_apps_Settings" translated="true"/>
-	<app dirName="SettingsProvider" packageName="com.android.providers.settings" translated="true"/>
+	<app dirName="Settings" packageName="com.android.settings" translated="true">
+	    <cyanogen src="android_packages_apps_Settings/res" />
+	</app>
+	<app dirName="SettingsProvider" packageName="com.android.providers.settings" translated="true">
+	    <cyanogen src="android_frameworks_base/packages/SettingsProvider/res" />
+	</app>
 	<app dirName="SetupWizard" packageName="com.android.setupwizard" translated="true"/>
 	<app dirName="Skype" packageName="com.skype.raider" translated="true"/>
-	<app dirName="SuperUser" packageName="com.noshufou.android.su" cyanogenDir="android_packages_apps_Superuser" translated="true"/>
+	<app dirName="SuperUser" packageName="com.noshufou.android.su" translated="true">
+	    <cyanogen src="android_packages_apps_Superuser/res" />
+	</app>
 	<app dirName="TalkProvider" packageName="com.google.android.providers.talk" translated="true"/>
 	<app dirName="TransPot" packageName="com.transpot" translated="true"/>
 	<app dirName="TtsService" packageName="android.tts" translated="true"/>
 	<app dirName="Vending" packageName="com.android.vending" translated="true"/>
 	<app dirName="VisualizationWallpapers" packageName="com.android.musicvis" translated="true"/>
 	<app dirName="VoiceSearch" packageName="com.google.android.voicesearch" translated="true"/>
-	<app dirName="VpnServices" packageName="com.android.server.vpn" translated="true"/>
+	<app dirName="VpnServices" packageName="com.android.server.vpn" translated="true">
+	    <cyanogen src="android_frameworks_base/packages/VpnServices/res" />
+	</app>
 	<app dirName="WeatherClock" packageName="com.huawei.widget.emotionweatherclock" translated="true"/>
 	<app dirName="YandexMaps" packageName="ru.yandex.yandexmaps" translated="true"/>
 	<app dirName="YouTube" packageName="com.google.android.youtube" translated="true"/>
