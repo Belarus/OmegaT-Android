@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="pref_video_time_lapse_frame_interval_entryvalues">
+        <item>0</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues">
+        <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2560x1920</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1280x960</item>
+        <item>1024x768</item>
+        <item>640x480</item>
+        <item>320x240</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>auto</item>
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_video_flashmode_entryvalues">
+        <item>torch</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>cloudy-daylight</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>auto</item>
+        <item>action</item>
+        <item>night</item>
+        <item>sunset</item>
+        <item>party</item>
+    </string-array>
+</resources>
