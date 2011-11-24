@@ -16,6 +16,9 @@
 	<app dirName="ApplicationsProvider" packageName="com.android.providers.applications" translated="true">
 	    <cyanogen src="android_packages_providers_ApplicationsProvider/res" />
 	</app>
+	<app dirName="BackupRestoreConfirmation" packageName="zzzzzzzzzzzzzzzzzzzzzz" translated="true">
+	    <cyanogen src="android_frameworks_base/packages/BackupRestoreConfirmation/res" />
+	</app>
 	<app dirName="Bluetooth" packageName="com.android.bluetooth" translated="true">
 	    <cyanogen src="android_packages_apps_Bluetooth/res" />
 	</app>
@@ -63,6 +66,7 @@
 	<app dirName="framework-res" packageName="android" translated="true">
 	    <cyanogen src="android_frameworks_base/core/res/res" />
 	    <cyanogen src="android_frameworks_base/packages/SystemUI/res" outSuffix="SystemUI"/>
+	    <cyanogen src="android_frameworks_base/packages/VpnDialogs/res" outSuffix="VpnDialogs"/>
 	</app>
 	<app dirName="framework-res-hwext" packageName="androidhwext" translated="true"/>
 	<app dirName="Gallery" packageName="com.android.gallery" translated="true">
