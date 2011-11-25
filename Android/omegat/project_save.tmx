@@ -83777,7 +83777,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">BathingCat/arrays_VERSION.xml</prop>
+      <prop type="file">BathingCat/</prop>
       <tuv lang="en">
         <seg>What are you doing?</seg>
       </tuv>
@@ -83786,7 +83786,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">BathingCat/strings_VERSION.xml</prop>
+      <prop type="file">BathingCat/</prop>
       <tuv lang="en">
         <seg>What are you doing?</seg>
       </tuv>
@@ -83795,7 +83795,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">BathingCat/strings_VERSION.xml</prop>
+      <prop type="file">BathingCat/</prop>
       <prop type="id">health_unknown</prop>
       <tuv lang="en">
         <seg>unknown</seg>
@@ -83805,7 +83805,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">BathingCat/strings_VERSION.xml</prop>
+      <prop type="file">BathingCat/</prop>
       <prop type="id">status_unknown</prop>
       <tuv lang="en">
         <seg>unknown</seg>
@@ -83815,7 +83815,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Browser/arrays_VERSION.xml</prop>
+      <prop type="file">Browser/</prop>
       <tuv lang="en">
         <seg>Close</seg>
       </tuv>
@@ -83824,7 +83824,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Browser/arrays_VERSION.xml</prop>
+      <prop type="file">Browser/</prop>
       <tuv lang="en">
         <seg>Far</seg>
       </tuv>
@@ -83833,7 +83833,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Browser/arrays_VERSION.xml</prop>
+      <prop type="file">Browser/</prop>
       <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
@@ -83842,7 +83842,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Browser/strings_VERSION.xml</prop>
+      <prop type="file">Browser/</prop>
       <prop type="id">name</prop>
       <tuv lang="en">
         <seg>Name</seg>
@@ -83852,7 +83852,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>1 hour</seg>
       </tuv>
@@ -83861,7 +83861,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>1 minute</seg>
       </tuv>
@@ -83870,7 +83870,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>1 week</seg>
       </tuv>
@@ -83879,7 +83879,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>10 minutes</seg>
       </tuv>
@@ -83888,7 +83888,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>12 hours</seg>
       </tuv>
@@ -83897,7 +83897,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>15 minutes</seg>
       </tuv>
@@ -83906,7 +83906,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>2 days</seg>
       </tuv>
@@ -83915,7 +83915,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>2 hours</seg>
       </tuv>
@@ -83924,7 +83924,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>20 minutes</seg>
       </tuv>
@@ -83933,7 +83933,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>24 hours</seg>
       </tuv>
@@ -83942,7 +83942,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>25 minutes</seg>
       </tuv>
@@ -83951,7 +83951,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>3 hours</seg>
       </tuv>
@@ -83960,7 +83960,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>30 minutes</seg>
       </tuv>
@@ -83969,7 +83969,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>45 minutes</seg>
       </tuv>
@@ -83978,7 +83978,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>5 minutes</seg>
       </tuv>
@@ -83987,7 +83987,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>Default</seg>
       </tuv>
@@ -83996,7 +83996,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>Off</seg>
       </tuv>
@@ -84005,7 +84005,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>Private</seg>
       </tuv>
@@ -84014,7 +84014,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/arrays_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>Public</seg>
       </tuv>
@@ -84023,7 +84023,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/strings_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <prop type="id">delete_label</prop>
       <tuv lang="en">
         <seg>Delete</seg>
@@ -84033,7 +84033,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Calendar/strings_VERSION.xml</prop>
+      <prop type="file">Calendar/</prop>
       <prop type="id">edit_event_to_label</prop>
       <tuv lang="en">
         <seg>To</seg>
@@ -84043,7 +84043,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_flashmode_entry_off</prop>
       <tuv lang="en">
         <seg>Off</seg>
@@ -84053,7 +84053,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_flashmode_entry_on</prop>
       <tuv lang="en">
         <seg>On</seg>
@@ -84063,7 +84063,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_jpegquality_entry_normal</prop>
       <tuv lang="en">
         <seg>Normal</seg>
@@ -84073,7 +84073,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_quickcapture_entry_off</prop>
       <tuv lang="en">
         <seg>Off</seg>
@@ -84083,7 +84083,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_quickcapture_entry_on</prop>
       <tuv lang="en">
         <seg>On</seg>
@@ -84093,7 +84093,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_recordlocation_entry_off</prop>
       <tuv lang="en">
         <seg>Off</seg>
@@ -84103,7 +84103,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_recordlocation_entry_on</prop>
       <tuv lang="en">
         <seg>On</seg>
@@ -84113,7 +84113,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_scenemode_entry_landscape</prop>
       <tuv lang="en">
         <seg>Landscape</seg>
@@ -84123,7 +84123,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_scenemode_entry_portrait</prop>
       <tuv lang="en">
         <seg>Portrait</seg>
@@ -84133,7 +84133,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Camera/strings_VERSION.xml</prop>
+      <prop type="file">Camera/</prop>
       <prop type="id">review_ok</prop>
       <tuv lang="en">
         <seg>OK</seg>
@@ -84143,7 +84143,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Contacts/strings_VERSION.xml</prop>
+      <prop type="file">Contacts/</prop>
       <prop type="id">type_short_home</prop>
       <tuv lang="en">
         <seg>H</seg>
@@ -84153,7 +84153,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Contacts/strings_VERSION.xml</prop>
+      <prop type="file">Contacts/</prop>
       <prop type="id">type_short_mobile</prop>
       <tuv lang="en">
         <seg>M</seg>
@@ -84163,7 +84163,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Contacts/strings_VERSION.xml</prop>
+      <prop type="file">Contacts/</prop>
       <prop type="id">type_short_other</prop>
       <tuv lang="en">
         <seg>O</seg>
@@ -84173,7 +84173,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Contacts/strings_VERSION.xml</prop>
+      <prop type="file">Contacts/</prop>
       <prop type="id">type_short_pager</prop>
       <tuv lang="en">
         <seg>P</seg>
@@ -84183,7 +84183,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Contacts/strings_VERSION.xml</prop>
+      <prop type="file">Contacts/</prop>
       <prop type="id">type_short_work</prop>
       <tuv lang="en">
         <seg>W</seg>
@@ -84193,7 +84193,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Email/strings_VERSION.xml</prop>
+      <prop type="file">Email/</prop>
       <prop type="id">forward_action</prop>
       <tuv lang="en">
         <seg>Forward</seg>
@@ -84203,7 +84203,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Facebook/strings_VERSION.xml</prop>
+      <prop type="file">Facebook/</prop>
       <prop type="id">next</prop>
       <tuv lang="en">
         <seg>Next</seg>
@@ -84213,7 +84213,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_friday</prop>
       <tuv lang="en">
         <seg>F</seg>
@@ -84223,7 +84223,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_monday</prop>
       <tuv lang="en">
         <seg>M</seg>
@@ -84233,7 +84233,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_saturday</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -84243,7 +84243,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_sunday</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -84253,7 +84253,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_thursday</prop>
       <tuv lang="en">
         <seg>T</seg>
@@ -84263,7 +84263,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_tuesday</prop>
       <tuv lang="en">
         <seg>T</seg>
@@ -84273,7 +84273,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GenieWidget/strings_VERSION.xml</prop>
+      <prop type="file">GenieWidget/</prop>
       <prop type="id">day_wednesday</prop>
       <tuv lang="en">
         <seg>W</seg>
@@ -84283,7 +84283,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Gmail/arrays_VERSION.xml</prop>
+      <prop type="file">Gmail/</prop>
       <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
@@ -84292,7 +84292,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GooglePlus/strings_VERSION.xml</prop>
+      <prop type="file">GooglePlus/</prop>
       <prop type="id">compose_update_submit</prop>
       <tuv lang="en">
         <seg>Post</seg>
@@ -84302,7 +84302,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">GooglePlus/strings_VERSION.xml</prop>
+      <prop type="file">GooglePlus/</prop>
       <prop type="id">people_report_reason_spam</prop>
       <tuv lang="en">
         <seg>Spam</seg>
@@ -84312,7 +84312,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/</prop>
       <prop type="id">label_menu_zoom</prop>
       <tuv lang="en">
         <seg>Zoom buttons</seg>
@@ -84322,7 +84322,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/</prop>
       <prop type="id">name_empty</prop>
       <tuv lang="en">
         <seg>Name is empty</seg>
@@ -84332,7 +84332,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/</prop>
       <prop type="id">notify_sound</prop>
       <tuv lang="en">
         <seg>Sound</seg>
@@ -84342,7 +84342,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/</prop>
       <prop type="id">title_audio_info</prop>
       <tuv lang="en">
         <seg>Audio</seg>
@@ -84352,7 +84352,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">KateMobile/strings-com.perm.kate_VERSION.xml</prop>
+      <prop type="file">KateMobile/</prop>
       <prop type="id">title_videos_info</prop>
       <tuv lang="en">
         <seg>Video</seg>
@@ -84362,7 +84362,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">MediaUploader/strings_VERSION.xml</prop>
+      <prop type="file">MediaUploader/</prop>
       <prop type="id">yt_private_access</prop>
       <tuv lang="en">
         <seg>Private</seg>
@@ -84372,7 +84372,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">MediaUploader/strings_VERSION.xml</prop>
+      <prop type="file">MediaUploader/</prop>
       <prop type="id">yt_public_access</prop>
       <tuv lang="en">
         <seg>Public</seg>
@@ -84382,7 +84382,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Settings/strings-com.android.settings_VERSION.xml</prop>
+      <prop type="file">Settings/</prop>
       <prop type="id">apn_name</prop>
       <tuv lang="en">
         <seg>Name</seg>
@@ -84392,7 +84392,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Settings/strings-com.android.settings_VERSION.xml</prop>
+      <prop type="file">Settings/</prop>
       <prop type="id">search_settings</prop>
       <tuv lang="en">
         <seg>Search</seg>
@@ -84402,7 +84402,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">call_options_menu_resume</prop>
       <tuv lang="en">
         <seg>Resume</seg>
@@ -84412,7 +84412,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">call_participant_status_stopped</prop>
       <tuv lang="en">
         <seg>Left</seg>
@@ -84422,7 +84422,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">chat_pending</prop>
       <tuv lang="en">
         <seg>Pending</seg>
@@ -84432,7 +84432,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">contacts_context_menu_call_mobile</prop>
       <tuv lang="en">
         <seg>Call mobile</seg>
@@ -84442,7 +84442,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">contacts_context_menu_call_office</prop>
       <tuv lang="en">
         <seg>Call office</seg>
@@ -84452,7 +84452,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">contacts_list_group_online</prop>
       <tuv lang="en">
         <seg>Online</seg>
@@ -84462,7 +84462,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">events_dialog_im</prop>
       <tuv lang="en">
         <seg>IM</seg>
@@ -84472,7 +84472,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">general_credits_not_available</prop>
       <tuv lang="en">
         <seg>Not available</seg>
@@ -84482,7 +84482,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">my_profile_activate</prop>
       <tuv lang="en">
         <seg>Active</seg>
@@ -84492,7 +84492,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">my_profile_change_status_text_online</prop>
       <tuv lang="en">
         <seg>Online</seg>
@@ -84502,7 +84502,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">phone_number_home_type</prop>
       <tuv lang="en">
         <seg>Home</seg>
@@ -84512,7 +84512,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">phone_number_other_type</prop>
       <tuv lang="en">
         <seg>Other</seg>
@@ -84522,7 +84522,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">profile_action_unblock</prop>
       <tuv lang="en">
         <seg>Unblock</seg>
@@ -84532,7 +84532,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">profile_request_block</prop>
       <tuv lang="en">
         <seg>Block</seg>
@@ -84542,7 +84542,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_edit_message_key</prop>
       <tuv lang="en">
         <seg>message</seg>
@@ -84552,7 +84552,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_privacy_anyone</prop>
       <tuv lang="en">
         <seg>Anyone</seg>
@@ -84562,7 +84562,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_privacy_contacts_only</prop>
       <tuv lang="en">
         <seg>Contacts only</seg>
@@ -84572,7 +84572,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_video_call_show_my_video_to_anyone</prop>
       <tuv lang="en">
         <seg>Anyone</seg>
@@ -84582,7 +84582,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_video_call_show_my_video_to_only_contact</prop>
       <tuv lang="en">
         <seg>Contacts only</seg>
@@ -84592,7 +84592,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_video_call_video_quality_high</prop>
       <tuv lang="en">
         <seg>High</seg>
@@ -84602,7 +84602,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">settings_video_call_video_quality_low</prop>
       <tuv lang="en">
         <seg>Low</seg>
@@ -84612,7 +84612,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">sms_pending</prop>
       <tuv lang="en">
         <seg>Pending</seg>
@@ -84622,7 +84622,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Skype/strings_VERSION.xml</prop>
+      <prop type="file">Skype/</prop>
       <prop type="id">video_setting_no_video</prop>
       <tuv lang="en">
         <seg>Video off</seg>
@@ -84632,7 +84632,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Talk/strings_VERSION.xml</prop>
+      <prop type="file">Talk/</prop>
       <prop type="id">block_button</prop>
       <tuv lang="en">
         <seg>Block</seg>
@@ -84642,7 +84642,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">Talk/strings_VERSION.xml</prop>
+      <prop type="file">Talk/</prop>
       <prop type="id">forward</prop>
       <tuv lang="en">
         <seg>Forward</seg>
@@ -84652,7 +84652,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">home_page_favorite</prop>
       <tuv lang="en">
         <seg>Favorite</seg>
@@ -84662,7 +84662,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">mins_couple</prop>
       <tuv lang="en">
         <seg>min</seg>
@@ -84672,7 +84672,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">mins_many</prop>
       <tuv lang="en">
         <seg>min</seg>
@@ -84682,7 +84682,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">mins_one</prop>
       <tuv lang="en">
         <seg>min</seg>
@@ -84692,7 +84692,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">name</prop>
       <tuv lang="en">
         <seg>Name:</seg>
@@ -84702,7 +84702,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">pref_category_update</prop>
       <tuv lang="en">
         <seg>Update</seg>
@@ -84712,7 +84712,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">TransPot/strings_VERSION.xml</prop>
+      <prop type="file">TransPot/</prop>
       <prop type="id">update_btn_load</prop>
       <tuv lang="en">
         <seg>Load</seg>
@@ -84722,7 +84722,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>April</seg>
       </tuv>
@@ -84731,7 +84731,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>August</seg>
       </tuv>
@@ -84740,7 +84740,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>December</seg>
       </tuv>
@@ -84749,7 +84749,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>February</seg>
       </tuv>
@@ -84758,7 +84758,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>Invisible</seg>
       </tuv>
@@ -84767,7 +84767,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>January</seg>
       </tuv>
@@ -84776,7 +84776,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>July</seg>
       </tuv>
@@ -84785,7 +84785,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>June</seg>
       </tuv>
@@ -84794,7 +84794,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>March</seg>
       </tuv>
@@ -84803,7 +84803,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>May</seg>
       </tuv>
@@ -84812,7 +84812,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>November</seg>
       </tuv>
@@ -84821,7 +84821,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>October</seg>
       </tuv>
@@ -84830,7 +84830,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>September</seg>
       </tuv>
@@ -84839,7 +84839,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>friend</seg>
       </tuv>
@@ -84848,7 +84848,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>note</seg>
       </tuv>
@@ -84857,7 +84857,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <tuv lang="en">
         <seg>photo</seg>
       </tuv>
@@ -84866,7 +84866,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_location_her</prop>
       <tuv lang="en">
         <seg>has tagged his location</seg>
@@ -84876,7 +84876,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_location_his</prop>
       <tuv lang="en">
         <seg>has tagged his location</seg>
@@ -84886,7 +84886,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_messages_ending1</prop>
       <tuv lang="en">
         <seg>s</seg>
@@ -84896,7 +84896,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_p_audio</prop>
       <tuv lang="en">
         <seg>audio</seg>
@@ -84906,7 +84906,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_p_friends</prop>
       <tuv lang="en">
         <seg>friends</seg>
@@ -84916,7 +84916,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_p_notes</prop>
       <tuv lang="en">
         <seg>notes</seg>
@@ -84926,7 +84926,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_p_video</prop>
       <tuv lang="en">
         <seg>video</seg>
@@ -84936,7 +84936,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_profile_documents</prop>
       <tuv lang="en">
         <seg>documents</seg>
@@ -84946,7 +84946,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">label_sync_all</prop>
       <tuv lang="en">
         <seg>Sync All</seg>
@@ -84956,7 +84956,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte free/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte free/</prop>
       <prop type="id">photo_upload_default_album_title</prop>
       <tuv lang="en">
         <seg>Mobile uploads</seg>
@@ -84966,7 +84966,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte/</prop>
       <tuv lang="en">
         <seg>Home</seg>
       </tuv>
@@ -84975,7 +84975,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte/arrays_VERSION.xml</prop>
+      <prop type="file">VKontakte/</prop>
       <tuv lang="en">
         <seg>may</seg>
       </tuv>
@@ -84984,7 +84984,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte/</prop>
       <prop type="id">log_out</prop>
       <tuv lang="en">
         <seg>Log out</seg>
@@ -84994,7 +84994,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VKontakte/strings_VERSION.xml</prop>
+      <prop type="file">VKontakte/</prop>
       <prop type="id">sett_notify_sound</prop>
       <tuv lang="en">
         <seg>Sound</seg>
@@ -85004,7 +85004,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/arrays_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <tuv lang="en">
         <seg>Default</seg>
       </tuv>
@@ -85013,7 +85013,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/arrays_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <tuv lang="en">
         <seg>Mandarin (zh-cn)</seg>
       </tuv>
@@ -85022,7 +85022,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/arrays_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <tuv lang="en">
         <seg>Off</seg>
       </tuv>
@@ -85031,7 +85031,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_action_call</prop>
       <tuv lang="en">
         <seg>打</seg>
@@ -85041,7 +85041,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_action_directions_to</prop>
       <tuv lang="en">
         <seg>驾车路线</seg>
@@ -85051,7 +85051,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_action_map_of</prop>
       <tuv lang="en">
         <seg>地图</seg>
@@ -85061,7 +85061,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_action_navigate_to</prop>
       <tuv lang="en">
         <seg>前往</seg>
@@ -85071,7 +85071,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_action_post_buzz</prop>
       <tuv lang="en">
         <seg>发微博</seg>
@@ -85081,7 +85081,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
@@ -85091,7 +85091,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_hint_directions_to</prop>
       <tuv lang="en">
         <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
@@ -85101,7 +85101,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_hint_map_of</prop>
       <tuv lang="en">
         <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
@@ -85111,7 +85111,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
@@ -85121,7 +85121,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_CN_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
@@ -85131,7 +85131,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_action_call</prop>
       <tuv lang="en">
         <seg>打</seg>
@@ -85141,7 +85141,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_action_directions_to</prop>
       <tuv lang="en">
         <seg>驾车路线</seg>
@@ -85151,7 +85151,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_action_map_of</prop>
       <tuv lang="en">
         <seg>地图</seg>
@@ -85161,7 +85161,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_action_navigate_to</prop>
       <tuv lang="en">
         <seg>前往</seg>
@@ -85171,7 +85171,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_action_post_buzz</prop>
       <tuv lang="en">
         <seg>发微博</seg>
@@ -85181,7 +85181,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
@@ -85191,7 +85191,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_hint_directions_to</prop>
       <tuv lang="en">
         <seg>去&lt;a0&gt;颐和园&lt;/a0&gt; 怎么开</seg>
@@ -85201,7 +85201,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_hint_map_of</prop>
       <tuv lang="en">
         <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
@@ -85211,7 +85211,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
@@ -85221,7 +85221,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_HK_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
@@ -85231,7 +85231,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_action_call</prop>
       <tuv lang="en">
         <seg>打</seg>
@@ -85241,7 +85241,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_action_directions_to</prop>
       <tuv lang="en">
         <seg>驾车路线</seg>
@@ -85251,7 +85251,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_action_map_of</prop>
       <tuv lang="en">
         <seg>地图</seg>
@@ -85261,7 +85261,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_action_navigate_to</prop>
       <tuv lang="en">
         <seg>前往</seg>
@@ -85271,7 +85271,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_action_post_buzz</prop>
       <tuv lang="en">
         <seg>发微博</seg>
@@ -85281,7 +85281,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
@@ -85291,7 +85291,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_hint_directions_to</prop>
       <tuv lang="en">
         <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
@@ -85301,7 +85301,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_hint_map_of</prop>
       <tuv lang="en">
         <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
@@ -85311,7 +85311,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
@@ -85321,7 +85321,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_SG_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
@@ -85331,7 +85331,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_action_call</prop>
       <tuv lang="en">
         <seg>打</seg>
@@ -85341,7 +85341,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_action_directions_to</prop>
       <tuv lang="en">
         <seg>驾车路线</seg>
@@ -85351,7 +85351,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_action_map_of</prop>
       <tuv lang="en">
         <seg>地图</seg>
@@ -85361,7 +85361,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_action_navigate_to</prop>
       <tuv lang="en">
         <seg>前往</seg>
@@ -85371,7 +85371,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_action_post_buzz</prop>
       <tuv lang="en">
         <seg>发微博</seg>
@@ -85381,7 +85381,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;打&lt;/a0&gt;张三的手机</seg>
@@ -85391,7 +85391,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_hint_directions_to</prop>
       <tuv lang="en">
         <seg>去&lt;a0&gt;颐和园&lt;/a0&gt;怎么开</seg>
@@ -85401,7 +85401,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_hint_map_of</prop>
       <tuv lang="en">
         <seg>北京烤鸭店&lt;a0&gt;地图&lt;/a0&gt;</seg>
@@ -85411,7 +85411,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;前往&lt;/a0&gt;颐和园</seg>
@@ -85421,7 +85421,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">cmn_Hans_TW_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;发微博&lt;/a0&gt;大家好</seg>
@@ -85431,7 +85431,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_action_call</prop>
       <tuv lang="en">
         <seg>Anrufen</seg>
@@ -85441,7 +85441,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_action_directions_to</prop>
       <tuv lang="en">
         <seg>Weg</seg>
@@ -85451,7 +85451,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_action_map_of</prop>
       <tuv lang="en">
         <seg>Karte</seg>
@@ -85461,7 +85461,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Fahrtroute</seg>
@@ -85471,7 +85471,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Schicke Buzz</seg>
@@ -85481,7 +85481,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
@@ -85491,7 +85491,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
@@ -85501,7 +85501,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
@@ -85511,7 +85511,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
@@ -85521,7 +85521,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_AT_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
@@ -85531,7 +85531,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_action_call</prop>
       <tuv lang="en">
         <seg>Anrufen</seg>
@@ -85541,7 +85541,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_action_directions_to</prop>
       <tuv lang="en">
         <seg>Weg</seg>
@@ -85551,7 +85551,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_action_map_of</prop>
       <tuv lang="en">
         <seg>Karte</seg>
@@ -85561,7 +85561,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Fahrtroute</seg>
@@ -85571,7 +85571,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Schicke Buzz</seg>
@@ -85581,7 +85581,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
@@ -85591,7 +85591,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
@@ -85601,7 +85601,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
@@ -85611,7 +85611,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
@@ -85621,7 +85621,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_CH_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
@@ -85631,7 +85631,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_action_call</prop>
       <tuv lang="en">
         <seg>Anrufen</seg>
@@ -85641,7 +85641,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_action_directions_to</prop>
       <tuv lang="en">
         <seg>Weg</seg>
@@ -85651,7 +85651,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_action_map_of</prop>
       <tuv lang="en">
         <seg>Karte</seg>
@@ -85661,7 +85661,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Fahrtroute</seg>
@@ -85671,7 +85671,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Schicke Buzz</seg>
@@ -85681,7 +85681,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
@@ -85691,7 +85691,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
@@ -85701,7 +85701,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
@@ -85711,7 +85711,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; brandenburg tor</seg>
@@ -85721,7 +85721,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_DE_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
@@ -85731,7 +85731,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_action_call</prop>
       <tuv lang="en">
         <seg>Anrufen</seg>
@@ -85741,7 +85741,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_action_directions_to</prop>
       <tuv lang="en">
         <seg>Weg</seg>
@@ -85751,7 +85751,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_action_map_of</prop>
       <tuv lang="en">
         <seg>Karte</seg>
@@ -85761,7 +85761,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Fahrtroute</seg>
@@ -85771,7 +85771,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Schicke Buzz</seg>
@@ -85781,7 +85781,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;rufe&lt;/a0&gt; michael schuster zu hause &lt;a1&gt;an&lt;/a1&gt;</seg>
@@ -85791,7 +85791,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;weg zum&lt;/a0&gt; eiffelturm</seg>
@@ -85801,7 +85801,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;karte von&lt;/a0&gt; tankstellen in heidelberg</seg>
@@ -85811,7 +85811,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;fahrtroute zum&lt;/a0&gt; zum brandenburg tor</seg>
@@ -85821,7 +85821,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">de_LI_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;schicke buzz&lt;/a0&gt; hallo welt</seg>
@@ -85831,7 +85831,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -85841,7 +85841,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -85851,7 +85851,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -85861,7 +85861,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -85871,7 +85871,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -85881,7 +85881,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -85891,7 +85891,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -85901,7 +85901,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -85911,7 +85911,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_001_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -85921,7 +85921,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -85931,7 +85931,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -85941,7 +85941,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -85951,7 +85951,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -85961,7 +85961,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -85971,7 +85971,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -85981,7 +85981,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -85991,7 +85991,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86001,7 +86001,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86011,7 +86011,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_AU_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86021,7 +86021,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86031,7 +86031,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86041,7 +86041,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86051,7 +86051,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86061,7 +86061,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86071,7 +86071,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86081,7 +86081,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86091,7 +86091,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86101,7 +86101,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86111,7 +86111,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_CA_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86121,7 +86121,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86131,7 +86131,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86141,7 +86141,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86151,7 +86151,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86161,7 +86161,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86171,7 +86171,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86181,7 +86181,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86191,7 +86191,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86201,7 +86201,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86211,7 +86211,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_GB_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86221,7 +86221,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86231,7 +86231,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86241,7 +86241,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86251,7 +86251,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86261,7 +86261,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86271,7 +86271,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86281,7 +86281,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86291,7 +86291,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86301,7 +86301,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86311,7 +86311,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_IN_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86321,7 +86321,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86331,7 +86331,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86341,7 +86341,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86351,7 +86351,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86361,7 +86361,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86371,7 +86371,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86381,7 +86381,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86391,7 +86391,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86401,7 +86401,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86411,7 +86411,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_NZ_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86421,7 +86421,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86431,7 +86431,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86441,7 +86441,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86451,7 +86451,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86461,7 +86461,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86471,7 +86471,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86481,7 +86481,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86491,7 +86491,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86501,7 +86501,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86511,7 +86511,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_SG_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86521,7 +86521,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86531,7 +86531,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86541,7 +86541,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86551,7 +86551,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86561,7 +86561,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86571,7 +86571,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86581,7 +86581,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86591,7 +86591,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86601,7 +86601,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86611,7 +86611,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_US_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86621,7 +86621,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86631,7 +86631,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_action_directions_to</prop>
       <tuv lang="en">
         <seg>Directions to</seg>
@@ -86641,7 +86641,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_action_map_of</prop>
       <tuv lang="en">
         <seg>Map of</seg>
@@ -86651,7 +86651,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Navigate to</seg>
@@ -86661,7 +86661,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Post buzz</seg>
@@ -86671,7 +86671,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;call&lt;/a0&gt; james bond, mobile phone</seg>
@@ -86681,7 +86681,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;directions to&lt;/a0&gt; the golden gate bridge</seg>
@@ -86691,7 +86691,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;map of&lt;/a0&gt; gas stations</seg>
@@ -86701,7 +86701,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;navigate to&lt;/a0&gt; yosemite</seg>
@@ -86711,7 +86711,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_ZA_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;post buzz&lt;/a0&gt; sunny day at the park!</seg>
@@ -86721,7 +86721,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">en_action_call</prop>
       <tuv lang="en">
         <seg>Call</seg>
@@ -86731,7 +86731,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_action_call</prop>
       <tuv lang="en">
         <seg>Llama</seg>
@@ -86741,7 +86741,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_action_directions_to</prop>
       <tuv lang="en">
         <seg>Cómo llegar</seg>
@@ -86751,7 +86751,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_action_map_of</prop>
       <tuv lang="en">
         <seg>Mapa</seg>
@@ -86761,7 +86761,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Guíame</seg>
@@ -86771,7 +86771,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Publicar buzz</seg>
@@ -86781,7 +86781,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;llama a&lt;/a0&gt; patricia gómez al móvil</seg>
@@ -86791,7 +86791,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;cómo llegar a&lt;/a0&gt; la puerta del sol</seg>
@@ -86801,7 +86801,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;mapa de&lt;/a0&gt; sidrerías en oviedo</seg>
@@ -86811,7 +86811,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;guíame a&lt;/a0&gt; la sagrada familia</seg>
@@ -86821,7 +86821,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">es_ES_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;publicar buzz&lt;/a0&gt; hola mundo</seg>
@@ -86831,7 +86831,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_action_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
@@ -86841,7 +86841,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_action_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
@@ -86851,7 +86851,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_action_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
@@ -86861,7 +86861,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_action_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
@@ -86871,7 +86871,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_action_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
@@ -86881,7 +86881,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_hint_call</prop>
       <tuv lang="en">
         <seg>Appeler</seg>
@@ -86891,7 +86891,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_hint_directions_to</prop>
       <tuv lang="en">
         <seg>Itinéraire</seg>
@@ -86901,7 +86901,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_hint_map_of</prop>
       <tuv lang="en">
         <seg>Carte</seg>
@@ -86911,7 +86911,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>Direction</seg>
@@ -86921,7 +86921,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_BE_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>Poster un buzz</seg>
@@ -86931,7 +86931,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_action_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
@@ -86941,7 +86941,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_action_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
@@ -86951,7 +86951,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_action_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
@@ -86961,7 +86961,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_action_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
@@ -86971,7 +86971,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_action_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
@@ -86981,7 +86981,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_hint_call</prop>
       <tuv lang="en">
         <seg>Appeler</seg>
@@ -86991,7 +86991,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_hint_directions_to</prop>
       <tuv lang="en">
         <seg>Itinéraire</seg>
@@ -87001,7 +87001,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_hint_map_of</prop>
       <tuv lang="en">
         <seg>Carte</seg>
@@ -87011,7 +87011,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>Direction</seg>
@@ -87021,7 +87021,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_CH_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>Poster un buzz</seg>
@@ -87031,7 +87031,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_action_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;appeler&lt;/a0&gt; pierre sur son portable</seg>
@@ -87041,7 +87041,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_action_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;itinéraire pour&lt;/a0&gt; le louvre</seg>
@@ -87051,7 +87051,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_action_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;carte des&lt;/a0&gt; parcs à paris</seg>
@@ -87061,7 +87061,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_action_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;direction&lt;/a0&gt; la tour eiffel</seg>
@@ -87071,7 +87071,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_action_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;poster un buzz&lt;/a0&gt; il fait beau aujourd'hui</seg>
@@ -87081,7 +87081,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_hint_call</prop>
       <tuv lang="en">
         <seg>Appeler</seg>
@@ -87091,7 +87091,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_hint_directions_to</prop>
       <tuv lang="en">
         <seg>Itinéraire</seg>
@@ -87101,7 +87101,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_hint_map_of</prop>
       <tuv lang="en">
         <seg>Carte</seg>
@@ -87111,7 +87111,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>Direction</seg>
@@ -87121,7 +87121,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">fr_FR_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>Poster un buzz</seg>
@@ -87131,7 +87131,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_action_call</prop>
       <tuv lang="en">
         <seg>Chiama</seg>
@@ -87141,7 +87141,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_action_directions_to</prop>
       <tuv lang="en">
         <seg>Indicazioni</seg>
@@ -87151,7 +87151,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_action_map_of</prop>
       <tuv lang="en">
         <seg>Mappa</seg>
@@ -87161,7 +87161,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Guidami</seg>
@@ -87171,7 +87171,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Pubblica buzz</seg>
@@ -87181,7 +87181,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;chiama&lt;/a0&gt; mario rossi cellulare</seg>
@@ -87191,7 +87191,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;indicazioni per&lt;/a0&gt; piazza di spagna</seg>
@@ -87201,7 +87201,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;mappa delle&lt;/a0&gt; pizzerie di napoli</seg>
@@ -87211,7 +87211,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;guidami al&lt;/a0&gt; colosseo</seg>
@@ -87221,7 +87221,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_CH_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;pubblica buzz&lt;/a0&gt; ciao!</seg>
@@ -87231,7 +87231,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_action_call</prop>
       <tuv lang="en">
         <seg>Chiama</seg>
@@ -87241,7 +87241,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_action_directions_to</prop>
       <tuv lang="en">
         <seg>Indicazioni</seg>
@@ -87251,7 +87251,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_action_map_of</prop>
       <tuv lang="en">
         <seg>Mappa</seg>
@@ -87261,7 +87261,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_action_navigate_to</prop>
       <tuv lang="en">
         <seg>Guidami</seg>
@@ -87271,7 +87271,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_action_post_buzz</prop>
       <tuv lang="en">
         <seg>Pubblica buzz</seg>
@@ -87281,7 +87281,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_hint_call</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;chiama&lt;/a0&gt; mario rossi cellulare</seg>
@@ -87291,7 +87291,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_hint_directions_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;indicazioni per&lt;/a0&gt; piazza di spagna</seg>
@@ -87301,7 +87301,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_hint_map_of</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;mappa delle&lt;/a0&gt; pizzerie di napoli</seg>
@@ -87311,7 +87311,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;guidami al&lt;/a0&gt; colosseo</seg>
@@ -87321,7 +87321,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">it_IT_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;pubblica buzz&lt;/a0&gt; ciao!</seg>
@@ -87331,7 +87331,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_action_call</prop>
       <tuv lang="en">
         <seg>電話</seg>
@@ -87341,7 +87341,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_action_directions_to</prop>
       <tuv lang="en">
         <seg>行き方</seg>
@@ -87351,7 +87351,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_action_map_of</prop>
       <tuv lang="en">
         <seg>地図</seg>
@@ -87361,7 +87361,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_action_navigate_to</prop>
       <tuv lang="en">
         <seg>ナビゲーション</seg>
@@ -87371,7 +87371,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_action_post_buzz</prop>
       <tuv lang="en">
         <seg>バズにポスト</seg>
@@ -87381,7 +87381,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_hint_call</prop>
       <tuv lang="en">
         <seg>鈴木太郎の携帯に&lt;a0&gt;電話&lt;/a0&gt;</seg>
@@ -87391,7 +87391,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_hint_directions_to</prop>
       <tuv lang="en">
         <seg>東京タワーへの&lt;a0&gt;行き方&lt;/a0&gt;</seg>
@@ -87401,7 +87401,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_hint_map_of</prop>
       <tuv lang="en">
         <seg>東京渋谷のレストラン&lt;a0&gt;地図&lt;/a0&gt;</seg>
@@ -87411,7 +87411,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>東京タワーまで&lt;a0&gt;ナビ&lt;/a0&gt;</seg>
@@ -87421,7 +87421,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ja_JP_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;バズにポスト&lt;/a0&gt;ハローワールド</seg>
@@ -87431,7 +87431,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_action_call</prop>
       <tuv lang="en">
         <seg>전화</seg>
@@ -87441,7 +87441,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_action_directions_to</prop>
       <tuv lang="en">
         <seg>길찾기</seg>
@@ -87451,7 +87451,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_action_map_of</prop>
       <tuv lang="en">
         <seg>지도</seg>
@@ -87461,7 +87461,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_action_navigate_to</prop>
       <tuv lang="en">
         <seg>실사 길찾기</seg>
@@ -87471,7 +87471,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_action_post_buzz</prop>
       <tuv lang="en">
         <seg>버즈 올리기</seg>
@@ -87481,7 +87481,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_hint_call</prop>
       <tuv lang="en">
         <seg>김철수 &lt;a0&gt;전화&lt;/a0&gt;</seg>
@@ -87491,7 +87491,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_hint_directions_to</prop>
       <tuv lang="en">
         <seg>강남역 &lt;a0&gt;길찾기&lt;/a0&gt;</seg>
@@ -87501,7 +87501,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_hint_map_of</prop>
       <tuv lang="en">
         <seg>대치동 편의점 &lt;a0&gt;지도&lt;/a0&gt;</seg>
@@ -87511,7 +87511,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_hint_navigate_to</prop>
       <tuv lang="en">
         <seg>광화문 &lt;a0&gt;실사 길찾기&lt;/a0&gt;</seg>
@@ -87521,7 +87521,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>&lt;a0&gt;버즈 올리기&lt;/a0&gt;</seg>
@@ -87531,7 +87531,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">VoiceSearch/strings_VERSION.xml</prop>
+      <prop type="file">VoiceSearch/</prop>
       <prop type="id">ko_KR_hint_post_buzz</prop>
       <tuv lang="en">
         <seg>안녕!</seg>
@@ -87541,7 +87541,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/arrays_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <tuv lang="en">
         <seg>Home</seg>
       </tuv>
@@ -87550,7 +87550,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">capital_off</prop>
       <tuv lang="en">
         <seg>OFF</seg>
@@ -87560,7 +87560,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">capital_on</prop>
       <tuv lang="en">
         <seg>ON</seg>
@@ -87570,7 +87570,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_friday</prop>
       <tuv lang="en">
         <seg>F</seg>
@@ -87580,7 +87580,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_monday</prop>
       <tuv lang="en">
         <seg>M</seg>
@@ -87590,7 +87590,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_saturday</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -87600,7 +87600,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_sunday</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -87610,7 +87610,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_thursday</prop>
       <tuv lang="en">
         <seg>T</seg>
@@ -87620,7 +87620,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_tuesday</prop>
       <tuv lang="en">
         <seg>T</seg>
@@ -87630,7 +87630,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">day_of_week_shortest_wednesday</prop>
       <tuv lang="en">
         <seg>W</seg>
@@ -87640,7 +87640,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">emailTypeHome</prop>
       <tuv lang="en">
         <seg>Home</seg>
@@ -87650,7 +87650,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">imTypeHome</prop>
       <tuv lang="en">
         <seg>Home</seg>
@@ -87660,7 +87660,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">menu_delete_shortcut_label</prop>
       <tuv lang="en">
         <seg>delete</seg>
@@ -87670,7 +87670,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_april</prop>
       <tuv lang="en">
         <seg>April</seg>
@@ -87680,7 +87680,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_august</prop>
       <tuv lang="en">
         <seg>August</seg>
@@ -87690,7 +87690,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_december</prop>
       <tuv lang="en">
         <seg>December</seg>
@@ -87700,7 +87700,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_february</prop>
       <tuv lang="en">
         <seg>February</seg>
@@ -87710,7 +87710,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_january</prop>
       <tuv lang="en">
         <seg>January</seg>
@@ -87720,7 +87720,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_july</prop>
       <tuv lang="en">
         <seg>July</seg>
@@ -87730,7 +87730,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_june</prop>
       <tuv lang="en">
         <seg>June</seg>
@@ -87740,7 +87740,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_march</prop>
       <tuv lang="en">
         <seg>March</seg>
@@ -87750,7 +87750,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_may</prop>
       <tuv lang="en">
         <seg>May</seg>
@@ -87760,7 +87760,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_november</prop>
       <tuv lang="en">
         <seg>November</seg>
@@ -87770,7 +87770,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_october</prop>
       <tuv lang="en">
         <seg>October</seg>
@@ -87780,7 +87780,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_long_september</prop>
       <tuv lang="en">
         <seg>September</seg>
@@ -87790,7 +87790,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_medium_may</prop>
       <tuv lang="en">
         <seg>May</seg>
@@ -87800,7 +87800,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_april</prop>
       <tuv lang="en">
         <seg>A</seg>
@@ -87810,7 +87810,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_august</prop>
       <tuv lang="en">
         <seg>A</seg>
@@ -87820,7 +87820,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_december</prop>
       <tuv lang="en">
         <seg>D</seg>
@@ -87830,7 +87830,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_february</prop>
       <tuv lang="en">
         <seg>F</seg>
@@ -87840,7 +87840,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_january</prop>
       <tuv lang="en">
         <seg>J</seg>
@@ -87850,7 +87850,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_july</prop>
       <tuv lang="en">
         <seg>J</seg>
@@ -87860,7 +87860,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_june</prop>
       <tuv lang="en">
         <seg>J</seg>
@@ -87870,7 +87870,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_march</prop>
       <tuv lang="en">
         <seg>M</seg>
@@ -87880,7 +87880,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_may</prop>
       <tuv lang="en">
         <seg>M</seg>
@@ -87890,7 +87890,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_november</prop>
       <tuv lang="en">
         <seg>N</seg>
@@ -87900,7 +87900,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_october</prop>
       <tuv lang="en">
         <seg>O</seg>
@@ -87910,7 +87910,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">month_shortest_september</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -87920,7 +87920,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">phoneTypeHome</prop>
       <tuv lang="en">
         <seg>Home</seg>
@@ -87930,7 +87930,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">framework-res/strings_VERSION.xml</prop>
+      <prop type="file">framework-res/</prop>
       <prop type="id">postalTypeHome</prop>
       <tuv lang="en">
         <seg>Home</seg>
@@ -87940,7 +87940,7 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
-      <prop type="file">YandexMaps/strings_VERSION.xml</prop>
+      <prop type="file">YandexMaps/</prop>
       <prop type="id">app_name_en</prop>
       <tuv lang="en">
         <seg>Yandex.Maps</seg>
