@@ -4538,6 +4538,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Ожидаем разрешение)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111010T074946Z">
+        <seg>(Чакаем на дазвол)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>)</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T081937Z">
@@ -4782,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Drag and drop a desktop icon in the same place to edit it</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T091742Z">
+        <seg>• Каб правіць значак на стальніцы, перацягніце яго на тое ж самае месца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Lots of fixes</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T142953Z">
@@ -4814,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>-Small UI revamp (Trash can moved to the top, configurable main dock, etc)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T091746Z">
+        <seg>• Крыху пералаталі інтэрфэйс (сьметніцу пасунулі ўгору, галоўны латок цяпер можна наладжваць ды інш.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-Small fixes for some FCs</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T143237Z">
@@ -4826,6 +4850,30 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T142751Z">
         <seg>• Хуткія дзеяньні ды дзеяньні па перасоўваньні падтрымваюцца таксама й у галоўным латку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Support for easier scrolling of the hidden dockbar.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T091940Z">
+        <seg>• Схаваны латок-паліца гартаецца лягчэй.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-Support for replacing the app drawer button with anything</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T092053Z">
+        <seg>• Можна замяніць кнопку рысавальніка праґрамаў чымсь іншым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-You can uninstall widgets too by holding them into the trash can</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T092045Z">
+        <seg>• Каб высталяваць віджэт, перасуньце яго ў сьметніцу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,6 +5526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>10 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110412Z">
+        <seg>10 пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>10 seconds</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T103847Z">
@@ -5598,6 +5654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>12 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110416Z">
+        <seg>12 пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>12 weeks</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T105000Z">
@@ -5694,6 +5758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>14 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110418Z">
+        <seg>14 пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1440</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T135614Z">
@@ -5762,6 +5834,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T095221Z">
         <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>16 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110421Z">
+        <seg>16 пунктаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -5930,6 +6010,14 @@
       </tuv>
       <tuv lang="be">
         <seg>20 хвілінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110428Z">
+        <seg>20 пунктаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4 x 8 pixels</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110352Z">
+        <seg>4 x 8 піксаляў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>40</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130304Z">
@@ -6750,6 +6846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>6 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110402Z">
+        <seg>6 пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>6 seconds</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T103825Z">
@@ -6846,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>7 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110406Z">
+        <seg>7 пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>7 seconds</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T103829Z">
@@ -6894,6 +7006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>8 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110408Z">
+        <seg>8 пунктаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>8 seconds</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T103834Z">
@@ -6938,6 +7058,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T075759Z">
         <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>9 pt</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110410Z">
+        <seg>9 пунктаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -12044,10 +12172,58 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After 1 key-press</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093320Z">
+        <seg>Па першым націску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After 15 seconds, your message will automatically be sent to Google along with your current location and route.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T191020Z">
         <seg>Праз 15 сэкундаў вашае паведамленьне дашлецца ў Google разам са зьвесткамі пра вашае месцазнаходжаньне ды шлях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 2 key-press</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093326Z">
+        <seg>Па другім націску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 3 key-press</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093330Z">
+        <seg>Па трэцім націску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 4 key-press</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093341Z">
+        <seg>Па чацьвёртым націску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 5 key-press</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093346Z">
+        <seg>Па пятым націску</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After 6 key-press</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093351Z">
+        <seg>Па шостым націску</seg>
       </tuv>
     </tu>
     <tu>
@@ -12128,6 +12304,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be">
         <seg>Буднік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alarm clock</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111119T160159Z">
+        <seg>[н/д]Буднік</seg>
       </tuv>
     </tu>
     <tu>
@@ -14940,6 +15124,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Amber text on black</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110514Z">
+        <seg>Жоўтае па чорным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>America</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T154509Z">
@@ -15384,6 +15576,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T121313Z">
         <seg>AndroidHotspot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Androidian Theme</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110024Z">
+        <seg>Аздабленьне Androidian</seg>
       </tuv>
     </tu>
     <tu>
@@ -16924,6 +17124,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-punctuation</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100107Z">
+        <seg>Знакі прыпынку — самарушна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-refresh</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T085719Z">
@@ -17076,6 +17284,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatically correct typing and spelling mistakes.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100239Z">
+        <seg>Самарушна выпраўляць памылкі друку ды правапісу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically determine location</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T085648Z">
@@ -17182,8 +17398,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Available</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Вольны</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091608Z">
+        <seg>У сетцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -17270,8 +17486,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Away</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110728T184733Z">
-        <seg>Адышоў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091614Z">
+        <seg>Адсутнічаю</seg>
       </tuv>
     </tu>
     <tu>
@@ -18004,6 +18220,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Black text on white</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110444Z">
+        <seg>Чорнае па белым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blacklist</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110315T141514Z">
@@ -18040,6 +18264,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111004T141822Z">
         <seg>Мігцець лямпачкаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blinking cursor</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110157Z">
+        <seg>Указальнік мігціць</seg>
       </tuv>
     </tu>
     <tu>
@@ -18702,8 +18934,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Busy</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Заняты</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091611Z">
+        <seg>Не турбаваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -19845,10 +20077,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Camera Error</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111119T153256Z">
+        <seg>Памылка камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camera error</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110501T060611Z">
         <seg>Памылка камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camera key</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124804Z">
+        <seg>Клявіша камэры</seg>
       </tuv>
     </tu>
     <tu>
@@ -21125,6 +21373,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T171235Z">
         <seg>Праглядаў каналу: %1s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character-based</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124747Z">
+        <seg>Паводле знакаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -23728,6 +23984,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>CopyRight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111119T153350Z">
+        <seg>Аўтарскае права</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copying attachment to SD card failed</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T123731Z">
@@ -25058,6 +25322,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delay time</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093525Z">
+        <seg>Затрымка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T195306Z">
@@ -25126,6 +25398,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110426T173800Z">
         <seg>Сьцерці ўсе зьвесткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete all items?</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104827Z">
+        <seg>Ці выкрасьліць усё?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25334,6 +25614,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T130934Z">
         <seg>Сьцерці гэтыя пункты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete this account</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091804Z">
+        <seg>Сьцерці рахунак</seg>
       </tuv>
     </tu>
     <tu>
@@ -25794,6 +26082,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Device automatically completes word.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100831Z">
+        <seg>Прылада заканчвае словы самарушна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Device info</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T081124Z">
@@ -25814,6 +26110,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T123027Z">
         <seg>Назва прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Device will predict the next word based on the previous words</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100810Z">
+        <seg>Прылада можа прадказваць, якое слова будзе наступным пасьля дадзенага</seg>
       </tuv>
     </tu>
     <tu>
@@ -26528,6 +26832,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110503T155315Z">
         <seg>Паказваць прапанаваныя словы, калі друкуем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display suggested words while typing.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100113Z">
+        <seg>Паказваць прапанаваныя словы, калі друкуем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28117,6 +28429,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T095931Z">
+        <seg>Налады рэдактара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Education</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110826T092712Z">
@@ -29042,6 +29362,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110729T165324Z">
         <seg>анґельская (Уґанда)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English-Handwrting</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T094547Z">
+        <seg>Анґельская (ад рукі)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33010,6 +33338,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Green text on black</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110503Z">
+        <seg>Зялёнае па чорным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Green tint</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110501T072645Z">
@@ -33190,6 +33526,46 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T083844Z">
         <seg>Паўгадзіны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Handwriting settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T105531Z">
+        <seg>Налады пісаць ад рукі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Handwriting types</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T105511Z">
+        <seg>Пісаць ад рукі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Handwriting-Box</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093438Z">
+        <seg>Ад рукі: поле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Handwriting-Double Box</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093422Z">
+        <seg>Ад рукі: падвойнае поле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Handwriting-Screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093415Z">
+        <seg>Ад рукі: экран</seg>
       </tuv>
     </tu>
     <tu>
@@ -35675,6 +36051,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Input Method</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T095954Z">
+        <seg>Спосаб уводзіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Input behavior, buttons, haptic feedback</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T134100Z">
@@ -36325,8 +36709,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Invisible</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110728T184739Z">
-        <seg>Нябачны</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091620Z">
+        <seg>Хаваюся</seg>
       </tuv>
     </tu>
     <tu>
@@ -36795,6 +37179,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jog ball</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124654Z">
+        <seg>Джойстык</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Join</seg>
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T151617Z">
@@ -37047,6 +37439,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110219T151040Z">
         <seg>Мігцець лямпачкаю, калі прапусьцілі выклік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LG Handwriting</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T095911Z">
+        <seg>Ад рукі (LG)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37504,6 +37904,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T143452Z">
         <seg>Гэтая можнасьць дазваляе хутчэй гартаць стальніцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left Alt key</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124720Z">
+        <seg>Левы Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -41340,6 +41748,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My words</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100504Z">
+        <seg>Мае словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MySpace</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T061000Z">
@@ -43828,6 +44244,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-blinking cursor</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110152Z">
+        <seg>Указальнік не мігціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-refundable purchase</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110418T154513Z">
@@ -43940,6 +44364,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not Registered.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104835Z">
+        <seg>Не запісанае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not Running</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110728T192500Z">
@@ -43968,6 +44400,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T124647Z">
         <seg>Недаступнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not available field to voice input</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T095925Z">
+        <seg>У гэтае поле нельга ўводзіць голасам</seg>
       </tuv>
     </tu>
     <tu>
@@ -44088,6 +44528,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T094535Z">
         <seg>Ня вызначылі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not supported!</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104840Z">
+        <seg>Не падтрымваецца!</seg>
       </tuv>
     </tu>
     <tu>
@@ -46464,6 +46912,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="alex73" changedate="20110125T074058Z">
         <seg>Платны тэлефон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pen color</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093520Z">
+        <seg>Колер пяра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pen width</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093517Z">
+        <seg>Шырыня пяра</seg>
       </tuv>
     </tu>
     <tu>
@@ -49334,6 +49798,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides list of words added by user.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100711Z">
+        <seg>Паказвае сьпіс слоў, якія дадаў карыстальнік.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T125907Z">
@@ -49570,6 +50042,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T204614Z">
         <seg>Вытрымка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qwerty keypad</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093239Z">
+        <seg>Клявішня «йцукен»</seg>
       </tuv>
     </tu>
     <tu>
@@ -50207,10 +50687,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rectangle</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110202Z">
+        <seg>Прастакутнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Red</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T153017Z">
         <seg>Чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Red text on black</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110531Z">
+        <seg>Чырвонае па чорным</seg>
       </tuv>
     </tu>
     <tu>
@@ -52151,6 +52647,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right Alt key</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124725Z">
+        <seg>Правы Alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right page</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111005T082627Z">
@@ -53143,6 +53647,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saved to dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104847Z">
+        <seg>Захавалі ў слоўніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saved:</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T121846Z">
@@ -53427,6 +53939,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T123842Z">
         <seg>Час чаканьня экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Screen transparency</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T093531Z">
+        <seg>Празрыстасьць экрану</seg>
       </tuv>
     </tu>
     <tu>
@@ -56176,6 +56696,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set the number of key presses before word completion is displayed.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100208Z">
+        <seg>Вызначце, колькі літар трэба набраць каб паказаўся сьпіс прапаноў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set the phone number for this device</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T195710Z">
@@ -57400,6 +57928,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show status bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110106Z">
+        <seg>Паказваць паліцу стану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show status icons</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T093903Z">
@@ -57696,6 +58232,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sign on / off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091754Z">
+        <seg>Увайсьці (выйсьці)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sign out</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T171300Z">
@@ -57860,6 +58404,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T102301Z">
         <seg>Падобныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplified Chinese settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104901Z">
+        <seg>Налады спрошчанае кітайскае</seg>
       </tuv>
     </tu>
     <tu>
@@ -59268,6 +59820,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T235203Z">
         <seg>Хуткасьць, зь якою будзе вымаўляцца тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spell-correction</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100213Z">
+        <seg>Выпраўляць памылкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -61257,6 +61817,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text entry settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100027Z">
+        <seg>Налады напісаньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text fax</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110307T110509Z">
@@ -62844,6 +63412,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="be" changeid="klyok" changedate="20110325T094838Z">
         <seg>Віджэт, які вы хочаце дадаць, патрабуе «падтрымваць пракручвальныя віджэты», што зараз забаронена.\n
 Ці хочаце вы дазволіць падтрымваць гэта?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word already exists</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104854Z">
+        <seg>Слова ўжо ёсьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -67143,6 +67719,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Underline</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110226Z">
+        <seg>Падкрэсьліваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T183327Z">
@@ -68655,6 +69239,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use My words</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100508Z">
+        <seg>Ужываць мае словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Server (default: waterloo)</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110826T115550Z">
@@ -69055,6 +69647,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User Dictionary</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111119T153851Z">
+        <seg>Слоўнік карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User certificate</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T115850Z">
@@ -69075,6 +69675,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T205236Z">
         <seg>Не знайшлі зьвестак пра карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User may add new word in the list</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100727Z">
+        <seg>Да сьпісу можна дадаваць словы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User may choose words from &lt;My words&gt; list</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100552Z">
+        <seg>Можна будзе абраць слова са сьпісу «маіх слоў»</seg>
       </tuv>
     </tu>
     <tu>
@@ -69449,6 +70065,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version 1.3.3 System</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T092103Z">
+        <seg>Сыстэма вэрсіі 1.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Version 1.3.6 System</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T080304Z">
@@ -69469,6 +70093,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T203108Z">
         <seg>Вэрсія: &lt;x0&gt;%s&lt;/x0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vertical bar</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110302Z">
+        <seg>Прастастаўная паліца</seg>
       </tuv>
     </tu>
     <tu>
@@ -70273,6 +70905,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Voice Input</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100007Z">
+        <seg>Уводзіць голасам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Voice Log</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110729T161316Z">
@@ -70558,6 +71198,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T105406Z">
         <seg>Voici un échantillon de synthèse vocale en français.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vol Down key</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124742Z">
+        <seg>Клявіша «цішэй»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vol Up key</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124735Z">
+        <seg>Клявіша «гучней»</seg>
       </tuv>
     </tu>
     <tu>
@@ -71282,6 +71938,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When user types in an alphabet, a list of candidate words are provided.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T104724Z">
+        <seg>Калі карыстальнік друкуе літару, паказваецца сьпіс прапанаваных слоў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you answer an incoming call, your Skype call will be put on hold.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110926T111159Z">
@@ -71398,6 +72062,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110501T061840Z">
         <seg>Раўнавага белага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White text on black</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110448Z">
+        <seg>Белае па чорным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>White text on blue</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T110457Z">
+        <seg>Белае па сінім</seg>
       </tuv>
     </tu>
     <tu>
@@ -71746,6 +72426,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Word-based</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T124752Z">
+        <seg>Паводле словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Words fail me...</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T170728Z">
@@ -71914,6 +72602,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writing language</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T095944Z">
+        <seg>Якою моваю пісаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wrong number.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T094812Z">
@@ -71934,6 +72630,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110307T104412Z">
         <seg>Wysie, ChainsDD, geesun, niuchl, rac2030, sileht ды астатнія з XDA! :)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X-Large</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091822Z">
+        <seg>Велізарны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>X-Small</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111005T091816Z">
+        <seg>Маленечкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -74490,10 +75202,50 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[My word]</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100556Z">
+        <seg>[Маё слова]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Next word prediction]</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100741Z">
+        <seg>[Прадказваць наступнае слова]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[Text Size]</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T173653Z">
         <seg>[Памер тэксту]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Use My word]</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100535Z">
+        <seg>[Ужываць мае словы]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Word choice list]</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100835Z">
+        <seg>[Сьпіс абіраць слова]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[Word completion]</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100819Z">
+        <seg>[Заканчваць словы]</seg>
       </tuv>
     </tu>
     <tu>
@@ -75101,6 +75853,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T141033Z">
         <seg>action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>add new, edit, delete, delete all</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100529Z">
+        <seg>дадаць, правіць, выкрасьліць, выкрасьліць усе</seg>
       </tuv>
     </tu>
     <tu>
@@ -75857,6 +76617,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>choose words from &lt;my words&gt; list</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111014T100515Z">
+        <seg>абіраць словы са сьпісу «маіх слоў»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>city</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T090355Z">
@@ -76269,6 +77037,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110815T135703Z">
         <seg>выказваньні паведамяцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>confirm</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111119T160030Z">
+        <seg>[н/д]Пацьвердзіць</seg>
       </tuv>
     </tu>
     <tu>
@@ -79693,6 +80469,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T161306Z">
         <seg>не пазначаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not implemented yet</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111010T071038Z">
+        <seg>гэта яшчэ не ажыцьцявілі</seg>
       </tuv>
     </tu>
     <tu>
