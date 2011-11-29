@@ -178,6 +178,7 @@ client
 clock
 CLOSE
 cloudy-daylight
+CM
 cmn-Hans-CN
 cmn-Hans-HK
 cmn-Hans-SG
