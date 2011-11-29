@@ -63,6 +63,7 @@ back up	захаваць адноўку
 Back	«Назад»
 bad	кепскі
 band	паласа
+bars	паліцы
 bar	паліца
 batch	зборны
 Bathing Cat	Кацяня ў ваньне
@@ -98,10 +99,13 @@ camcorder	відэакамэра
 Cancel	Скасаваць
 cannot	нельга
 cannot	не ўдаецца
+can't be	немагчыма
 captcha	???
 caption	подпіс
 car mode	стан «у машыне»
 carrier	апэратар
+catalogs	пералікі
+catalog	пералік	Маецца на ўвазе catalog як пералік праґрамаў.
 cc	копія («carbon copy»)
 certificates	пасьведчаньні
 certificate	пасьведчаньне
@@ -134,11 +138,13 @@ comments	заўвагі
 comment	выказацца
 comment	выказваньне
 comment	заўвага
+company	таварыства
 complete	заканчваць
 component	складнік
 composer	укладальнік
 compose	набіраць
 computer	кампутар
+computer	кампутар -а
 conference call	выклік да нарады
 conference	нарада
 configuration	настаўленьне
@@ -154,6 +160,7 @@ contributor	саўдзельнік
 conversations	размовы
 conversation	размова
 converting	ператвараецца
+cookies	біркі
 cookie	бірка
 copy	перапісваць
 correct	адпаведны
@@ -165,6 +172,7 @@ county	акруга
 CPU	ЦП
 crash	аварыя
 credentials	даверчыя лісты
+cursor	указальнік
 Customer Care	служба падтрымкі
 custom	уласны
 databases	базы зьвестак
@@ -204,6 +212,7 @@ discoverability	бачнасьць
 DockBar	латок-паліца
 dock	латок
 domain	вузел
+double-tap	падвойны націск
 downloaded	спампавалі
 downloader	спампоўвальнік
 Download Manager	Кіраўнік спампоўванага
@@ -220,6 +229,7 @@ email arrives	прыходзіць пошта
 email	эл. пошта
 emergency	надзвычайны
 emoticon	пачуцьцезнак
+empty	парожні
 enable/disable	ці карыстацца
 encryption	тайнапіс
 End-User License Agreement	ліцэнзійнае пагадненьне
@@ -240,6 +250,7 @@ exposure	насьвятленьне
 external	вонкавы
 Facebook	Facebook
 failed	не ўдалося
+failure	няўдача
 favorites	упадабаныя
 favorite	упадабаны
 FCs	памылкі
@@ -271,10 +282,12 @@ forward	перасылаць
 frame	кадр
 friend request	запыт сябраваць
 gateway	брама
+General	«Агульнае»
 general	галоўны
 geolocation	вызначаць ґеаґрафічнае мейсца
 Go offline	Адлучыцца
 Google	Google
+Google Instant	Хуткі Google
 Google Mail	Пошта Google
 Google Maps Navigation	Навіґацыя мапамі Google
 Google Messaging Service	служба паведамленьняў Google
@@ -304,6 +317,7 @@ image	відарыс
 import	браць
 IM	паведамляльнік
 inappropriate	неадпаведнае
+incognito	таемны
 incorrect	неадпаведны
 indicator	паказальнік
 inflate	напаўняць
@@ -321,8 +335,10 @@ IP	адрас IP
 junk	лухта
 kernel	ядро
 keyboard	клявіятура
+key	клявіша
 labels	цэтлікі
 label	цэтлік
+labs	выпрабоўнае
 LAC	код мясцовасьці («Location Area Code»)
 landline	гарадзкі
 landscape	альбомная
@@ -448,11 +464,14 @@ plug-in	убудова
 PLZ	PLZ (нямецкі паштовы код)
 podcasts	падвяшчальнікі
 podcast	падвяшчальнік
+points	пункты
 pokes	штуршкі
 poke	штуршок
 polar clock	дугавы гадзіньнік
 policy	правілы
 poll	апытаньне
+pop-ups	вынырцы
+pop-ups	раптоўныя вокны
 pop-up windows	раптоўныя вокны
 pop-up window	раптоўнае вакно
 pop-up	раптоўнае
@@ -480,6 +499,7 @@ quoted text	вытрымка
 radio	радыёсувязь
 range	досяг -у
 rating	ацэнка
+reason	падстава
 recipient	атрымальнік -а
 recognizer	пазнавальнік
 refreshing	абнаўляецца
@@ -494,6 +514,7 @@ remotely	адлегла
 remote	адлеглы
 removable	рухомы
 removed	выцягнулі
+removed	прыбралі
 removed	прымаць
 removed	сьцерлі
 remove	выкрасьляць
@@ -533,13 +554,16 @@ screenshot	здымак экрану
 screen	экран -у
 scrollable	пракручвальны
 SD card	картка SD
+search engine	шукач
 secondary	дапаможны
+select text	выбраць тэкст
 sender	адпраўнік
 sensor	чуйнік
 server	паслужнік
 Service Dialing Numbers	службовыя нумары
 services	службы
 service	служба
+session	сэанс
 settings	налады
 setting up	уладкоўваць
 setting	налады
@@ -549,6 +573,7 @@ set wallpaper	усталяваць шпалеры
 sex	плоць
 shared	супольны
 share	дзяліцца
+shell	абалонка
 shortcuts	выклічнікі
 shortcut	выклічнік
 show previews	аглядацца
@@ -565,6 +590,7 @@ SMS messages	паведамленьні SMS
 snooze	адкладаць
 Social Club	таварыскі клюб
 sockets	гнёзды
+soft keyboard	праґрамная клявіятура
 software	праґрамныя сродкі
 solarize	перасьвятляць
 song	песьня
@@ -602,6 +628,7 @@ tags	біркі
 tags	пазнакі
 tag	бірка
 tag	пазнака	Tag
+terminal	тэрмінал -у
 terms and conditions	умовы ды азначэньні
 Terms of Service	Умовы абслугоўваньня
 text-to-speech	агучваньне
@@ -611,6 +638,7 @@ There was a problem	Выявілася праблема, калі спрабав
 This alarm is set for	Будзька спрацуе праз
 threads	галіны
 thread	галіна
+thumbnails	абразкі
 thumbnail view	абразкі
 thumbnail	абразок
 time zone	часавы пас
@@ -637,6 +665,7 @@ UID	азначальнік карыстальніка
 unable	немагчыма
 unavailable	адсутнічае
 unavailable	недаступны
+uncataloged	неразьмеркаванае
 undo	адрабіць
 uninstall	высталёўваць
 unlocked	адамкнулі
@@ -661,6 +690,7 @@ Velcom	Velcom
 verified	пацьверджаны
 verified	праверылі
 verifying	правяраецца
+vertical	прастастаўны
 vibrate	трымцець
 vibration	трымцець	
 vibrator	трымценьнік
@@ -691,6 +721,7 @@ window	вакно
 wireless	бяздротавы
 wizard	сродак
 Yandex.Maps	Яндэкс.Мапы
+you can not	нельга
 ж\д ст.	чыг. ст.
 маршрут	шлях
 метки	пазнакі

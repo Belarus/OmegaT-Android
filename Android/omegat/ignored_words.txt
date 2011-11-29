@@ -362,6 +362,7 @@ es-VE
 et-EE
 eth
 EUC-JP
+EUC-KR
 EUR
 EvDo
 event_notifications
@@ -370,6 +371,7 @@ example
 exchange
 Exchange
 expander_group
+export
 Facebook
 FACTORY_TEST
 fa-IR
@@ -392,6 +394,7 @@ flv
 Flyer
 FlylinkDC
 flylinkdc.com
+Fn
 font
 forget
 forgotpassword
@@ -572,6 +575,7 @@ list
 list_selector_background
 Live
 ln
+local
 location_string
 Lock.ogg
 log
@@ -713,6 +717,7 @@ palette_zenburn
 panel_background
 PAP
 pastel
+PATH
 paval
 PC
 PDP
@@ -830,6 +835,7 @@ Sense
 sepia
 SetPrimary
 settings
+sh
 SHIFT_JIS
 SHOW
 show_fav_contacts
