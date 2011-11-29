@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.0_5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2810,6 +2810,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110723T184753Z">
         <seg>%1$s:%2$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>%1$s&lt;/x0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T065438Z">
+        <seg>%1$s&lt;/x0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23017,6 +23025,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configure\u2026</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070053Z">
+        <seg>Наставіць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Configured Networks</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T121714Z">
@@ -24538,6 +24554,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cube</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T065712Z">
+        <seg>Куб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current Catalog?</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T143537Z">
@@ -25298,6 +25322,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default screen, layout\u2026</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070312Z">
+        <seg>Пачатковы экран, раскладка…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default settings</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110402T235037Z">
@@ -25894,6 +25926,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T103140Z">
         <seg>Радкі стальніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Desktop Transition</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070643Z">
+        <seg>Пераход між экранамі</seg>
       </tuv>
     </tu>
     <tu>
@@ -34002,6 +34042,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hides the statusbar</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070321Z">
+        <seg>Хавае паліцу стану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hides your statusbar</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T155418Z">
@@ -34359,6 +34407,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110814T170026Z">
         <seg>Як ты сьмееш!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How desktop screens change when changed</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070727Z">
+        <seg>Як зьмяняюцца экраны, калі пераходзіць між імі</seg>
       </tuv>
     </tu>
     <tu>
@@ -39352,6 +39408,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110313T104037Z">
         <seg>Дазволіць абслугоўваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make able to have workspace loop</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070524Z">
+        <seg>Дазваляе пераходзіць адразу ад апошняга да першага экрану</seg>
       </tuv>
     </tu>
     <tu>
@@ -46504,6 +46568,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T125405Z">
         <seg>Пакет</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T065708Z">
+        <seg>Бачына</seg>
       </tuv>
     </tu>
     <tu>
@@ -53863,6 +53935,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scatter</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070011Z">
+        <seg>Рассыпаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scene mode</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110501T073043Z">
@@ -53875,6 +53955,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110926T113208Z">
         <seg>Расклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Screen Loop</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070412Z">
+        <seg>Экраны па коле</seg>
       </tuv>
     </tu>
     <tu>
@@ -56716,6 +56804,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T083544Z">
         <seg>Вызначце маштаб значкаў кнопак дзеяньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set the speed used to fling desktop screens</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070628Z">
+        <seg>Вызначае, зь якою хуткасьцю пераходзіць між экранамі</seg>
       </tuv>
     </tu>
     <tu>
@@ -63480,6 +63576,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are &lt;x0&gt;%1$d&lt;/x0&gt; deleted items for &lt;x1&gt;%2$s&lt;/x1&gt;, account &lt;x2&gt;%3$s&lt;/x2&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T065700Z">
+        <seg>Маем &lt;x0&gt;%1$d&lt;/x0&gt; сьцёртыя з рахунку &lt;x2&gt;%3$s&lt;/x2&gt; пункты &lt;x1&gt;%2$s&lt;/x1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are &lt;x0&gt;%1$d&lt;/x0&gt; deleted items for &lt;x1&gt;%2$s&lt;/x1&gt;, account &lt;x2&gt;%3$s&lt;/x2&gt;. What would you like to do?</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T071524Z">
@@ -66206,6 +66310,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T180622Z">
         <seg>Націсьніце, каб сынхранізаваць зараз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Touch to sync now&lt;x0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T065428Z">
+        <seg>Націсьніце, каб сынхранізаваць&lt;x0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70077,6 +70189,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110325T080304Z">
         <seg>Сыстэма вэрсіі 1.3.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version 1.3.6 System CM 1.1</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T070132Z">
+        <seg>Вэрсія 1.3.6; вэрсія CM — 1.1</seg>
       </tuv>
     </tu>
     <tu>
@@ -84561,12 +84681,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">BathingCat/</prop>
+      <prop type="file">ADWLauncher/</prop>
       <tuv lang="en">
-        <seg>What are you doing?</seg>
+        <seg>Rotate</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110926T140326Z">
-        <seg>Што ты робіш?</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111129T065916Z">
+        <seg>Круціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">ADWLauncher/</prop>
+      <prop type="id">desktop_transition_entries</prop>
+      <tuv lang="en">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111129T071009Z">
+        <seg>Круціць</seg>
       </tuv>
     </tu>
     <tu>
@@ -88325,6 +88455,16 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
     </tu>
     <tu>
+      <prop type="file">YandexMaps/</prop>
+      <prop type="id">app_name_en</prop>
+      <tuv lang="en">
+        <seg>Yandex.Maps</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20110929T093332Z">
+        <seg>Яндэкс.Мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">framework-res/</prop>
       <tuv lang="en">
         <seg>Home</seg>
@@ -88721,16 +88861,6 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T120631Z">
         <seg>Хатні</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">YandexMaps/</prop>
-      <prop type="id">app_name_en</prop>
-      <tuv lang="en">
-        <seg>Yandex.Maps</seg>
-      </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110929T093332Z">
-        <seg>Яндэкс.Мапы</seg>
       </tuv>
     </tu>
   </body>
