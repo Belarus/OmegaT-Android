@@ -9,6 +9,7 @@ accounts	рахункі
 account	рахунак
 activities	дзейнасьці
 activity	дзейнасьць
+Add account	«Дадаць рахунак»
 added	новы
 Additional Privacy Policy	дадатковыя правілы адасобленасьці
 adjust	настаўляць
@@ -41,6 +42,7 @@ attached	залучаны
 attachments	залучнікі
 attachment	залучнік -а
 attach	залучаць
+attendee	наведнік
 attention	увага
 audible	чутны
 audio file	гукавы файл
@@ -212,6 +214,7 @@ discoverability	бачнасьць
 DockBar	латок-паліца
 dock	латок
 domain	вузел
+Done	Зроблена
 double-tap	падвойны націск
 downloaded	спампавалі
 downloader	спампоўвальнік
@@ -283,6 +286,7 @@ frame	кадр
 friend request	запыт сябраваць
 gateway	брама
 General	«Агульнае»
+general	агульны
 general	галоўны
 geolocation	вызначаць ґеаґрафічнае мейсца
 Go offline	Адлучыцца
@@ -377,6 +381,7 @@ maps live wallpaper	жывыя шпалеры з мапаў
 market	крама
 media	мэдыя
 media	сховішчы
+meeting	сустрэча
 mention	згадваньне
 Menu	«Мэню»
 methods	спосабы
@@ -474,6 +479,7 @@ pop-ups	вынырцы
 pop-ups	раптоўныя вокны
 pop-up windows	раптоўныя вокны
 pop-up window	раптоўнае вакно
+Pop-up	вынырац
 pop-up	раптоўнае
 portable	пераносны
 portrait	кніжная
@@ -621,6 +627,7 @@ supplicant	просьбіт
 support	падтрымваць
 suspended	прыпынілі
 sync	сынхранізаваць
+tablet	пляншэт
 tabs	укладкі
 tab	зрух
 tab	укладка
@@ -649,6 +656,7 @@ token	прыкмета
 tools	начыньне
 total	агулам
 total	разам
+touch	націскаць
 trackball	трэкбол
 transfers	перадаванае
 TransPot	ТранШпарт
@@ -661,6 +669,7 @@ types	віды
 type	від
 type	друкаваць
 typing	друкаваць
+\u2022	"
 UID	азначальнік карыстальніка
 unable	немагчыма
 unavailable	адсутнічае
