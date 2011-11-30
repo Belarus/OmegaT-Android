@@ -33,6 +33,7 @@ APN	пункт доступу
 applications	праграмы
 application	праграма
 apply	ужыць
+appointments	сустрэчы
 apps	праґрамы
 app	праґрама
 archive	архіваваць
@@ -228,6 +229,7 @@ drag	перацягваць
 drawer	рысавальнік
 DTMF tones	танальныя сыґналы
 edit	правіць
+effects	ператварэньні
 email arrives	прыходзіць пошта
 email	эл. пошта
 emergency	надзвычайны
@@ -438,6 +440,7 @@ paired	спалучаны
 pairing	спалучацца
 pair	спалучаць
 panel	панэль
+panorama	краявід
 parser	разьбіральнік
 passwords	паролі
 password	пароль
@@ -457,6 +460,7 @@ picture	здымак -ка
 picture	малюнак -ку
 PIN code	код PIN
 pitch	вышыня
+pixels	піксалі
 player	прайгравальнік -а	
 playlists	сьпісы
 playlist	сьпіс
@@ -554,6 +558,7 @@ route	шлях
 routing	маршрутаваньне
 rows	радкі
 SafeSearch	Бясьпечны пошук
+saturation	насычанасьць
 scanning	аглядаем
 scan	шукаць
 screenshot	здымак экрану
@@ -579,11 +584,14 @@ set wallpaper	усталяваць шпалеры
 sex	плоць
 shared	супольны
 share	дзяліцца
+sharpness	выразнасьць
+sharpness	рэзкасьць
 shell	абалонка
 shortcuts	выклічнікі
 shortcut	выклічнік
 show previews	аглядацца
 shuffle	мяшаць
+shutter	затвор -а
 Sign in	Увайсьці
 sign up	запісацца
 silent mode	бязгучны стан
@@ -626,6 +634,7 @@ superuser	спраўнік
 supplicant	просьбіт
 support	падтрымваць
 suspended	прыпынілі
+switch	перамыкач
 sync	сынхранізаваць
 tablet	пляншэт
 tabs	укладкі
@@ -648,6 +657,8 @@ thread	галіна
 thumbnails	абразкі
 thumbnail view	абразкі
 thumbnail	абразок
+time lapse	адваротны адлік
+time lapse	па кадрах
 time zone	часавы пас
 tips	парады
 toast	вынырцы
@@ -693,6 +704,7 @@ uploading	запампоўваецца
 uploads	запампаванае
 upload	запампоўваць
 USB Mass Storage	сховішча USB
+USB storage	сховішча USB
 valid	чынны
 vCard	візытоўка
 Velcom	Velcom	
@@ -735,7 +747,10 @@ you can not	нельга
 маршрут	шлях
 метки	пазнакі
 Минск-Южный	Мінск-Паўднёвы
+сalendar	каляндар -а
+сapturing	здымаецца
 слои	пласты
 слой	пласт
+ыharpness	выразнасьць
 Яндекс.Карты	Яндэкс.Мапы	
 Яндекс.Пробки	Яндэкс.Заторы
