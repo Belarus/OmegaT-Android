@@ -155,6 +155,8 @@ configured	наставілі
 configure	настаўляць
 connected	злучыліся
 connecting	злучаемся
+contact	зьвязвацца
+contact	кантакт
 container	зьмяшчальня
 content	зьмесьціва
 Continue	Працягваць
@@ -171,6 +173,7 @@ could not	нельга
 could not	не магчы
 could not	ня здолець
 couldn\'t	нельга
+couldn't	немагчыма
 county	акруга
 CPU	ЦП
 crash	аварыя
@@ -178,6 +181,7 @@ credentials	даверчыя лісты
 cursor	указальнік
 Customer Care	служба падтрымкі
 custom	уласны
+CyanogenMod	CyanogenMod
 databases	базы зьвестак
 data	дадзеныя
 data	зьвесткі
@@ -286,6 +290,7 @@ forwarding	перасыланьне
 forward	перасылаць
 frame	кадр
 friend request	запыт сябраваць
+Gallery	ґалерэя
 gateway	брама
 General	«Агульнае»
 general	агульны
@@ -320,6 +325,7 @@ identity	тоеснасьць
 ID	азначальнік
 images	відарысы
 image	відарыс
+Import/Export	Узяць або выняць
 import	браць
 IM	паведамляльнік
 inappropriate	неадпаведнае
@@ -338,6 +344,7 @@ instant	хуткі
 invalid	хібны
 invites	запрашэньні
 IP	адрас IP
+joining	спалучаць
 junk	лухта
 kernel	ядро
 keyboard	клявіятура
@@ -386,6 +393,7 @@ media	сховішчы
 meeting	сустрэча
 mention	згадваньне
 Menu	«Мэню»
+merge	аб’ядноўваць
 methods	спосабы
 method	спосаб
 mistakes	памылкі
@@ -397,6 +405,7 @@ mock	падробны
 mock	удаваны
 moderate	сярэдне
 mode	стан
+mod	зьменка
 monitor	сачыльнік
 monitor	сачыць
 mount	мацаваць
@@ -430,6 +439,7 @@ opening	адчыняецца
 open	адчыніць
 optional	не абавязкова
 options	можнасьці
+organization	аб’яднаньне
 out of space	бракуе прасторы
 overwrite	перазапісваць
 package	пакунак -ка
@@ -449,6 +459,7 @@ paused	прыпынілі
 PDP	пратакол пакетных зьвестак («Packet Data Protocol»)
 peripherals	вонкавыя прылады
 personal	асабісты
+phone	тэлефон -а
 photos	фатаздымкі
 photo	здымак
 photo	здымак -ка

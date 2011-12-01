@@ -1,3 +1,4 @@
+<
 +
 $02d
 100x100
@@ -174,6 +175,7 @@ CHAP
 Charge
 checkout.google.com
 CID
+CIF
 city
 classical
 client
@@ -440,6 +442,7 @@ H
 Hanna.Jakimovich
 HCO
 HD
+HD1080
 HD720
 HH
 HIDE
@@ -523,6 +526,11 @@ is
 ISDN
 is-IS
 ISO
+ISO100
+ISO1250
+ISO200
+ISO400
+ISO800
 ist
 ita-ITA
 italiano
@@ -782,6 +790,12 @@ prediction_none
 pref_camera_antibanding_entry
 pref_camera_autoexposure_entry_centerweighted
 pref_camera_autoexposure_entry_frameaverage
+pref_camera_autoexposure_entry_matrixmetering
+pref_camera_autoexposure_entry_spotmetering
+pref_camera_autoexposure_value_centerweighted
+pref_camera_autoexposure_value_frameaverage
+pref_camera_autoexposure_value_matrixmetering
+pref_camera_autoexposure_value_spotmetering
 pref_camera_contrast_entry_level0
 pref_camera_contrast_entry_level1
 pref_camera_contrast_entry_level2
@@ -847,6 +861,7 @@ PUK
 PUK2
 PUSH
 q
+QCIF
 QQ
 QsbSearchActivity
 Questo
@@ -961,10 +976,12 @@ Superuser
 support
 SurfaceFlinger
 sv-FI
+SVGA
 sv-SE
 sw-KE
 sw-TZ
 sw-UG
+SXGA
 sym_def_app_icon
 sync_active
 sync_failing
@@ -1045,6 +1062,7 @@ user-scalable
 USSD
 UTF
 ùúûü
+UXGA
 V8
 vCard
 vcf
@@ -1052,6 +1070,7 @@ VCO
 Velcom
 Version
 ve-ZA
+VGA
 videortp-release
 viewer
 vi-VN
@@ -1085,6 +1104,7 @@ Windows
 wl0.1
 WPA
 WPA2
+WVGA
 www.amazon.com
 www.bbc.co.uk
 www.cnn.com
@@ -1099,11 +1119,13 @@ www.skype.com
 www.weather.com
 www.wikipedia.org
 www.yahoo.com
+WXGA
 WyContacts
 Wysie
 x
 X
 XDA
+XGA
 xh-ZA
 Xperia
 Y
