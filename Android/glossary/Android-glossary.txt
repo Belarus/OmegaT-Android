@@ -21,6 +21,7 @@ advanced	адмысловы
 ADW.Launcher	Пускач ADW
 ad	абвестка
 again	зноўку
+alarms	будзькі
 alarm	будзька
 album	альбом -у
 alerts	папярэджаньні
@@ -208,6 +209,7 @@ device	прылада
 dial pad	наборнік
 dial	набіраць
 Did you mean	можа, мелася на ўвазе
+dim	прыцямняць
 Directions & Navigation	Шляхі ды навіґацыя
 directions	шляхі
 direction	шлях
@@ -545,6 +547,7 @@ remove	зьнішчаць
 removing	сьціраць
 rename	назваць
 report abuse	скардзіцца
+reserve	замаўляць
 resetting	узнаўляецца
 reset	узнаўляць
 resolution	разрозьненьне
@@ -620,6 +623,7 @@ software	праґрамныя сродкі
 solarize	перасьвятляць
 song	песьня
 sorry	выбачайце
+sorted	упарадкавалі
 spacebar	прагал
 space	прастора
 spam	лухта

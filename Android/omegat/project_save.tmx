@@ -9525,6 +9525,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;x0&gt;%s&lt;/x0&gt; days</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T112753Z">
+        <seg>&lt;x0&gt;%s&lt;/x0&gt; дзён</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;x0&gt;%s&lt;/x0&gt; download complete.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111129T120012Z">
@@ -9535,8 +9543,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>&lt;x0&gt;%s&lt;/x0&gt; hours</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151801Z">
-        <seg>&lt;x0&gt;%s&lt;/x0&gt; гадзінаў</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T112805Z">
+        <seg>&lt;x0&gt;%s&lt;/x0&gt; гадз.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9553,6 +9561,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T120236Z">
         <seg>&lt;x0&gt;%s&lt;/x0&gt; хв. &lt;x1&gt;%s&lt;/x1&gt; сэк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;x0&gt;%s&lt;/x0&gt; minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T112827Z">
+        <seg>&lt;x0&gt;%s&lt;/x0&gt; хв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10661,6 +10677,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>@string/never</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113516Z">
+        <seg>@string/never</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>@string/prediction_basic</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T075914Z">
@@ -11742,6 +11766,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T161452Z">
         <seg>Запыт на доступ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access all system downloads</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120423Z">
+        <seg>Доступ ў ўсяго спампоўванага ў сыстэме</seg>
       </tuv>
     </tu>
     <tu>
@@ -13732,10 +13764,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alarm set for &lt;x0&gt;%s&lt;/x0&gt;.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113147Z">
+        <seg>Будзьку паставілі на &lt;x0&gt;%s&lt;/x0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alarm set for &lt;x0&gt;%s&lt;/x0&gt;. Select to cancel.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T152052Z">
         <seg>Будзьку паставілі на &lt;x0&gt;%s&lt;/x0&gt;. Абярыце, каб скасаваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alarm set: &lt;x0&gt;%s&lt;/x0&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115250Z">
+        <seg>Будзьку паставілі: &lt;x0&gt;%s&lt;/x0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13776,6 +13824,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T150801Z">
         <seg>Будзькі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alarms will silence after &lt;x0&gt;%d&lt;/x0&gt; minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T114423Z">
+        <seg>Будзькі будуць сьцішвацца праз &lt;x0&gt;%d&lt;/x0&gt; хв.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16004,6 +16060,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the application to download files through the download manager without any notification being shown to the user.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120332Z">
+        <seg>Дазваляе праґраме спампоўваць файлы праз кіраўнік спампоўванага, так, што карыстальнік не пабачыць ніякага спавяшчэньня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120234Z">
+        <seg>Дазваляе праґраме спампоўваць файлы ў запасьнік спампоўванага (які не ачышчаецца самарушна), калі кіраўнік спампоўванага патрабуе болей прасторы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows the application to force the phone to reboot.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T130336Z">
@@ -16144,6 +16216,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T133904Z">
         <seg>Дазваляе праґраме уключаць або выключаць тэлефон.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows the application to view and modify all initiated by any application on the system.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120544Z">
+        <seg>Дазваляе праґраме праглядаць і зьмяняць спампоўванае хоць-якою праґрамаю сыстэмы.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18640,6 +18720,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110728T185320Z">
         <seg>Самарушна паказваць сябра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto silence</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T114344Z">
+        <seg>Сьцішвацца самарушна</seg>
       </tuv>
     </tu>
     <tu>
@@ -24825,6 +24913,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear selection</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122139Z">
+        <seg>Не абіраць нічога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear shortcuts</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T074838Z">
@@ -24901,6 +24997,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T115559Z">
         <seg>Ачышчаецца гісторыя выклікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;x1&gt;%s &lt;/x1&gt; to begin this download the next time you are connected to a WiFi network.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120927Z">
+        <seg>Націсьніце &lt;x1&gt;%s&lt;/x1&gt;, каб пачаць пампаваць, калі вы злучыцеся зь сеткаю Wi-Fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;x1&gt;%s&lt;/x1&gt; below to begin this download the next time you are connected to a WiFi network.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121346Z">
+        <seg>Націсьніце &lt;x1&gt;%s&lt;/x1&gt;, каб пачаць пампаваць, калі вы злучыцеся зь сеткаю Wi-Fi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28898,6 +29010,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deselect All</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122257Z">
+        <seg>Не абіраць нічога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deselect all</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T184742Z">
@@ -30391,6 +30511,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you want to retry downloading the file later or delete it from the queue?</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121825Z">
+        <seg>Паспрабаваць спампаваць пазьней ці прыбраць файл з чаргі?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to switch to the new provider anyway?</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110401T195122Z">
@@ -30738,6 +30866,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download Failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121732Z">
+        <seg>Не ўдалося спампаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download Manager</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111129T102047Z">
@@ -30906,6 +31042,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download size requires Wi-Fi</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120649Z">
+        <seg>Такі памер патрабуе Wi-Fi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download too large for operator network</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120812Z">
+        <seg>Завялікі файл для сеткі вашага апэратара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download unsuccessful</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T124017Z">
@@ -30982,6 +31134,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T125154Z">
         <seg>Спампоўванае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Downloads - Sorted by date</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122212Z">
+        <seg>Упарадкаванае паводле даты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Downloads - Sorted by size</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122234Z">
+        <seg>Упарадкаванае паводле памеру</seg>
       </tuv>
     </tu>
     <tu>
@@ -34589,6 +34757,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T163940Z">
         <seg>Файл не атрымалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File not yet available</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121842Z">
+        <seg>Файл дагэтуль недаступны</seg>
       </tuv>
     </tu>
     <tu>
@@ -41555,6 +41731,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122128Z">
+        <seg>Пакінуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep local</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111201T110519Z">
@@ -42864,6 +43048,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110620T203057Z">
         <seg>Чытаюцца фатаздымкі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading ringtone\u2026</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115203Z">
+        <seg>Чытаецца мэлёдыя…</seg>
       </tuv>
     </tu>
     <tu>
@@ -48252,6 +48444,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No downloads.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121549Z">
+        <seg>Няма спампаванага.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No emergency calls</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T100406Z">
@@ -50014,8 +50214,8 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>Off</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20111130T113939Z">
-        <seg>Выкл.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115103Z">
+        <seg>Вылуч.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51436,6 +51636,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Package Access Helper</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T112532Z">
+        <seg>Памочнік доступу пакункаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Package file has a bad manifest.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T073130Z">
@@ -51936,6 +52144,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T090144Z">
         <seg>Прыпынілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paused in background</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121531Z">
+        <seg>Прыпынілі на заднім пляне</seg>
       </tuv>
     </tu>
     <tu>
@@ -55246,6 +55462,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Queue</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121358Z">
+        <seg>У чаргу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Queue for download later?</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120952Z">
+        <seg>Ці паставіць файл у чаргу?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Queued</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110724T090058Z">
@@ -57507,6 +57739,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110826T101831Z">
         <seg>Даслаць зноўку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reserve space in the download cache</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115949Z">
+        <seg>Замаўляць прастору ў запасьніку спампоўванага</seg>
       </tuv>
     </tu>
     <tu>
@@ -60319,6 +60559,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See all downloads to USB storage</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115911Z">
+        <seg>Бачыць усё, што спампавалі ў сховішча USB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See location in applications (such as Maps) using wireless networks</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110331T132040Z">
@@ -61340,6 +61588,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T155431Z">
         <seg>Абраць аздабленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected &lt;x0&gt;%1$d&lt;/x0&gt; out of &lt;x1&gt;%2$d&lt;/x1&gt;</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122340Z">
+        <seg>Абралі &lt;x0&gt;%1$d&lt;/x0&gt; з &lt;x1&gt;%2$d&lt;/x1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65456,10 +65712,26 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by date</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122248Z">
+        <seg>Паводле даты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by size</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110402T055848Z">
-        <seg>Упарадкаваць па памеры</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121617Z">
+        <seg>Паводле памеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by time</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121606Z">
+        <seg>Паводле часу</seg>
       </tuv>
     </tu>
     <tu>
@@ -66128,6 +66400,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start now</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121429Z">
+        <seg>Спампаваць зараз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start over</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110502T071821Z">
@@ -66220,6 +66500,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110316T204049Z">
         <seg>Запускаецца пасьлядоўнасьць коду ўласьцівасьці…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Starting this &lt;x0&gt;%s &lt;/x0&gt; download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121329Z">
+        <seg>Калі пачаць спампоўваць &lt;x0&gt;%s&lt;/x0&gt; зараз, можа празьмерна выкарыстоўвацца злучэньне зь сецівам, за што, магчыма, давядзецца шмат заплаціць у адпаведнасьці з тарыфным плянам на сеціва. Апроч гэтага, можа паменшыцца тэрмін службы батарэі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69099,6 +69387,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The destination file already exists.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122007Z">
+        <seg>У месцы прызначэньня ўжо існуе такі файл.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The details of this event have been changed for: %s</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110324T221757Z">
@@ -69155,6 +69451,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The downloaded file cannot be found.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121922Z">
+        <seg>Не знайшлі спампаванага файла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The email address could not be processed.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110826T100649Z">
@@ -69191,6 +69495,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110622T121539Z">
         <seg>Сатрэцца ўся галіна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The external media is not available.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T122059Z">
+        <seg>Няма доступу да вонкавага сховішча.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70352,6 +70664,22 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is not enough space on external storage.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121937Z">
+        <seg>Бракуе прасторы ў вонкавым сховішчы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is not enough space on internal download storage.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121949Z">
+        <seg>Бракуе прасторы ва ўнутраным сховішчы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is not enough space on the SD card to save the file from \"%1$s\"</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110425T164807Z">
@@ -70874,56 +71202,56 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%1$s&lt;/x0&gt; and &lt;x1&gt;%2$s&lt;/x1&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151627Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%1$s&lt;/x0&gt; і &lt;x1&gt;%2$s&lt;/x1&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113608Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%1$s&lt;/x0&gt; і &lt;x1&gt;%2$s&lt;/x1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%1$s&lt;/x0&gt; and &lt;x1&gt;%3$s&lt;/x1&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151649Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%1$s&lt;/x0&gt; і &lt;x1&gt;%3$s&lt;/x1&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113047Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%1$s&lt;/x0&gt; і &lt;x1&gt;%3$s&lt;/x1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%1$s&lt;/x0&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151533Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%1$s&lt;/x0&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113024Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%1$s&lt;/x0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%1$s&lt;/x0&gt;, &lt;x1&gt;%2$s&lt;/x1&gt;, and &lt;x2&gt;%3$s&lt;/x2&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151724Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%1$s&lt;/x0&gt;, &lt;x1&gt;%2$s&lt;/x1&gt; і &lt;x2&gt;%3$s&lt;/x2&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113102Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%1$s&lt;/x0&gt;, &lt;x1&gt;%2$s&lt;/x1&gt; і &lt;x2&gt;%3$s&lt;/x2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%2$s&lt;/x0&gt; and &lt;x1&gt;%3$s&lt;/x1&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151701Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%2$s&lt;/x0&gt; і &lt;x1&gt;%3$s&lt;/x1&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113053Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%2$s&lt;/x0&gt; і &lt;x1&gt;%3$s&lt;/x1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%2$s&lt;/x0&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151547Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%2$s&lt;/x0&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113603Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%2$s&lt;/x0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This alarm is set for &lt;x0&gt;%3$s&lt;/x0&gt; from now.</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110321T151638Z">
-        <seg>Будзьку паставілі на &lt;x0&gt;%3$s&lt;/x0&gt; ад гэтага моманту.</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111201T113036Z">
+        <seg>Будзька спрацуе праз &lt;x0&gt;%3$s&lt;/x0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71292,6 +71620,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T101759Z">
         <seg>Гэта поле нельга пакідаць пустым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is queued for future download.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121908Z">
+        <seg>Файл у чарзе, спампуецца потым.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78450,6 +78786,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Volume buttons</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115152Z">
+        <seg>Кнопкі гучнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Volume down takes picture</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T112243Z">
@@ -81518,6 +81862,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You must use WiFi to complete this &lt;x0&gt;%s &lt;/x0&gt; download.</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120835Z">
+        <seg>Каб спампаваць &lt;x0&gt;%s&lt;/x0&gt;, трэба скарыстацца Wi-Fi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You need Skype Credit to call this number.</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T094247Z">
@@ -83665,6 +84017,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and &lt;x0&gt;%d&lt;/x0&gt; more</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120624Z">
+        <seg>і яшчэ &lt;x0&gt;%d&lt;/x0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>android</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T082215Z">
@@ -85189,6 +85549,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110322T090425Z">
         <seg>dot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>download files without notification</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T120249Z">
+        <seg>спампоўваць файлы ды не спавяшчаць</seg>
       </tuv>
     </tu>
     <tu>
@@ -92968,6 +93336,66 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T112951Z">
         <seg>Пр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">DeskClock/</prop>
+      <prop type="id">auto_silence_entries</prop>
+      <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115112Z">
+        <seg>Ня сьцішваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">DeskClock/</prop>
+      <prop type="id">auto_silence_never</prop>
+      <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T115118Z">
+        <seg>Ня сьцішваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">DeskClock/</prop>
+      <prop type="id">hour</prop>
+      <tuv lang="en">
+        <seg>1 hour</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T112800Z">
+        <seg>адну гадзіну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">DeskClock/</prop>
+      <prop type="id">minute</prop>
+      <tuv lang="en">
+        <seg>1 minute</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T112816Z">
+        <seg>адну хвіліну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">DownloadProvider/</prop>
+      <prop type="id">download_running</prop>
+      <tuv lang="en">
+        <seg>In progress</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121641Z">
+        <seg>Спампоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">DownloadProvider/</prop>
+      <prop type="id">download_success</prop>
+      <tuv lang="en">
+        <seg>Complete</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111201T121718Z">
+        <seg>Спампавалі</seg>
       </tuv>
     </tu>
     <tu>
