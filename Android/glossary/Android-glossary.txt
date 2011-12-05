@@ -22,6 +22,7 @@ advanced	адмысловы
 ADW.Launcher	Пускач ADW
 ad	абвестка
 again	зноўку
+alarm clock	буднік
 alarms	будзькі
 alarm	будзька
 album	альбом -у
@@ -86,8 +87,11 @@ bookmarks	закладкі
 bookmark	закладка
 booting	першагрузіцца
 booting	першагрузка
+bootloader	ладоўнік запуску
+bootloader	пачатковы ладоўнік
 boot	першагрузіцца
 brightness	яркасьць
+broadcasts	апавяшчэньні
 broadcast	рассылаць
 browser	аглядальнік
 build	зборка
@@ -424,6 +428,7 @@ My downloads	Маё спампаванае
 name	імя
 name	назва
 navigation	навіґацыя
+Near Field Communication	зносіны блізкага поля
 negotiation	узгадненьне
 networked	сеткаваны
 News Feed	стужка навінаў
@@ -440,9 +445,11 @@ not readable	нельга прачытаць
 objectionable	непажаданы
 obtaining	атрымваем
 offline	адлучаны
+OFF	вылучаць
 OK	Добра
 online	далучаны
 onscreen	экранны
+ON	улучаць
 opening	адчыняецца
 open	адчыніць
 optional	не абавязкова
@@ -532,6 +539,7 @@ radio	радыёсувязь
 range	досяг -у
 rating	ацэнка
 reason	падстава
+reboot	запускаць нанова
 recipient	атрымальнік -а
 recognizer	пазнавальнік
 refreshing	абнаўляецца
@@ -650,6 +658,7 @@ storage	сховішча
 stories	рэпартажы
 story	рэпартаж
 stream	плынь
+StrictMode	строгі стан
 style	выгляд
 submitted	падалі
 submit	падаваць
@@ -662,6 +671,7 @@ suspended	прыпынілі
 switch	перамыкач
 sync	сынхранізаваць
 tablet	пляншэт
+tablet	пляншэт -а
 tabs	укладкі
 tab	зрух
 tab	укладка
@@ -764,6 +774,7 @@ widgets	віджэты
 widget	віджэт
 will be deleted	сатрэцца
 will be uploaded	запампуецца
+WiMAX	WiMAX
 window	вакно
 wireless	бяздротавы
 wizard	сродак
