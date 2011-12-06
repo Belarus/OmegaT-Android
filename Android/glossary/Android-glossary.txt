@@ -1,5 +1,6 @@
 ABI	двайковы праґрамны інтэрфэйс	Application Binary Interface
 accessibility	даступнасьць
+accessory	прыналежнасьць
 AccountAuthenticators	АпазнавальнікіРахунку
 AccountManagerService	СлужбаКіравацьРахункам
 AccountManager	КіраўнікРахункаў
@@ -29,6 +30,7 @@ album	альбом -у
 alerts	папярэджаньні
 alert	папярэджаньне
 always	заўжды
+AM	перад паўднём
 animated	ажыўляць
 animations	ажыўленьні
 animation	ажыўленьне
@@ -94,6 +96,7 @@ brightness	яркасьць
 broadcasts	апавяшчэньні
 broadcast	рассылаць
 browser	аглядальнік
+browser	аглядальнік -а
 build	зборка
 buttons	кнопкі
 button	кнопка
@@ -133,6 +136,8 @@ checkin	адзначацца
 Checkout	Каса
 CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
 circles	колы
+clear	ачышчаць (сьпіс)
+clear	прыбраць (складнікі)
 clipboard	кішэня
 close	зачыняць
 closing	зачыняецца
@@ -149,6 +154,8 @@ comment	выказацца
 comment	выказваньне
 comment	заўвага
 company	таварыства
+compatibility zoom	суладнае павелічэньне
+compatibility	суладнасьць
 complete	заканчваць
 component	складнік
 composer	укладальнік
@@ -157,6 +164,7 @@ computer	кампутар
 computer	кампутар -а
 conference call	выклік да нарады
 conference	нарада
+confidential	сакрэтны
 configuration	настаўленьне
 configured	наставілі
 configure	настаўляць
@@ -211,6 +219,7 @@ detected	выявілі
 detect	выяўляць
 developer	распрацоўнік
 development	распрацоўніцтва
+device admin	кіраўнік прылады
 devices	прылады
 device	прылада
 dial pad	наборнік
@@ -228,6 +237,7 @@ discoverability	бачнасьць
 DockBar	латок-паліца
 dock	латок
 domain	вузел
+Domestic Partner	Супольнік па сям’і
 Done	Зроблена
 double-tap	падвойны націск
 downloaded	спампавалі
@@ -351,6 +361,7 @@ installed	усталявалі
 installer	усталёўца
 install	усталёўваць
 instant	хуткі
+intercept	перахапляць
 invalid	хібны
 invites	запрашэньні
 IP	адрас IP
@@ -457,6 +468,8 @@ options	можнасьці
 organization	аб’яднаньне
 out of space	бракуе прасторы
 overwrite	перазапісваць
+owner	уладальнік
+packages	пакункі
 package	пакунак -ка
 pager	гартач
 pages	бачыны
@@ -469,6 +482,7 @@ panorama	краявід
 parser	разьбіральнік
 passwords	паролі
 password	пароль
+password	пароль -лю
 pattern	узор
 paused	прыпынілі
 PDP	пратакол пакетных зьвестак («Packet Data Protocol»)
@@ -497,8 +511,10 @@ plugged in	улучылі
 plug-ins	убудовы
 plug-in	убудова
 PLZ	PLZ (нямецкі паштовы код)
+PM	папаўдні
 podcasts	падвяшчальнікі
 podcast	падвяшчальнік
+pointer	паказальнік -а
 points	пункты
 pokes	штуршкі
 poke	штуршок
@@ -635,6 +651,7 @@ slide	ссоўваць
 SMS messages	паведамленьні SMS
 snooze	адкладаць
 Social Club	таварыскі клюб
+social	грамадзкі
 sockets	гнёзды
 soft keyboard	праґрамная клявіятура
 software	праґрамныя сродкі
@@ -704,6 +721,8 @@ total	агулам
 total	разам
 touch	націскаць
 trackball	трэкбол
+trackpad	датыкач
+traffic	перадаванае
 transfers	перадаванае
 TransPot	ТранШпарт
 trash	сьметніца
@@ -772,6 +791,7 @@ web	сеціва
 WhiteBalance	раўнавага белага
 widgets	віджэты
 widget	віджэт
+Wi-Fi Direct	наўпроставы Wi-Fi
 will be deleted	сатрэцца
 will be uploaded	запампуецца
 WiMAX	WiMAX

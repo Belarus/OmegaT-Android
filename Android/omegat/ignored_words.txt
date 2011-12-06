@@ -19,6 +19,7 @@ $02d
 2weeks
 30min
 320x240
+3,5G
 3D
 3days
 3G
@@ -125,6 +126,8 @@ ar-SY
 ar-TN
 ar-YE
 ascending
+attention
+attn
 audio
 auto
 auto_login
@@ -139,6 +142,7 @@ b
 B
 backspace
 BackupTransportService
+bairro
 battery
 BBC
 beach
@@ -336,6 +340,7 @@ btn_toggle_on_normal_holo_light
 btn_toggle_on_pressed_holo_dark
 btn_toggle_on_pressed_holo_light
 buddycount_policy
+business
 C
 ç
 cab_background_bottom_holo_dark
@@ -399,6 +404,7 @@ com.google.android.location.NetworkLocationProvider
 com.google.android.talk
 com.google.plus.uploader
 com.huawei.inputmethod.hwpal
+company
 complete
 component
 com.skype.raider
@@ -439,6 +445,7 @@ DEFAULT_NOTIFICATION_URI
 DEFAULT_RINGTONE_URI
 delete
 de-LI
+department
 descending
 description_direction_left
 description_direction_right
@@ -496,6 +503,7 @@ EAP
 eBay
 échantillon
 EcmExitDialog
+Edge
 edit
 editbox_dropdown_background_dark
 edit_text
@@ -511,6 +519,7 @@ ejemplo
 el-GR
 emails
 emote
+empresa
 en
 en-001
 ENABLE_MEDIA_DETECTOR
@@ -616,6 +625,8 @@ files
 fil-PH
 fine
 fireworks
+firma
+firmenname
 firstname
 fluorescent
 flv
@@ -638,6 +649,7 @@ fullname
 für
 Fwd
 g
+G
 ga-IE
 Galaxy
 GBK
@@ -898,6 +910,7 @@ lt-LT
 lv-LV
 m
 M
+Mac
 MAC
 macro
 magnetlink
@@ -963,6 +976,7 @@ MSISDN1
 ms-MY
 MSN
 ms-SG
+MTP
 mute
 mvapp-android-google
 myaccount
@@ -1025,6 +1039,9 @@ o_O
 OpenVPN
 OpenWnnJAJP
 org
+organisation
+organization
+other
 overscroll_edge
 overscroll_glow
 p
@@ -1196,11 +1213,13 @@ progress_small_white
 ProjectMenu
 Protocol
 province
+provincia
 ProxyAddress
 pryklad.by
 PSK
 pt-AO
 pt-BR
+PTP
 pt-PT
 PUK
 PUK2
@@ -1218,9 +1237,11 @@ quickcontact_badge_overlay_pressed_dark
 quickcontact_badge_overlay_pressed_light
 QVGA
 rac2030
+ragione
 ray
 Re
 realtime-chat
+recovery
 red
 red-tint
 refresh_interval
@@ -1282,6 +1303,8 @@ sepia
 SetPrimary
 settings
 sh
+SHA
+Shift
 SHIFT_JIS
 SHOW
 show_fav_contacts
@@ -1312,6 +1335,9 @@ SMSC
 SMTP
 snow
 SNS
+sociale
+societe
+société
 solarize
 Sony
 sounds
@@ -1367,6 +1393,7 @@ st-ZA
 su
 submit
 submit_feedback
+suburb
 Suite
 sunset
 superfine
@@ -1403,6 +1430,7 @@ TARDIS
 TCP
 TDD
 techno
+TeleTypewriter
 temperature_unit_celsius
 terms.fairusage
 terms_mobile_news.html
@@ -1575,6 +1603,11 @@ zip
 zu-ZA
 π
 адрас_IP_кампутару
+компании
+название
 中文
+会社
+公司
+单位
 简体
 繁體
