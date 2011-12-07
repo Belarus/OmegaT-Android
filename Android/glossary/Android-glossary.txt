@@ -256,6 +256,7 @@ effects	ператварэньні
 email arrives	прыходзіць пошта
 email	эл. пошта
 emergency	надзвычайны
+emoticons	пачуцьцезнакі
 emoticon	пачуцьцезнак
 empty	парожні
 enable/disable	ці карыстацца
@@ -301,6 +302,7 @@ folders	каталёґі
 folder	каталёґ
 followers	падпісанты
 follower	падпісант	
+font	шрыфт -у
 format	разьмячаць
 for more information	каб даведацца болей
 form	блянк
@@ -403,6 +405,7 @@ locking	замыкаць
 lock	замыкаць
 Log Out	выйсьці
 log	справаздача
+look and feel	Вонкавы выгляд
 lost	згубілі
 mailbox	паштовая скрынка
 Malicious applications can use this to	Зламысныя праграмы могуць карыстацца гэтым, каб

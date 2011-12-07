@@ -155,6 +155,7 @@ Big5
 bin
 bin-signed.zip
 birthday
+BlackBerry
 blues
 blue-tint
 bluetooth
@@ -784,6 +785,8 @@ II
 IMAP
 ime
 IMEI
+imo
+imo.im
 in
 In
 incandescent
@@ -801,6 +804,7 @@ intent
 Intent
 intl
 IP
+iPad
 iPhone
 IPSec
 is
@@ -872,6 +876,7 @@ landscape
 lang
 language
 languages
+large
 LARGER
 LARGEST
 lastname
@@ -929,6 +934,7 @@ market
 Market
 market.android.com
 media
+medium
 MEDIUM
 MEID
 menu_background
@@ -979,6 +985,7 @@ ms-SG
 MTP
 mute
 mvapp-android-google
+My
 myaccount
 myaccount.onlinenumber
 myaccount.voicemail
@@ -1215,6 +1222,13 @@ Protocol
 province
 provincia
 ProxyAddress
+prpl-aim
+prpl-facebook
+prpl-jabber
+prpl-msn
+prpl-myspace
+prpl-skype
+prpl-yahoo
 pryklad.by
 PSK
 pt-AO
@@ -1342,6 +1356,7 @@ solarize
 Sony
 sounds
 source
+Space
 spa-ESP
 span
 SPC
@@ -1584,7 +1599,9 @@ X
 XDA
 XGA
 xh-ZA
+xlarge
 Xperia
+xsmall
 Y
 Yahoo
 yahoo.com
