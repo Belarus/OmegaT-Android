@@ -43,6 +43,7 @@ apps	праґрамы
 app	праґрама
 archive	архіваваць
 Are you sure you want to	Ці ўпэўненыя вы, што хочаце
+artists	выканаўцы
 artist	выканаўца
 attached	залучаны
 attachments	залучнікі
@@ -79,6 +80,8 @@ battery level	узровень зараду батарэі
 battery	батарэя
 bcc	сьляпая копія (СК; «blind carbon copy»)
 Begin	«Пачаць»
+blink	мігцець
+blink	міргаць
 blocked	забаронены
 block	затрымваць
 Blogger	Блоґер
@@ -119,6 +122,7 @@ car mode	стан «у машыне»
 carrier	апэратар
 catalogs	пералікі
 catalog	пералік	Маецца на ўвазе catalog як пералік праґрамаў.
+category	катэґорыя
 cc	копія («carbon copy»)
 certificates	пасьведчаньні
 certificate	пасьведчаньне
@@ -193,6 +197,7 @@ county	акруга
 CPU	ЦП
 crash	аварыя
 credentials	даверчыя лісты
+credential	даверчыя лісты
 cursor	указальнік
 Customer Care	служба падтрымкі
 custom	уласны
@@ -224,6 +229,7 @@ devices	прылады
 device	прылада
 dial pad	наборнік
 dial	набіраць
+dictionary	слоўнік -а
 Did you mean	можа, мелася на ўвазе
 dim	прыцямняць
 Directions & Navigation	Шляхі ды навіґацыя
@@ -236,6 +242,7 @@ disconnecting	адлучаемся
 discoverability	бачнасьць
 DockBar	латок-паліца
 dock	латок
+dock	латок -тка
 domain	вузел
 Domestic Partner	Супольнік па сям’і
 Done	Зроблена
@@ -264,8 +271,10 @@ encryption	тайнапіс
 End-User License Agreement	ліцэнзійнае пагадненьне
 engines	рухавікі
 engine	рухавік
+engine	рухавік -а
 entered	упісалі
 enterprise	прадпрыемства
+enter	пазначаць
 enter	упісваць
 error occured	выявілася памылка
 error occured	далі хібу
@@ -311,12 +320,15 @@ forwarding	перасыланьне
 forward	перасылаць
 frame	кадр
 friend request	запыт сябраваць
+gadget	забаўка
 Gallery	ґалерэя
 gateway	брама
 General	«Агульнае»
 general	агульны
 general	галоўны
 geolocation	вызначаць ґеаґрафічнае мейсца
+gesture	жэст -у
+GMT	час па Ґрынвічы
 Go offline	Адлучыцца
 Google	Google
 Google Instant	Хуткі Google
@@ -369,6 +381,7 @@ invites	запрашэньні
 IP	адрас IP
 joining	спалучаць
 junk	лухта
+keep-alive	праверачны
 kernel	ядро
 keyboard	клявіятура
 key	клявіша
@@ -428,6 +441,7 @@ mock locations	удаваныя крыніцы
 mock	падрабляцца
 mock	падробны
 mock	удаваны
+modem	злучар
 moderate	сярэдне
 mode	стан
 mod	зьменка
@@ -447,6 +461,7 @@ negotiation	узгадненьне
 networked	сеткаваны
 News Feed	стужка навінаў
 Next	«Далей»
+NFC	зносіны блізкага поля
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
 note	зацемка
@@ -470,6 +485,7 @@ optional	не абавязкова
 options	можнасьці
 organization	аб’яднаньне
 out of space	бракуе прасторы
+overrides	перавагі
 overwrite	перазапісваць
 owner	уладальнік
 packages	пакункі
@@ -542,6 +558,7 @@ preferred	пераважны
 prefetching	загадзя атрымваць
 prefetch	загадзя атрымваць
 preview	прыклад
+priority	пяршынства
 privacy	адасобленасьць
 process	працэс -у
 product	выраб
@@ -602,7 +619,9 @@ restricted	абмяжоўваецца
 restricted	забаронены
 reviews	водгукі
 review	водгук
+ringtone	гук выкліку
 ringtone	мэлёдыя
+Rocket Launcher	ракетніца
 rotate left	павярніце налева
 rotate right	павярніце направа
 route	шлях
@@ -613,11 +632,13 @@ saturation	насычанасьць
 scanning	аглядаем
 scan	шукаць
 screenshot	здымак экрану
+screen timeout	час чаканьня экрану
 screen	экран -у
 scrollable	пракручвальны
 SD card	картка SD
 search engine	шукач
 secondary	дапаможны
+secret	таямніца
 select text	выбраць тэкст
 sender	адпраўнік
 sensor	чуйнік
@@ -714,6 +735,7 @@ thumbnail view	абразкі
 thumbnail	абразок
 time lapse	адваротны адлік
 time lapse	па кадрах
+timestamps	часадзнакі
 time zone	часавы пас
 tips	парады
 toast	вынырцы
@@ -737,6 +759,7 @@ types	віды
 type	від
 type	друкаваць
 typing	друкаваць
+\u00a0	\u00a0	Неразрыўны прагал
 \u2022	"
 UID	азначальнік карыстальніка
 unable	немагчыма
@@ -763,6 +786,8 @@ uploads	запампаванае
 upload	запампоўваць
 USB Mass Storage	сховішча USB
 USB storage	сховішча USB
+User-Agent	сродак карыстальніка
+user dictionary	уласны слоўнік
 valid	чынны
 vCard	візытоўка
 Velcom	Velcom	
@@ -795,6 +820,7 @@ WhiteBalance	раўнавага белага
 widgets	віджэты
 widget	віджэт
 Wi-Fi Direct	наўпроставы Wi-Fi
+Wi-Fi	Wi-Fi
 will be deleted	сатрэцца
 will be uploaded	запампуецца
 WiMAX	WiMAX

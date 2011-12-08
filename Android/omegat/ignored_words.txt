@@ -74,6 +74,7 @@ adw_settings.xml
 af-ZA
 AIM
 alarm_clock
+all_calls
 allow_calls
 allow_msgs
 ALT
@@ -98,6 +99,7 @@ android-home-hotseat
 AndroidHotspot
 android.intent.action.DIAL
 android.intent.action.MAIN
+android-sms-bugs
 android-weberror.png
 Android-у
 answer
@@ -423,6 +425,7 @@ container
 cos
 country
 cs-CZ
+custom
 custom_topics
 CVC
 CyanogenMod
@@ -437,6 +440,7 @@ dd-MM-yyyy
 dd.MM.yyyy
 de
 de-AT
+DEBUG
 de-CH
 de-DE
 default
@@ -463,6 +467,7 @@ dev
 Dev
 device
 device-width
+DHCP
 di
 diag
 dialog_bottom_holo_dark
@@ -492,7 +497,9 @@ dot
 drawable
 DRM
 Droid
+droidanizer
 dt
+DUMP
 dг
 dдз
 dс
@@ -500,6 +507,7 @@ dхв
 e
 E
 è
+e0103010
 EAP
 eBay
 échantillon
@@ -515,6 +523,7 @@ edu
 EEE
 EEEE
 èéêë
+eHRPD
 ein
 ejemplo
 el-GR
@@ -543,6 +552,7 @@ en-PH
 en-PK
 en-SD
 en-SG
+Enter
 en-TZ
 en-UG
 en-US
@@ -619,6 +629,7 @@ fastscroll_track_pressed_holo_light
 FDN
 feedback
 ff000000
+ff404040
 ffffffff
 fi-FI
 file
@@ -689,6 +700,7 @@ HCO
 HD
 HD1080
 HD720
+HDCP
 HH
 HIDE
 high
@@ -715,6 +727,7 @@ HTTP
 https
 HTTPS
 hu-HU
+I
 ic_ab_back_holo_dark
 ic_ab_back_holo_light
 ic_cab_done_holo_dark
@@ -807,6 +820,8 @@ IP
 iPad
 iPhone
 IPSec
+IPv4
+IPv6
 is
 ISDN
 is-IS
@@ -911,8 +926,10 @@ Lock.ogg
 log
 low
 LowBattery.ogg
+LTE
 lt-LT
 lv-LV
+LZO
 m
 M
 Mac
@@ -952,6 +969,7 @@ menu_submenu_background
 message
 metric
 Microsoft
+MIN
 mini
 mm
 MM
@@ -978,6 +996,7 @@ ms
 ms-android-google
 MSCHAP
 MSCHAPV2
+MSID
 MSISDN1
 ms-MY
 MSN
@@ -992,6 +1011,7 @@ myaccount.voicemail
 MySpace
 n
 ñ
+N95
 nb-NO
 negative
 net
@@ -1010,6 +1030,7 @@ nl-NL
 nn-NO
 no
 no_flash
+Nokia
 none
 normal
 NORMAL
@@ -1041,6 +1062,7 @@ on
 ON
 ON_DEMAND
 ongoing_call
+on_list
 o_O
 òóôõöœø
 OpenVPN
@@ -1170,6 +1192,7 @@ pref_camera_sharpness_entry_level4
 pref_camera_sharpness_entry_level5
 prefetch_images_key
 prefetch_pages_key
+pref_mms_custom_option
 primary_text_dark
 primary_text_dark
 primary_text_dark_disable_only
@@ -1189,6 +1212,7 @@ primary_text_nodisable_holo_dark
 primary_text_nodisable_holo_light
 privacy
 privacy.html
+PRL
 pro
 PRO
 profilePicture
@@ -1250,6 +1274,7 @@ quickcontact_badge_overlay_normal_light
 quickcontact_badge_overlay_pressed_dark
 quickcontact_badge_overlay_pressed_light
 QVGA
+r
 rac2030
 ragione
 ray
@@ -1352,6 +1377,7 @@ SNS
 sociale
 societe
 société
+SoftBank
 solarize
 Sony
 sounds
@@ -1415,6 +1441,7 @@ superfine
 Superuser
 support
 SurfaceFlinger
+SV
 sv-FI
 SVGA
 sv-SE
@@ -1501,6 +1528,7 @@ U
 u0020
 u0020%
 u003E
+u00a0
 u00d7
 u00f7
 u03c0
@@ -1560,6 +1588,7 @@ volume
 voz
 VPlayer
 VPN
+W800i
 WAP
 WAP-PUSH
 waterloo
@@ -1570,6 +1599,10 @@ widget_config
 width
 wifi
 Wi-Fi
+wifi_security_eap
+wifi_security_none
+wifi_security_psk_generic
+wifi_security_wep
 Wikipedia
 WiMAX
 Windows
@@ -1596,6 +1629,8 @@ WyContacts
 Wysie
 x
 X
+X01T
+Xauth
 XDA
 XGA
 xh-ZA
