@@ -49,6 +49,7 @@ archive	архіваваць
 Are you sure you want to	Ці ўпэўненыя вы, што хочаце
 artists	выканаўцы
 artist	выканаўца
+assign	прызначаць
 attached	залучаны
 attachments	залучнікі
 attachment	залучнік -а
@@ -71,6 +72,7 @@ backed up	захавалі адноўку
 background data	злучацца на заднім пляне
 background	задні плян
 background	тло
+Backup & reset	Адноўка ды ўзнаўленьне
 backup	адноўка
 back up	захаваць адноўку
 Back	«Назад»
@@ -204,7 +206,9 @@ county	акруга
 CPU	ЦП
 crash	аварыя
 credentials	даверчыя лісты
+credentials	пасьведчаньні
 credential	даверчыя лісты
+credential	пасьведчаньне
 cursor	указальнік
 Customer Care	служба падтрымкі
 custom	уласны
@@ -285,13 +289,18 @@ entered	упісалі
 enterprise	прадпрыемства
 enter	пазначаць
 enter	упісваць
+erase	сьціраць (файл), вычышчаць (сховішча)
 error occured	выявілася памылка
 error occured	далі хібу
 error occured	здарылася памылка
 error occurred	далі хібу
 error	памылка
 error	хіба
+ethernet	дротавая сетка
 event	падзея
+Explore by Touch	Дасьледаваць дотыкам
+explore	выведваць
+explore	дасьледаваць
 export	вымаць
 exposure	насьвятленьне
 external	вонкавы
@@ -355,6 +364,7 @@ handset	тэлефонная слухаўка
 haptic feedback	водгук па дотыку
 haptic	дотыкавы
 hardware	прыстасаваньні
+HID	прылады ўзаемадзейнічаць з карыстальнікам	human interface device
 highlighted	падсьвечаны
 hint	намінка
 home button	кнопка «дамоў»
@@ -431,6 +441,7 @@ Log Out	выйсьці
 log	справаздача
 look and feel	Вонкавы выгляд
 lost	згубілі
+low-vision	кепскі зрок
 mailbox	паштовая скрынка
 Malicious applications can use this to	Зламысныя праграмы могуць карыстацца гэтым, каб
 malicious	зламысны
@@ -451,6 +462,7 @@ merge	аб’ядноўваць
 methods	спосабы
 method	спосаб
 MIN	азначальнік тэлефона	mobile identification number
+misbehave	паводзіць сябе неадпаведна
 mistakes	памылкі
 mistake	памылка
 MNC	код сеткі перасоўнае сувязі	Mobile Network Code
@@ -484,6 +496,7 @@ NFC	зносіны блізкага поля
 NFC	зносіны блізкага поля
 NFC	зносіны блізкага поля
 noise cancellation	гасіць шум
+not available	няма доступу
 not enough space	бракуе прасторы
 note	зацемка
 note	уважаць
@@ -600,6 +613,7 @@ quoted text	вытрымка
 radio	радыёсувязь
 range	досяг -у
 rating	ацэнка
+reader	чытальнік
 reason	падстава
 reboot	запускаць нанова
 recipient	атрымальнік -а
@@ -657,9 +671,11 @@ SafeSearch	Бясьпечны пошук
 saturation	насычанасьць
 scanning	аглядаем
 scan	шукаць
+Screen security	Абарона экрану
 screenshot	здымак экрану
 screen timeout	час чаканьня экрану
 screen	экран -у
+scripts	скрыпты
 scrollable	пракручвальны
 SD card	картка SD
 search engine	шукач
@@ -669,6 +685,7 @@ select text	выбраць тэкст
 sender	адпраўнік
 sensor	чуйнік
 server	паслужнік
+server	паслужнік -а
 Service Dialing Numbers	службовыя нумары
 services	службы
 service	служба
@@ -716,6 +733,7 @@ spam	лухта
 speaker	галосьнік
 specify	пазначаць
 speech synthesis	агучваньне
+spell checker	правапісьнік
 SSID	азначальнік сеткі
 starred	адзначаны
 star	зорачка
@@ -783,6 +801,7 @@ TransPot	ТранШпарт
 trash	сьметніца
 TTS	сыстэма агучваць тэкст
 Turn off USB storage	Выключыць сховішча USB
+tutorial	навучаньне
 Twitter	Twitter
 typed	набралі
 types	віды
@@ -809,6 +828,7 @@ unmount	адмацоўваць
 unsuccessful	не ўдалося
 untitled	бяз назвы
 updated	абнавілі
+updates	абнаўленьні
 upgraded	палепшылі
 upgrade	паляпшаць
 uploaded	запампавалі
@@ -839,6 +859,7 @@ Voice input & output	Уводзіць і выводзіць голасам
 Voice input	Уводзіць голасам
 voicemail	галасавая пошта
 voice output	выводзіць голасам
+VPN	уяўная таемная сетка
 VU meter	вальтмэтар
 warnings	перасьцярогі
 warning	перасьцярога
@@ -858,6 +879,7 @@ will be deleted	сатрэцца
 will be uploaded	запампуецца
 WiMAX	WiMAX
 window	вакно
+Wireless & networks	Бяздротавыя ды сеткі
 wireless	бяздротавы
 wizard	сродак
 WPS	Бясьпека Wi-Fi
