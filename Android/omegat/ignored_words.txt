@@ -31,6 +31,7 @@ $02d
 60hz
 802.1x
 a
+à
 A5
 àáâãäåæ
 ab_bottom_solid_dark_holo
@@ -128,6 +129,7 @@ ar-SY
 ar-TN
 ar-YE
 ascending
+asu
 attention
 attn
 audio
@@ -148,10 +150,12 @@ bairro
 battery
 BBC
 beach
+Beam
 be-BY
 Beispiel
 Belarusian
 bg-BG
+bière
 big
 Big5
 bin
@@ -357,6 +361,7 @@ call_forwarding
 CANCEL
 CDMA
 cdma_eri
+ce
 cell
 ChainsDD
 CHAP
@@ -440,6 +445,7 @@ dd-MM-yyyy
 dd.MM.yyyy
 de
 de-AT
+Debug
 DEBUG
 de-CH
 de-DE
@@ -451,6 +457,7 @@ DEFAULT_RINGTONE_URI
 delete
 de-LI
 department
+des
 descending
 description_direction_left
 description_direction_right
@@ -587,6 +594,7 @@ Este
 es-US
 es-UY
 es-VE
+et
 et-EE
 eth
 EUC-JP
@@ -634,12 +642,14 @@ ffffffff
 fi-FI
 file
 files
+filetransfer
 fil-PH
 fine
 fireworks
 firma
 firmenname
 firstname
+fivemin
 fluorescent
 flv
 Flyer
@@ -732,6 +742,7 @@ ic_ab_back_holo_dark
 ic_ab_back_holo_light
 ic_cab_done_holo_dark
 ic_cab_done_holo_light
+ICCID
 ic_clear
 ic_clear_disabled
 ic_clear_normal
@@ -800,6 +811,7 @@ ime
 IMEI
 imo
 imo.im
+IMS
 in
 In
 incandescent
@@ -821,7 +833,9 @@ iPad
 iPhone
 IPSec
 IPv4
+IPV4V6
 IPv6
+IPV6
 is
 ISDN
 is-IS
@@ -882,6 +896,7 @@ key_online
 key_wifi
 KHTML
 khtosci
+kiwis
 ko-KR
 Kб
 l
@@ -921,6 +936,7 @@ list_selector_holo_light
 Live
 ln
 local
+localhost
 location_string
 Lock.ogg
 log
@@ -950,6 +966,8 @@ maps.google.com
 market
 Market
 market.android.com
+MCC
+MDN
 media
 medium
 MEDIUM
@@ -980,6 +998,7 @@ MMM
 MMMM
 mms
 MMS
+MNC
 mobile
 Mobile
 mobile-client.buy.skypecredit
@@ -987,7 +1006,9 @@ mobile_hipri
 mobile_mms
 mobile_supl
 moderate
+moj.kamputar.sproba.by
 mono
+monsieur
 mood_text
 mood_timestamp
 mosaic
@@ -1061,6 +1082,7 @@ older
 on
 ON
 ON_DEMAND
+onehour
 ongoing_call
 on_list
 o_O
@@ -1071,6 +1093,7 @@ org
 organisation
 organization
 other
+OVERRIDE
 overscroll_edge
 overscroll_glow
 p
@@ -1246,6 +1269,7 @@ Protocol
 province
 provincia
 ProxyAddress
+proxy.napryklad.by
 prpl-aim
 prpl-facebook
 prpl-jabber
@@ -1335,10 +1359,12 @@ secondary_text_nodisable_holo_light
 secondary_text_nofocus
 secure
 send
+sender
 SendKeepAlive
 Sensation
 Sense
 sepia
+Servez
 SetPrimary
 settings
 sh
@@ -1440,6 +1466,7 @@ sunset
 superfine
 Superuser
 support
+SUPPRESS
 SurfaceFlinger
 SV
 sv-FI
@@ -1468,7 +1495,9 @@ tab_unselected_holo
 tab_unselected_pressed_holo
 Talk
 tan
+tap
 TARDIS
+tcp
 TCP
 TDD
 techno
@@ -1522,8 +1551,10 @@ ts-ZA
 TTLS
 tty
 TTY
+tun
 Twitter
 twitter.com
+twomin
 U
 u0020
 u0020%
@@ -1539,6 +1570,7 @@ u2025
 u2193
 u2212
 u221a
+udp
 UDP
 ui
 UID
@@ -1547,6 +1579,7 @@ uk-UA
 UMTS
 un
 Undock.ogg
+une
 unknown
 Unlock.ogg
 URI
@@ -1602,15 +1635,19 @@ Wi-Fi
 wifi_security_eap
 wifi_security_none
 wifi_security_psk_generic
+wifi_security_short_wpa_wpa2
 wifi_security_wep
+wifi_security_wpa_wpa2
 Wikipedia
 WiMAX
 Windows
 wl0.1
 WPA
 WPA2
+WPS
 WVGA
 www.amazon.com
+www.android.com
 www.bbc.co.uk
 www.cnn.com
 www.ebay.com

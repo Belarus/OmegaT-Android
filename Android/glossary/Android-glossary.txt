@@ -19,6 +19,7 @@ administration	кіраваньне
 administration	кіраўніцтва
 administrators	кіраўнікі
 administrator	кіраўнік
+Advanced WiFi	Адмысловыя налады Wi-Fi
 advanced	адмысловы
 ADW.Launcher	Пускач ADW
 ad	абвестка
@@ -31,6 +32,9 @@ alerts	папярэджаньні
 alert	папярэджаньне
 always	заўжды
 AM	перад паўднём
+Android Beam	Перадатчык (Android Beam)
+Android Beam	Прамень (Android Beam)
+Android File Transfer	праґрама абменьвацца файламі
 animated	ажыўляць
 animations	ажыўленьні
 animation	ажыўленьне
@@ -74,6 +78,7 @@ bad	кепскі
 band	паласа
 bars	паліцы
 bar	паліца
+baseband	злучар
 batch	зборны
 Bathing Cat	Кацяня ў ваньне
 battery level	узровень зараду батарэі
@@ -86,6 +91,7 @@ blocked	забаронены
 block	затрымваць
 Blogger	Блоґер
 blogger	блоґер -а
+bluetooth	bluetooth
 Bluetooth	Bluetooth
 BluetoothShare manager	кіраўнік дзяліцца па Bluetooth
 bookmarks	закладкі
@@ -123,6 +129,7 @@ carrier	апэратар
 catalogs	пералікі
 catalog	пералік	Маецца на ўвазе catalog як пералік праґрамаў.
 category	катэґорыя
+CA	сьведчальны асяродак
 cc	копія («carbon copy»)
 certificates	пасьведчаньні
 certificate	пасьведчаньне
@@ -257,6 +264,7 @@ drag left	перацягніце налева
 drag right	перацягніце направа
 drag	перацягваць
 drawer	рысавальнік
+dream	мроя
 DTMF tones	танальныя сыґналы
 edit	правіць
 effects	ператварэньні
@@ -268,6 +276,7 @@ emoticon	пачуцьцезнак
 empty	парожні
 enable/disable	ці карыстацца
 encryption	тайнапіс
+encryption	шыфраваньне
 End-User License Agreement	ліцэнзійнае пагадненьне
 engines	рухавікі
 engine	рухавік
@@ -352,6 +361,7 @@ home button	кнопка «дамоў»
 home screen	галоўны экран
 hotspot	адметны пункт
 huddle	таемка
+ICCID	азначальнік карткі SIM	integrated circuit card identifier
 icons	значкі
 icon	значак
 identity	тоеснасьць
@@ -368,6 +378,7 @@ incorrect	неадпаведны
 indicator	паказальнік
 inflate	напаўняць
 inflating	напаўняць
+input device	прылада ўводу
 insert	усоўваць (картку)
 insert	устаўляць (тэкст)
 installation	ўсталёўваць
@@ -426,16 +437,23 @@ malicious	зламысны
 maps live wallpaper	жывыя шпалеры з мапаў
 market	крама
 maybe	магчыма
+MCC	код краіны	mobile country code
+MDN	нумар тэлефоннае прылады	Mobile Device Number
+media audio	гук прайгравальніка
 media	мэдыя
+media	прайгравальнік
 media	сховішчы
 meeting	сустрэча
+MEID	азначальнік перасоўнага абсталяваньня	mobile equipment identifier
 mention	згадваньне
 Menu	«Мэню»
 merge	аб’ядноўваць
 methods	спосабы
 method	спосаб
+MIN	азначальнік тэлефона	mobile identification number
 mistakes	памылкі
 mistake	памылка
+MNC	код сеткі перасоўнае сувязі	Mobile Network Code
 mobile	перасоўны
 mock locations	удаваныя крыніцы
 mock	падрабляцца
@@ -449,6 +467,7 @@ monitor	сачыльнік
 monitor	сачыць
 mount	мацаваць
 move	перасоўваць
+MSID	азначальнік перасоўнае станцыі	mobile station ID
 multicast	бязадрасны
 mutual	агульны
 mutual	супольны	
@@ -461,6 +480,8 @@ negotiation	узгадненьне
 networked	сеткаваны
 News Feed	стужка навінаў
 Next	«Далей»
+NFC	зносіны блізкага поля
+NFC	зносіны блізкага поля
 NFC	зносіны блізкага поля
 noise cancellation	гасіць шум
 not enough space	бракуе прасторы
@@ -499,6 +520,7 @@ pair	спалучаць
 panel	панэль
 panorama	краявід
 parser	разьбіральнік
+passkey	пароль
 passwords	паролі
 password	пароль
 password	пароль -лю
@@ -507,6 +529,7 @@ paused	прыпынілі
 PDP	пратакол пакетных зьвестак («Packet Data Protocol»)
 peripherals	вонкавыя прылады
 personal	асабісты
+phone audio	гук тэлефона
 phone	тэлефон -а
 photos	фатаздымкі
 photo	здымак
@@ -540,6 +563,7 @@ poke	штуршок
 polar clock	дугавы гадзіньнік
 policy	правілы
 poll	апытаньне
+poor	благі
 pop-ups	вынырцы
 pop-ups	раптоўныя вокны
 pop-up windows	раптоўныя вокны
@@ -557,9 +581,11 @@ preferred	жаданы
 preferred	пераважны
 prefetching	загадзя атрымваць
 prefetch	загадзя атрымваць
+prefix	прыстаўка
 preview	прыклад
 priority	пяршынства
 privacy	адасобленасьць
+PRL	сьпіс перавагаў блуканьня	Preferred Roaming List
 process	працэс -у
 product	выраб
 progress	поступ
@@ -654,6 +680,7 @@ set up	уладкоўваць
 setup	уладкоўваць
 set wallpaper	усталяваць шпалеры
 sex	плоць
+shared	абагуленае (сховішча)
 shared	супольны
 share	дзяліцца
 sharpness	выразнасьць
@@ -689,6 +716,7 @@ spam	лухта
 speaker	галосьнік
 specify	пазначаць
 speech synthesis	агучваньне
+SSID	азначальнік сеткі
 starred	адзначаны
 star	зорачка
 status bar	паліца стану
@@ -726,6 +754,7 @@ Terms of Service	Умовы абслугоўваньня
 text-to-speech	агучваньне
 themes	аздабленьні
 theme	аздабленьне
+There was a problem	Выявілася непаладка, калі спрабавалі
 There was a problem	Выявілася праблема, калі спрабавалі
 This alarm is set for	Будзька спрацуе праз
 threads	галіны
@@ -736,6 +765,7 @@ thumbnail	абразок
 time lapse	адваротны адлік
 time lapse	па кадрах
 timestamps	часадзнакі
+time zone	часавы абсяг
 time zone	часавы пас
 tips	парады
 toast	вынырцы
@@ -758,6 +788,7 @@ typed	набралі
 types	віды
 type	від
 type	друкаваць
+type	пазначаць
 typing	друкаваць
 \u00a0	\u00a0	Неразрыўны прагал
 \u2022	"
@@ -819,14 +850,18 @@ web	сеціва
 WhiteBalance	раўнавага белага
 widgets	віджэты
 widget	віджэт
+WiFi direct	Wi-Fi наўпрост
 Wi-Fi Direct	наўпроставы Wi-Fi
 Wi-Fi	Wi-Fi
+WiFi	Wi-Fi
 will be deleted	сатрэцца
 will be uploaded	запампуецца
 WiMAX	WiMAX
 window	вакно
 wireless	бяздротавы
 wizard	сродак
+WPS	Бясьпека Wi-Fi
+WPS	хатняя сетка Wi-Fi
 Yandex.Maps	Яндэкс.Мапы
 you can not	нельга
 ж\д ст.	чыг. ст.
