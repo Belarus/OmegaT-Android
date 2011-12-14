@@ -1,4 +1,5 @@
 <
+)
 +
 $02d
 100x100
@@ -76,6 +77,7 @@ af-ZA
 AIM
 alarm_clock
 all_calls
+allow
 allow_calls
 allow_msgs
 ALT
@@ -162,6 +164,7 @@ bin
 bin-signed.zip
 birthday
 BlackBerry
+blackboard
 blues
 blue-tint
 bluetooth
@@ -374,6 +377,7 @@ classical
 client
 clock
 CLOSE
+cloudy
 cloudy-daylight
 CM
 cmn-Hans-CN
@@ -712,6 +716,7 @@ HD1080
 HD720
 HDCP
 HH
+HID
 HIDE
 high
 hi-IN
@@ -1013,6 +1018,7 @@ mood_text
 mood_timestamp
 mosaic
 Mozilla
+MPPE
 ms
 ms-android-google
 MSCHAP
@@ -1265,6 +1271,7 @@ progress_small_titlebar
 progress_small_titlebar
 progress_small_white
 ProjectMenu
+prompt
 Protocol
 province
 provincia
@@ -1494,6 +1501,7 @@ tab_unselected_focused_holo
 tab_unselected_holo
 tab_unselected_pressed_holo
 Talk
+TalkBack
 tan
 tap
 TARDIS
@@ -1628,6 +1636,7 @@ waterloo
 WCDMA
 webkit
 WEP
+whiteboard
 widget_config
 width
 wifi
