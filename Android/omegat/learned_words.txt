@@ -3,6 +3,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГҐДЕЁЖЗІЙКЛМНОПРСТУЎФХЦЧ
 Alt
 deny
 Huawei
+Hz
 plus.google.com
 Skype-а
 Skype-ам

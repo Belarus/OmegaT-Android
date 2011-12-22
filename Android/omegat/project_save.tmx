@@ -6102,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1250</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151048Z">
+        <seg>1250</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>127</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110928T065332Z">
@@ -6434,6 +6442,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T135609Z">
         <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>20 (default)</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133410Z">
+        <seg>20 (звычайнае)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7006,6 +7022,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3264x1952</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150319Z">
+        <seg>3264x1952</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3264x2448</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150321Z">
+        <seg>3264x2448</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>329,27,13,14,13,13,13,14,13,13,13,14,13,17,18,18,18,18,18,18,18,17,18,18,17,18,18,17,18,18,17,18,21,21,13,13,13,14,13,13,13,14,13,13,13,14,13,13,13,14,17,18,18,18,18,17,18,18,17,17,17,17,17,17,17,17,20,20,21,21</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110928T065337Z">
@@ -7162,6 +7194,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T112631Z">
         <seg>40 сэкундаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>400</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151044Z">
+        <seg>400</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,6 +7418,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104731Z">
         <seg>50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>50 Hz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151125Z">
+        <seg>50 Гц</seg>
       </tuv>
     </tu>
     <tu>
@@ -7622,6 +7670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>60 Hz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151130Z">
+        <seg>60 Гц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>60 minutes</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110321T152834Z">
@@ -7802,6 +7858,14 @@
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110326T104247Z">
         <seg>80</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>800</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151045Z">
+        <seg>800</seg>
       </tuv>
     </tu>
     <tu>
@@ -11193,6 +11257,14 @@ http://sites.google.com/site/stace75/magnetlink/magnetlink-english.&lt;/p0&gt;\n
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110719T093017Z">
         <seg>?123</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>@ key</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133207Z">
+        <seg>Клявіша «@»</seg>
       </tuv>
     </tu>
     <tu>
@@ -81861,6 +81933,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Silent only</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133650Z">
+        <seg>Толькі ў бязгучным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Silent ringtone selected</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T153205Z">
@@ -84233,6 +84313,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T113235Z">
         <seg>Найбольшая выразнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stereo</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133536Z">
+        <seg>Стэрэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -106782,6 +106870,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>backlight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150845Z">
+        <seg>backlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>backspace</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110307T110013Z">
@@ -107728,8 +107824,8 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       <tuv lang="en">
         <seg>custom</seg>
       </tuv>
-      <tuv lang="be" changeid="klyok" changedate="20110316T192157Z">
-        <seg>!?!Выбарачна</seg>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151800Z">
+        <seg>custom</seg>
       </tuv>
     </tu>
     <tu>
@@ -108966,6 +109062,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>flowers</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150855Z">
+        <seg>flowers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fluorescent</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110526T140932Z">
@@ -109370,6 +109474,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111005T064911Z">
         <seg>ыв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>hd</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150224Z">
+        <seg>hd</seg>
       </tuv>
     </tu>
     <tu>
@@ -111838,6 +111950,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>party</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150831Z">
+        <seg>? Вечарына</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>password</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110424T133236Z">
@@ -113266,6 +113386,14 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110421T130206Z">
         <seg>speakerphone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sports</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150830Z">
+        <seg>sports</seg>
       </tuv>
     </tu>
     <tu>
@@ -116373,6 +116501,46 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">CMParts/</prop>
+      <prop type="id">pref_trackball_blink_rate_values</prop>
+      <tuv lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151308Z">
+        <seg>default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CMParts/</prop>
+      <prop type="id">pref_trackball_colors_values</prop>
+      <tuv lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151248Z">
+        <seg>default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CMParts/</prop>
+      <prop type="id">pref_trackball_force_mode_values</prop>
+      <tuv lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151315Z">
+        <seg>default</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">CMParts/</prop>
+      <prop type="id">values_dual_led_colors</prop>
+      <tuv lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151259Z">
+        <seg>default</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Calendar/</prop>
       <tuv lang="en">
         <seg>1 hour</seg>
@@ -116585,12 +116753,112 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_antibanding_default</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151108Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_antibanding_entry_0</prop>
       <tuv lang="en">
         <seg>Off</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T113950Z">
         <seg>Не памяншаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_antibanding_entryvalues</prop>
+      <tuv lang="en">
+        <seg>50hz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T145826Z">
+        <seg>50hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_antibanding_entryvalues</prop>
+      <tuv lang="en">
+        <seg>60hz</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T145828Z">
+        <seg>60hz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_antibanding_entryvalues</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T145832Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_antibanding_entryvalues</prop>
+      <tuv lang="en">
+        <seg>off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T145824Z">
+        <seg>off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_autoexposure_default</prop>
+      <tuv lang="en">
+        <seg>meter-center</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151145Z">
+        <seg>meter-center</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_autoexposure_value_centerweighted</prop>
+      <tuv lang="en">
+        <seg>meter-center</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151158Z">
+        <seg>meter-center</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_autoexposure_value_frameaverage</prop>
+      <tuv lang="en">
+        <seg>meter-average</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151152Z">
+        <seg>meter-average</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_autoexposure_value_matrixmetering</prop>
+      <tuv lang="en">
+        <seg>meter-matrix</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151210Z">
+        <seg>meter-matrix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_autoexposure_value_spotmetering</prop>
+      <tuv lang="en">
+        <seg>meter-spot</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151204Z">
+        <seg>meter-spot</seg>
       </tuv>
     </tu>
     <tu>
@@ -116617,10 +116885,160 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_coloreffect_entryvalues</prop>
       <tuv lang="en">
+        <seg>aqua</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150728Z">
+        <seg>aqua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>blue-tint</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150735Z">
+        <seg>blue-tint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>green-tint</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150737Z">
+        <seg>green-tint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>mono</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150719Z">
+        <seg>mono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>mosaic</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150732Z">
+        <seg>mosaic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>negative</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150723Z">
+        <seg>negative</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
         <seg>none</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111214T133549Z">
         <seg>none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>nv-blue</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150754Z">
+        <seg>nv-blue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>nv-emboss</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150744Z">
+        <seg>nv-emboss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>nv-negative-sepia</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150800Z">
+        <seg>nv-negative-sepia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>nv-vivid</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150750Z">
+        <seg>nv-vivid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>pastel</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150730Z">
+        <seg>pastel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>posterize</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150727Z">
+        <seg>posterize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>red-tint</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150734Z">
+        <seg>red-tint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>sepia</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150721Z">
+        <seg>sepia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_coloreffect_entryvalues</prop>
+      <tuv lang="en">
+        <seg>solarize</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150724Z">
+        <seg>solarize</seg>
       </tuv>
     </tu>
     <tu>
@@ -116645,6 +117063,36 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_flashmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150640Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_flashmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150646Z">
+        <seg>off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_flashmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>on</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150643Z">
+        <seg>on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_flashmode_no_flash</prop>
       <tuv lang="en">
         <seg>no_flash</seg>
@@ -116661,6 +117109,76 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111130T112528Z">
         <seg>Не факусаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150602Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>facedetect</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150633Z">
+        <seg>facedetect</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>fixed</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150620Z">
+        <seg>fixed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>infinity</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150607Z">
+        <seg>infinity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>macro</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150605Z">
+        <seg>macro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>normal</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150604Z">
+        <seg>normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_focusmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>touch</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150614Z">
+        <seg>touch</seg>
       </tuv>
     </tu>
     <tu>
@@ -116685,12 +117203,382 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_iso_default</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151042Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_iso_value_auto</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151006Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_iso_value_isodeblur</prop>
+      <tuv lang="en">
+        <seg>deblur</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151002Z">
+        <seg>deblur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_jpegquality_entry_normal</prop>
       <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110725T111135Z">
         <seg>Звычайная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_jpegquality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>fine</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150559Z">
+        <seg>fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_jpegquality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>normal</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150600Z">
+        <seg>normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_jpegquality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>superfine</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150556Z">
+        <seg>superfine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_lensshading_default</prop>
+      <tuv lang="en">
+        <seg>enable</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151020Z">
+        <seg>enable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_lensshading_value_disable</prop>
+      <tuv lang="en">
+        <seg>disable</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151100Z">
+        <seg>disable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_lensshading_value_enable</prop>
+      <tuv lang="en">
+        <seg>enable</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151053Z">
+        <seg>enable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1024x768</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150528Z">
+        <seg>1024x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1280x1024</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150514Z">
+        <seg>1280x1024</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1280x720</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150526Z">
+        <seg>1280x720</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1280x768</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150520Z">
+        <seg>1280x768</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1280x960</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150508Z">
+        <seg>1280x960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1600x1200</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150452Z">
+        <seg>1600x1200</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1600x960</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150459Z">
+        <seg>1600x960</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>176x144</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150553Z">
+        <seg>176x144</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>1920x1080</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150450Z">
+        <seg>1920x1080</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2048x1216</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150437Z">
+        <seg>2048x1216</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2048x1232</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150444Z">
+        <seg>2048x1232</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2304x1728</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150431Z">
+        <seg>2304x1728</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2560x1536</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150414Z">
+        <seg>2560x1536</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2560x1712</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150423Z">
+        <seg>2560x1712</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2560x1920</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150334Z">
+        <seg>2560x1920</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2592x1456</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150408Z">
+        <seg>2592x1456</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2592x1458</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150402Z">
+        <seg>2592x1458</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2592x1552</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150356Z">
+        <seg>2592x1552</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2592x1936</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150336Z">
+        <seg>2592x1936</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2592x1944</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150337Z">
+        <seg>2592x1944</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>2592x1952</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150349Z">
+        <seg>2592x1952</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>320x240</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150548Z">
+        <seg>320x240</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>3264x1952</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150338Z">
+        <seg>3264x1952</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>3264x2448</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150340Z">
+        <seg>3264x2448</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>352x288</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150546Z">
+        <seg>352x288</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>640x480</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150542Z">
+        <seg>640x480</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>800x480</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150538Z">
+        <seg>800x480</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_picturesize_entryvalues</prop>
+      <tuv lang="en">
+        <seg>800x600</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150533Z">
+        <seg>800x600</seg>
       </tuv>
     </tu>
     <tu>
@@ -116745,6 +117633,26 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_recordlocation_entryvalues</prop>
+      <tuv lang="en">
+        <seg>off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150651Z">
+        <seg>off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_recordlocation_entryvalues</prop>
+      <tuv lang="en">
+        <seg>on</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150654Z">
+        <seg>on</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_scenemode_entry_landscape</prop>
       <tuv lang="en">
         <seg>Landscape</seg>
@@ -116775,12 +117683,292 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>action</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150808Z">
+        <seg>action</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150806Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>back-light</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150852Z">
+        <seg>back-light</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>backlight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150847Z">
+        <seg>backlight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>beach</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150816Z">
+        <seg>beach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>candlelight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150842Z">
+        <seg>candlelight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>dusk-dawn</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150903Z">
+        <seg>dusk-dawn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>fall-color</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150909Z">
+        <seg>fall-color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>fireworks</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150824Z">
+        <seg>fireworks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>flowers</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150857Z">
+        <seg>flowers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>landscape</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150811Z">
+        <seg>landscape</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>night</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150812Z">
+        <seg>night</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>night-portrait</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150814Z">
+        <seg>night-portrait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>party</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150837Z">
+        <seg>party</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>portrait</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150810Z">
+        <seg>portrait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>snow</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150817Z">
+        <seg>snow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>sports</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150833Z">
+        <seg>sports</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>steadyphoto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150823Z">
+        <seg>steadyphoto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>sunset</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150821Z">
+        <seg>sunset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150914Z">
+        <seg>text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_scenemode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>theatre</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150815Z">
+        <seg>theatre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_video_flashmode_entryvalues</prop>
+      <tuv lang="en">
+        <seg>off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150649Z">
+        <seg>off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
       <prop type="id">pref_camera_whitebalance_default</prop>
       <tuv lang="en">
         <seg>auto</seg>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111214T133725Z">
         <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_whitebalance_entryvalues</prop>
+      <tuv lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150656Z">
+        <seg>auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_whitebalance_entryvalues</prop>
+      <tuv lang="en">
+        <seg>cloudy</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150710Z">
+        <seg>cloudy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_whitebalance_entryvalues</prop>
+      <tuv lang="en">
+        <seg>cloudy-daylight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150712Z">
+        <seg>cloudy-daylight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_whitebalance_entryvalues</prop>
+      <tuv lang="en">
+        <seg>daylight</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150706Z">
+        <seg>daylight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_whitebalance_entryvalues</prop>
+      <tuv lang="en">
+        <seg>fluorescent</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150708Z">
+        <seg>fluorescent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_camera_whitebalance_entryvalues</prop>
+      <tuv lang="en">
+        <seg>incandescent</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150704Z">
+        <seg>incandescent</seg>
       </tuv>
     </tu>
     <tu>
@@ -116811,6 +117999,76 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111207T111525Z">
         <seg>custom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>hd</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150232Z">
+        <seg>hd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>high</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150235Z">
+        <seg>high</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>low</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150237Z">
+        <seg>low</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>mms</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150239Z">
+        <seg>mms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>wide</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150230Z">
+        <seg>wide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>youtube</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150250Z">
+        <seg>youtube</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Camera/</prop>
+      <prop type="id">pref_video_quality_entryvalues</prop>
+      <tuv lang="en">
+        <seg>youtubehd</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T150246Z">
+        <seg>youtubehd</seg>
       </tuv>
     </tu>
     <tu>
@@ -116914,6 +118172,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">DSPManager/</prop>
+      <prop type="id">equalizer_preset_values</prop>
+      <tuv lang="en">
+        <seg>custom</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151540Z">
+        <seg>custom</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">DeskClock/</prop>
       <prop type="id">auto_silence_entries</prop>
       <tuv lang="en">
@@ -116975,6 +118243,36 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
     </tu>
     <tu>
       <prop type="file">Email/</prop>
+      <prop type="id">account_settings_vibrate_when_values</prop>
+      <tuv lang="en">
+        <seg>always</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151559Z">
+        <seg>always</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Email/</prop>
+      <prop type="id">account_settings_vibrate_when_values</prop>
+      <tuv lang="en">
+        <seg>never</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151604Z">
+        <seg>never</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Email/</prop>
+      <prop type="id">account_settings_vibrate_when_values</prop>
+      <tuv lang="en">
+        <seg>silent</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151601Z">
+        <seg>silent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Email/</prop>
       <prop type="id">forward_action</prop>
       <tuv lang="en">
         <seg>Forward</seg>
@@ -117001,6 +118299,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111201T131835Z">
         <seg>Ранейшае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">FM/</prop>
+      <prop type="id">ster_mon_entries</prop>
+      <tuv lang="en">
+        <seg>Mono</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133517Z">
+        <seg>Мона</seg>
       </tuv>
     </tu>
     <tu>
@@ -117434,6 +118742,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">Gallery3D/</prop>
+      <prop type="id">months_abbreviated</prop>
+      <tuv lang="en">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133605Z">
+        <seg>тра</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">GenieWidget/</prop>
       <prop type="id">day_friday</prop>
       <tuv lang="en">
@@ -117533,6 +118851,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">Gmail/</prop>
+      <prop type="id">prefValues_confirmActions</prop>
+      <tuv lang="en">
+        <seg>delete</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111217T133630Z">
+        <seg>delete</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">GooglePlus/</prop>
       <prop type="id">compose_update_submit</prop>
       <tuv lang="en">
@@ -117613,6 +118941,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">LatinIME/</prop>
+      <prop type="id">voice_input_modes</prop>
+      <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151731Z">
+        <seg>Няма</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">MediaUploader/</prop>
       <prop type="id">yt_private_access</prop>
       <tuv lang="en">
@@ -117670,6 +119008,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20111214T142253Z">
         <seg>silent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Mms/</prop>
+      <prop type="id">pref_mms_notification_vibrate_pattern_values</prop>
+      <tuv lang="en">
+        <seg>custom</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151803Z">
+        <seg>custom</seg>
       </tuv>
     </tu>
     <tu>
@@ -118561,6 +119909,16 @@ http://en.wikipedia.org/wiki/Baseband_processor</note>
       </tuv>
       <tuv lang="be" changeid="klyok" changedate="20110913T120756Z">
         <seg>Няма відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">SpareParts/</prop>
+      <prop type="id">entries_animations</prop>
+      <tuv lang="en">
+        <seg>Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="klyok" changedate="20111214T151942Z">
+        <seg>Не ажыўляць</seg>
       </tuv>
     </tu>
     <tu>
