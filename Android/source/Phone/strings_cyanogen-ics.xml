@@ -1185,6 +1185,10 @@
     <!-- Label for onscreen "Dial" button used in the EmergencyDialer -->
     <string name="dial_button_label">Dial</string>
 
+    <!-- Dialer UI Settings -->
+    <string name="dialer_ui_settings_title">Dialpad settings</string>
+    <string name="dialer_ui_settings_summary">Settings for the dialpad</string>
+
     <!-- Title displayed in the overlay when a call is placed using a 3rd party provider.
          ^1 is the localized name of the provider obtained from the package manager.
          ^2 is a phone number.
@@ -1596,4 +1600,6 @@
     <!-- Description of the decline on target in the Slide unlock screen. [CHAR LIMIT=NONE] -->
     <string name="description_target_decline">Decline</string>
 
+    <string name="phone_number_label">My phone number</string>
+    <string name="phone_number_summary">Set the phone number for this device</string>
 </resources>
