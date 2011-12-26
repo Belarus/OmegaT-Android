@@ -109,6 +109,7 @@ broadcast	рассылаць
 browser	аглядальнік
 browser	аглядальнік -а
 build	зборка
+busybox	busybox
 buttons	кнопкі
 button	кнопка
 caches	запасьнікі
@@ -120,6 +121,8 @@ call	выклік
 call	выклікаць
 camcorder	відэакамэра
 Cancel	Скасаваць
+cancel	спыняць
+candy	ахоўнік экрану
 cannot	нельга
 cannot	не ўдаецца
 can't be	немагчыма
@@ -239,6 +242,7 @@ device admin	кіраўнік прылады
 devices	прылады
 device	прылада
 dial pad	наборнік
+dialpad	наборнік
 dial	набіраць
 dictionary	слоўнік -а
 Did you mean	можа, мелася на ўвазе
@@ -272,6 +276,7 @@ dream	мроя
 DTMF tones	танальныя сыґналы
 edit	правіць
 effects	ператварэньні
+elite	прасунуты
 email arrives	прыходзіць пошта
 email	эл. пошта
 emergency	надзвычайны
@@ -327,6 +332,7 @@ flashlight	ліхтарык
 flash	выбліск
 folders	каталёґі
 folder	каталёґ
+folder	каталёґ -а
 followers	падпісанты
 follower	падпісант	
 font	шрыфт -у
@@ -346,6 +352,7 @@ general	агульны
 general	галоўны
 geolocation	вызначаць ґеаґрафічнае мейсца
 gesture	жэст -у
+ghost mode	прывідны стан
 GMT	час па Ґрынвічы
 Go offline	Адлучыцца
 Google	Google
@@ -369,6 +376,7 @@ highlighted	падсьвечаны
 hint	намінка
 home button	кнопка «дамоў»
 home screen	галоўны экран
+Home	галоўны экран
 hotspot	адметны пункт
 huddle	таемка
 ICCID	азначальнік карткі SIM	integrated circuit card identifier
@@ -445,6 +453,7 @@ low-vision	кепскі зрок
 mailbox	паштовая скрынка
 Malicious applications can use this to	Зламысныя праграмы могуць карыстацца гэтым, каб
 malicious	зламысны
+manifest	маніфэст -у
 maps live wallpaper	жывыя шпалеры з мапаў
 market	крама
 maybe	магчыма
@@ -755,6 +764,7 @@ superuser	спраўнік
 supplicant	просьбіт
 support	падтрымваць
 suspended	прыпынілі
+swipe	ссоўваць
 switch	перамыкач
 sync	сынхранізаваць
 tablet	пляншэт
@@ -799,6 +809,7 @@ traffic	перадаванае
 transfers	перадаванае
 TransPot	ТранШпарт
 trash	сьметніца
+trebuchet	трыбук
 TTS	сыстэма агучваць тэкст
 Turn off USB storage	Выключыць сховішча USB
 tutorial	навучаньне
@@ -809,6 +820,7 @@ type	від
 type	друкаваць
 type	пазначаць
 typing	друкаваць
+\u0020	\u0020
 \u00a0	\u00a0	Неразрыўны прагал
 \u2022	"
 UID	азначальнік карыстальніка
