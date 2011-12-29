@@ -40,6 +40,9 @@
 	    <cyanogen src="android_packages_apps_Camera/res" />
 	</app>
 	<app dirName="CertInstaller" packageName="com.android.certinstaller" translated="true"/>
+	<app dirName="CMParts" packageName="com.cyanogenmod.cmparts" translated="true">
+	    <cyanogen src="android_packages_apps_CMParts/res" />
+	</app>
 	<app dirName="Contacts" packageName="com.android.contacts" translated="true">
 	    <cyanogen src="android_packages_apps_Contacts/res" />
 	</app>
