@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="changelog">Change logs</string>
+    <string name="share_subject">Money Lover</string>
+    <string name="share_msg">Using Money Lover on Android, a tiny apps but have
+		a lot of great features. Try it on http://bit.ly/hZPL7C and enjoy the art of
+		money management.</string>
+    <string name="about_msg">&lt;p>Earning money and managing it are not the
+		same! Careless and unbudgeted spending are trouble of families worldwide.&lt;/p> &lt;p>&lt;b>
+		Money Lover&lt;/b> will help you plan and track all of your expenses, record everything and generate the report periodly.
+		It is not a full-featured accounting tool, but it is useful for simple family/ personal financial management.&lt;/p> &lt;p>Developed by &lt;b>Ngo Xuan
+		Huy&lt;/b> a.k.a &lt;b>(Bookmark)&lt;/b> with &lt;b>HQBC
+		team \'s&lt;/b> support.&lt;/p> </string>
+    <string name="contact_me">Contact me</string>
+
+    <string-array name="first_day_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+    </string-array>
+
+    <string name="new_transaction">Add Transaction</string>
+    <string name="money_management">Cash Book</string>
+    <string name="debt_management">Debt Management</string>
+    <string name="report">Report</string>
+    <string name="statistics">Statistics</string>
+    <string name="search">Search</string>
+    <string name="setting">Settings</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="debt">Payable</string>
+    <string name="loan">Receivable</string>
+    <string name="add_income">New Income</string>
+    <string name="add_expense">New Expense</string>
+    <string name="no_internet">No internet connection. Please try again! </string>
+    <string name="has_error">An error has occurred, please try again later! </string>
+    <string name="date_greater_current_date">Date cannot be later than today </string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="expense_name">Expense</string>
+    <string name="expense_date">Date</string>
+    <string name="change">Change</string>
+    <string name="save">Save</string>
+    <string name="change_datetime">Change Date</string>
+    <string name="close">Close</string>
+    <string name="expense_input_error">Amount must be filled up. </string>
+    <string name="error_title"> Error!</string>
+    <string name="income_name">Income</string>
+    <string name="income_date">Date</string>
+    <string name="income_input_error">Amount must be filled up </string>
+    <string name="note">Note</string>
+    <string name="lender">Lender</string>
+    <string name="due_date">Due date</string>
+    <string name="goan_date">Date</string>
+    <string name="add_loan">New Receivable</string>
+    <string name="add_debt">New Payable</string>
+    <string name="debt_with">Borrow %1$s</string>
+    <string name="loan_with">Lend %1$s</string>
+    <string name="can_be_blank">Can be blank</string>
+    <string name="debt_input_error">Lender and amount must be filled up.</string>
+    <string name="debter">Debtor</string>
+    <string name="debt_date">Date</string>
+    <string name="date_less_current_date">Date cannot be earlier than today	</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="pay">Paid</string>
+    <string name="remind_loan_with">%1$s borrowed you %2$s</string>
+    <string name="remind_debt_with">%1$s lended you %2$s</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Delete</string>
+    <string name="remind_title">Reminder</string>
+    <string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="language">Languages</string>
+    <string name="currency_unit">Currency Code</string>
+    <string name="category_manager">Category Setting</string>
+    <string name="reset_database">Reset Database</string>
+    <string name="choose_cat">Select Category</string>
+    <string name="choose_lang">Select Language</string>
+    <string name="choose_currency">Select Currency</string>
+    <string name="next">Next</string>
+    <string name="no_trans">No Transaction</string>
+    <string name="save_more">Save &amp; more</string>
+    <string name="icon">Icon</string>
+    <string name="cat_name">Name</string>
+    <string name="add_category">Add Category</string>
+    <string name="edit_category">Edit Category</string>
+    <string name="add_category_error">Name cannot be blank</string>
+    <string name="choose_icon">Choose Icon</string>
+    <string name="delete_confirm">Are you sure you want to delete \"%1$s\"?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="reset_confirm">Are you sure you want to reset database?</string>
+    <string name="setup">Setup</string>
+    <string name="step1">Step 1</string>
+    <string name="step1_msg">Select your default language.</string>
+    <string name="step2">Step 2</string>
+    <string name="step2_msg">Select your default currency.</string>
+    <string name="step3">Step 3</string>
+    <string name="step3_msg">&lt;p> Finished Settings, push \'Start\' button to enjoy money management tour&lt;/p>
+		&lt;p> If you have any idea or suggestion, click \'Contact me\' button&lt;/p>. </string>
+    <string name="name">Name</string>
+    <string name="amount_from">Amount From</string>
+    <string name="amount_to">Amount To</string>
+    <string name="date_from">Date From</string>
+    <string name="date_to">Date To</string>
+    <string name="type">Type</string>
+
+    <string-array name="trans_type">
+        <item>All</item>
+        <item>Income</item>
+        <item>Expense</item>
+        <item>Payable</item>
+        <item>Receivable</item>
+    </string-array>
+
+    <string name="search_result">Search Result</string>
+    <string name="no_category">No Category</string>
+    <string name="food">Food</string>
+    <string name="entertaiment">Entertainment</string>
+    <string name="study">Study</string>
+    <string name="family">Family</string>
+    <string name="love">Love</string>
+    <string name="shopping">Shopping</string>
+    <string name="health">Medical</string>
+    <string name="clothing">Clothing</string>
+    <string name="friend">Friend</string>
+    <string name="travel">Travel</string>
+    <string name="sport">Sport</string>
+
+    <string-array name="cat_type">
+        <item>No Selected</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string name="cat_type_error">Please select category type.</string>
+    <string name="salary">Salary</string>
+    <string name="award">Award</string>
+    <string name="selling">Selling</string>
+    <string name="done">Done</string>
+    <string name="choose_cat_type">Choose Type</string>
+    <string name="income_short">I</string>
+    <string name="expense_short">E</string>
+    <string name="loan_short">R</string>
+    <string name="debt_short">P</string>
+    <string name="back_double">Press Back again to exit</string>
+    <string name="undo">Undo</string>
+    <string name="tip1">Press on the arrow to next/previous week</string>
+    <string name="general_setting">General Setting</string>
+    <string name="debt_detail_title">Detail View</string>
+    <string name="debt_person_title">Pickup A Contact</string>
+    <string name="change_person_view">Contact View</string>
+    <string name="change_detail_view">Detail View</string>
+    <string name="edit_income">Edit Income</string>
+    <string name="edit_expense">Edit Expense</string>
+    <string name="edit_debt">Edit Payable</string>
+    <string name="edit_loan">Edit Receivable</string>
+    <string name="notice">Notice</string>
+    <string name="money_today_msg">No transaction today, do you want to add one?</string>
+    <string name="set_first_day_week">Set first day of week</string>
+    <string name="set_debt_remind_hour">Set payable reminder</string>
+    <string name="choose_time">Set Time...</string>
+    <string name="choose_date">Set Date...</string>
+    <string name="debt_remind_hour_desc">Set time to remind payable.</string>
+    <string name="set_add_tran_time">Transaction reminder</string>
+    <string name="set_add_tran_time_desc">Set time to add daily transactions</string>
+    <string name="no_result">No result found</string>
+    <string name="no_debt_loan">Congrats, there is no unpaid amount.</string>
+    <string name="no_contact">There is no lender.</string>
+    <string name="loading">Loading. Please wait...</string>
+    <string name="set_password">Set Password</string>
+    <string name="date_time">Date time</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="password_on">Password: ON</string>
+    <string name="password_off">Password: OFF</string>
+    <string name="pass_error">Wrong password, please try again !</string>
+    <string name="input_password">Input Password</string>
+    <string name="remove_password">Remove</string>
+    <string name="new_pass_error">Password retype is not match, please try again !</string>
+
+    <string-array name="time_mode">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Quarter</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string name="select_time_mode">Set time mode</string>
+    <string name="category_view">Category View</string>
+    <string name="total">Total</string>
+    <string name="short_date_format">MM/dd</string>
+    <string name="wallet">Wallet</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+    <string name="database">Database</string>
+    <string name="backup_success">Backup successful</string>
+    <string name="no_sdcard">No SD card detected</string>
+    <string name="choose_file">Choose file...</string>
+    <string name="restore_tip">You can copy file to folder /moneylover/backup/ on
+		SDcard</string>
+    <string name="restore_msg">Are you sure you want to restore %1$s file ?</string>
+    <string name="restore_success">Restore successful</string>
+    <string name="widget_name">Money Lover Widget</string>
+    <string name="privacy">Privacy</string>
+    <string name="notification">Notification</string>
+    <string name="notification_active">Notification Active</string>
+    <string name="include_debt_loan">Include payable and receivable</string>
+    <string name="include_debt_loan_desc">Wallet will calculate paybale and receivable transaction.	</string>
+    <string name="display_format">Display Format</string>
+    <string name="accounting_format">Accounting format</string>
+    <string name="accounting_format_desc">Negative numbers are shown in brackets</string>
+    <string name="tools">Tools</string>
+    <string name="paid_amount">Paid Amount</string>
+    <string name="select_date_format">Set date and time format</string>
+    <string name="has_new_version">ew version released, please update now! </string>
+    <string name="update">Update</string>
+    <string name="version">Version</string>
+    <string name="check_update">Check Update</string>
+    <string name="is_latest_version">Current version is up to date.</string>
+    <string name="your_lang">Your Language</string>
+    <string name="your_lang_msg">&lt;p>Money Lover is multi languages application.
+		&lt;/p> &lt;p>If you can help with translating to other languages, click &lt;b>Contact me&lt;/b> &lt;/p></string>
+    <string name="search_currency_hint">Input currency name or code</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="convert_currency">Currency Exchange</string>
+    <string name="select_currency_code">Select currency code</string>
+    <string name="currency_update_msg">Money Lover has been updated, please select the
+		currency code again. </string>
+    <string name="share">Share</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="tip_calc">Tip Calculator</string>
+    <string name="tip_rate">Tip Rate</string>
+    <string name="number_person">Person</string>
+    <string name="calculate">Calculate</string>
+    <string name="amount_greater_zero">Amount must be greater than zero</string>
+    <string name="person_greater_zero">Number of person must be greater than zero</string>
+    <string name="result">Result</string>
+    <string name="import_expense">Import Expense</string>
+    <string name="tip_amount">Tip Amount</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="total_per_person">Total Per Person</string>
+    <string name="currency_to">To</string>
+    <string name="currency_from">From</string>
+    <string name="discount_rate">Discount Rate</string>
+    <string name="attach_to_email">Attach to email</string>
+    <string name="send_mail">Send mail</string>
+    <string name="select_display_mode">Select Display Mode</string>
+
+    <string-array name="debt_book_mode">
+        <item>By Date</item>
+        <item>By Type</item>
+    </string-array>
+    <!-- Lock Pattern settings -->
+    <!-- Unlock header -->
+    <string name="patternlock_header">Draw pattern to unlock Money Lover</string>
+    <!-- Security & location settings screen, header -->
+    <string name="lock_settings_title">Screen unlock pattern</string>
+    <!-- Security & location settings screen, setting option name -->
+    <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
+
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		when the user chooses "Change unlock pattern". We first ask the user toe 
+		nter the current pattern, and this is the message seen
+    -->
+    <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
+    <!-- Do not translate. -->
+    <string name="lockpattern_need_to_unlock_footer"></string>
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		if user draws incorrect pattern
+    -->
+    <string name="lockpattern_need_to_unlock_wrong">Not match,please try again !</string>
+    <!-- Do not translate. -->
+
+    <string name="lockpattern_need_to_unlock_wrong_footer"></string>
+
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		on top of screen. This si when they are supposed to draw a new unlock pattern 
+		(for example, if they are changing their unlock patterns)..
+    -->
+    <string name="lockpattern_recording_intro_header">Draw an unlock pattern</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen hint 
+		on bottom of screen. We are telling them to press the menu button to see 
+		more options or help.
+    -->
+    <string name="lockpattern_recording_intro_footer">Press Menu for Help.</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		on top of screen while drawing pattern
+    -->
+    <string name="lockpattern_recording_inprogress">Release finger when done.</string>
+
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		on top of screen if user doesn't connect enough dots
+    -->
+
+    <string name="lockpattern_recording_incorrect_too_short">		Connect at least<xliff:g id="number">%d</xliff:g>		dots. Try again!</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen message 
+		on top of screen after drawing pattern
+    -->
+    <string name="lockpattern_pattern_entered_header">Pattern recorded!</string>
+
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		on top of screen to confirm pattern
+    -->
+    <string name="lockpattern_need_to_confirm">Draw pattern again to confirm:</string>
+    <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen button, 
+		on bottom of screen. After they draw a pattern and release their finger, 
+		we display the pattern so they remember. When they are ready to draw it once 
+		again to confirm it, they press this button.
+    -->
+    <string name="lockpattern_confirm_button_text">Confirm</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen button, 
+		on bottom of screen. After they draw a pattern and release their finger, 
+		we display the pattern so they remember. If they are nto satisfied with this 
+		pattern, they click this button to redraw the pattern.
+    -->
+    <string name="lockpattern_restart_button_text">Redraw</string>
+
+    <!--
+         Security & location settings screen, change unlock pattern screen button, 
+		on bottom of screen. If they are supposed to enter their current pattern 
+		before being able to draw another one, and they screw up, they hit this button 
+		to try again
+    -->
+    <string name="lockpattern_retry_button_text">Retry</string>
+
+    <!--
+         Security & location settings screen, change unlock pattern screen button, 
+		on bottom of screen. Once they draw a new pattern and confirm it by drawing 
+		it again, they press this button to exit
+    -->
+    <string name="lockpattern_continue_button_text">Continue</string>
+    <!-- Security & location settings screen, unlock screen activity title -->
+    <string name="lockpattern_settings_title">Unlock pattern</string>
+    <!--
+         Security & location settings screen, setting check box title if the 
+		unlock pattern MUST be drawn everytime they turn on the screen
+    -->
+
+    <string name="lockpattern_settings_enable_title">Require pattern</string>
+    <!--
+         Security & location settings screen, setting summary for the checkbox 
+		"Require pattern"
+    -->
+
+    <string name="lockpattern_settings_enable_summary">Must draw pattern to unlock screen</string>
+    <!--
+         Security & location settings screen, setting check box title. This 
+		setting controls whether a visible green line is drawn as the user moves 
+		his finger around while drawing the unlock pattern. If checked, this line 
+		is drawn. If unchecked, there is nothing drawn so the user does not reveal 
+		his pattern while he unlocks the phone.
+    -->
+    <string name="lockpattern_settings_enable_visible_pattern_title">Use visible pattern</string>
+    <!--
+         Security & location settings screen, setting check box title. This 
+		setting controls whether tactile feedback will be produced when the user 
+		draws the pattern.
+    -->
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Use tactile feedback</string>
+
+    <!--
+         Security & location settings screen, setting option name when user 
+		has never set an unlock pattern
+    -->
+    <string name="lockpattern_settings_choose_lock_pattern">Set unlock pattern</string>
+
+    <!--
+         Security & location settings screen, setting option name when user 
+		has previously set an unlock pattern and wants to change to a new pattern
+    -->
+    <string name="lockpattern_settings_change_lock_pattern">Change unlock pattern</string>
+    <!--
+         Security & location settings screen, the help instructions (an animation) 
+		caption
+    -->
+    <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen instruction 
+		on top of screen after too many incorrect attempts
+    -->
+
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
+    <!--
+         Security & location settings screen, change unlock pattern screen countdown 
+		hint on bottom of screen after too many incorrect attempts
+    -->
+
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">		Try again in<xliff:g id="number">%d</xliff:g>		seconds.</string>
+    <!-- ChooseLockPatternTutorial -->
+
+    <skip />
+    <!-- ChooseLockPatternTutorial, button labels: This is to cancel the tutorial -->
+    <string name="skip_button_label">Cancel</string>
+
+    <!--
+         ChooseLockPatternTutorial, button labels: Continue to the next page 
+		of the tutorial
+    -->
+    <string name="next_button_label">Next</string>
+    <!-- ChooseLockPatternTutorial, tutorial screen title -->
+    <string name="lock_title">Securing your phone</string>
+
+    <!-- ChooseLockPatternTutorial, tutorial screen text -->
+    <string name="lock_intro_message"><font size="17">
+			Protect your phone from unauthorized use by creating a personal
+			screen unlock pattern. \n                                                                        <font height="17">\n</font>
+
+            <b>1</b>
+			\u00A0 On the next screen, watch while an example pattern is drawn.
+			\n                                                                        <font height="17">\n</font>
+
+            <b>2</b>
+			\u00A0 When ready, draw your own personal unlock pattern. Experiment
+			with different patterns but connect at least four dots. \n                                                                        <font height="17">\n</font>
+
+            <b>3</b>
+			\u00A0 Redraw your pattern to confirm. \n                                                                        <font height="17">\n</font>
+
+            <b>Ready to start? Select \u201CNext\u201D</b>
+			. \n                                                                        <font height="3">\n</font>
+			To leave your phone unprotected, select \u201CCancel\u201D.</font></string>
+
+    <!-- ChooseLockPatternExample -->
+    <skip />
+    <!-- ChooseLockPatternExample, screen title that shows an example pattern -->
+    <string name="lock_example_title">Example pattern</string>
+    <!--
+         ChooseLockPatternExample, screen hint text at bottom of screen. These 
+		are instructions and rules for drawing a good pattern
+    -->
+    <string name="lock_example_message">onnect at least four dots.\n \nSelect
+		\u201CNext\u201D when you\u2019re ready to draw your own pattern. </string>
+    <string name="lock_cancel">Cancel</string>
+    <string name="lock_ok">Ok</string>
+    <string name="enable_patternlock_title">Enable Pattern Lock</string>
+    <string name="enable_patternlock_summary">Lock the app and widgets with a pattern lock</string>
+    <string name="change_patternlock_title">Change lock pattern</string>
+    <string name="change_patternlock_summary">Change your current lock pattern</string>
+    <string name="process">Processing...</string>
+    <string name="restore_fail">Sorry, the restore process has error</string>
+    <string name="backup_fail">Sorry, the backup process has error</string>
+    <string name="set_first_day_month">Set first day of month</string>
+    <!-- User manager -->
+    <string name="personal">Personal</string>
+    <string name="user_manager">Account Manager</string>
+    <string name="choose">Choose</string>
+    <string name="new_user">New Account</string>
+    <string name="add_user_error">Name cannot be blank</string>
+    <string name="edit_user">Edit Account</string>
+    <string name="change_user">Change Account</string>
+    <string name="current_account">Current account: %1$s</string>
+    <string name="show_next_previous_button">Show next/previous button</string>
+    <string name="show_next_previous_desc">You can swipe to next/previous</string>
+    <string name="buy_plus_version">This feature is avaiable on Money Lover Licensed.
+		Please buy or input code to unlock.</string>
+    <string name="buy">Buy</string>
+    <string name="input_code">Input Code</string>
+    <string name="code_blank">Code cannot be blank</string>
+    <string name="active_success">Activate succeeded</string>
+    <string name="active_fail">Activate failed</string>
+    <string name="banned">Banned</string>
+    <string name="view_transactions">View</string>
+    <string name="atm_finder">ATM Finder</string>
+    <string name="select_widget_user">Select Account</string>
+    <string name="transfer">Transfer</string> <!-- Transfer transaction to other account -->
+    <string name="export_csv">Export to CSV</string>
+    <string name="export_success">Export successfully</string>
+    <!-- Campaign -->
+    <string name="goal">Goal</string>
+    <string name="start_amount">Start Amount</string>
+    <string name="end">End</string>
+    <string name="add_saving">Save</string>
+    <!-- New version -->
+    <string name="bank_finder">Bank Finder</string>
+    <string name="unpaid">Unpaid</string>
+    <string name="history">History</string>
+    <string name="saving_campaign">Saving Campaign</string>
+    <string name="add_campaign">Add Campaign</string>
+    <string name="add_saving_campaign">Add Saving Campaign</string>
+    <string name="saving_input_name_error">Name cannot be blank</string>
+    <string name="saving_input_goal_amount_error">Goal Amount must be greater than 0</string>
+    <string name="saving_input_goal_less_start">Goal Amount must be greater than Start Amount</string>
+    <string name="no_saving">No Saving Campaign</string>
+    <string name="edit_saving_campaign">Edit Saving</string>
+    <string name="no_campaign">No Campaign</string>
+    <string name="new_campaign">New Campaign</string>
+    <string name="choose_campaign">Choose Campaign</string>
+    <string name="campaign">Campaign</string>
+    <string name="event_campaign">Event Campaign</string>
+    <string name="no_event">No Event Campaign</string>
+    <string name="add_event_campaign">New Event</string>
+    <string name="event_input_name_error">Event name cannot be blank</string>
+    <string name="running">Running</string>
+    <string name="finished">Finished</string>
+    <string name="edit_event_campaign">Edit Event</string>
+    <string name="end_event">End</string>
+    <string name="resume_event">Resume</string>
+    <string name="auto_backup">Auto Backup</string>
+    <string name="set_schedule_backup">Set Scheduled Backup</string>
+
+    <string-array name="schedule_backup_values">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Annually</item>
+    </string-array>
+
+    <string name="repeat_transaction">Repeat Transactions</string>
+    <string name="new_repeat_transaction">New Repeat Transaction</string>
+    <string name="saving_success">Congratulations, You successfully %1$s !</string>
+    <string name="event_campaign_intro">You can create plans to spend on event such as
+		wedding, travel...</string>
+    <string name="show_later">Show Later</string>
+    <string name="saving_campaign_intro">You can create savings plans for family travel, new house buying, ect...</string>
+    <string name="account">Account</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="coming_soon">Coming soon in next version !</string>
+    <string name="no_data">No Chart Data</string>
+    <string name="category_chart">Category Chart</string>
+    <string name="transaction_trend">Transactions Trend</string>
+    <string name="user_intro">You can create multiple accounts based on spending purpose (personal, family, business,...) or
+	based on payment method (cash, bank account, credit card...) </string>
+    <string name="buy_full_version">Buy Full Version</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="multi_account">Multi account</string>
+    <string name="multi_saving_campaign">Multi savings　campaign</string>
+    <string name="multi_event_campaign">Multi event campaign</string>
+    <string name="input_bank_name">Input bank name:</string>
+    <string name="rate">Rate</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="buy_vietnam">Buy (Vietnam)</string>
+    <string name="rate_support">If you enjoy using Money Lover, please take a
+		moment to rate it. Thank you for your support!</string>
+    <!-- Version 2.0.1 -->
+
+    <string name="include_saving">Include Savings Transactions</string>
+    <string name="include_saving_desc">Wallet will calculate transactions in savings
+		campaigns</string>
+    <string name="more_chart">More Chart</string>
+    <string name="more_chart_msg">If you need other charts, please contact me.</string>
+    <string name="auto_check_update">Auto check update</string>
+    <string name="plan_campaign">Plans and Campaigns</string>
+    <string name="budget">Budget</string>
+    <string name="add_budget">Add Budget</string>
+    <string name="time">Time</string>
+
+    <string-array name="budget_time">
+        <item>This week</item>
+        <item>This month</item>
+        <item>This quarter</item>
+        <item>This year</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string name="budget_plan">Budget Plan</string>
+    <string name="auto_backup_notification_msg">New backup file: %1$s</string>
+    <string name="error_budget_equal_zero">Budget amount must be greater than zero. </string>
+    <string name="error_budget_category_no_select">Category must be selected. </string>
+    <string name="error_budget_end_date">End date must be greater than Start date</string>
+    <string name="no_budget">No Budget</string>
+    <string name="edit_budget">Edit Budget</string>
+    <string name="budget_account_reach">You\'ve run out of budget for %1$s account</string>
+    <string name="budget_category_reach">You\'ve run out of %1$s in %2$s account</string>
+    <string name="budget_intro">For better management, you can set the budgets for
+		each account or each category. Money Lover shall give the warning once you spend over budget.</string>
+    <string name="budget_warning">Free version only supports for %1$d budgets, please
+		buy the full version for full support</string>
+    <string name="support_export_csv">Support export to csv</string>
+    <string name="support_more_budget">Support more budget</string>
+    <string name="interest">Interest</string>
+
+    <string-array name="interest_time">
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>3 months</item>
+        <item>6 months</item>
+        <item>Yearly</item>
+    </string-array>
+
+    <string name="compound_interest">Compound interest</string>
+    <string name="simple_interest">Simple interest</string>
+    <string name="interest_type">Interest Type</string>
+    <string name="error_interest_rate">Interest rate must be greater than 0</string>
+
+    <string-array name="repeat_transaction_time">
+        <item>Start week</item>
+        <item>End week</item>
+        <item>Start month</item>
+        <item>End month</item>
+        <item>Start quarter</item>
+        <item>End quarter</item>
+        <item>Start year</item>
+        <item>End year</item>
+    </string-array>
+
+    <string name="error_repeat_transaction_name">Name cannot be blank</string>
+    <string name="error_repeat_transaction_amount">Amount must be greater than 0</string>
+    <string name="error_repeat_transaction_category">Category must be selected. </string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="edit_repeat_transaction">Edit Repeat Transaction</string>
+    <string name="repeat">Repeat</string>
+    <string name="error_interest_amount">Amount must be greater than 0</string>
+    <string name="interest_amount">Interest Amount</string>
+    <string name="number_of_period">Number Of Period</string>
+    <string name="error_no_google_map">Please install Google Maps to use this function</string>
+    <string name="no_active_budget">There\'s no active budget now</string>
+    <string name="bill_manager">Bill Management</string>
+    <string name="new_bill">New Bill</string>
+    <string name="add_bill">Add Bill</string>
+    <string name="reminder">Reminder</string>
+    <string name="reminder_time">Reminder Time</string>
+
+    <string-array name="reminder_time_list">
+        <item>On time</item>
+        <item>Before 1 day</item>
+        <item>Before 2 days</item>
+        <item>Before 3 days</item>
+        <item>Before 4 days</item>
+        <item>Before 5 days</item>
+        <item>Before 6 days</item>
+        <item>Before 7 days</item>
+    </string-array>
+
+    <string name="day_of_month">Day of Month</string>
+    <string name="edit_bill">Edit Bill</string>
+    <string name="language_currency">Language &amp; Currency</string>
+    <string name="bill_reminder_notification">Alert: Bill for %1$s shall be deliveried in
+		the next %2$s day(s).</string>
+    <string name="bill_notification">You must pay %2$s for %1$s today. </string>
+    <string name="monthly_report">Monthly Report</string>
+    <string name="social_network">Social Network</string>
+    <string name="bill_reminder">Bill Reminder</string>
+    <string name="show_changelogs">Show Changelogs</string>
+    <string name="bill_intro">You can add and keep track of all your bills like:
+		Telephone Bill, Electricity Bill, Gas Bill, Internet Bill, ... to get 
+		alert of upcoming and unpaid bills so that you\'ll never miss a Bill Due Date.</string>
+    <string name="note_in_new_transaction">Note in new transaction form</string>
+    <string name="start_balance">Start balance</string>
+    <string name="balance_transaction">Balance transaction</string>
+    <string name="user_balance">Balance: %1$s</string>
+    <string name="transfer_account">Transfer Account</string>
+    <string name="reason">Reason</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="transfer_success">Transfer success</string>
+    <string name="transfer_to">Transfer to %1$s</string>
+    <string name="receive_from">Receive from %1$s</string>
+    <string name="error_transfer_from_to">Transfer account and Receive account can not be one account</string>
+
+    <string-array name="screen_orientation_keys">
+        <item>Unspecified</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
+    </string-array>
+
+    <string name="screen_orientation">Screen Orientation</string>
+    <string name="guide_plus_version">Thank you for purchasing Money Lover Plus, 
+	please Back up all the Data from the Free version, then Restore it to the Plus version to continue.</string>
+    <string name="total_balance">Total Balance: %1$s</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="best_income_transaction">Top Income</string>
+    <string name="best_income_category">Top Income Category</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expense">Total Expense</string>
+    <string name="best_expense_transaction">Top Expense</string>
+    <string name="best_expense_category">Top Expense Category</string>
+    <string name="total_debt">Total Debt</string>
+    <string name="total_loan">Total Loan</string>
+    <string name="best_debt_transaction">Top Debt</string>
+    <string name="best_loan_transaction">Top Loan</string>
+    <string name="info">Info</string>
+    <string name="balance">Balance</string>
+    <string name="create_shortcut">Create Shortcut</string>
+
+    <!-- version 3.0 -->
+    <string name="unclassified">Unclassified</string>
+    <string name="group">Group</string>
+    <string name="select_group">Select Group</string>
+    <string name="show_sub_category">Show Category</string>
+    <string name="search_label">Search Label</string>
+
+</resources>
