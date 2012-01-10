@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Home</item>
+        <item>Mobile</item>
+        <item>Work</item>
+        <item>Work Fax</item>
+        <item>Home Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="shutdown_reboot_options">
+        <item>Reboot</item>
+        <item>Recovery</item>
+        <item>Bootloader</item>
+    </string-array>
+    <string-array name="shutdown_reboot_actions">
+        <item></item>
+        <item>recovery</item>
+        <item>bootloader</item>
+    </string-array>
+    <string-array name="config_statusBarIcons">
+        <item>ime</item>
+        <item>sync_failing</item>
+        <item>sync_active</item>
+        <item>gps</item>
+        <item>bluetooth</item>
+        <item>nfc</item>
+        <item>tty</item>
+        <item>speakerphone</item>
+        <item>mute</item>
+        <item>volume</item>
+        <item>wifi</item>
+        <item>cdma_eri</item>
+        <item>data_connection</item>
+        <item>phone_evdo_signal</item>
+        <item>phone_signal</item>
+        <item>battery</item>
+        <item>alarm_clock</item>
+        <item>secure</item>
+        <item>clock</item>
+    </string-array>
+    <string-array name="networkAttributes">
+        <item>wifi,1,1,1</item>
+        <item>mobile,0,0,0</item>
+        <item>mobile_mms,2,0,2</item>
+        <item>mobile_supl,3,0,2</item>
+        <item>mobile_dun,4,0,4</item>
+        <item>mobile_hipri,5,0,3</item>
+    </string-array>
+    <string-array name="radioAttributes">
+        <item>1,1</item>
+        <item>0,1</item>
+    </string-array>
+    <string-array name="config_tether_usb_regexs">
+        <item>usb0</item>
+    </string-array>
+    <string-array name="config_tether_upstream_regexs">
+        <item>rmnet\\d</item>
+        <item>tiwlan\\d</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="carrier_properties">
+        <item>AirTel-India</item>
+        <item>en_IN</item>
+        <item></item>
+        <item>Chunghwa-Taiwan</item>
+        <item>zh_TW</item>
+        <item></item>
+        <item>DCM</item>
+        <item>ja_JP</item>
+        <item>14</item>
+        <item>Era</item>
+        <item>pl_PL</item>
+        <item></item>
+        <item>H3G-Italy</item>
+        <item>it_IT</item>
+        <item></item>
+        <item>Hutch-Australia</item>
+        <item>en_AU</item>
+        <item>11</item>
+        <item>iTELEF-Spain</item>
+        <item>es_ES</item>
+        <item></item>
+        <item>OPTUS-Australia</item>
+        <item>en_AU</item>
+        <item>11</item>
+        <item>ORANGE-French</item>
+        <item>fr_FR</item>
+        <item></item>
+        <item>SMC-Voda-HK</item>
+        <item>zh_HK</item>
+        <item></item>
+        <item>StarHub-Singapore</item>
+        <item>en_SG</item>
+        <item>11</item>
+        <item>TIM-Italy</item>
+        <item>it_IT</item>
+        <item></item>
+        <item>TMA</item>
+        <item>de_AT</item>
+        <item>13</item>
+        <item>TMCZ</item>
+        <item>cs_CZ</item>
+        <item>13</item>
+        <item>TMD</item>
+        <item>de_DE</item>
+        <item>13</item>
+        <item>TMHR</item>
+        <item>hr_HR</item>
+        <item></item>
+        <item>TMMK</item>
+        <item>mk_MK</item>
+        <item></item>
+        <item>TMNL</item>
+        <item>nl_NL</item>
+        <item>13</item>
+        <item>TMSK</item>
+        <item>sk_SK</item>
+        <item></item>
+        <item>TMUK</item>
+        <item>en_GB</item>
+        <item>13</item>
+        <item>TMUS</item>
+        <item>en_US</item>
+        <item>11</item>
+        <item>VODA-Africa-South</item>
+        <item>en_ZA</item>
+        <item></item>
+        <item>VODA-Australia</item>
+        <item>en_AU</item>
+        <item>11</item>
+        <item>VODA-Germany</item>
+        <item>de_DE</item>
+        <item>13</item>
+        <item>VODA-Greece</item>
+        <item>el_GR</item>
+        <item></item>
+        <item>VODA-Ireland</item>
+        <item>en_IE</item>
+        <item></item>
+        <item>VODA-Italy</item>
+        <item>it_IT</item>
+        <item></item>
+        <item>VODA-Mobilkom</item>
+        <item>de_AT</item>
+        <item>13</item>
+        <item>VODA-Netherland</item>
+        <item>nl_NL</item>
+        <item>13</item>
+        <item>VODA-New-Zealand</item>
+        <item>en_NZ</item>
+        <item></item>
+        <item>VODA-Portugal</item>
+        <item>pt_PT</item>
+        <item></item>
+        <item>VODA-SFR</item>
+        <item>fr_FR</item>
+        <item></item>
+        <item>VODA-Spain</item>
+        <item>es_ES</item>
+        <item></item>
+        <item>VODA-Swisscom-DE</item>
+        <item>de_CH</item>
+        <item>13</item>
+        <item>VODA-Swisscom-FR</item>
+        <item>fr_CH</item>
+        <item></item>
+        <item>VODA-Swisscom-IT</item>
+        <item>it_CH</item>
+        <item></item>
+        <item>VODA-Swisscom-WWE</item>
+        <item>en_CH</item>
+        <item></item>
+        <item>VODA-UK</item>
+        <item>en_GB</item>
+        <item>13</item>
+    </string-array>
+</resources>
