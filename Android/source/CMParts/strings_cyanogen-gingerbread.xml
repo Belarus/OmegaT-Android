@@ -95,8 +95,8 @@
     <string name="ui_status_bar_am_pm_summary">Display style of AM/PM next to clock</string>
     <string name="ui_status_bar_clock_title">Show clock</string>
     <string name="ui_status_bar_clock_summary">Status bar clock will be hidden, if disabled</string>
-    <string name="ui_status_bar_battery_title">Battery status style</string>
-    <string name="ui_status_bar_battery_summary">Display style of battery status</string>
+    <string name="ui_status_bar_cm_battery_title">Battery percentage</string>
+    <string name="ui_status_bar_cm_battery_summary">Show battery percentage plus mini battery icon. Disable if themes make this look broken</string>
     <string name="ui_status_bar_compact_carrier_title">Compact carrier label</string>
     <string name="ui_status_bar_compact_carrier_summary">Use alternate notification dropdown layout with mini carrier label</string>
     <string name="ui_status_bar_toggle_brightness">Status bar brightness control</string>
@@ -117,10 +117,6 @@
     <!-- User interface : WebView -->
     <string name="pref_pinch_reflow_title">Reflow after pinch in</string>
     <string name="pref_pinch_reflow_summary">Reflow webview content immediately after pinch to zoom in</string>
-
-    <!-- User interface : Share menu for screenshots -->
-    <string name="pref_share_screenshot_title">Share screenshots</string>
-    <string name="pref_share_screenshot_summary">Show share menu on taking a screenshot</string>
 
     <!-- User interface : Overscroll -->
     <string name="ui_overscroll_title">Overscrolling</string>
@@ -186,12 +182,8 @@
     <string name="trackball_category_screen">Manage categories</string>
     <string name="trackball_category_add_title">Add category</string>
     <string name="trackball_category_add_summary">Add a category to the list</string>
-    <string name="trackball_category_add_error_title">ERROR</string>
-    <string name="trackball_category_add_error_summary">The category name may not contain \'=\'</string>
     <string name="trackball_category_remove_title">Remove category</string>
     <string name="trackball_category_remove_summary">Remove a category from the list</string>
-    <string name="trackball_category_edit_title">Edit category settings</string>
-    <string name="trackball_category_edit_summary">Edit the default settings for this category</string>
     <string name="trackball_reset_all">Reset all colors and categories.</string>
     <string name="trackball_color_notice_title">NOTE:</string>
     <string name="trackball_color_notice_summary">Not all colors will display on all devices</string>
@@ -231,19 +223,12 @@
     <string name="trackball_color_entry_random">Random</string>
     <string name="trackball_color_entry_amber">Amber</string>
 
-    <!-- Trackball Settings : Force modes -->
-    <string name="trackball_force_mode_category">Use category settings</string>
-    <string name="trackball_force_mode_application">Use application settings</string>
-    <string name="trackball_force_mode_off">Force LED off</string>
-    <string name="trackball_force_mode_events">Force LED on for events</string>
-    <string name="trackball_force_mode_on">Force LED on</string>
-
     <!-- Trackball Settings : Warning dialog -->
     <string name="notification_battery_warning_title">WARNING: May cause battery drain</string>
     <string name="notification_battery_warning">This option has been proven to increase the amount of battery drain by ~3% per hour. If you notice an increase in drain during trackball lights pulsing then this option is why. Do not enable if you don\'t wish to incur the drain.</string>
 
     <!-- Lockscreen Overview -->
-    <string name="pref_lockscreen_disable_on_security_title">Skip on security</string>
+    <string name="pref_lockscreen_disable_on_security_title">Disable lockscreen on security</string>
     <string name="pref_lockscreen_disable_on_security_summary">Disable the lockscreen if security screen lock (pattern, PIN, password) is enabled</string>
     <string name="pref_lockscreen_stylecfg_title">Style options</string>
     <string name="pref_lockscreen_stylecfg_summary">Configure the lockscreen style and the corresponding settings</string>
@@ -277,17 +262,12 @@
     <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with hard to press power key</string>
     <string name="pref_trackball_unlock_title">Trackball unlock</string>
     <string name="pref_trackball_unlock_summary">Pressing the trackball unlocks the device</string>
-    <string name="pref_slider_unlock_title">Sliding keyboard unlock</string>
-    <string name="pref_slider_unlock_summary">Sliding out the keyboard unlocks the device</string>
     <string name="pref_menu_unlock_title">Menu unlock</string>
     <string name="pref_menu_unlock_summary">Pressing the menu button unlocks the device</string>
     <string name="pref_lockscreen_quick_unlock_control_title">Quick Unlock</string>
     <string name="pref_lockscreen_quick_unlock_control_summary">No need to press OK when entering Pin or Password. Delete counts as bad try</string>
-    <string name="lockscreen_style_options_title">Style-specific Options</string>
     <string name="pref_lockscreen_custom_app_toggle_title">Custom app starter</string>
-    <string name="pref_lockscreen_custom_app_toggle_tab_summary">Shows a second set of sliders to launch a custom app</string>
-    <string name="pref_lockscreen_custom_app_toggle_rotary_summary">Shows a custom app dimple to launch a custom app</string>
-    <string name="pref_lockscreen_custom_app_toggle_ring_summary">Shows a third ring to launch up to four custom apps</string>
+    <string name="pref_lockscreen_custom_app_toggle_summary">Shows a second slider on sliding style, shows a custom app dimple on rotary style, shows a third ring on ring style</string>
     <string name="pref_lockscreen_custom_app_activity_title">Custom application</string>
     <string name="pref_lockscreen_ring_custom_apps_dialog_title_set">Select which shortcut to set</string>
     <string name="pref_lockscreen_ring_custom_apps_dialog_title_unset">Select which shortcut to un-set</string>
@@ -295,10 +275,6 @@
     <string name="pref_lockscreen_ring_custom_apps_dialog_add">Add</string>
     <string name="pref_lockscreen_ring_custom_apps_dialog_remove">Remove</string>
     <string name="pref_lockscreen_ring_custom_apps_notset">Not Set</string>
-    <string name="pref_lockscreen_ring_unlock_middle_title">Unlock with middle ring</string>
-    <string name="pref_lockscreen_ring_unlock_middle_summary">Switch unlock and app launcher rings</string>
-    <string name="pref_lockscreen_ring_minimal_title">Minimal Ring Style</string>
-    <string name="pref_lockscreen_ring_minimal_summary">One ring in the middle to unlock</string>
     <string name="pref_lockscreen_custom_background_title">Choose background</string>
     <string name="pref_lockscreen_custom_background_dialog_title">Choose background</string>
     <string name="pref_lockscreen_custom_background_summary">Choose image or color as lockscreen background</string>
@@ -333,10 +309,6 @@
     <string name="pref_lockscreen_calendar_reminders_only_summary">Find only events that have reminders</string>
     <string name="pref_lockscreen_calendar_lookahead_title">Calendar event lookahead</string>
     <string name="pref_lockscreen_calendar_lookahead_summary">How far in the future should calendar events be found</string>
-    <string name="pref_lockscreen_calendar_show_location_title">Display event location</string>
-    <string name="pref_lockscreen_calendar_show_location_summary">Show event location under title</string>
-    <string name="pref_lockscreen_calendar_show_description_title">Display event description</string>
-    <string name="pref_lockscreen_calendar_show_description_summary">Show event description under title</string>
 
     <!-- Input Settings -->
     <string name="input_settings_title">Input settings</string>
@@ -344,6 +316,7 @@
     <string name="haptic_summary">Adjust when and how strong haptic feedback occurs</string>
     <string name="long_press_home_title">Long-press home settings</string>
     <string name="long_press_home_summary">Number of recent applications, etc</string>
+
     <string name="input_search_key_title">Search key behavior</string>
     <string name="input_search_key_summary">Define custom actions for search key and long-press search key</string>
     <string name="pref_input_custom_search_app_toggle_title">Search key app</string>
@@ -351,6 +324,7 @@
     <string name="pref_input_custom_search_app_activity_title">Custom application</string>
     <string name="pref_input_custom_long_search_app_toggle_title">Long-press search app</string>
     <string name="pref_input_custom_long_search_app_toggle_summary">Starts a custom app when long-pressing the search key</string>
+
     <string name="pref_backtrack_title">BackTrack Minipad</string>
     <string name="pref_backtrack_summary">Enable/disable BackTrack Minipad</string>
 
@@ -443,10 +417,6 @@
     <string name="pref_heapsize_title">VM heap size</string>
     <string name="pref_heapsize_summary">Maximum amount of memory per VM heap (requires reboot)</string>
 
-    <!-- Performance : Disable bootanimation -->
-    <string name="pref_disable_bootanimation_title">Disable boot animation</string>
-    <string name="pref_disable_bootanimation_summary">Don\'t show the boot animation for faster boot</string>
-
     <!-- Performance : Lock home memory -->
     <string name="pref_lock_home_title">Lock home in memory</string>
     <string name="pref_lock_home_summary">Attempt to keep the current home app in memory at all times</string>
@@ -484,13 +454,13 @@
     <string name="pref_power_prompt_title">Power prompt</string>
     <string name="pref_power_prompt_summary">Change whether there is a prompt after choosing shutdown or reboot</string>
 
-    <!-- UI Settings : Haptic feedback -->
-    <string name="expanded_haptic_feedback_title">Haptic Feedback</string>
-    <string name="expanded_haptic_feedback_summary">Enable/Disable haptic feedback.</string>
-
     <!-- UI Settings : Render effect -->
     <string name="pref_render_effect_title">Render effect</string>
     <string name="pref_render_effect_summary">Change what colors are used to draw the screen (potential battery savings)</string>
+
+    <!-- UI Settings : Haptic feedback -->
+    <string name="expanded_haptic_feedback_title">Haptic Feedback</string>
+    <string name="expanded_haptic_feedback_summary">Enable/Disable haptic feedback.</string>
 
     <string name="widget_name">RenderFX Widget</string>
     <string name="renderfx_temp">RenderFX</string>
@@ -559,18 +529,19 @@
     <string name="title_button_modes">Button modes</string>
     <string name="pref_brightness_mode_title">Brightness modes</string>
     <string name="pref_brightness_mode_summary">Choose how the brightness button changes modes</string>
-    <string name="cm_brightness_mode_auto">Auto</string>
-    <string name="cm_brightness_mode_dim">Dim</string>
     <string name="pref_network_mode_title">Network modes</string>
     <string name="pref_network_mode_summary">Choose how the NetworkMode button changes modes</string>
     <string name="pref_screentimeout_mode_title">Screentimeout modes</string>
     <string name="pref_screentimeout_mode_summary">Choose how the Screentimeout button changes modes</string>
     <string name="pref_ring_mode_title">Sound modes</string>
     <string name="pref_ring_mode_summary">Choose how the sound button changes modes</string>
-    <string name="cm_sound_mode_silent">Silent</string>
-    <string name="cm_sound_mode_vibrate">Vibrate</string>
-    <string name="cm_sound_mode_sound">Sound</string>
-    <string name="cm_sound_mode_soundVibrate">Sound+Vibrate</string>
+    <string name="cm_sound_mode_soundVib_vib">Sound+Vibrate/Vibrate</string>
+    <string name="cm_sound_mode_sound_vib">Sound/Vibrate</string>
+    <string name="cm_sound_mode_sound_silent">Sound/Silent</string>
+    <string name="cm_sound_mode_soundVib_vib_silent">Sound+Vib/Vib/Silent</string>
+    <string name="cm_sound_mode_sound_vib_silent">Sound/Vibrate/Silent</string>
+    <string name="cm_sound_mode_soundVib_sound_vib_silent">Sound+Vibrate/Sound/Vibrate/Silent</string>
+    <string name="cm_sound_mode_vib_silent">Vibrate/Silent</string>
     <string name="pref_flash_mode_title">Flash mode</string>
     <string name="pref_flash_mode_summary">Choose High / Death Ray</string>
 
@@ -641,7 +612,6 @@
     <string name="sound_notifications_limitvol_dialog">Notification volume</string>
     <string name="sound_rings_limitvol_dialog">Ring tone volume</string>
     <string name="sound_alarms_limitvol_dialog">Alarm volume</string>
-
     <!-- Quiet hours -->
     <string name="sound_category_quiet_hours_title">Quiet hours</string>
     <string name="quiet_hours_note_title">Note</string>
@@ -662,9 +632,6 @@
     <string name="quiet_hours_dim">Dim LED</string>
     <string name="quiet_hours_dim_on">LED will dim if possible</string>
     <string name="quiet_hours_dim_off">LED will be full brightness</string>
-    <string name="quiet_hours_haptic">Disable haptic feedback</string>
-    <string name="quiet_hours_haptic_on">Haptic feedback is disabled</string>
-    <string name="quiet_hours_haptic_off">Haptic feedback is enabled</string>
 
     <string name="cmstats_title">Anonymous statistics</string>
     <string name="cmstats_summary">Help make CM better by opting-in to anonymous statistics reporting</string>
@@ -695,9 +662,6 @@
     <string name="gestures_toggle_sound">Toggle sound</string>
     <string name="gestures_shortcut_or_activity">Shortcut or activity</string>
     <string name="gestures_flashlight">Flashlight</string>
-    <string name="gestures_next">Next song</string>
-    <string name="gestures_previous">Previous song</string>
-    <string name="gestures_playpause">Play/Pause music</string>
     <string name="pref_lockscreen_disable_unlock_tab">Disable unlock slider</string>
     <string name="pref_lockscreen_disable_unlock_tab_summary">Note: You need to enable trackball, menu key, or gesture unlocking before this option becomes available</string>
     <string name="gestures_action_label">Action:</string>
