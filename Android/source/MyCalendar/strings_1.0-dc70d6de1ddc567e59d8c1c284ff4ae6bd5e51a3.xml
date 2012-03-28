@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string name="app_name">Emotion Calendar</string>
-    <string name="app_label">Emotion Calendar</string>
-    <string name="no_title_label">(No subject)</string>
-    <string name="week_num_title">W</string>
-</resources>

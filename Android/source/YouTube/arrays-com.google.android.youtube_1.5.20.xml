@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="time_filter_dialog_items">
+        <item>Today</item>
+        <item>This week</item>
+        <item>This month</item>
+        <item>All time</item>
+    </string-array>
+</resources>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Try again in %d seconds.</item>
-        <item quantity="one">Try again in%dsecond.</item>
-    </plurals>
-</resources>
