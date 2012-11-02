@@ -350,6 +350,10 @@
     <!-- Settings item for setting the number of message to save for each conversation -->
     <string name="pref_messages_to_save">Set number of messages to save</string>
 
+    <!-- Settings item for the soft keyboard picker -->
+    <string name="pref_title_input_type">Soft keyboard type</string>
+    <string name="pref_summary_input_type">Select the soft keyboard to use when composing messages</string>
+
     <!-- Settings item for boolean option for SMS Split Counter -->
     <string name="pref_title_sms_split_counter">Split counter</string>
     <!-- Settings item description for boolean SMS Split 160 characters setting -->
@@ -627,6 +631,7 @@
     <string name="saved_ringtone_fail">Couldn\'t save ringtone.</string>
     <!-- Menu item -->
     <string name="menu_insert_smiley">Insert smiley</string>
+    <string name="menu_insert_emoji">Insert emojis</string>
 
     <!-- This is the dialog title for the "Select link" dialog, shown when the user clicks on a
     chat in the chat history view if there are links in the chat message. The dialog displays the
@@ -744,6 +749,9 @@
          changed -->
     <string name="error_state_text">The state of threads and recipients is inconsistent. Please capture a bug report and report it via http://go/droidanizer </string>
 
+    <string name="label_mms_push">MMS Push</string>
+    <string name="desc_mms_push">Pushes MMS from outbox to the network</string>
+
     <!-- In the title of the compose message activity, when there are multiple recipients, we show
          the number of recipients in the subtitle of the action bar. There's never a case of one. [CHAR LIMIT=50] -->
     <plurals name="recipient_count">
@@ -772,16 +780,22 @@
     <string name="template_new_title">New template</string>
     <string name="template_insert">Insert template</string>
     <string name="template_gesture_draw">Draw the gesture in the space below</string>
-    <string name="template_not_present_error">You have not defined any template</string>
+    <string name="template_not_present_error">There are no defined templates</string>
     <string name="template_not_present_error_title">Error</string>
     <string name="template_select">Select a template</string>
     <string name="template_cancel_confirm_title">Warning</string>
-    <string name="template_cancel_confirm_text">Would you like to cancel?</string>
+    <string name="template_cancel_confirm_text">The template will be deleted. Continue?</string>
     <string name="gestures_already_present">Warning: A similar gesture is associated to another template!</string>
 
     <!-- Extra Settings: -->
     <string name="pref_extra_settings">Extra settings</string>
 
+    <!-- Strip unicode -->
+    <string name="pref_title_strip_unicode">Strip unicode</string>
+    <string name="pref_summary_strip_unicode">Substitute common characters that are not supported in 160 character SMS messages</string>
+    <!-- Enable emojis -->
+    <string name="pref_title_enable_emojis">Emoji support</string>
+    <string name="pref_summary_enable_emojis">Enable support for unicode emojis, a set of 471 nice emoticons</string>
     <!-- Full timestamps -->
     <string name="pref_title_mms_full_timestamp">Full timestamps</string>
     <string name="pref_summary_mms_full_timestamp">Display both date and time in timestamps</string>
@@ -798,4 +812,8 @@
     <string name="pref_title_mms_notification_vibrate_custom">Custom vibrate pattern</string>
     <string name="pref_text_mms_notification_vibrate_custom">Format off/on in milliseconds: off, on, off, on, ...</string>
 
+    <string name="pref_title_sms_EnableMultipartSMS">"SMS to MMS"</string>
+    <string name="pref_summary_sms_EnableMultipartSMS">"Transform long text messages into MMS"</string>
+    <string name="pref_title_sms_SmsToMmsTextThreshold">"SMS count"</string>
+    <string name="pref_summary_sms_SmsToMmsTextThreshold">"<xliff:g id="COUNT">%1$s</xliff:g> messages before MMS conversion"</string>
 </resources>

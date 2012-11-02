@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string name="ro_perm_label">read instant messages</string>
-    <string name="ro_perm_desc">Allows applications to read data from the Google Talk content provider.</string>
-    <string name="wo_perm_label">write instant messages</string>
-    <string name="wo_perm_desc">Allows applications to write data to the Google Talk content provider.</string>
-    <string name="app_label">Google Talk Storage</string>
-</resources>

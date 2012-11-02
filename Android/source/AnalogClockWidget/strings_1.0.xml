@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-    <string name="app_name">Analog clock</string>
-    <string name="analog_clock">Analog clock</string>
-    <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="loading">Loading...</string>
-    <string name="currentCountAndTotal">%1$s of %2$s</string>
-</resources>
