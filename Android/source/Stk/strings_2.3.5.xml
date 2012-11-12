@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ap_version_id">2.00.0007</string>
+    <string name="htc_private_app">SIM Toolkit</string>
+    <string name="htc_set_up_call_default_title">Dial out</string>
+    <string name="need_uim_to_launch">Please insert SIM to launch SIM Toolkit</string>
+    <string name="not_ready">SIM Toolkit is not ready or unsupported</string>
+    <string name="play_tone">PLAY TONE</string>
+    <string name="app_name">SIM Toolkit</string>
+    <string name="menu_end_session">End session</string>
+    <string name="help">Help</string>
+    <string name="service_name">Service name</string>
+    <string name="stk_no_service">No service available</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="alphabet">Alphabets</string>
+    <string name="digits">Digits (0-9, *, #, +)</string>
+    <string name="stk_app_state">Application state</string>
+    <string name="enable_app">Enabled</string>
+    <string name="disable_app">Disabled</string>
+</resources>

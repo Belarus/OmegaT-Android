@@ -41,7 +41,6 @@
     <string name="day_saturday">S</string>
     <string name="day_sunday">S</string>
     <string name="searching">Searching...</string>
-    <string name="accessibility_search">Search</string>
     <string name="networkfailure">Sorry, network error. Please try later.</string>
     <string name="setlocationcomplete">Weather location updated.</string>
     <string name="setlocationfailed">Sorry, couldn\'t find a location matching \'%s.\'</string>

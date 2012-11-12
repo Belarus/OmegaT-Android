@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="def_airplane_mode_radios">cell,bluetooth,wifi</string>
+    <string name="airplane_mode_toggleable_radios">wifi</string>
+    <string name="att_airplane_mode_toggleable_radios">bluetooth,wifi</string>
+    <string name="chs_airplane_mode_toggleable_radios"></string>
+    <string name="def_location_providers_allowed"></string>
+    <string name="def_location_providers_allowed_sp">gps</string>
+    <string name="def_backup_transport">com.google.android.backup/.BackupTransportService</string>
+    <string name="def_low_battery_sound">/system/media/audio/ui/LowBattery.ogg</string>
+    <string name="def_desk_dock_sound">/system/media/audio/ui/Dock.ogg</string>
+    <string name="def_desk_undock_sound">/system/media/audio/ui/Undock.ogg</string>
+    <string name="def_car_dock_sound">/system/media/audio/ui/Dock.ogg</string>
+    <string name="def_car_undock_sound">/system/media/audio/ui/Undock.ogg</string>
+    <string name="def_lock_sound">/system/media/audio/ui/Lock.ogg</string>
+    <string name="def_unlock_sound">/system/media/audio/ui/Unlock.ogg</string>
+    <string name="def_supl_ip">supl.google.com</string>
+    <string name="def_supl_port">7626</string>
+    <string name="def_supl_iapid">ap0004</string>
+    <string name="def_supl_preferred_apn">CMWAP</string>
+    <string name="def_supl_optional_apn">CMNET</string>
+    <string name="def_supl_server_name">China Mobile AGPS server</string>
+    <string name="app_label">Settings Storage</string>
+</resources>

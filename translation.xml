@@ -102,20 +102,24 @@
 	<app dirName="SuperUser" packageName="com.noshufou.android.su" translated="true">
 	    <cyanogen src="packages/apps/Superuser/res" />
 	</app>
+	<app dirName="SoundRecorder" packageName="com.android.soundrecorder" translated="true">
+	    <cyanogen src="packages/apps/SoundRecorder/res" />
+	</app>
+	<app dirName="SpareParts" packageName="com.android.spare_parts" translated="true">
+	    <cyanogen src="packages/apps/SpareParts/res" />
+	</app>
+	<app dirName="Stk" packageName="com.android.stk" translated="true">
+	    <cyanogen src="packages/apps/Stk/res" />
+	</app>
+	<app dirName="VoiceDialer" packageName="com.android.voicedialer" translated="true">
+	    <cyanogen src="packages/apps/VoiceDialer/res" />
+	</app>
 	<app dirName="VpnServices" packageName="com.android.server.vpn" translated="true">
 	    <cyanogen src="frameworks/base/packages/VpnServices/res" />
 	</app>
 
-    <!-- LG P500 Optimus One -->
-	<app dirName="AIME" packageName="com.lge.android.aime" translated="true"/>
-	<app dirName="AnalogClockWidget" packageName="com.lge.android.analogclock.widget" translated="true"/>
-	<app dirName="BookmarksWidget" packageName="com.lge.android.bookmarks.widget" translated="true"/>
-	<app dirName="CalendarWidget" packageName="com.lge.android.calendarwidget" translated="true"/>
-
-    <!-- Huawei S7 -->
-	<app dirName="EmotionClockWidget" packageName="com.huawei.widget.emotionclock" translated="true"/>
-
 	<!-- Google Apps -->
+	<app dirName="CarHomeGoogle" packageName="com.google.android.carhome" translated="true"/>
 	<app dirName="EnhancedGoogleSearchProvider" packageName="com.google.android.providers.enhancedgooglesearch" translated="true"/>
 	<app dirName="Facebook" packageName="com.facebook.katana" translated="true"/>
 	<app dirName="GenieWidget" packageName="com.google.android.apps.genie.geniewidget" translated="true"/>
@@ -132,16 +136,32 @@
 	<app dirName="Maps" packageName="com.google.android.apps.maps" translated="true"/>
 	<app dirName="MediaUploader" packageName="com.google.android.apps.uploader" translated="true"/>
 	<app dirName="NetworkLocation" packageName="com.google.android.location" translated="true"/>
+	<app dirName="DownloadProviderUi" packageName="com.android.providers.downloads.ui" translated="true"/>
+	<app dirName="Talk" packageName="com.google.android.talk" translated="true"/>
 	<app dirName="TalkProvider" packageName="com.google.android.providers.talk" translated="true"/>
 	<app dirName="VoiceSearch" packageName="com.google.android.voicesearch" translated="true"/>
 	<app dirName="YouTube" packageName="com.google.android.youtube" translated="true"/>
 	<app dirName="SetupWizard" packageName="com.android.setupwizard" translated="true"/>
 	<app dirName="Vending" packageName="com.android.vending" translated="true"/>
 
+	<!-- LG P500 Optimus One -->
+	<app dirName="AIME" packageName="com.lge.android.aime" translated="true"/>
+	<app dirName="AnalogClockWidget" packageName="com.lge.android.analogclock.widget" translated="true"/>
+	<app dirName="BookmarksWidget" packageName="com.lge.android.bookmarks.widget" translated="true"/>
+	<app dirName="CalendarWidget" packageName="com.lge.android.calendarwidget" translated="true"/>
+
+	<!-- Huawei S7 -->
+	<app dirName="EmotionClockWidget" packageName="com.huawei.widget.emotionclock" translated="true"/>
+
 	<!-- other -->
+	<app dirName="DSPManager" packageName="com.bel.android.dspmanager" translated="true"/>
+	<app dirName="FileManager" packageName="org.openintents.cmfilemanager" translated="true"/>
+	<app dirName="Gallery3D" packageName="com.cooliris.media" translated="true"/>
 	<app dirName="KateMobile" packageName="com.perm.kate" translated="true"/>
 	<app dirName="RomManager" packageName="com.koushikdutta.rommanager" translated="true"/>
+	<app dirName="SetMACaddress" packageName="in.introkun.setmacaddress" translated="true"/>
 	<app dirName="Skype" packageName="com.skype.raider" translated="true"/>
+	<app dirName="ThemeChooser" packageName="com.tmobile.themechooser" translated="true"/>
 	<app dirName="TransPot" packageName="com.transpot" translated="true"/>
 	<app dirName="YandexMaps" packageName="ru.yandex.yandexmaps" translated="true"/>
 

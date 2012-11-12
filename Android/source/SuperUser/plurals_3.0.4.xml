@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="restore_complete">
+        <item quantity="other">%1$d apps and preferences restored</item>
+        <item quantity="one">One app and preferences restored</item>
+    </plurals>
+    <plurals name="pref_logs_deleted">
+        <item quantity="other">%1$d logs deleted</item>
+        <item quantity="one">One log deleted</item>
+    </plurals>
+    <plurals name="pin_incorrect_try">
+        <item quantity="other">Nope - %d tries left</item>
+        <item quantity="one">Last chance</item>
+    </plurals>
+    <plurals name="malicious_apps_message1">
+        <item quantity="other">The following packages were found to be malicious:</item>
+        <item quantity="one">The following package was found to be malicious:</item>
+    </plurals>
+</resources>

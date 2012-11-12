@@ -162,6 +162,7 @@
         <item>"Manaus"</item>
         <item>"Santiago"</item>
         <item>"Newfoundland"</item>
+        <item>"Recife"</item>
         <item>"Brasilia"</item>
         <item>"Buenos Aires"</item>
         <item>"Greenland"</item>
@@ -252,6 +253,7 @@
         <item>"America/Manaus"</item>
         <item>"America/Santiago"</item>
         <item>"America/St_Johns"</item>
+        <item>"America/Recife"</item>
         <item>"America/Sao_Paulo"</item>
         <item>"America/Argentina/Buenos_Aires"</item>
         <item>"America/Godthab"</item>
@@ -365,7 +367,7 @@
 
     <!-- DO NOT TRANSLATE These values need to correspond to the indices
          defined in DeleteEventHelper.java-->
-    <integer-array name="delete_repeating_values">
+    <integer-array name="delete_repeating_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
