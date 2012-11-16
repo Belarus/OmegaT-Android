@@ -799,8 +799,7 @@ suspended	прыпынілі
 swipe	ссоўваць
 switch	перамыкач
 sync	сынхранізаваць
-tablet	пляншэт
-tablet	пляншэт -а
+tablet	тэблет -а
 tabs	укладкі
 tab	зрух
 tab	укладка
