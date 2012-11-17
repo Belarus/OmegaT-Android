@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="pref_camera_videoquality_entryvalues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="pref_camera_video_duration_entryvalues">
+        <item>-1</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="pref_camera_picturesize_entryvalues">
+        <item>2592x1944</item>
+        <item>2592x1936</item>
+        <item>2048x1536</item>
+        <item>1600x1200</item>
+        <item>1024x768</item>
+    </string-array>
+    <string-array name="pref_camera_jpegquality_entryvalues">
+        <item>85</item>
+        <item>75</item>
+        <item>65</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_entryvalues">
+        <item>auto</item>
+        <item>infinity</item>
+        <item>macro</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>auto</item>
+        <item>on</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="pref_camera_recordlocation_entryvalues">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="gps_modes">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_whitebalance_entryvalues">
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>cloudy</item>
+    </string-array>
+    <string-array name="pref_camera_coloreffect_entryvalues">
+        <item>none</item>
+        <item>mono</item>
+        <item>sepia</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>posterize</item>
+        <item>whiteboard</item>
+        <item>blackboard</item>
+        <item>aqua</item>
+        <item>pastel</item>
+        <item>mosaic</item>
+        <item>red-tint</item>
+        <item>blue-tint</item>
+        <item>green-tint</item>
+    </string-array>
+    <string-array name="pref_camera_scenemode_entryvalues">
+        <item>auto</item>
+        <item>action</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>night</item>
+        <item>night-portrait</item>
+        <item>theatre</item>
+        <item>beach</item>
+        <item>snow</item>
+        <item>sunset</item>
+        <item>steadyphoto</item>
+        <item>fireworks</item>
+    </string-array>
+    <string-array name="scenemode_modes">
+        <item>off</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_gallery_size_choices">
+        <item>Large</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="pref_gallery_size_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_choices">
+        <item>Newest first</item>
+        <item>Newest last</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_values">
+        <item>descending</item>
+        <item>ascending</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_choices">
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_choices">
+        <item>Fade in &amp; out</item>
+        <item>Slide left - right</item>
+        <item>Slide up - down</item>
+        <item>Random selection</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>-1</item>
+    </string-array>
+</resources>

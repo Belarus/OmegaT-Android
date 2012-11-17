@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="currentMacAddress">Current MAC address:</string>
+    <string name="app_name">Set MAC address</string>
+    <string name="newMacLabel">Update my MAC address with following:</string>
+    <string name="updateMacButtonText">Update MAC address</string>
+    <string name="invalidMacAddessMessage">Invalid MAC address.\n\nValid address sample - 12:34:56:78:9a:bc.</string>
+    <string name="macUpdatedOk">MAC address updated successfully</string>
+    <string name="inconsistentMac">MAC value inconsistent</string>
+    <string name="error">Error</string>
+    <string name="externalStorageUnavailable">External storage unavailable</string>
+    <string name="macBackupFailed">Failed backing up original MAC</string>
+    <string name="question">Question</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="aboutDescription">(mod)For Huawei u8220 (T-Mobile Pulse) running Android 2.3 (CyanogenMod 7 port for Pulse).\nTested on CyanogenMod 7.1RC port for Pulse build 06-Aug-2011.</string>
+    <string name="restoreMac">Restore MAC address</string>
+</resources>

@@ -1,0 +1,947 @@
+ABI	двайковы праґрамны інтэрфэйс	Application Binary Interface
+accessibility	даступнасьць
+accessory	прыналежнасьць
+AccountAuthenticators	АпазнавальнікіРахунку
+AccountManagerService	СлужбаКіравацьРахункам
+AccountManager	КіраўнікРахункаў
+Accounts & sync	Рахункі ды сынхранізаваньне
+Accounts&Sync	Рахункі ды сынхранізаваньне
+accounts	рахункі
+account	рахунак
+account	рахунак -ку
+activities	дзейнасьці
+activity	дзейнасьць
+Add account	«Дадаць рахунак»
+added	новы
+Additional Privacy Policy	дадатковыя правілы адасобленасьці
+adjust	настаўляць
+administration	кіраваньне
+administration	кіраўніцтва
+administrators	кіраўнікі
+administrator	кіраўнік
+ads	рэкляма
+Advanced WiFi	Адмысловыя налады Wi-Fi
+advanced	адмысловы
+ADW.Launcher	Пускач ADW
+ad	абвестка
+again	зноўку
+alarm clock	буднік
+alarms	будзькі
+alarm	будзька
+album	альбом -у
+alerts	папярэджаньні
+alert	папярэджаньне
+always	заўжды
+AM	перад паўднём
+Android Beam	Перадатчык (Android Beam)
+Android Beam	Прамень (Android Beam)
+Android File Transfer	праґрама абменьвацца файламі
+animated	ажыўляць
+animations	ажыўленьні
+animation	ажыўленьне
+animation	анімацыя
+APN	пункт доступу
+applications	праграмы
+application	праграма
+apply	ужыць
+appointments	сустрэчы
+apps	праґрамы
+app	праґрама
+archive	архіваваць
+Are you sure you want to	Ці ўпэўненыя вы, што хочаце
+artists	выканаўцы
+artist	выканаўца
+assign	прызначаць
+attached	залучаны
+attachments	залучнікі
+attachment	залучнік -а
+attach	залучаць
+attendee	наведнік
+attention	увага
+audible	чутны
+audio file	гукавы файл
+audio	аўдыёзапіс	
+audio	гуказапіс	
+authenticating	апазнаваньне
+authentication	апазнаваньне
+authenticator	апазнавальнік
+authorization	упаўнаважаньне	
+automatically	самарушна
+auto-refresh	самарушна абнаўляцца
+auto	самарушна
+awake time	дзейны час
+backed up	захавалі адноўку
+background data	злучацца на заднім пляне
+background	задні плян
+background	тло
+Backup & reset	Адноўка ды ўзнаўленьне
+backup	адноўка
+back up	захаваць адноўку
+Back	«Назад»
+bad	кепскі
+band	паласа
+bank	банк -у
+bars	паліцы
+bar	паліца
+baseband	злучар
+batch	зборны
+Bathing Cat	Кацяня ў ваньне
+battery level	узровень зараду батарэі
+battery	батарэя
+bcc	сьляпая копія (СК; «blind carbon copy»)
+Begin	«Пачаць»
+bill	аплата
+blink	мігцець
+blink	міргаць
+blocked	забаронены
+block	затрымваць
+Blogger	Блоґер
+blogger	блоґер -а
+bluetooth	bluetooth
+Bluetooth	Bluetooth
+BluetoothShare manager	кіраўнік дзяліцца па Bluetooth
+bookmarks	закладкі
+bookmark	закладка
+booting	першагрузіцца
+booting	першагрузка
+bootloader	ладоўнік запуску
+bootloader	пачатковы ладоўнік
+boot	першагрузіцца
+brightness	яркасьць
+broadcasts	апавяшчэньні
+broadcast	рассылаць
+browser	аглядальнік
+browser	аглядальнік -а
+build	зборка
+busybox	busybox
+buttons	кнопкі
+button	кнопка
+caches	запасьнікі
+cache	запасьнік
+call-forwarding	перасылаць выклікі
+call log	гісторыя выклікаў
+calls	выклікі
+call	выклік
+call	выклікаць
+camcorder	відэакамэра
+Cancel	Скасаваць
+cancel	спыняць
+candy	ахоўнік экрану
+cannot	нельга
+cannot	не ўдаецца
+can't be	немагчыма
+can't	нельга
+captcha	???
+caption	подпіс
+car mode	стан «у машыне»
+carrier	апэратар
+catalogs	пералікі
+catalog	пералік	Маецца на ўвазе catalog як пералік праґрамаў.
+category	катэґорыя
+category	пералік
+CA	сьведчальны асяродак
+cc	копія («carbon copy»)
+certificates	пасьведчаньні
+certificate	пасьведчаньне
+changelog	гісторыя зьмяненьняў
+charger	зарада
+charging	зараджаецца
+chats	гамана
+chats	гамана
+chats	гутаркі
+chat	гутарка
+chat	гутаркі
+chat	гутарыць
+check in	адзначацца
+check-in	адзначацца
+checkin	адзначацца
+Checkout	Каса
+CID	азначальнік ячэйкі («Cell Identification», «Cell ID»)
+circles	колы
+clear	ачышчаць (сьпіс)
+clear	прыбраць (складнікі)
+clipboard	кішэня
+close	зачыняць
+closing	зачыняецца
+Cloud to Device	абмен між воблакам і прыладаю
+coarse	грубы
+codec	кодэк
+codename	найменьне
+columns	слупкі
+comment added	выказаліся
+comments	выказваньні
+comments	выказваньні
+comments	заўвагі
+comment	выказацца
+comment	выказваньне
+comment	заўвага
+company	таварыства
+compatibility zoom	суладнае павелічэньне
+compatibility	суладнасьць
+complete	заканчваць
+component	складнік
+composer	укладальнік
+compose	набіраць
+computer	кампутар
+computer	кампутар -а
+conference call	выклік да нарады
+conference	нарада
+confidential	сакрэтны
+configuration	настаўленьне
+configured	наставілі
+configure	настаўляць
+connected	злучыліся
+connecting	злучаемся
+Contact me	Зьвязацца з аўтарам
+Contact me	Зьвязацца са мною
+contact	зьвязвацца
+contact	кантакт
+container	зьмяшчальня
+content	зьмесьціва
+Continue	Працягваць
+contributors	саўдзельнікі
+contributor	саўдзельнік
+conversations	размовы
+conversation	размова
+converting	ператвараецца
+cookies	біркі
+cookie	бірка
+copy	перапісваць
+correct	адпаведны
+could not	нельга
+could not	не магчы
+could not	ня здолець
+couldn\'t	нельга
+couldn't	немагчыма
+county	акруга
+CPU	працэсар -у
+CPU	ЦП
+crash	аварыя
+credentials	даверчыя лісты
+credentials	пасьведчаньні
+credential	даверчыя лісты
+credential	пасьведчаньне
+currency	грашовая адзінка
+cursor	указальнік
+Customer Care	служба падтрымкі
+custom	уласны
+CyanogenMod	CyanogenMod
+databases	базы зьвестак
+data	дадзеныя
+data	зьвесткі
+dBm	дБм
+debug	выпраўляць
+debug	папраўчы
+declined	адмовілі
+declined	адхілілі
+decline	адмовіць
+decline	адхіліць
+decoding	расшыфроўваць
+default screen	пачатковы экран
+delete	выдаляць
+delete	сьціраць (файлы)
+deleting	сьціраецца
+delivery report	справаздача па дастаўленым
+desktop	стальніца
+destination	кірунак
+details	падрабязнасьці
+detected	выявілі
+detect	выяўляць
+developed by	распрацоўца
+developer	распрацоўнік
+development	распрацоўніцтва
+device admin	кіраўнік прылады
+devices	прылады
+device	прылада
+dial pad	наборнік
+dialpad	наборнік
+dial	набіраць
+dictionary	слоўнік -а
+Did you mean	можа, мелася на ўвазе
+dim	прыцямняць
+Directions & Navigation	Шляхі ды навіґацыя
+directions	шляхі
+direction	шлях
+discard	адкідаць
+discharging	разраджаецца
+disconnected	адлучыліся
+disconnecting	адлучаемся
+discoverability	бачнасьць
+DockBar	латок-паліца
+dock	латок
+dock	латок -тка
+domain	вузел
+Domestic Partner	Супольнік па сям’і
+Done	Зроблена
+double-tap	падвойны націск
+downloaded	спампавалі
+downloader	спампоўвальнік
+Download Manager	Кіраўнік спампоўванага
+downloads	спампоўванае
+download	спампоўваць
+Do you want	Ці хочаце вы
+drag left	перацягніце налева
+drag right	перацягніце направа
+drag	перацягваць
+drawer	рысавальнік
+dream	мроя
+DTMF tones	танальныя сыґналы
+edit	правіць
+effects	ператварэньні
+elite	прасунуты
+email arrives	прыходзіць пошта
+email	эл. пошта
+emergency	надзвычайны
+emoticons	пачуцьцезнакі
+emoticon	пачуцьцезнак
+empty	парожні
+enable/disable	ці карыстацца
+encryption	тайнапіс
+encryption	шыфраваньне
+End-User License Agreement	ліцэнзійнае пагадненьне
+engines	рухавікі
+engine	рухавік
+engine	рухавік -а
+entered	упісалі
+enterprise	прадпрыемства
+enter	пазначаць
+enter	упісваць
+erase	сьціраць (файл), вычышчаць (сховішча)
+error occured	выявілася памылка
+error occured	далі хібу
+error occured	здарылася памылка
+error occurred	далі хібу
+error	памылка
+error	хіба
+ethernet	дротавая сетка
+event	падзея
+expense	выдатак
+Explore by Touch	Дасьледаваць дотыкам
+explore	выведваць
+explore	дасьледаваць
+export	вымаць
+exposure	насьвятленьне
+external	вонкавы
+Facebook	Facebook
+failed	не ўдалося
+failure	няўдача
+favorites	упадабаныя
+favorite	упадабаны
+FCs	памылкі
+FC	памылка
+FDN	замацаваныя нумары (ЗН)
+feature code	код уласьцівасьці
+featured	прыкмечаныя
+features	функцыі
+feedback	водгук
+feeds	жывільнікі
+feed	жывільнік
+fetching	атрымваецца
+fetch	атрымваць
+file	файл -а
+Find Friends	Шукаць сяброў
+firewall	сетказаслона
+flashlight	ліхтарык
+flashlight	ліхтарык -а
+flash	выбліск
+folders	каталёґі
+folder	каталёґ
+folder	каталёґ -а
+followers	падпісанты
+follower	падпісант	
+font	шрыфт -у
+format	разьмячаць
+for more information	каб даведацца болей
+form	блянк
+forwarding	перасылаецца
+forwarding	перасыланьне
+forward	перасылаць
+frame	кадр
+friend request	запыт сябраваць
+gadget	забаўка
+Gallery	ґалерэя
+gateway	брама
+General	«Агульнае»
+general	агульны
+general	галоўны
+geolocation	вызначаць ґеаґрафічнае мейсца
+gesture	жэст -у
+ghost mode	прывідны стан
+GMT	час па Ґрынвічы
+Go offline	Адлучыцца
+Google	Google
+Google Instant	Хуткі Google
+Google Mail	Пошта Google
+Google Maps Navigation	Навіґацыя мапамі Google
+Google Messaging Service	служба паведамленьняў Google
+Google Talk	Гутарка Google
+Go online	Далучыцца
+groups	суполкі
+group	суполка
+group	супольны
+GTalk	Гутарка Google
+guests	запрошаныя
+handle	апрацоўваць
+handset	тэлефонная слухаўка
+haptic feedback	водгук па дотыку
+haptic	дотыкавы
+hardware	прыстасаваньні
+HID	прылады ўзаемадзейнічаць з карыстальнікам	human interface device
+highlighted	падсьвечаны
+hint	намінка
+home button	кнопка «дамоў»
+home screen	галоўны экран
+Home	галоўны экран
+home	дамоў (кнопка)
+hotspot	адметны пункт
+huddle	таемка
+ICCID	азначальнік карткі SIM	integrated circuit card identifier
+icons	значкі
+icon	значак
+identity	тоеснасьць
+ID	азначальнік
+images	відарысы
+image	відарыс
+Import/Export	Узяць або выняць
+import	браць
+IM	паведамляльнік
+inappropriate	неадпаведнае
+inbox	уваходныя
+incognito	таемны
+income	прыбытак
+incorrect	неадпаведны
+indicator	паказальнік
+indicator	паказальнік -а
+inflate	напаўняць
+inflating	напаўняць
+input device	прылада ўводу
+insert	усоўваць (картку)
+insert	устаўляць (тэкст)
+installation	ўсталёўваць
+installed	усталявалі
+installer	усталёўца
+install	усталёўваць
+instant	хуткі
+intercept	перахапляць
+invalid	хібны
+invites	запрашэньні
+IP	адрас IP
+joining	спалучаць
+junk	лухта
+just-in-time	адначасны
+keep-alive	праверачны
+kernel	ядро
+keyboard	клявіятура
+key	клявіша
+labels	цэтлікі
+label	цэтлік
+labs	выпрабоўнае
+LAC	код мясцовасьці («Location Area Code»)
+landline	гарадзкі
+landscape	альбомная
+Land	звычайны (тэлефон)
+Language & keyboard	Мова ды клявіятура
+latest	найноўшая
+Latitude	Спадарожнік
+LauncherActions	Дзеяньні пускача
+launcher	пускач
+Layar	Layar
+layers	пласты
+layer	пласт
+learn	даведвацца
+LED	лямпачка
+LED	мігцець
+legal	прававыя зьвесткі
+lense	шыльда
+limit reached	перавысілі абмежаваньне
+link	прывязваць
+link	спасылка
+loading	чытаюцца
+locale	мясцовасьць
+Location & Security	Бясьпека ды месцазнаходжаньне
+location	вызначаць мейсца
+location	мейсца
+location	месцазнаходжаньне
+locked	замкнёны
+locking	замыкаць
+lockscreen	замкнёны экран
+lock	замыкаць
+Log Out	выйсьці
+log	справаздача
+look and feel	Вонкавы выгляд
+lost	згубілі
+low-vision	кепскі зрок
+lux	лк
+mailbox	паштовая скрынка
+Malicious applications can use this to	Зламысныя праграмы могуць карыстацца гэтым, каб
+malicious	зламысны
+manifest	маніфэст -у
+maps live wallpaper	жывыя шпалеры з мапаў
+market	крама
+maybe	магчыма
+MCC	код краіны	mobile country code
+MDN	нумар тэлефоннае прылады	Mobile Device Number
+media audio	гук прайгравальніка
+media	мэдыя
+media	прайгравальнік
+media	сховішчы
+meeting	сустрэча
+MEID	азначальнік перасоўнага абсталяваньня	mobile equipment identifier
+mention	згадваньне
+Menu	«Мэню»
+merge	аб’ядноўваць
+methods	спосабы
+method	спосаб
+MIN	азначальнік тэлефона	mobile identification number
+misbehave	паводзіць сябе неадпаведна
+mistakes	памылкі
+mistake	памылка
+MNC	код сеткі перасоўнае сувязі	Mobile Network Code
+mobile	перасоўны
+mock locations	удаваныя крыніцы
+mock	падрабляцца
+mock	падробны
+mock	удаваны
+modem	злучар
+moderate	сярэдне
+mode	стан
+mod	зьменка
+Money Lover	Грошыкалюб
+monitor	сачыльнік
+monitor	сачыць
+month	месяц -а
+mount	мацаваць
+move	перасоўваць
+MSID	азначальнік перасоўнае станцыі	mobile station ID
+multicast	бязадрасны
+mutual	агульны
+mutual	супольны	
+My downloads	Маё спампаванае
+name	імя
+name	назва
+navigation	навіґацыя
+Near Field Communication	зносіны блізкага поля
+negotiation	узгадненьне
+networked	сеткаваны
+News Feed	стужка навінаў
+Next	«Далей»
+NFC	зносіны блізкага поля
+NFC	зносіны блізкага поля
+NFC	зносіны блізкага поля
+noise cancellation	гасіць шум
+not available	няма доступу
+not enough space	бракуе прасторы
+note	зацемка
+note	уважаць
+Not for use by normal applications	Звычайнымі праґрамамі не выкарыстоўваецца
+not found	не знайшлі
+notifications	спавяшчэньні
+notification	спавяшчэньне
+not readable	нельга прачытаць
+objectionable	непажаданы
+obtaining	атрымваем
+offline	адлучаны
+OFF	вылучаць
+OK	Добра
+online	далучаны
+onscreen	экранны
+ON	улучаць
+opening	адчыняецца
+open	адчыніць
+optional	не абавязкова
+options	можнасьці
+organization	аб’яднаньне
+out of space	бракуе прасторы
+overrides	перавагі
+overwrite	перазапісваць
+owner	уладальнік
+packages	пакункі
+package	пакунак -ка
+pager	гартач
+pages	бачыны
+page	бачына
+paired	спалучаны
+pairing	спалучацца
+pair	спалучаць
+panel	панэль
+panorama	краявід
+parser	разьбіральнік
+passkey	пароль
+passwords	паролі
+password	пароль
+password	пароль -лю
+pattern	узор
+paused	прыпынілі
+PDP	пратакол пакетных зьвестак («Packet Data Protocol»)
+performance	выніковасьць
+peripherals	вонкавыя прылады
+personal	асабісты
+phone audio	гук тэлефона
+phone	тэлефон -а
+photos	фатаздымкі
+photo	здымак
+photo	здымак -ка
+photo	фатаздымак
+pick	выбіраць
+pictures	здымкі (з камэры)
+pictures	малюнкі
+picture	здымак -ка
+picture	малюнак -ку
+PIN code	код PIN
+pitch	вышыня
+pixels	піксалі
+player	прайгравальнік -а	
+playlists	сьпісы
+playlist	сьпіс
+play sounds	гучэць
+play sound	гучэць
+plugged in	улучаны
+plugged in	улучылі
+plug-ins	убудовы
+plug-in	убудова
+PLZ	PLZ (нямецкі паштовы код)
+PM	папаўдні
+podcasts	падвяшчальнікі
+podcast	падвяшчальнік
+pointer	паказальнік -а
+points	пункты
+pokes	штуршкі
+poke	штуршок
+polar clock	дугавы гадзіньнік
+policy	правілы
+poll	апытаньне
+poor	благі
+pop-ups	вынырцы
+pop-ups	раптоўныя вокны
+pop-up windows	раптоўныя вокны
+pop-up window	раптоўнае вакно
+Pop-up	вынырац
+pop-up	раптоўнае
+portable	пераносны
+portrait	кніжная
+port	порт -у
+posts	допісы
+post	допіс
+Power	«Сілкаваньне»
+preferences	перавагі
+preferred	жаданы
+preferred	пераважны
+prefetching	загадзя атрымваць
+prefetch	загадзя атрымваць
+prefix	прыстаўка
+preview	прыклад
+Previous	«Назад»
+priority	пяршынства
+privacy	адасобленасьць
+PRL	сьпіс перавагаў блуканьня	Preferred Roaming List
+process	працэс -у
+product	выраб
+progress	поступ
+protocol	пратакол
+protocol	пратакол -у
+provider	пастаўнік
+proxy	пасродак
+Push	штуршок
+quotations	вытрымкі
+quotation	вытрымка
+quoted text	вытрымка
+radio	радыёсувязь
+range	досяг -у
+rating	ацэнка
+reader	чытальнік
+reason	падстава
+reboot	запускаць нанова
+recent	нядаўні
+recipient	атрымальнік -а
+recognizer	пазнавальнік
+refreshing	абнаўляецца
+registered	запісаліся
+registering	запісвацца
+register	запісвацца
+regulatory domain	абсяг паўнамоцтваў
+release	выпуск
+reminders	напаміны
+reminder	напамін
+remotely	адлегла
+remote	адлеглы
+removable	рухомы
+removed	выцягнулі
+removed	прыбралі
+removed	прымаць
+removed	сьцерлі
+remove	выкрасьляць
+remove	вымаць
+remove	выцягваць
+remove	зьнішчаць
+removing	сьціраць
+rename	назваць
+Reply all	«Адказаць усім»
+report abuse	скардзіцца
+reserve	замаўляць
+resetting	узнаўляецца
+reset	узнаўляць
+resolution	разрозьненьне
+resolved	высьветлілі
+resolve	высьвятляць
+resources	запасы
+resources	крыніцы
+resource	запас
+resource	крыніца
+restart	запускаць нанова
+restored	аднавілі
+restore	аднаўляць
+restoring	аднаўляюцца
+restricted	абмяжоўваецца
+restricted	забаронены
+reviews	водгукі
+review	водгук
+ringtone	гук выкліку
+ringtone	мэлёдыя
+Rocket Launcher	ракетніца
+rotary	дуга
+rotate left	павярніце налева
+rotate right	павярніце направа
+route	шлях
+routing	маршрутаваньне
+rows	радкі
+SafeSearch	Бясьпечны пошук
+saturation	насычанасьць
+scanning	аглядаем
+scan	шукаць
+Screen security	Абарона экрану
+screenshot	здымак экрану
+screen timeout	час чаканьня экрану
+screen	экран -у
+scripts	скрыпты
+scrollable	пракручвальны
+SD card	картка SD
+search engine	шукач
+secondary	дапаможны
+secret	таямніца
+select text	выбраць тэкст
+sender	адпраўнік
+sensor	чуйнік
+server	паслужнік
+server	паслужнік -а
+Service Dialing Numbers	службовыя нумары
+services	службы
+service	служба
+session	сэанс
+settings	налады
+setting up	уладкоўваць
+setting	налады
+set up	уладкоўваць
+setup	уладкоўваць
+set wallpaper	усталяваць шпалеры
+sex	плоць
+shared	абагуленае (сховішча)
+shared	супольны
+share	дзяліцца
+sharpness	выразнасьць
+sharpness	рэзкасьць
+shell	абалонка
+shortcuts	выклічнікі
+shortcut	выклічнік
+show previews	аглядацца
+shuffle	мяшаць
+shutter	затвор -а
+Sign in	Увайсьці
+sign up	запісацца
+silent mode	бязгучны стан
+SIM card	картка SIM
+site	пляцоўка
+sliders	гузікі
+slideshow	паказваць слайды
+slide	слайд -у
+slide	ссоўваць
+sliding	высоўны
+SMS messages	паведамленьні SMS
+snooze	адкладаць
+Social Club	таварыскі клюб
+social	грамадзкі
+sockets	гнёзды
+soft-buttons	праґрамныя кнопкі
+soft keyboard	праґрамная клявіятура
+software	праґрамныя сродкі
+solarize	перасьвятляць
+song	песьня
+sorry	выбачайце
+sorted	упарадкавалі
+spacebar	прагал
+space	прастора
+spam	лухта
+speaker	галосьнік
+specify	пазначаць
+speech synthesis	агучваньне
+spell checker	правапісьнік
+SSID	азначальнік сеткі
+starred	адзначаны
+star	зорачка
+status bar	паліца стану
+statusbar	паліца стану
+status message	апісаньне стану
+status	стан
+stock	стандартны
+storage	сховішча
+stories	рэпартажы
+story	рэпартаж
+stream	плынь
+StrictMode	строгі стан
+style	выгляд
+submitted	падалі
+submit	падаваць
+successfully	пасьпяхова
+suggestions	прапановы
+superuser	спраўнік
+supplicant	просьбіт
+support	падтрымваць
+suspended	прыпынілі
+swipe	ссоўваць
+switch	перамыкач
+sync	сынхранізаваць
+tablet	тэблет -а
+tabs	укладкі
+tab	зрух
+tab	укладка
+tags	біркі
+tags	пазнакі
+tag	бірка
+tag	пазнака	Tag
+terminal	тэрмінал -у
+terms and conditions	умовы ды азначэньні
+Terms of Service	Умовы абслугоўваньня
+text-to-speech	агучваньне
+themes	аздабленьні
+theme	аздабленьне
+There was a problem	Выявілася непаладка, калі спрабавалі
+There was a problem	Выявілася праблема, калі спрабавалі
+This alarm is set for	Будзька спрацуе праз
+threads	галіны
+thread	галіна
+thumbnails	абразкі
+thumbnail view	абразкі
+thumbnail	абразок
+time lapse	адваротны адлік
+time lapse	па кадрах
+timestamps	часадзнакі
+time zone	часавы абсяг
+time zone	часавы пас
+tips	парады
+toast	вынырцы
+tokens	прыкметы
+token	прыкмета
+tools	начыньне
+total	агулам
+total	разам
+touch	націскаць
+trackball	трэкбол
+trackpad	датыкач
+traffic	перадаванае
+transaction	апэрацыя
+transfers	перадаванае
+TransPot	ТранШпарт
+trash	сьметніца
+trebuchet	трыбук
+TTS	сыстэма агучваць тэкст
+Turn off USB storage	Выключыць сховішча USB
+tutorial	навучаньне
+Twitter	Twitter
+typed	набралі
+types	віды
+type	від
+type	друкаваць
+type	пазначаць
+typing	друкаваць
+\u0020	\u0020
+\u00a0	\u00a0	Неразрыўны прагал
+\u201C	«
+\u201D	»
+\u2022	"
+\u2026	…
+UID	азначальнік карыстальніка
+unable	немагчыма
+unavailable	адсутнічае
+unavailable	недаступны
+uncataloged	неразьмеркаванае
+undo	адрабіць
+uninstall	высталёўваць
+Unknown Sources	Невядомыя крыніцы
+unlocked	адамкнулі
+unlocking	адмыкаць
+unlock	адмыкаць
+unmounted	адмацавалі
+unmounting	адмацоўваецца
+unmount	адмацоўваць
+unsuccessful	не ўдалося
+untitled	бяз назвы
+updated	абнавілі
+updates	абнаўленьні
+upgraded	палепшылі
+upgrade	паляпшаць
+uploaded	запампавалі
+uploading	запампоўваецца
+uploads	запампаванае
+upload	запампоўваць
+USB Mass Storage	сховішча USB
+USB storage	сховішча USB
+User-Agent	сродак карыстальніка
+user dictionary	уласны слоўнік
+valid	чынны
+vCard	візытоўка
+Velcom	Velcom	
+verified	пацьверджаны
+verified	праверылі
+verifying	правяраецца
+vertical	прастастаўны
+vibrate	трымцець
+vibration	трымцець	
+vibrator	трымценьнік
+video	відэа
+video	відэазапіс
+viewer	прагляднік
+view	зірнуць
+visualizer	узнаўляльнік
+VKontakte	УКантакце
+Voice input & output	Уводзіць і выводзіць голасам
+Voice input	Уводзіць голасам
+voicemail	галасавая пошта
+voice output	выводзіць голасам
+VPN	уяўная таемная сетка
+VU meter	вальтмэтар
+wallet	гаманец
+warnings	перасьцярогі
+warning	перасьцярога
+web page	бачына сеціва
+Website settings	Налады пляцовак сеціва
+websites	пляцоўкі сеціва
+website	пляцоўка сеціва
+web	сеціва
+WhiteBalance	раўнавага белага
+widgets	віджэты
+widget	віджэт
+WiFi direct	Wi-Fi наўпрост
+Wi-Fi Direct	наўпроставы Wi-Fi
+Wi-Fi	Wi-Fi
+WiFi	Wi-Fi
+will be deleted	сатрэцца
+will be uploaded	запампуецца
+WiMAX	WiMAX
+window	вакно
+Wireless & networks	Бяздротавыя ды сеткі
+wireless	бяздротавы
+wizard	сродак
+WPS	Бясьпека Wi-Fi
+WPS	хатняя сетка Wi-Fi
+Yandex.Maps	Яндэкс.Мапы
+you can not	нельга
+ж\д ст.	чыг. ст.
+маршрут	шлях
+метки	пазнакі
+Минск-Южный	Мінск-Паўднёвы
+сalendar	каляндар -а
+сapturing	здымаецца
+слои	пласты
+слой	пласт
+ыharpness	выразнасьць
+Яндекс.Карты	Яндэкс.Мапы	
+Яндекс.Пробки	Яндэкс.Заторы

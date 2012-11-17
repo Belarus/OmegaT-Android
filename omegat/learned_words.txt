@@ -1,0 +1,1 @@
+../../../../common/words/learned_words.txt
