@@ -3,3 +3,5 @@
 *.txt			text
 segmentation.conf	text
 .git*			text
+*.sh			eol=lf
+*.cmd			eol=crlf
