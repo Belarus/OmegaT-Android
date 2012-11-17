@@ -1,1 +1,0 @@
-java -jar Android.OmegaT/OmegaT.jar --config-dir=Android.settings Android "--alternate-filename-from=/.+.xml$"  "--alternate-filename-to=/" --disable-project-locking resource-bundle=Android.OmegaT/Bundle_be.properties

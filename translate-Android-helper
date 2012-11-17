@@ -1,9 +1,0 @@
-#!/bin/sh
-cd Android/glossary
-cp Android-glossary.txt Android-glossary.txt~
-sort Android-glossary.txt~ | egrep -v ^$ > Android-glossary.txt
-cd ../omegat
-cp ignored_words.txt ignored_words.txt~
-sort ignored_words.txt~ | egrep -v ^$ > ignored_words.txt
-cp learned_words.txt learned_words.txt~
-sort learned_words.txt~ | egrep -v ^$ > learned_words.txt
