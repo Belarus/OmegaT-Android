@@ -1,0 +1,5 @@
+*.xml			text
+*.tmx			text
+*.txt			text
+segmentation.conf	text
+.git*			text

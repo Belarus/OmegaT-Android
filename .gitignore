@@ -1,4 +1,6 @@
-Android-level1.tmx
-Android-level2.tmx
-Android-omegat.tmx
+/Android-level1.tmx
+/Android-level2.tmx
+/Android-omegat.tmx
 *~
+/omegat/*.bak
+/omegat/project_stat*txt
