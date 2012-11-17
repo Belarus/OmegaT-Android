@@ -4,3 +4,4 @@
 *~
 /omegat/*.bak
 /omegat/project_stat*txt
+/target/*
