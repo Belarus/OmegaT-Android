@@ -154,6 +154,7 @@
 	<app dirName="EmotionClockWidget" packageName="com.huawei.widget.emotionclock" translated="true"/>
 
 	<!-- other -->
+	<app dirName="ClockPackage" packageName="com.sec.android.app.clockpackage" translated="true"/>
 	<app dirName="Cyhunka" packageName="com.deadyogi.apps.chugunka" translated="true"/>
 	<app dirName="DSPManager" packageName="com.bel.android.dspmanager" translated="true"/>
 	<app dirName="FileManager" packageName="org.openintents.cmfilemanager" translated="true"/>
