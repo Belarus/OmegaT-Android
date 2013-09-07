@@ -4,8 +4,8 @@
         <source_dir>__DEFAULT__</source_dir>
         <target_dir>__DEFAULT__</target_dir>
         <tm_dir>__DEFAULT__</tm_dir>
-        <glossary_dir>__DEFAULT__</glossary_dir>
-        <glossary_file>__DEFAULT__</glossary_file>
+        <glossary_dir>glossary</glossary_dir>
+        <glossary_file>glossary/Android-glossary.txt</glossary_file>
         <dictionary_dir>../Dictionaries</dictionary_dir>
         <source_lang>en</source_lang>
         <target_lang>be</target_lang>
