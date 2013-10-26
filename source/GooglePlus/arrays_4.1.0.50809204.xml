@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="photo_connection_preference_entry_values">
+        <item>WIFI_OR_MOBILE</item>
+        <item>WIFI_ONLY</item>
+    </string-array>
+    <string-array name="video_connection_preference_entry_values">
+        <item>WIFI_OR_MOBILE</item>
+        <item>WIFI_ONLY</item>
+    </string-array>
+    <string-array name="photo_upload_size_preference_entry_values">
+        <item>FULL</item>
+        <item>STANDARD</item>
+    </string-array>
+    <string-array name="network_statistics_types">
+        <item>Bytes sent+received</item>
+        <item>Bytes sent</item>
+        <item>Bytes received</item>
+        <item>Network+processing time</item>
+        <item>Network time</item>
+        <item>Processing time</item>
+        <item>Requests</item>
+    </string-array>
+    <string-array name="network_statistics_types_units">
+        <item>bytes</item>
+        <item>bytes</item>
+        <item>bytes</item>
+        <item>ms</item>
+        <item>ms</item>
+        <item>ms</item>
+        <item>requests</item>
+    </string-array>
+    <string-array name="emotishare_type">
+        <item>ANGRY</item>
+        <item>CRYING</item>
+        <item>FRUSTRATED</item>
+        <item>HAPPY</item>
+        <item>ASTONISHED</item>
+        <item>JOY</item>
+        <item>KISS</item>
+        <item>LOL</item>
+        <item>UNAMUSED</item>
+        <item>SAD</item>
+        <item>SICK</item>
+        <item>SILLY</item>
+        <item>SMIRK</item>
+        <item>WINK</item>
+        <item>WORRIED</item>
+        <item>WINTER</item>
+        <item>NEWYEAR</item>
+        <item>VALENTINE</item>
+        <item>STPATTY</item>
+        <item>SPRING</item>
+    </string-array>
+    <string-array name="emotishare_category">
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Faces</item>
+        <item>Seasonal</item>
+        <item>Holiday</item>
+        <item>Holiday</item>
+        <item>Holiday</item>
+        <item>Seasonal</item>
+    </string-array>
+    <string-array name="emotishare_icon_uri">
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/angry_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/crying_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/frustrated_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/happy_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/scared_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/joy_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/kiss_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/lol_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/meh_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/sad_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/sick_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/silly_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/smirk_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/wink_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/worried_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/winter_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/new_year_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/valentines_day_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/st_paddys_day_icon.png</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/spring_icon.png</item>
+    </string-array>
+    <string-array name="emotishare_image_uri">
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/angry_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/crying_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/frustrated_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/happy_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/scared_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/joy_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/kiss_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/lol_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/meh_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/sad_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/sick_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/silly_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/smirk_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/wink_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/mdpi/worried_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/winter_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/new_year_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/valentines_day_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/st_paddys_day_image.gif</item>
+        <item>http://www.gstatic.com/s2/oz/images/emotishare/hdpi/spring_image.gif</item>
+    </string-array>
+</resources>

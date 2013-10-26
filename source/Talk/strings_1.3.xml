@@ -128,7 +128,9 @@
     <string name="menu_settings">Settings</string>
     <string name="notification_group_title">Notification settings</string>
     <string name="notification_enabled_title">IM notifications</string>
-    <string name="notification_enabled_summary">Notify in status bar when IM arrives</string>
+    <string name="notification_enabled_summary">Notify in Status bar when IM arrives</string>
+    <string name="friend_invite_notification_title">Invitation notifications</string>
+    <string name="friend_invite_notification_summary">Notify in Status bar when friend invitations are received</string>
     <string name="notification_vibrateWhen_title">Vibrate</string>
     <string name="notification_vibrateWhen_summary">Also vibrate when IM arrives</string>
     <string name="prefDefault_vibrateWhen">never</string>
@@ -167,7 +169,7 @@
     <string name="confirm_clear_search_text">Search history will be cleared.</string>
     <string name="pref_gtalk_clear_search_history_title">Clear search history</string>
     <string name="pref_gtalk_clear_search_history_summary">Clear previous Google Talk chat searches from showing up in the Search box</string>
-    <string name="chat_search_history">%s results for \"%s\"</string>
+    <string name="chat_search_history">%1$s results for \"%2$s\"</string>
     <string name="no_chats_found">No chats contain \"%s\"</string>
     <string name="switcher_open_hint">(%d) Active chats</string>
     <string name="switcher_xofy">%1$d of %2$d</string>

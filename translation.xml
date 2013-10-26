@@ -15,6 +15,9 @@
 	<app dirName="ApplicationsProvider" packageName="com.android.providers.applications" translated="true">
 	    <cyanogen src="packages/providers/ApplicationsProvider/res" />
 	</app>
+	<app dirName="Apollo" packageName="com.andrew.apollo" translated="true">
+	    <cyanogen src="packages/apps/Apollo/res" />
+	</app>
 	<app dirName="BackupRestoreConfirmation" packageName="com.android.backupconfirm" translated="true">
 	    <cyanogen src="frameworks/base/packages/BackupRestoreConfirmation/res" />
 	</app>
@@ -69,6 +72,9 @@
 	<app dirName="Gallery" packageName="com.android.gallery" translated="true">
 	    <cyanogen src="packages/apps/Gallery/res" />
 	</app>
+	<app dirName="Gallery2" packageName="com.android.gallery3d" translated="true">
+	    <cyanogen src="packages/apps/Gallery2/res" />
+	</app>
 	<app dirName="LatinIME" packageName="com.android.inputmethod.latin" translated="true">
 	    <cyanogen src="packages/inputmethods/LatinIME/java/res" />
 	</app>
@@ -111,6 +117,12 @@
 	<app dirName="Stk" packageName="com.android.stk" translated="true">
 	    <cyanogen src="packages/apps/Stk/res" />
 	</app>
+	<app dirName="Trebuchet" packageName="com.cyanogenmod.trebuchet" translated="true">
+	    <cyanogen src="packages/apps/Trebuchet/res" />
+	</app>
+	<app dirName="Torch" packageName="net.cactii.flash2" translated="true">
+	    <cyanogen src="packages/apps/Torch/res" />
+	</app>
 	<app dirName="VoiceDialer" packageName="com.android.voicedialer" translated="true">
 	    <cyanogen src="packages/apps/VoiceDialer/res" />
 	</app>
@@ -125,6 +137,7 @@
 	<app dirName="GenieWidget" packageName="com.google.android.apps.genie.geniewidget" translated="true"/>
 	<app dirName="Gmail" packageName="com.google.android.gm" translated="true"/>
 	<app dirName="GmailProvider" packageName="com.google.android.providers.gmail" translated="true"/>
+	<app dirName="GoogleDrive" packageName="com.google.android.apps.docs" translated="true"/>
 	<app dirName="GoogleFeedback" packageName="com.google.android.feedback" translated="true"/>
 	<app dirName="GoogleQuickSearchBox" packageName="com.google.android.googlequicksearchbox" translated="true"/>
 	<app dirName="GooglePlus" packageName="com.google.android.apps.plus" translated="true"/>

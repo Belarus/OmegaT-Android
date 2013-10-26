@@ -20,6 +20,7 @@
     <string name="edit_text_help">Touch any text box to start typing</string>
     <string name="add_a_google_account">Add a Google Account</string>
     <string name="no_sim_setup_wireless">You don\'t have a SIM card installed in the phone, so it can\'t connect to a mobile network for voice or data services. You can connect to a Wi-Fi network without a SIM.</string>
+    <string name="wifi_only_setup_wireless">Would you like to connect to a Wi-Fi network now?</string>
     <string name="setup_wifi_button_label">Connect to Wi-Fi</string>
     <string name="no_network">You don’t have a network connection.</string>
     <string name="no_network_help">This could be a temporary problem or your phone may not be provisioned for data services. Please try again when connected to a mobile network, or connect to a Wi-Fi network. If the problem continues, call Customer Care</string>
@@ -149,10 +150,11 @@
     <string name="location_disable_message">You can disable these features in Settings, under Location &amp; Security  and under Privacy.</string>
     <string name="yes_agree">Allow Google\'s location service to collect anonymous location data. Collection will occur even when no applications are running.</string>
     <string name="yes_agree_use_location">Use My Location for Google search results and other Google services.</string>
-    <string name="backup_consent_title">Back up data</string>
-    <string name="backup_consent_message">Your Google and some third-party applications’ settings and other data (such as bookmarks and Wi-Fi passwords) can be backed up to Google’s servers, with your Google Account.  You can restore this data if you replace your phone or reinstall an application.</string>
+    <string name="backup_consent_title">Backup and restore</string>
+    <string name="backup_consent_message">You can use your Google Account to back up your apps, settings (such as bookmarks and Wi-Fi passwords), and other data. If you previously backed up with this account, you can restore it to this device now.</string>
     <string name="backup_consent_howto_disable_message">You can change your backup settings at any time in the Settings application, under Privacy.</string>
-    <string name="backup_consent_yes_agree">Back up data with my Google Account.</string>
+    <string name="backup_consent_yes_agree">Keep this device backed up with my Google Account</string>
+    <string name="restore_consent_yes_agree">Restore from my Google Account to this device</string>
     <string name="restore_disable">Disable restore</string>
     <string name="restore_enable">Enable restore</string>
     <string name="restore_enabled">If you have previously backed up your settings, they will be restored.</string>
