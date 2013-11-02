@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="build_number">20080722-0001</string>
     <string name="permission_read_attachment_label">Read email attachments</string>
@@ -54,12 +54,12 @@
     <string name="notification_to_account">to %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d new messages</string>
     <string name="account_name_display_all">All accounts</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+    
+    
+    
+    
+    
+    
     <string name="mailbox_name_display_inbox">Inbox</string>
     <string name="mailbox_name_display_outbox">Outbox</string>
     <string name="mailbox_name_display_drafts">Drafts</string>
@@ -71,13 +71,13 @@
     <string name="picker_mailbox_name_all_inbox">Inbox (all)</string>
     <string name="picker_combined_view_fmt">Combined view (%s)</string>
     <string name="debug_version_fmt">Version: %s</string>
-    <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-    <string name="debug_enable_exchange_logging_label">Enable exchange parser logging? (extremely verbose)</string>
-    <string name="debug_enable_exchange_file_logging_label">Enable exchange sd card logging?</string>
-    <string name="debug_clear_webview_cache">Clear WebView cache</string>
-    <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
-    <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
-    <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
+    
+    
+    
+    
+    
+    
+    
     <string name="account_folder_list_summary_inbox">Inbox</string>
     <string name="account_folder_list_summary_starred">Starred</string>
     <string name="account_folder_list_summary_drafts">Drafts</string>
@@ -198,10 +198,10 @@
     <string name="account_setup_account_type_title">Account setup</string>
     <string name="account_setup_account_type_headline">Account type</string>
     <string name="account_setup_account_type_instructions">What type of account is this?</string>
-    <string name="account_setup_account_type_pop_action">POP3</string>
-    <string name="account_setup_account_type_imap_action">IMAP</string>
-    <string name="account_setup_account_type_exchange_action">Exchange</string>
-    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
+    
+    
+    
+    
     <string name="account_setup_incoming_title">Account setup</string>
     <string name="account_setup_incoming_headline">Incoming server settings</string>
     <string name="account_setup_incoming_username_label">Username</string>
@@ -400,7 +400,7 @@
     <string name="search_slow_warning_title">Waiting for results</string>
     <string name="search_slow_warning_message">Some servers may take a long time.</string>
     <string name="action_bar_mailbox_list_title">Folders</string>
-    <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+    
     <string name="require_manual_sync_message">Background sync for this account is disabled while roaming.</string>
     <string name="application_name">Instant Upload</string>
     <string name="picasa_default_destination">Instant Upload Album</string>

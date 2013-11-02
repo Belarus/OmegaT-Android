@@ -17,10 +17,10 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Choices for timezone picker first level.
          These values will be used as search terms for TimeZone displayName
-         strings. --> <skip />
+         strings. --> <skip></skip>
     <!-- The time zone picker screen has two levels.  The first level allows the user to choose a region. -->
     <string-array name="timezone_filters">
     <!-- The next level of the time zoner picker should show time zones from the Americas. -->
@@ -40,7 +40,7 @@
     </string-array>
 
     <!-- There is a setting to control the format of dates displayed throughout the system.  This is in the Date & Time Settings screen.  These will be adjusted to use punctuation appropriate to the user's locale. -->
-    <string-array name="date_format_values" translatable="false">
+    <string-array name="date_format_values">
         <!-- The blank item means to use whatever the locale calls for. -->
         <item></item>
         <item>MM-dd-yyyy</item>
@@ -59,8 +59,8 @@
         <item>30 minutes</item>
     </string-array>
 
-    <!-- Do not translate. -->
-    <string-array name="screen_timeout_values" translatable="false">
+    
+    <string-array name="screen_timeout_values">
         <!-- Do not translate. -->
         <item>15000</item>
         <!-- Do not translate. -->
@@ -89,8 +89,8 @@
         <item>30 minutes</item>
     </string-array>
 
-    <!-- Do not translate. -->
-    <string-array name="dream_timeout_values" translatable="false">
+    
+    <string-array name="dream_timeout_values">
         <!-- Do not translate. -->
         <item>0</item>
         <!-- Do not translate. -->
@@ -123,8 +123,8 @@
         <item>30 minutes</item>
     </string-array>
 
-    <!-- Do not translate. -->
-    <string-array name="lock_after_timeout_values" translatable="false">
+    
+    <string-array name="lock_after_timeout_values">
         <!-- Do not translate. -->
         <item>0</item>
         <!-- Do not translate. -->
@@ -152,7 +152,7 @@
         <item msgid="490158884605093126">Huge</item>
     </string-array>
 
-    <string-array name="entryvalues_font_size" translatable="false">
+    <string-array name="entryvalues_font_size">
         <item>0.85</item>
         <item>1.0</item>
         <item>1.15</item>
@@ -169,7 +169,7 @@
         <item>Fast</item>
         <item>Very fast</item>
     </string-array>
-    <!-- Do not translate. -->
+    
     <string-array name="tts_rate_values">
         <item>60</item>
         <item>80</item>
@@ -186,7 +186,7 @@
         <item>High</item>
         <item>Very high</item>
     </string-array>
-    <!-- Do not translate. -->
+    
     <string-array name="tts_pitch_values">
         <item>50</item>
         <item>80</item>
@@ -195,15 +195,15 @@
         <item>150</item>
     </string-array>
 
-    <!-- Do not translate. -->
-    <string-array name="tts_demo_strings" translatable="false">
+    
+    <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>
         <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
         <item>Este es un ejemplo de síntesis de voz en español.</item>
     </string-array>
-    <string-array name="tts_demo_string_langs" translatable="false">
+    <string-array name="tts_demo_string_langs">
         <item>eng</item>
         <item>fra</item>
         <item>deu</item>
@@ -214,70 +214,61 @@
 
     <!-- Wi-Fi settings -->
 
-    <!-- Match this with the order of NetworkInfo.DetailedState. --> <skip />
+    <!-- Match this with the order of NetworkInfo.DetailedState. --> <skip></skip>
     <!-- Wi-Fi settings. The status messages when the network is unknown. -->
     <string-array name="wifi_status">
         <!-- Status message of Wi-Fi when it is idle. -->
         <item></item>
         <!-- Status message of Wi-Fi when it is scanning. -->
-        <item>Scanning\u2026</item>
+        <item>Scanning…</item>
         <!-- Status message of Wi-Fi when it is connecting. -->
-        <item>Connecting\u2026</item>
+        <item>Connecting…</item>
         <!-- Status message of Wi-Fi when it is authenticating. -->
-        <item>Authenticating\u2026</item>
+        <item>Authenticating…</item>
         <!-- Status message of Wi-Fi when it is obtaining IP address. -->
-        <item>Obtaining IP address\u2026</item>
+        <item>Obtaining IP address…</item>
         <!-- Status message of Wi-Fi when it is connected. -->
         <item>Connected</item>
         <!-- Status message of Wi-Fi when it is suspended. -->
         <item>Suspended</item>
         <!-- Status message of Wi-Fi when it is disconnecting. -->
-        <item>Disconnecting\u2026</item>
+        <item>Disconnecting…</item>
         <!-- Status message of Wi-Fi when it is disconnected. -->
         <item>Disconnected</item>
         <!-- Status message of Wi-Fi when it is a failure. -->
         <item>Unsuccessful</item>
     </string-array>
 
-    <!-- Match this with the order of NetworkInfo.DetailedState. --> <skip />
+    <!-- Match this with the order of NetworkInfo.DetailedState. --> <skip></skip>
     <!-- Wi-Fi settings. The status messages when the network is known. -->
     <string-array name="wifi_status_with_ssid">
         <!-- Status message of Wi-Fi when it is idle. -->
         <item></item>
         <!-- Status message of Wi-Fi when it is scanning. -->
-        <item>Scanning\u2026</item>
+        <item>Scanning…</item>
         <!-- Status message of Wi-Fi when it is connecting to a network. -->
-        <item>Connecting to <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <item>Connecting to %1$s…</item>
         <!-- Status message of Wi-Fi when it is authenticating with a network. -->
-        <item>Authenticating with <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <item>Authenticating with %1$s…</item>
         <!-- Status message of Wi-Fi when it is obtaining IP address from a network. -->
-        <item>Obtaining IP address from <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <item>Obtaining IP address from %1$s…</item>
         <!-- Status message of Wi-Fi when it is connected to a network. -->
-        <item>Connected to <xliff:g id="network_name">%1$s</xliff:g></item>
+        <item>Connected to %1$s</item>
         <!-- Status message of Wi-Fi when it is suspended. -->
         <item>Suspended</item>
         <!-- Status message of Wi-Fi when it is disconnecting from a network. -->
-        <item>Disconnecting from <xliff:g id="network_name">%1$s</xliff:g>\u2026</item>
+        <item>Disconnecting from %1$s…</item>
         <!-- Status message of Wi-Fi when it is disconnected. -->
         <item>Disconnected</item>
         <!-- Status message of Wi-Fi when it is a failure. -->
         <item>Unsuccessful</item>
     </string-array>
 
-    <!-- Match this with the constants in AccessPoint. --> <skip />
+    <!-- Match this with the constants in AccessPoint. --> <skip></skip>
     <!-- Wi-Fi security choices used when manually added a Wi-Fi network -->
-    <string-array name="wifi_security">
-        <!-- The Wi-Fi network does not have any security. -->
-        <item>@string/wifi_security_none</item>
-        <!-- Do not translate. -->
-        <item>@string/wifi_security_wep</item>
-        <!-- Do not translate. -->
-        <item>@string/wifi_security_psk_generic</item>
-        <!-- Do not translate. -->
-        <item>@string/wifi_security_eap</item>
-    </string-array>
+    
 
-    <!-- Match this with the constants in AccessPoint. --> <skip />
+    <!-- Match this with the constants in AccessPoint. --> <skip></skip>
     <!-- Wi-Fi security types for New User Dialog. EAP is not configurable. -->
     <string-array name="wifi_security_no_eap">
         <!-- The Wi-Fi network does not have any security. -->
@@ -290,15 +281,9 @@
 
    <!-- Wi-Fi AP settings.  The type of security a Wi-Fi AP supports. -->
    <!-- Note that adding/removing/moving the items will need wifi settings code change. -->
-    <string-array name="wifi_ap_security" translatable="false">
-        <item>Open</item>
-        <!-- Do not translate. -->
-        <item>WPA PSK</item>
-        <!-- Do not translate. -->
-        <item>WPA2 PSK</item>
-    </string-array>
+    
 
-    <!-- Match this with the constants in WifiDialog. --> <skip />
+    <!-- Match this with the constants in WifiDialog. --> <skip></skip>
     <!-- Wi-Fi settings.  The type of EAP method a Wi-Fi network has. -->
     <string-array name="wifi_eap_method">
         <!-- Do not translate. -->
@@ -341,7 +326,7 @@
         <item>Never time out</item>
     </string-array>
 
-    <!-- Match this with drawable.wifi_signal. --> <skip />
+    <!-- Match this with drawable.wifi_signal. --> <skip></skip>
     <!-- Wi-Fi settings. The signal strength a Wi-Fi network has. -->
     <string-array name="wifi_signal">
         <item>Poor</item>
@@ -371,8 +356,8 @@
         <item>Never</item>
     </string-array>
 
-    <!-- Match with wifi_sleep_policy_entries and the values of the settings in Settings class. --> <skip />
-    <!-- Do not translate. -->
+    <!-- Match with wifi_sleep_policy_entries and the values of the settings in Settings class. --> <skip></skip>
+    
     <string-array name="wifi_sleep_policy_values">
         <!-- Do not translate. -->
         <item>2</item>
@@ -393,7 +378,7 @@
     </string-array>
 
     <!-- Match with wifi_frequency_band_entries and the values of the settings in WifiManager. -->
-    <!-- Do not translate. -->
+    
     <string-array name="wifi_frequency_band_values">
         <!-- Do not translate. -->
         <item>0</item>
@@ -465,7 +450,7 @@
         <item>Vibrate</item>
     </string-array>
 
-    <!-- Do not translate. -->
+    
     <string-array name="emergency_tone_values">
         <item>0</item>
         <item>1</item>
@@ -475,12 +460,12 @@
     <!-- Locales in this list are displayed with the corresponding
          name from special_locale_names instead of using the name
          from Locale.getDisplayName(). -->
-    <string-array translatable="false" name="special_locale_codes">
+    <string-array name="special_locale_codes">
         <item>zh_CN</item>
         <item>zh_TW</item>
     </string-array>
 
-    <string-array translatable="false" name="special_locale_names">
+    <string-array name="special_locale_names">
         <item>中文 (简体)</item>
         <item>中文 (繁體)</item>
     </string-array>
@@ -493,7 +478,7 @@
         <item>PAP or CHAP</item>
     </string-array>
 
-    <string-array translatable="false" name="apn_auth_values">
+    <string-array name="apn_auth_values">
         <!-- Do not translate. -->
         <item>0</item>
         <!-- Do not translate. -->
@@ -511,7 +496,7 @@
         <item>IPv4/IPv6</item>
     </string-array>
 
-    <string-array translatable="false" name="apn_protocol_values">
+    <string-array name="apn_protocol_values">
         <!-- Do not translate. -->
         <item>IP</item>
         <!-- Do not translate. -->
@@ -527,7 +512,7 @@
         <item>Unspecified</item>
     </string-array>
 
-    <string-array translatable="false" name="bearer_values">
+    <string-array name="bearer_values">
         <!-- Do not translate. -->
         <item>14</item>
         <!-- Do not translate. -->
@@ -543,8 +528,8 @@
         <item>Let the system decide</item>
     </string-array>
 
-    <!-- Do not translate. -->
-    <string-array name="app_install_location_values" translatable="false">
+    
+    <string-array name="app_install_location_values">
         <item>device</item>
         <item>sdcard</item>
         <item>auto</item>
@@ -557,8 +542,8 @@
         <item>Mute</item>
     </string-array>
 
-    <!-- Values for Silent mode. Do not translate. -->
-    <string-array name="silent_mode_values" translatable="false">
+    
+    <string-array name="silent_mode_values">
         <item>off</item>
         <item>vibrate</item>
         <item>mute</item>
@@ -575,7 +560,7 @@
     </string-array>
 
     <!-- Values for the list of long press timeout options. -->
-    <string-array name="long_press_timeout_selector_values" translatable="false">
+    <string-array name="long_press_timeout_selector_values">
         <item>500</item>
         <item>1000</item>
         <item>1500</item>
@@ -589,14 +574,14 @@
     </string-array>
 
     <!-- Values for HDCP checking preference. -->
-    <string-array name="hdcp_checking_values" translatable="false" >
+    <string-array name="hdcp_checking_values">
         <item>never</item>
         <item>drm-only</item>
         <item>always</item>
     </string-array>
 
     <!-- Summaries for HDCP checking preference. [CHAR LIMIT=100]-->
-    <string-array name="hdcp_checking_summaries" >
+    <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
         <item>Use HDCP checking for DRM content only</item>
         <item>Always use HDCP checking</item>
@@ -614,7 +599,7 @@
     </string-array>
 
     <!-- Values for window animation scale preference. -->
-    <string-array name="window_animation_scale_values" translatable="false" >
+    <string-array name="window_animation_scale_values">
         <item>0</item>
         <item>.5</item>
         <item>1</item>
@@ -636,7 +621,7 @@
     </string-array>
 
     <!-- Values for transition animation scale preference. -->
-    <string-array name="transition_animation_scale_values" translatable="false" >
+    <string-array name="transition_animation_scale_values">
         <item>0</item>
         <item>.5</item>
         <item>1</item>
@@ -657,7 +642,7 @@
     </string-array>
 
     <!-- Values for app process limit preference. -->
-    <string-array name="app_process_limit_values" translatable="false" >
+    <string-array name="app_process_limit_values">
         <item>-1</item>
         <item>0</item>
         <item>1</item>
@@ -666,9 +651,9 @@
         <item>4</item>
     </string-array>
 
-    <!-- Match this with the constants in VpnProfile. --> <skip />
+    <!-- Match this with the constants in VpnProfile. --> <skip></skip>
     <!-- Short names for each VPN type, not really translatable. [CHAR LIMIT=20] -->
-    <string-array name="vpn_types" translatable="false">
+    <string-array name="vpn_types">
         <item>PPTP</item>
         <item>L2TP/IPSec PSK</item>
         <item>L2TP/IPSec RSA</item>
@@ -677,7 +662,7 @@
         <item>IPSec Hybrid RSA</item>
     </string-array>
 
-    <!-- Match this with the constants in VpnProfile. --> <skip />
+    <!-- Match this with the constants in VpnProfile. --> <skip></skip>
     <!-- Longer descriptions for each VPN type. [CHAR LIMIT=100] -->
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -688,15 +673,15 @@
         <item>IPSec VPN with certificates and hybrid authentication</item>
     </string-array>
 
-    <!-- Match this with the constants in LegacyVpnInfo. --> <skip />
+    <!-- Match this with the constants in LegacyVpnInfo. --> <skip></skip>
     <!-- Status for a VPN network. [CHAR LIMIT=100] -->
     <string-array name="vpn_states">
         <!-- Status message when VPN is disconnected. -->
         <item>Disconnected</item>
         <!-- Status message when VPN is initializing. -->
-        <item>Initializing\u2026</item>
+        <item>Initializing…</item>
         <!-- Status message when VPN is connecting. -->
-        <item>Connecting\u2026</item>
+        <item>Connecting…</item>
         <!-- Status message when VPN is connected. -->
         <item>Connected</item>
         <!-- Status message when VPN is timeout. -->

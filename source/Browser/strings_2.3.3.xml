@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pref_default_text_encoding_default">Latin-1</string>
+    
     <string name="application_name">Browser</string>
     <string name="choose_upload">Choose file for upload</string>
     <string name="new_tab">New window</string>
@@ -161,14 +161,14 @@
     <string name="pref_extras_reset_default_dlg">Settings will revert to default values.</string>
     <string name="pref_extras_reset_default_dlg_title">Reset to default</string>
     <string name="pref_development_title">Debug</string>
-    <string name="pref_development_viewport">Use wide viewport</string>
-    <string name="pref_development_single_column_rendering">Single column rendering</string>
-    <string name="pref_development_normal_rendering">Normal rendering</string>
-    <string name="pref_development_trace">Enable tracing</string>
-    <string name="pref_development_nav_dump">Enable nav cache dump</string>
-    <string name="js_engine_flags">Set JS flags</string>
-    <string name="pref_development_uastring">UAString</string>
-    <string name="pref_development_error_console">Show JavaScript Console</string>
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="pref_default_text_encoding">Text encoding</string>
     <string name="pref_default_text_encoding_dialogtitle">Text encoding</string>
     <string name="browserFrameNetworkErrorLabel">Data connectivity problem</string>
@@ -182,7 +182,7 @@
     <string name="empty_history">Browser history is empty.</string>
     <string name="add_new_bookmark">Add bookmark…</string>
     <string name="add_bookmark_short">Add</string>
-    <string name="search_label">Browser</string>
+    
     <string name="search_hint">Search or type URL</string>
     <string name="search_button_text">Go</string>
     <string name="search_settings_description">Bookmarks and web history</string>
@@ -225,10 +225,10 @@
     <string name="download_file_error">Cannot finish download. There is not enough space.</string>
     <string name="download_length_required">Cannot download. The size of the item cannot be determined.</string>
     <string name="download_precondition_failed">Download interrupted. It cannot be resumed.</string>
-    <string name="dump_nav">Dump navigation cache</string>
-    <string name="dump_counters">Dump V8 counters</string>
-    <string name="homepage_base">http://www.google.com/m?client=ms-{CID}&amp;source=android-home</string>
-    <string name="picasa">Picasa</string>
+    
+    
+    
+    
     <string name="search_the_web">Search the web</string>
     <string name="webstorage_outofspace_notification_title">Browser storage full</string>
     <string name="webstorage_outofspace_notification_text">Click to free up space.</string>
@@ -258,8 +258,8 @@
     <string name="website_settings_clear_all_dialog_ok_button">Delete all data</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Cancel</string>
     <string name="progress_dialog_setting_wallpaper">Setting wallpaper...</string>
-    <string name="error_console_header_text_minimized">Show JavaScript console</string>
-    <string name="error_console_header_text_maximized">JavaScript console</string>
-    <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
-    <string name="error_console_eval_button_text">Evaluate</string>
+    
+    
+    
+    
 </resources>

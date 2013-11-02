@@ -13,13 +13,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- This is the label underneath the icon for Calendar -->
     <string name="app_label">Calendar</string>
 
     <!-- Shared Labels. These labels are shared among the activities. -->
-    <skip />
+    <skip></skip>
     <!-- This is the label for the title or name of an event -->
     <string name="what_label">What</string>
     <!-- This is the label for the location of an event -->
@@ -29,7 +28,7 @@
     <!-- This is the label for the Guests/Attendees of an event -->
     <string name="attendees_label">Guests</string>
     <!-- This is the label for the Guest Responses and count of an event e.g. Yes (3) -->
-    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="response_label">"%s (%d)"</string>
 
     <!-- Some events repeat daily, weekly, monthly, or yearly.  This is the label
          for all the choices about how often an event repeats (including the choice
@@ -44,7 +43,7 @@
         <item quantity="one">1 minute</item>
         <!-- This is the label for 2 or more minutes. The actual number of
              minutes is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> minutes</item>
+        <item quantity="other">%d minutes</item>
     </plurals>
     <!-- We use the abbreviation "mins" instead of "minutes" to keep the string short.
          This is the number of minutes displayed for a calendar reminder.  For example,
@@ -55,7 +54,7 @@
         <item quantity="one">1 min</item>
         <!-- This is the label for 2 or more minutes. The actual number of
              minutes is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> mins</item>
+        <item quantity="other">%d mins</item>
     </plurals>
     <!-- This is the number of hours displayed for a calendar reminder.  For example,
          a reminder of 1 hour would be displayed as '1 hour'.  The translation
@@ -65,7 +64,7 @@
         <item quantity="one">1 hour</item>
         <!-- This is the label for a reminder of 2 or more hours. The actual number of
              hours is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> hours</item>
+        <item quantity="other">%d hours</item>
     </plurals>
     <!-- This is the number of days displayed for a calendar reminder.  For example,
          a reminder of 2 days would be displayed as '2 days'.  The translation
@@ -75,11 +74,11 @@
         <item quantity="one">1 day</item>
         <!-- This is the label for a reminder of 2 or more days. The actual number of
              days is a parameter. -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> days</item>
+        <item quantity="other">%d days</item>
     </plurals>
 
     <!-- Menu items: -->
-    <skip />
+    <skip></skip>
     <!-- This is a label on a context menu item. Pressing this menu item displays the
          Agenda view. -->
     <string name="show_agenda_view">"Show agenda"</string>
@@ -123,7 +122,7 @@
     <string name="menu_preferences">"Settings"</string>
 
     <!-- Month view -->
-    <skip />
+    <skip></skip>
     <!-- This string is used in a popup window when there are more events than
          can be displayed so it displays the events that it can and then displays
          this line so that the user knows how many more events there are that
@@ -131,10 +130,10 @@
          only display 4 events then we will display the first 4 events and then
          show 'plus 2 more' to indicate that there are two more events that we
          could not display because of lack of room. -->
-    <string name="plus_N_more">"(plus <xliff:g id="more_count">%d</xliff:g> more \u2026)"</string>
+    <string name="plus_N_more">"(plus %d more …)"</string>
 
     <!-- Select Calendars activity -->
-    <skip />
+    <skip></skip>
     <!-- Title of "My calendars" screen -->
     <string name="calendars_title">"Calendars"</string>
     <!-- Synced and visible status message -->
@@ -145,7 +144,7 @@
     <string name="not_synced_not_visible">not synced, not visible</string>
 
     <!-- Event edit activity -->
-    <skip />
+    <skip></skip>
     <!-- The title of the screen where the user edits an event -->
     <string name="event_edit_title">"Event details"</string>
     <!-- Default value of What field (as a hint to the user) -->
@@ -165,24 +164,24 @@
     <string name="loading_calendars_title">"Loading calendars"</string>
     <!-- Body of message displayed to indicate available calendars are being loaded when creating
          a new event -->
-    <string name="loading_calendars_message">"Loading calendars\u2026"</string>
+    <string name="loading_calendars_message">"Loading calendars…"</string>
 
     <!-- The alert toast is not actually being displayed for some reason. -->
-    <skip />
+    <skip></skip>
     <!-- the title of the alert/notification activity -->
     <string name="alert_title">Calendar notifications</string>
     <!-- Notification window messages: -->
-    <skip />
+    <skip></skip>
     <!-- This shows the number of additional reminders that were missed. This
          is the singular case so it displays '1 more reminder' -->
-    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> more reminder)</string>
+    <string name="alert_missed_events_single">(%s more reminder)</string>
     <!-- This shows the number of additional reminders that were missed.  For example,
          if there were two additional reminders then this would show
          '2 more reminders' -->
-    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> more reminders)</string>
+    <string name="alert_missed_events_multiple">(%s more reminders)</string>
 
     <!-- Event info/edit screen labels:-->
-    <skip />
+    <skip></skip>
     <!-- This is the title of the screen used to view the details of an event -->
     <string name="event_info_title">View event</string>
     <!-- This is the title of the screen used to view the details of an invitation
@@ -192,7 +191,7 @@
     <string name="add_new_reminder">Add reminder</string>
 
     <!-- EditEventActivity specific strings: -->
-    <skip />
+    <skip></skip>
     <!-- Events have a start date/time and an end date/time. The display shows
          the start and end times like 'From start date To end date'. This is the
          label before the 'end date'. -->
@@ -210,7 +209,7 @@
     <!-- Menu item to hide extra options that are used less often -->
     <string name="edit_event_hide_extra_options">Hide extra options</string>
     <!-- Menu item to show all choices [CHAR LIMIT=24]-->
-    <string name="edit_event_show_all">Show all \u003E</string>
+    <string name="edit_event_show_all">Show all &gt;</string>
     <!-- Label for the event description -->
     <string name="description_label">Description</string>
     <!-- Label for the 'Presence' of an event, which can be either 'busy' (the default)
@@ -237,11 +236,11 @@
     <string name="content_description_edit_event_reminders">Reminders</string>
     <!-- The content description for the widget for removing a reminder from an event. [CHAR LIMIT=NONE] -->
     <string name="content_description_edit_event_remove_reminder">Remove reminder</string>
-<!-- DO NOT TRANSLATE the domain to use for auto-completing email addresses-->
-    <string name="google_email_domain">gmail.com</string>
+
+    
 
     <!-- View Event -->
-    <skip />
+    <skip></skip>
     <!-- Label for which calendar an event is part of -->
     <string name="view_event_calendar_label">Calendar:</string>
     <!-- Label for the event organizer -->
@@ -254,24 +253,24 @@
     <string name="view_event_response_label">Attending?</string>
 
     <!-- Agenda View strings -->
-    <skip />
+    <skip></skip>
     <!-- This is shown as part of the heading at the top of a list of today's events. -->
-    <string name="agenda_today">Today, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_today">Today, %1$s</string>
     <!-- This is shown while the calendar events are being loading to the screen. -->
-    <string name="loading">Loading\u2026</string>
+    <string name="loading">Loading…</string>
     <!-- This is shown at the top of the agenda view showing the range of events shown. -->
-    <string name="show_older_events">Showing events since <xliff:g id="oldest_search_range">%1$s</xliff:g>. Tap to look for more.</string>
+    <string name="show_older_events">Showing events since %1$s. Tap to look for more.</string>
     <!-- This is shown at the bottom of the agenda view showing the range of events shown. -->
-    <string name="show_newer_events">Showing events until <xliff:g id="newest_search_range">%1$s</xliff:g>. Tap to look for more.</string>
+    <string name="show_newer_events">Showing events until %1$s. Tap to look for more.</string>
 
     <!-- ICS Import activity -->
-    <skip />
+    <skip></skip>
     <!-- This is a abbreviation for 'Number of events' and is a label next to
          an input for the user to enter the number of events to import. -->
     <string name="num_events">"Num events"</string>
 
     <!-- Button labels: -->
-    <skip />
+    <skip></skip>
     <!-- This is the title of a popup window that is displayed when the user
          edits a repeating event. -->
     <string name="edit_event_label">"Edit event"</string>
@@ -287,7 +286,7 @@
     <string name="import_label">"Import"</string>
 
     <!-- Button labels on expanded notification reminders: -->
-    <skip />
+    <skip></skip>
     <!-- The button label for making the reminder alarms go away temporarily.
          The reminder alarms will fire off again in 5 minutes. -->
     <string name="snooze_all_label">"Snooze all"</string>
@@ -296,7 +295,7 @@
     <string name="dismiss_all_label">"Dismiss all"</string>
 
     <!-- Repetition dialog options: -->
-    <skip />
+    <skip></skip>
     <!-- A label in a multiple-choice list for the specifying that an event does
          not repeat -->
     <string name="does_not_repeat">One-time event</string>
@@ -305,30 +304,30 @@
     <string name="daily">Daily</string>
     <!-- A label in a multiple-choice list for the specifying that an event
          repeats every weekday (Monday through Friday) -->
-    <string name="every_weekday">"Every weekday (Mon\u2013Fri)"</string>
+    <string name="every_weekday">"Every weekday (Mon–Fri)"</string>
     <!-- A label in a multiple-choice list for the specifying that an event
          repeats weekly on some day of the week.  For example,
          'Weekly (every Tuesday)'. -->
-    <string name="weekly">"Weekly (every <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="weekly">"Weekly (every %s)"</string>
 
     <!-- Example: 'Monthly (every first Sunday)' -->
     <!--   1st parameter is an ordinal number, like 'first' -->
     <!--   2nd parameter is a day of the week, like 'Sunday' -->
-    <string name="monthly_on_day_count">"Monthly (every <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Monthly (every %1$s %2$s)"</string>
     <!-- The common portion of a string describing how often an event repeats,
          example: 'Monthly (on day 2)' -->
     <string name="monthly">Monthly</string>
     <!-- Calendar spinner item, to select that an event recurs every year. -->
     <string name="yearly_plain">Yearly</string>
     <!-- Example: "Monthly (on day 15)" -->
-    <string name="monthly_on_day">"Monthly (on day <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="monthly_on_day">"Monthly (on day %s)"</string>
     <!-- Example: "Yearly (on April 15)" -->
-    <string name="yearly">"Yearly (on <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="yearly">"Yearly (on %s)"</string>
     <!-- This is a label for telling the user that this event repeats in
          custom (non-standard) way from the usual repeat rates (such as daily,
          weekly, etc.) and that the user cannot change this on the phone
          (but only on the web). -->
-    <string name="custom">"Custom\u2026 (cannot customize on phone)"</string>
+    <string name="custom">"Custom… (cannot customize on phone)"</string>
 
     <!-- This is a choice in a list that the user sees when he tries to modify
          a repeating event.  This choice says to change just this one instance
@@ -346,7 +345,7 @@
     <!-- Dialogs -->
 
     <!-- Confirmation dialog message -->
-    <skip />
+    <skip></skip>
     <!-- This is a confirmation message in a popup dialog that appears when the
          user has asked to delete an event. The user still has a chance to cancel
          this operation. -->
@@ -374,8 +373,8 @@
     <!-- The title of a popup dialog that lets the user choose how
          reminder notifications should occur. -->
     <string name="preferences_alerts_type_dialog">Alerts &amp; notifications</string>
-    <!-- DO NOT TRANSLATE -->
-    <string name="preferences_alerts_type_default">1</string>
+    
+    
     <!-- Settings dialog label that specifies when the phone should vibrate -->
     <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
     <!-- Settings screen, setting summary text -->
@@ -395,8 +394,8 @@
     <string name="preferences_use_home_tz_descrip">Displays calendars and event times in your home time zone when traveling</string>
     <!-- Settings title for selecting a 'home' time zone to display Calendar in [CHAR LIMIT = 18] -->
     <string name="preferences_home_tz_title">Home time zone</string>
-    <!-- DO NOT TRANSLATE -->
-    <string name="preferences_home_tz_default">America/Los_Angeles</string>
+    
+    
 
     <!-- This is the title of a section in the Settings screen for "About" this application -->
     <string name="preferences_about_title">About</string>
@@ -414,14 +413,14 @@
     </string-array>
 
     <!-- The default vibrateWhen value, when none is set -->
-    <string translatable="false" name="prefDefault_alerts_vibrateWhen">never</string>
+    
     <!-- The value to use then migrating from old versions for a true vibrate setting -->
-    <string translatable="false" name="prefDefault_alerts_vibrate_true">always</string>
+    
     <!-- The value to use then migrating from old versions for a false vibrate setting -->
-    <string translatable="false" name="prefDefault_alerts_vibrate_false">never</string>
+    
 
     <!-- The vibrateWhen values -->
-    <string-array translatable="false" name="prefValues_alerts_vibrateWhen">
+    <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
         <item>silent</item>
         <item>never</item>

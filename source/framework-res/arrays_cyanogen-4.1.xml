@@ -17,10 +17,9 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Do not translate. These are all of the drawable resources that should be preloaded by
-         the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_drawables">
        <item>@drawable/toast_frame_holo</item>
        <item>@drawable/btn_check_on_pressed_holo_light</item>
@@ -302,8 +301,7 @@
        <item>@drawable/quickcontact_badge_overlay_pressed_light</item>
     </array>
 
-    <!-- Do not translate. These are all of the color state list resources that should be
-         preloaded by the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_color_state_lists">
         <item>@color/primary_text_dark</item>
         <item>@color/primary_text_dark_disable_only</item>
@@ -339,13 +337,13 @@
     </array>
 
     <!-- Used in LocalePicker -->
-    <string-array translatable="false" name="special_locale_codes">
+    <string-array name="special_locale_codes">
         <item>zh_CN</item>
         <item>zh_TW</item>
     </string-array>
 
     <!-- Used in LocalePicker -->
-    <string-array translatable="false" name="special_locale_names">
+    <string-array name="special_locale_names">
         <item>中文 (简体)</item>
         <item>中文 (繁體)</item>
     </string-array>
@@ -408,25 +406,21 @@
     </array>
 
     <!-- Defines the shutdown options shown in the reboot dialog. -->
-    <array name="shutdown_reboot_options" translatable="false">
+    <array name="shutdown_reboot_options">
         <item>@string/reboot_reboot</item>
         <item>@string/reboot_recovery</item>
         <item>@string/reboot_bootloader</item>
     </array>
 
-    <!-- Do not translate. Defines the shutdown actions passed to the kernel.
-         The first item should be empty for regular reboot. -->
-    <string-array name="shutdown_reboot_actions" translatable="false">
+    
+    <string-array name="shutdown_reboot_actions">
         <item></item>
         <item>recovery</item>
         <item>bootloader</item>
     </string-array>
 
-    <!-- Do not translate. Defines the mapping of notification package names
-         from the actual triggering package to the user selectable package.
-         E.g. GTalk notifications come via Google Services Framework
-         Format: [triggering package]|[user package] -->
-    <string-array name="notification_light_package_mapping" translatable="false">
+    
+    <string-array name="notification_light_package_mapping">
         <item>com.google.android.gsf|com.google.android.talk</item>
     </string-array>
 

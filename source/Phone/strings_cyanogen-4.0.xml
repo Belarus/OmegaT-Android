@@ -13,18 +13,17 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Official label of the phone app, as seen in "Manage Applications"
          and other settings UIs.  This is the version of the label for
          tablet devices, where the phone app handles mobile data but not
          actual phone calls. -->
-    <string name="phoneAppLabel" product="tablet">Mobile Data</string>
+    <string product="tablet" name="phoneAppLabel">Mobile Data</string>
 
     <!-- Official label of the phone app, as seen in "Manage Applications"
          and other settings UIs. -->
-    <string name="phoneAppLabel" product="default">Phone</string>
+    <string product="default" name="phoneAppLabel">Phone</string>
 
     <!-- Screen title for Emergency Dialer UI -->
     <string name="emergencyDialerIconLabel">Emergency Dialer</string>
@@ -117,7 +116,7 @@
     <!-- Dialog label when an MMI code starts running -->
     <string name="mmiStarted">MMI code started</string>
     <!-- Dialog label when a USSD code starts running -->
-    <string name="ussdRunning">USSD code running\u2026</string>
+    <string name="ussdRunning">USSD code running…</string>
     <!-- Dialog label when an MMI code is canceled -->
     <string name="mmiCancelled">MMI code canceled</string>
     <!-- Label for "cancel" button on the MMI dialog -->
@@ -165,7 +164,7 @@
 
     <!-- Placeholder text displayed while loading a list of phone numbers
          into the dialer UI -->
-    <string name="dialer_emptyListWorking">Loading\u2026</string>
+    <string name="dialer_emptyListWorking">Loading…</string>
 
     <!-- SIM PIN strings -->
     <!-- Instructional text on SIM PIN unlock panel -->
@@ -185,7 +184,7 @@
     <!-- Button label on SIM PIN unlock panel -->
     <string name="buttonTxtContinue">Continue</string>
     <!-- Status message displayed on SIM PIN unlock panel -->
-    <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking\u2026</string>
+    <string name="puk_unlocked">Your SIM card has been unblocked. Your phone is unlocking…</string>
     <!-- network depersonalization -->
     <!-- Label text for PIN entry widget on SIM Network Depersonalization panel -->
     <string name="label_ndp">SIM network unlock PIN</string>
@@ -194,7 +193,7 @@
     <!-- Button label on SIM Network Depersonalization panel -->
     <string name="sim_ndp_dismiss_text">Dismiss</string>
     <!-- Status message displayed on SIM Network Depersonalization panel -->
-    <string name="requesting_unlock">Requesting network unlock\u2026</string>
+    <string name="requesting_unlock">Requesting network unlock…</string>
     <!-- Error message displayed on SIM Network Depersonalization panel -->
     <string name="unlock_failed">Network unlock request unsuccessful.</string>
     <!-- Success message displayed on SIM Network Depersonalization panel -->
@@ -264,7 +263,7 @@
     <!-- Call forwarding settings screen, setting summary text when forwarding all calls -->
     <string name="sum_cfu_enabled_indicator">Forwarding all calls</string>
     <!-- Call forwarding settings screen, setting summary text the Always forward is set -->
-    <string name="sum_cfu_enabled">Forwarding all calls to <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfu_enabled">Forwarding all calls to {0}</string>
     <!-- Call forwarding settings screen, Always forward is enabled but the number is unavailable -->
     <string name="sum_cfu_enabled_no_number">Number is unavailable</string>
     <!-- Call forwarding settings screen, setting summary text when Always forward is disabled -->
@@ -275,7 +274,7 @@
     <!-- Call forwarding dialog box, text field label -->
     <string name="messageCFB">Number when busy</string>
     <!-- Call forwarding settings screen, setting summary text when forwarding to specific number when busy -->
-    <string name="sum_cfb_enabled">Forwarding to <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfb_enabled">Forwarding to {0}</string>
     <!-- Call forwarding settings screen, setting summary text when forwarding when busy is disabled -->
     <string name="sum_cfb_disabled">Disabled</string>
     <!-- Error message displayed after failing to disable forwarding calls when the phone is busy -->
@@ -286,7 +285,7 @@
     <!-- Call forwarding dialog box, text field label -->
     <string name="messageCFNRy">Number when unanswered</string>
     <!-- Call forwarding settings screen, setting summary text when forwarding to a specific number when unanswered -->
-    <string name="sum_cfnry_enabled">Forwarding to <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfnry_enabled">Forwarding to {0}</string>
     <!-- Call forwarding settings screen, setting summary text when Forward when unanswered is disabled -->
     <string name="sum_cfnry_disabled">Disabled</string>
     <!-- Error message displayed after failing to disable forwarding calls when the phone does not answer -->
@@ -297,7 +296,7 @@
     <!-- Call forwarding dialog box, text field label -->
     <string name="messageCFNRc">Number when unreachable</string>
     <!-- Call forwarding settings screen, setting summary text when forwarding to a specific number when unreachable-->
-    <string name="sum_cfnrc_enabled">Forwarding to <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g></string>
+    <string name="sum_cfnrc_enabled">Forwarding to {0}</string>
     <!-- Call forwarding settings screen, setting summary text when Forward when unreachable is disabled -->
     <string name="sum_cfnrc_disabled">Disabled</string>
     <!-- Error message displayed after failing to disable forwarding calls when the phone is unreachable -->
@@ -308,11 +307,11 @@
     <!-- Title of the alert dialog displayed if an error occurs while updating Call settings -->
     <string name="error_updating_title">Call settings error</string>
     <!-- Toast in Call settings dialog while settings are being read -->
-    <string name="reading_settings">Reading settings\u2026</string>
+    <string name="reading_settings">Reading settings…</string>
     <!-- Toast in Call settings dialog while settings are being saved -->
-    <string name="updating_settings">Updating settings\u2026</string>
+    <string name="updating_settings">Updating settings…</string>
     <!-- Toast in Call settings dialog while settings are being reverted -->
-    <string name="reverting_settings">Reverting settings\u2026</string>
+    <string name="reverting_settings">Reverting settings…</string>
     <!-- Status message displayed in the "Call settings error" dialog -->
     <string name="response_error">Unexpected response from network.</string>
     <!-- Status message displayed in the "Call settings error" dialog -->
@@ -339,14 +338,14 @@
         <!-- Phone settings "Caller ID" preference option: show outgoing Caller ID info -->
         <item>Show number</item>
     </string-array>
-    <!-- Phone settings: Internal keys used for Caller ID preference values.  DO NOT TRANSLATE. -->
+    
     <string-array name="clir_values">
         <!-- Phone settings: Internal key used for Caller ID preference values.  DO NOT TRANSLATE. -->
-        <item><xliff:g>DEFAULT</xliff:g></item>
+        <item>DEFAULT</item>
         <!-- Phone settings: Internal key used for Caller ID preference values.  DO NOT TRANSLATE. -->
-        <item><xliff:g>HIDE</xliff:g></item>
+        <item>HIDE</item>
         <!-- Phone settings: Internal key used for Caller ID preference values.  DO NOT TRANSLATE. -->
-        <item><xliff:g>SHOW</xliff:g></item>
+        <item>SHOW</item>
     </string-array>
 
     <!-- voicemail setting strings -->
@@ -373,7 +372,7 @@
     <!-- Available networks screen title/heading -->
     <string name="label_available">Available networks</string>
     <!-- Mobile network settings screen, toast when searching for available networks -->
-    <string name="load_networks_progress">Searching\u2026</string>
+    <string name="load_networks_progress">Searching…</string>
     <!-- Available networks screen, text when no networks are found -->
     <string name="empty_networks_list">No networks found.</string>
     <!-- Available networks screen, setting option name -->
@@ -381,7 +380,7 @@
     <!-- Available networks screen, toast when an error is encountered when searching for networks -->
     <string name="network_query_error">Error while searching for networks.</string>
     <!-- Available networks screen, toast when registering on a specific network -->
-    <string name="register_on_network">Registering on <xliff:g id="network">%s</xliff:g>\u2026</string>
+    <string name="register_on_network">Registering on %s…</string>
     <!-- Available networks screen, toast when SIM card isn't allowed on a network -->
     <string name="not_allowed">Your SIM card does not allow a connection to this network.</string>
     <!-- Available networks screen, toast when unable to connect to a network temporarily -->
@@ -439,7 +438,7 @@
         <item>GSM only</item>
         <item>GSM / WCDMA preferred</item>
     </string-array>
-    <string-array name="preferred_network_mode_values"  translatable="false">
+    <string-array name="preferred_network_mode_values">
         <item>"11"</item>
         <item>"10"</item>
         <item>"9"</item>
@@ -460,7 +459,7 @@
         <item>LTE / CDMA</item>
         <item>CDMA</item>
     </string-array>
-    <string-array name="preferred_network_mode_values_lte" translatable="false">
+    <string-array name="preferred_network_mode_values_lte">
         <item>"11"</item>
         <item>"10"</item>
         <item>"7"</item>
@@ -471,7 +470,7 @@
         <item>LTE / GSM</item>
         <item>GSM</item>
     </string-array>
-    <string-array name="preferred_network_mode_values_lte_gsm" translatable="false">
+    <string-array name="preferred_network_mode_values_lte_gsm">
         <item>"9"</item>
         <item>"0"</item>
     </string-array>
@@ -513,15 +512,15 @@
     <!-- Data usage settings screen option for accessing the carrier website-->
     <string name="throttle_help">Learn more</string>
 
-    <string name="throttle_status_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) of <xliff:g id="used">%3$s</xliff:g> period maximum\nNext period starts in <xliff:g id="used">%4$d</xliff:g> days (<xliff:g id="used">%5$s</xliff:g>)</string>
+    <string name="throttle_status_subtext">%1$s (%2$d٪) of %3$s period maximum\nNext period starts in %4$d days (%5$s)</string>
 
-    <string name="throttle_data_usage_subtext"><xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) of <xliff:g id="used">%3$s</xliff:g> period maximum</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s period maximum</string>
 
-    <string name="throttle_data_rate_reduced_subtext"><xliff:g id="used">%1$s</xliff:g> maximum exceeded\nData rate reduced to <xliff:g id="used">%2$d</xliff:g> Kb/s</string>
+    <string name="throttle_data_rate_reduced_subtext">%1$s maximum exceeded\nData rate reduced to %2$d Kb/s</string>
 
-    <string name="throttle_time_frame_subtext"><xliff:g id="used">%1$d</xliff:g>\u066A of cycle elapsed\nNext period starts in <xliff:g id="used">%2$d</xliff:g> days (<xliff:g id="used">%3$s</xliff:g>)</string>
+    <string name="throttle_time_frame_subtext">%1$d٪ of cycle elapsed\nNext period starts in %2$d days (%3$s)</string>
 
-    <string name="throttle_rate_subtext">Data rate reduced to <xliff:g id="used">%1$d</xliff:g> Kb/s if data use limit is exceeded</string>
+    <string name="throttle_rate_subtext">Data rate reduced to %1$d Kb/s if data use limit is exceeded</string>
 
     <string name="throttle_help_subtext">More information about your carrier\'s mobile network data use policy</string>
 
@@ -676,7 +675,7 @@
         <!-- System select dialog screen, setting option name -->
         <item>Automatic</item>
     </string-array>
-    <string-array name="cdma_system_select_values" translatable="false">
+    <string-array name="cdma_system_select_values">
         <!-- Do not translate. -->
         <item>"0"</item>
         <!-- Remove the following value "1" which corresponds to "Affiliated Networks" above -->
@@ -784,19 +783,19 @@
     <!-- Title of "Edit FDN Contact" screen for a new contact -->
     <string name="add_fdn_contact">Add fixed dialing number</string>
     <!-- "Edit FDN Contact" screen: status message displayed in a popup (toast) -->
-    <string name="adding_fdn_contact">Adding fixed dialing number\u2026</string>
+    <string name="adding_fdn_contact">Adding fixed dialing number…</string>
     <!-- "Edit FDN Contact" screen: status message displayed in a popup (toast) -->
     <string name="fdn_contact_added">Fixed dialing number added.</string>
     <!-- Title of "Edit FDN Contact" screen when editing an already-existing contact -->
     <string name="edit_fdn_contact">Edit fixed dialing number</string>
     <!-- "Edit FDN Contact" screen: status message displayed in a popup (toast) -->
-    <string name="updating_fdn_contact">Updating fixed dialing number\u2026</string>
+    <string name="updating_fdn_contact">Updating fixed dialing number…</string>
     <!-- "Edit FDN Contact" screen: status message displayed in a popup (toast) -->
     <string name="fdn_contact_updated">Fixed dialing number updated.</string>
     <!-- Title of "Delete FDN Contact" screen -->
     <string name="delete_fdn_contact">Delete fixed dialing number</string>
     <!-- "Delete FDN Contact" screen: status message displayed in a popup (toast) -->
-    <string name="deleting_fdn_contact">Deleting fixed dialing number\u2026</string>
+    <string name="deleting_fdn_contact">Deleting fixed dialing number…</string>
     <!-- "Delete FDN Contact" screen: status message displayed in a popup (toast) -->
     <string name="fdn_contact_deleted">Fixed dialing number deleted.</string>
     <!-- FDN settings: error message displayed in a popup (toast) -->
@@ -806,7 +805,7 @@
 
     <!-- ADN related strings -->
     <!-- Placeholder text displayed while loading the list of SIM contacts -->
-    <string name="simContacts_emptyLoading">Reading from SIM card\u2026</string>
+    <string name="simContacts_emptyLoading">Reading from SIM card…</string>
     <!-- Call settings, string that appears on FDN contact list when there are no contacts on the SIM. -->
     <string name="simContacts_empty">No contacts on your SIM card.</string>
     <!-- Call settings: title of the dialog that lets you select contacts from the SIM. -->
@@ -839,7 +838,7 @@
     <!-- Title of "Enable SIM PIN" screen -->
     <string name="enable_sim_pin">Enable SIM PIN</string>
     <!-- SIM PIN screen: progress message displayed while enabling -->
-    <string name="enable_in_progress">Please wait\u2026</string>
+    <string name="enable_in_progress">Please wait…</string>
     <!-- SIM PIN screen: status message displayed in a popup (toast) -->
     <string name="enable_pin_ok">SIM PIN enabled</string>
     <!-- SIM PIN screen: status message displayed in a popup (toast) -->
@@ -883,16 +882,16 @@
     <string name="doneButton">Done</string>
 
     <!-- In-call screen: status label for a conference call -->
-    <string name="caller_manage_header">Conference call <xliff:g id="conf_call_time">%s</xliff:g></string>
+    <string name="caller_manage_header">Conference call %s</string>
     <!-- In-call screen: Button label on "Manage conference" panel -->
     <string name="caller_manage_manage_done_text">Back to call</string>
 
-    <!-- Used in FakePhoneActivity test code.  DO NOT TRANSLATE. -->
-    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-    <!-- Used in FakePhoneActivity test code.  DO NOT TRANSLATE. -->
-    <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
-    <!-- Used in FakePhoneActivity test code.  DO NOT TRANSLATE. -->
-    <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
+    
+    
+    
+    
+    
+    
 
     <!-- Button label on "SIM Missing" screen -->
     <string name="sim_missing_continueView_text">Continue without SIM card</string>
@@ -904,7 +903,7 @@
     <!-- Button label on "SIM Unlock" screen -->
     <string name="sim_unlock_unlock_text">Unlock</string>
     <!-- Progress message displayed on "SIM Unlock" screen -->
-    <string name="sim_unlock_status_text">Authenticating PIN\u2026</string>
+    <string name="sim_unlock_status_text">Authenticating PIN…</string>
 
     <!-- Call settings screen, Set voicemail dialog title -->
     <string name="voicemail_settings_number_label">Voicemail number</string>
@@ -930,7 +929,7 @@
     <string name="card_title_in_call">In call</string>
     <!-- In-call screen: special status label that shows your own phone
          number during emergency callback mode (ECM) [CHAR LIMIT=30] -->
-    <string name="card_title_my_phone_number">My number is <xliff:g id="my_phone_number">%s</xliff:g></string>
+    <string name="card_title_my_phone_number">My number is %s</string>
 
     <!-- Notification strings -->
     <!-- Missed call notification label, used when there's exactly one missed call -->
@@ -938,13 +937,13 @@
     <!-- Missed call notification label, used when there are two or more missed calls -->
     <string name="notification_missedCallsTitle">Missed calls</string>
     <!-- Missed call notification message used when there are multiple missed calls -->
-    <string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> missed calls</string>
+    <string name="notification_missedCallsMsg">%s missed calls</string>
     <!-- Missed call notification message used for a single missed call, including
          the caller-id info from the missed call -->
-    <string name="notification_missedCallTicker">Missed call from <xliff:g id="missed_call_from">%s</xliff:g></string>
+    <string name="notification_missedCallTicker">Missed call from %s</string>
     <!-- The "label" of the in-call Notification for an ongoing call, used
          as the format string for a Chronometer widget. -->
-    <string name="notification_ongoing_call_format">Current call (<xliff:g id="duration">%s</xliff:g>)</string>
+    <string name="notification_ongoing_call_format">Current call (%s)</string>
     <!-- The "label" of the in-call Notification for a call that's on hold -->
     <string name="notification_on_hold">On hold</string>
     <!-- The "label" of the in-call Notification for an incoming ringing call -->
@@ -953,10 +952,10 @@
     <string name="notification_voicemail_title">New voicemail</string>
     <!-- Label for the expanded "Voicemail" notification item,
          including a count of messages. -->
-    <string name="notification_voicemail_title_count">New voicemail (<xliff:g id="count">%d</xliff:g>)</string>
+    <string name="notification_voicemail_title_count">New voicemail (%d)</string>
     <!-- Message displayed in the "Voicemail" notification item, allowing the user
          to dial the indicated number. -->
-    <string name="notification_voicemail_text_format">Dial <xliff:g id="voicemail_number">%s</xliff:g></string>
+    <string name="notification_voicemail_text_format">Dial %s</string>
     <!-- Message displayed in the "Voicemail" notification item,
          indicating that there's no voicemail number available -->
     <string name="notification_voicemail_no_vm_number">Voicemail number unknown</string>
@@ -964,7 +963,7 @@
     <string name="notification_network_selection_title">No service</string>
     <!-- Label for the expanded "No service" notification item, including the
          operator name set by user -->
-    <string name="notification_network_selection_text">Selected network (<xliff:g id="operator_name">%s</xliff:g>) unavailable</string>
+    <string name="notification_network_selection_text">Selected network (%s) unavailable</string>
 
     <!-- In-call screen: call failure message displayed in an error dialog -->
     <string name="incall_error_power_off">To place a call, first turn off Airplane mode.</string>
@@ -978,9 +977,9 @@
     <!-- In-call screen: call failure message displayed in an error dialog -->
     <string name="incall_error_call_failed">Call not sent.</string>
     <!-- In-call screen: status message displayed in a dialog when starting an MMI -->
-    <string name="incall_status_dialed_mmi">Starting MMI sequence\u2026</string>
+    <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
     <!-- In-call screen: status message displayed in a dialog when starting a feature code -->
-    <string name="incall_status_dialed_fc">Starting feature code sequence\u2026</string>
+    <string name="incall_status_dialed_fc">Starting feature code sequence…</string>
     <!-- In-call screen: message displayed in an error dialog -->
     <string name="incall_error_supp_service_unknown">Unsupported service.</string>
     <!-- In-call screen: message displayed in an error dialog -->
@@ -1002,13 +1001,13 @@
     <!-- Dialog title for the "radio enable" UI for emergency calls -->
     <string name="emergency_enable_radio_dialog_title">Emergency call</string>
     <!-- Status message for the "radio enable" UI for emergency calls -->
-    <string name="emergency_enable_radio_dialog_message">Turning on radio\u2026</string>
+    <string name="emergency_enable_radio_dialog_message">Turning on radio…</string>
     <!-- Status message for the "radio enable" UI for emergency calls -->
-    <string name="emergency_enable_radio_dialog_retry">Out of service area, retrying\u2026</string>
+    <string name="emergency_enable_radio_dialog_retry">Out of service area, retrying…</string>
 
     <!-- Dialer text on Emergency Dialer -->
     <!-- Emergency dialer: message displayed in an error dialog -->
-    <string name="dial_emergency_error">Call not sent, <xliff:g id="non_emergency_number">%s</xliff:g> is not an emergency number!</string>
+    <string name="dial_emergency_error">Call not sent, %s is not an emergency number!</string>
     <!-- Emergency dialer: message displayed in an error dialog -->
     <string name="dial_emergency_empty_error">Call not sent, please dial an emergency number!</string>
 
@@ -1072,8 +1071,8 @@
         <item>TTY VCO</item>
     </string-array>
 
-    <!-- Do not translate. -->
-    <string-array name="tty_mode_values" translatable="false">
+    
+    <string-array name="tty_mode_values">
         <!-- Do not translate. -->
         <item>0</item>
         <!-- Do not translate. -->
@@ -1097,7 +1096,7 @@
       <item>Normal</item>
       <item>Long</item>
     </string-array>
-    <!-- Do not translate. -->
+    
     <string-array name="dtmf_tone_values">
        <item>0</item>
        <item>1</item>
@@ -1110,11 +1109,10 @@
     <!-- Title shown on OTA screen -->
     <string name="ota_title_activate">Activate your phone</string>
     <!-- Message displayed on the OTA activation screen. -->
-    <string name="ota_touch_activate">A special call needs to be made to activate your phone service.
-    \n\nAfter pressing \u201CActivate\u201D, listen to the instructions provided to activate your phone.</string>
+    <string name="ota_touch_activate">A special call needs to be made to activate your phone service. \n\nAfter pressing “Activate”, listen to the instructions provided to activate your phone.</string>
 
     <!-- Message displayed on the OTA activation screen -->
-    <string name="ota_touch_activate_new">Touch \u201CActivate\u201D to place a special call that activates your phone on your carrier\'s mobile network, so you can place calls and connect to mobile data networks.</string>
+    <string name="ota_touch_activate_new">Touch “Activate” to place a special call that activates your phone on your carrier\'s mobile network, so you can place calls and connect to mobile data networks.</string>
     <!-- Title of skip activation dialog -->
     <string name="ota_skip_activation_dialog_title">Skip activation\?</string>
     <!-- Message displayed in skip activation dialog  -->
@@ -1145,11 +1143,9 @@
     <!-- String to display within the OTA Fail Notice dialog -->
     <string name="ota_failure">Programming Unsuccessful</string>
     <!-- String to be displayed on the OTA Fail/Success screen upon successful provisioning -->
-    <string name="ota_successful">Your phone is now activated.  It may take up to 15 minutes for service to start.</string>
+    <string name="ota_successful">Your phone is now activated. It may take up to 15 minutes for service to start.</string>
     <!-- String to be displayed on the OTA Fail/Success screen upon unsuccessful provisioning -->
-    <string name="ota_unsuccessful">Your phone did not activate.
-    \nYou may need to find an area with better coverage (near a window, or outside).
-    \n\nTry again or call customer service for more options.</string>
+    <string name="ota_unsuccessful">Your phone did not activate. \nYou may need to find an area with better coverage (near a window, or outside). \n\nTry again or call customer service for more options.</string>
     <!-- String to display within the OTA SPC Fail Notice dialog -->
     <string name="ota_spc_failure">EXCESS SPC FAILURES</string>
     <!-- Button label in OTA listen screen that cancels activation and goes to the previous screen -->
@@ -1171,23 +1167,23 @@
     <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
     <plurals name="phone_in_ecm_notification_time">
         <!-- number of minutes is one -->
-        <item quantity="one">No data connection for <xliff:g id="count">%s</xliff:g> minute</item>
+        <item quantity="one">No data connection for %s minute</item>
         <!-- number of minutes is not equal to one -->
-        <item quantity="other">No data connection for <xliff:g id="count">%s</xliff:g> minutes</item>
+        <item quantity="other">No data connection for %s minutes</item>
     </plurals>
     <!-- ECM: Dialog box message for exiting from the notifications screen -->
     <plurals name="alert_dialog_exit_ecm">
         <!-- number of minutes is one -->
-        <item quantity="one">The phone will be in emergency callback mode for <xliff:g id="count">%s</xliff:g> minute. While in this mode no applications using a data connection can be used. Would you like to exit now?</item>
+        <item quantity="one">The phone will be in emergency callback mode for %s minute. While in this mode no applications using a data connection can be used. Would you like to exit now?</item>
         <!-- number of minutes is not equal to one -->
-        <item quantity="other">The phone will be in emergency callback mode for <xliff:g id="count">%s</xliff:g> minutes. While in this mode no applications using a data connection can be used. Would you like to exit now?</item>
+        <item quantity="other">The phone will be in emergency callback mode for %s minutes. While in this mode no applications using a data connection can be used. Would you like to exit now?</item>
     </plurals>
     <!-- ECM: Dialog box message for exiting from any other app -->
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <!-- number of minutes is one -->
-        <item quantity="one">The selected action is not available while in the emergency callback mode. The phone will be in this mode for <xliff:g id="count">%s</xliff:g> minute. Would you like to exit now?</item>
+        <item quantity="one">The selected action is not available while in the emergency callback mode. The phone will be in this mode for %s minute. Would you like to exit now?</item>
         <!-- number of minutes is not equal to one -->
-        <item quantity="other">The selected action is not available while in the emergency callback mode. The phone will be in this mode for <xliff:g id="count">%s</xliff:g> minutes. Would you like to exit now?</item>
+        <item quantity="other">The selected action is not available while in the emergency callback mode. The phone will be in this mode for %s minutes. Would you like to exit now?</item>
     </plurals>
     <!-- ECM: Dialog box message while in emergency call -->
     <string name="alert_dialog_in_ecm_call">The selected action is not available while in an emergency call</string>
@@ -1200,9 +1196,8 @@
     <!-- ECM: ECM exit dialog choice -->
     <string name="alert_dialog_dismiss">Dismiss</string>
 
-    <!-- For incoming calls, this is a string we can get from a CDMA network instead of
-         the actual phone number, to indicate there's no number present.  DO NOT TRANSLATE. -->
-    <string name="absent_num">ABSENT NUMBER</string>
+    
+    
 
     <!-- Voicemail dialog title -->
     <string name="voicemail_settings">Voicemail settings</string>
@@ -1214,7 +1209,7 @@
     <string name="voicemail_provider">Voicemail service</string>
 
     <!-- Prefix on the voicemail settings preference. The full string will be Settings for <provider name> -->
-    <string name="voicemail_settings_for">Settings for <xliff:g id="provider_name">%s</xliff:g></string>
+    <string name="voicemail_settings_for">Settings for %s</string>
 
     <!-- Title displayed above settings coming after voicemail in the call features screen -->
     <string name="other_settings">Other call settings</string>
@@ -1235,7 +1230,7 @@
 
     <!-- Onscreen hints used for various states of the SlidingTab
          widget used for incoming calls. -->
-    <eat-comment />
+    <eat-comment></eat-comment>
     <!-- Incoming call hint: drag the tab right to answer -->
     <string name="slide_to_answer">Drag right to answer</string>
     <!-- Incoming call hint: drag the tab left to silence ringer -->
@@ -1298,27 +1293,27 @@
     <string name="call_priority">Outgoing call via SIP</string>
 
     <!-- Title of the dialog to select the phone type for the outgoing call. [CHAR LIMIT=NONE] -->
-    <string name ="pick_outgoing_call_phone_type">Place call</string>
+    <string name="pick_outgoing_call_phone_type">Place call</string>
 
     <!-- Title of the dialog to select the phone among the list of phones for the outgoing call. [CHAR LIMIT=NONE] -->
-    <string name ="pick_outgoing_sip_phone">Use Internet calling account:</string>
+    <string name="pick_outgoing_sip_phone">Use Internet calling account:</string>
 
     <!-- Text of checkbox to remember the sip phone for all outbound calls. [CHAR LIMIT=NONE] -->
-    <string name ="remember_my_choice">Always use to place Internet calls</string>
+    <string name="remember_my_choice">Always use to place Internet calls</string>
 
     <!-- Help text of checkbox to unset the default sip phone for all outbound calls. [CHAR LIMIT=NONE] -->
-    <string name ="reset_my_choice_hint">You can use the Call Settings to change which Internet calling account to use by default when placing calls, by selecting a different account under Internet call settings</string>
+    <string name="reset_my_choice_hint">You can use the Call Settings to change which Internet calling account to use by default when placing calls, by selecting a different account under Internet call settings</string>
 
     <!-- Item of the dialog to select the phone type for outgoing call. [CHAR LIMIT=NONE] -->
-    <string name ="pstn_phone">Cell phone call</string>
+    <string name="pstn_phone">Cell phone call</string>
 
     <!-- Item of the dialog to select the phone type for outgoing call. [CHAR LIMIT=NONE] -->
-    <string name ="internet_phone">Internet call</string>
+    <string name="internet_phone">Internet call</string>
 
     <!-- Title of the dialog to redirect the user to SIP settings. [CHAR LIMIT=NONE] -->
-    <string name ="no_sip_account_found_title">No Internet calling account</string>
+    <string name="no_sip_account_found_title">No Internet calling account</string>
     <!-- Message of the dialog to redirect the user to SIP settings. [CHAR LIMIT=NONE] -->
-    <string name ="no_sip_account_found">There are no Internet calling accounts on this phone.  Add one now?</string>
+    <string name="no_sip_account_found">There are no Internet calling accounts on this phone. Add one now?</string>
     <!-- Menu item for no sip account found dialog -->
     <string name="sip_menu_add">Add</string>
 
@@ -1354,7 +1349,7 @@
     <!-- Title of the advanced settings button. The button will show the advanced settings of a SIP account in the SIP editor [CHAR LIMIT=NONE] -->
     <string name="advanced_settings_title">Advanced settings</string>
     <!-- Summary of a SIP account in the list of SIP accounts, consists of primary account status and registration status. This string indicates that this SIP account is a primary account and the string placeholder is the registration status, which will be one of the strings with name starting with "registration_status_" below. [CHAR LIMIT=NONE] -->
-    <string name="primary_account_summary_with">Primary account. <xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
+    <string name="primary_account_summary_with">Primary account. %s</string>
     <!-- Text of Internet-call registration status, checking current registration status with SIP service [CHAR LIMIT=NONE] -->
     <string name="registration_status_checking_status">Checking status...</string>
     <!-- Text of Internet-call registration status, registering with SIP server in order to receive calls on this account [CHAR LIMIT=NONE] -->
@@ -1372,13 +1367,13 @@
     <!-- Text of Internet-call registration status, currently we can receive calls on this account [CHAR LIMIT=NONE] -->
     <string name="registration_status_done">Receiving calls</string>
     <!-- Text of Internet-call registration status, registration failed with a reason; will try again later [CHAR LIMIT=NONE] -->
-    <string name="registration_status_failed_try_later">Account registration unsuccessful: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); will try later</string>
+    <string name="registration_status_failed_try_later">Account registration unsuccessful: (%s); will try later</string>
     <!-- Text of Internet-call registration status, registration failed due to invalid credentials [CHAR LIMIT=NONE] -->
     <string name="registration_status_invalid_credentials">Account registration unsuccessful: incorrect username or password</string>
     <!-- Text of Internet-call registration status, registration failed due to unknown host exception [CHAR LIMIT=NONE] -->
     <string name="registration_status_server_unreachable">Account registration unsuccessful: check the server name</string>
     <!-- Text for describing the account's owner and status. For example, 'Active, in use by Google Talk', it means that the account managed by SIP service was registered by the application 'Google Talk' and the status is active. [CHAR LIMIT=NONE] -->
-    <string name="third_party_account_summary">This account is currently in use by the <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> application</string>
+    <string name="third_party_account_summary">This account is currently in use by the %s application</string>
 
 
     <!-- Title of the sip editor screen. [CHAR LIMIT=NONE] -->
@@ -1427,9 +1422,9 @@
     <string name="optional_summary">&lt;Optional&gt;</string>
 
     <!-- Default sip server/proxy port number. -->
-    <string translatable="false" name="default_port">5060</string>
+    
     <!-- Default sip server/proxy transport protocol. -->
-    <string translatable="false" name="default_transport">UDP</string>
+    
 
 
     <!-- Hint to show the advanced settings section. [CHAR LIMIT=NONE] -->
@@ -1438,7 +1433,7 @@
     <string name="advanced_settings_hide">▽ Touch to hide all</string>
 
     <!-- Text in an alert dialog telling the user that some input field (name of which is also part of the strings being translated above) is required and can not be left blank. [CHAR LIMIT=NONE] -->
-    <string name="empty_alert"><xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> is required, cannot be left blank</string>
+    <string name="empty_alert">%s is required, cannot be left blank</string>
     <!-- Showing that port number is out of range in an alert dialog. [CHAR LIMIT=NONE] -->
     <string name="not_a_valid_port">Port number should be within 1000 and 65534</string>
 
@@ -1454,28 +1449,28 @@
     <string name="no_voip">Internet calling not supported</string>
 
     <!-- Option for whether the SIP service should send keepalive messages. [CHAR LIMIT=40] -->
-    <string translatable="true" name="sip_system_decide">Automatic</string>
+    <string name="sip_system_decide">Automatic</string>
     <!-- Option for whether the SIP service should send keepalive messages. [CHAR LIMIT=40] -->
-    <string translatable="true" name="sip_always_send_keepalive">Always send</string>
+    <string name="sip_always_send_keepalive">Always send</string>
 
-    <!-- Do not translate the following strings. Used for the Internet call options. Need to be in-sync with Settings.System.SIP_ strings. -->
-    <string translatable="false" name="sip_always">SIP_ALWAYS</string>
-    <string translatable="false" name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string translatable="false" name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
+    
+    
+    
+    
 
-    <!-- Do not translate the following strings. Used for the preference keys -->
-    <string translatable="false" name="domain_address">SipDomain</string>
-    <string translatable="false" name="username">UserName</string>
-    <string translatable="false" name="password">Password</string>
-    <string translatable="false" name="display_name">DisplayName</string>
-    <string translatable="false" name="proxy_address">ProxyAddress</string>
-    <string translatable="false" name="port">Port</string>
-    <string translatable="false" name="transport">Protocol</string>
-    <string translatable="false" name="send_keepalive">SendKeepAlive</string>
-    <string translatable="false" name="auto_registration">AutoRegistration</string>
-    <string translatable="false" name="set_primary">SetPrimary</string>
-    <string translatable="false" name="advanced_settings_container">advanced settings container</string>
-    <string translatable="false" name="auth_username">AuthUserName</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <!-- End of SIP settings related strings -->
 
     <!-- Dialog title to notify user that Voice calling is not supported
@@ -1505,7 +1500,7 @@
 
     <!-- "Respond via SMS": Confirmation message shown after sending
          a text response. [CHAR LIMIT=40] -->
-    <string name="respond_via_sms_confirmation_format">Message sent to <xliff:g id="phone_number">%s</xliff:g>.</string>
+    <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
 
     <!-- String describing the image on ImageButton one
 
@@ -1643,9 +1638,9 @@
     <string name="phone_number_summary">Set the phone number for this device</string>
 
     <!-- Dialog title for the vibration settings for voicemail notifications [CHAR LIMIT=40] -->
-    <string name="voicemail_notification_vibrate_when_title" msgid="8731372580674292759">Vibrate</string>
+    <string msgid="8731372580674292759" name="voicemail_notification_vibrate_when_title">Vibrate</string>
     <!-- Dialog title for the vibration settings for voice mail notifications [CHAR LIMIT=40]-->
-    <string name="voicemail_notification_vibarte_when_dialog_title" msgid="8995274609647451109">Vibrate</string>
+    <string msgid="8995274609647451109" name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
 
     <!-- The vibrate notification modes for voicemail notifications -->
     <string-array name="voicemail_notification_vibrate_when_entries">
@@ -1658,10 +1653,10 @@
     </string-array>
 
     <!-- The default value value for voicemail notification. -->
-    <string name="voicemail_notification_vibrate_when_default" translatable="false">never</string>
+    
 
-    <!-- Actual values used in our code for voicemail notifications. DO NOT TRANSLATE -->
-    <string-array name="voicemail_notification_vibrate_when_values" translatable="false">
+    
+    <string-array name="voicemail_notification_vibrate_when_values">
         <item>always</item>
         <item>silent</item>
         <item>never</item>

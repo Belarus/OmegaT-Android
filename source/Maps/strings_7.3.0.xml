@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="common_google_play_services_install_title">Get Google Play services</string>
     <string name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
@@ -238,7 +238,7 @@
     <string name="SEARCH_DID_YOU_MEAN">Did you mean</string>
     <string name="SEARCH_FAILED">Search failed</string>
     <string name="SEARCH_NO_REVIEWS">No reviews yet</string>
-    <string name="UNKNOWN_ERROR">Something has gone wrong...  Please try again in a few minutes.</string>
+    <string name="UNKNOWN_ERROR">Something has gone wrong... Please try again in a few minutes.</string>
     <string name="NETWORK_UNAVAILABLE">No network connection</string>
     <string name="PROBLEM_CONNECTING_TO_THE_NETWORK_TEXT">There was a problem connecting to the network. Please verify your data connection and try again.</string>
     <string name="TRY_AGAIN">Try again</string>
@@ -545,8 +545,8 @@
     <string name="DA_NAME_DELIMITER"> / </string>
     <string name="DA_LIST_DELIMITER">, </string>
     <string name="DA_CONTINUE_FOR_DISTANCE">Continue for {0}</string>
-    <string name="DA_TIME_FORMAT_DAYS_AND_HOURS">%1$s  %2$s</string>
-    <string name="DA_TIME_FORMAT_HOURS_AND_MINUTES">%1$s  %2$s</string>
+    <string name="DA_TIME_FORMAT_DAYS_AND_HOURS">%1$s %2$s</string>
+    <string name="DA_TIME_FORMAT_HOURS_AND_MINUTES">%1$s %2$s</string>
     <string name="DA_TIME_FORMAT_CLOCK">%1$d:%2$02d</string>
     <string name="DA_NOTIFICATION_STEP_FORMAT">{0} - {1}</string>
     <string name="DA_POINT_ON_MAP">Point on map</string>

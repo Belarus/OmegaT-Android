@@ -14,7 +14,7 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Superuser</string>
     <string name="app_name_request">Superuser Request</string>
 
@@ -181,22 +181,22 @@
     <string name="updater_no_conn">Failed to download manifest. Check internet connection</string>
     <string name="updater_try_again">Try again</string>
     <string name="updater_su_updated">su binary updated successfully</string>
-    <string name="updater_step_download_manifest">Downloading manifest...\u0020</string>
-    <string name="updater_step_parse_manifest">Parsing manifest...\u0020</string>
-    <string name="updater_step_latest_version">Latest version =\u0020</string>
-    <string name="updater_step_check_installed_version">Checking installed version =\u0020</string>
-    <string name="updater_step_fix_db">Fixing database...\u0020</string>
-    <string name="updater_step_download_busybox">Downloading custom busybox...\u0020</string>
-    <string name="updater_step_check_md5sum">Checking md5sum...\u0020</string>
-    <string name="updater_step_check_installed_path">Checking current install path...\u0020</string>
-    <string name="updater_step_download_su">Downloading new binary...\u0020</string>
-    <string name="updater_step_get_root">Gaining root access...\u0020</string>
-    <string name="updater_step_remount_rw">Remounting /system as rw...\u0020</string>
-    <string name="updater_step_cp">Copying su to /system...\u0020</string>
-    <string name="updater_step_chmod">Changing su file mode to 06755...\u0020</string>
-    <string name="updater_step_mv">Moving su to it\'s final location...\u0020</string>
-    <string name="updater_step_remount_ro">Remounting /system as ro...\u0020</string>
-    <string name="updater_step_clean_up">Cleaning up...\u0020</string>
+    <string name="updater_step_download_manifest">Downloading manifest... </string>
+    <string name="updater_step_parse_manifest">Parsing manifest... </string>
+    <string name="updater_step_latest_version">Latest version = </string>
+    <string name="updater_step_check_installed_version">Checking installed version = </string>
+    <string name="updater_step_fix_db">Fixing database... </string>
+    <string name="updater_step_download_busybox">Downloading custom busybox... </string>
+    <string name="updater_step_check_md5sum">Checking md5sum... </string>
+    <string name="updater_step_check_installed_path">Checking current install path... </string>
+    <string name="updater_step_download_su">Downloading new binary... </string>
+    <string name="updater_step_get_root">Gaining root access... </string>
+    <string name="updater_step_remount_rw">Remounting /system as rw... </string>
+    <string name="updater_step_cp">Copying su to /system... </string>
+    <string name="updater_step_chmod">Changing su file mode to 06755... </string>
+    <string name="updater_step_mv">Moving su to it\'s final location... </string>
+    <string name="updater_step_remount_ro">Remounting /system as ro... </string>
+    <string name="updater_step_clean_up">Cleaning up... </string>
     <string name="updater_remount_ro_failed">Failed to remount the system as read-only, please reboot to finish the update</string>
     <string name="updater_find_su_failed">Failed to find currently installed su binary. Update cannot continue</string>
     <string name="updater_bad_install_location">su binary is currently installed in /sbin. This updater is not capable of updating it. Please find a new ROM for your device.</string>

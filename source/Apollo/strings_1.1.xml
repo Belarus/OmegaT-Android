@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="durationformatshort">%2$d:%3$02d</string>
-    <string name="durationformatlong">%1$d:%2$02d:%3$02d</string>
+    
+    
     <string name="app_name">Apollo</string>
     <string name="page_recent">Recent</string>
     <string name="page_artists">Artists</string>
@@ -89,9 +89,9 @@
     <string name="settings_author_title">Author</string>
     <string name="settings_about_apollo">About Apollo</string>
     <string name="settings_special_thanks">Special thanks</string>
-    <string name="settings_cyanogenmod_title">CyanogenMod</string>
-    <string name="settings_self_title">Andrew Neal</string>
-    <string name="settings_lopez_title">A.J. Lopez</string>
+    
+    
+    
     <string name="settings_lopez_summary">Icon and Play Store banner design</string>
     <string name="settings_color_scheme_title">Choose Apollo\'s default color scheme</string>
     <string name="settings_color_scheme_summary">Changes the accent color in Apollo</string>
@@ -115,7 +115,7 @@
     <string name="app_widget_large_alt">Apollo: 4x2 (alternate)</string>
     <string name="app_widget_recent">Apollo: recently listened</string>
     <string name="app_widget_text_separator">-</string>
-    <string name="apollo_themes_shop_key">Apollo Themes</string>
+    
     <string name="no_effects_for_you">The equalizer could not be opened.</string>
     <string name="empty_music">To copy music from your computer to your device, use a USB cable.</string>
     <string name="empty_last_added">Songs you have added over the last month will be shown here.</string>

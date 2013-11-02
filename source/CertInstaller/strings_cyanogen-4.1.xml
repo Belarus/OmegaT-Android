@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Certificate Installer</string>
 
     <!-- Title of the file picker screen -->
@@ -23,7 +22,7 @@
     <!-- Title of dialog to enter password for pkcs12 -->
     <string name="pkcs12_password_dialog_title">Extract certificate</string>
     <!-- message in progress bar when waiting for extracting certs from a pkcs12 package -->
-    <string name="extracting_pkcs12">Extracting\u2026</string>
+    <string name="extracting_pkcs12">Extracting…</string>
     <!-- Title of dialog to enter password for pkcs12 file -->
     <string name="pkcs12_file_password_dialog_title">Extract from %s</string>
     <!-- Title of dialog to name a credential -->
@@ -56,7 +55,7 @@
     <string name="invalid_cert">The certificate is invalid.</string>
 
     <!-- toast message -->
-    <string name="cert_is_added"><xliff:g id="credential">%s</xliff:g> is installed.</string>
+    <string name="cert_is_added">%s is installed.</string>
     <!-- toast message -->
     <string name="cert_too_large_error">Couldn\'t install because the certificate size is too large.</string>
     <!-- toast message -->
@@ -65,9 +64,9 @@
     <string name="cert_read_error">Couldn\'t install because the certificate file couldn\'t be read.</string>
 
     <!-- Shown when the certificate file can't be found.  [CHAR LIMIT=NONE] -->
-    <string name="no_cert_file_found" product="nosdcard">No certificate file found in USB storage.</string>
-    <string name="no_cert_file_found" product="default">No certificate file found in the SD card.</string>
+    <string product="nosdcard" name="no_cert_file_found">No certificate file found in USB storage.</string>
+    <string product="default" name="no_cert_file_found">No certificate file found in the SD card.</string>
     <!-- Shown when USB storage can't be found to look for a certificate.  [CHAR LIMIT=30] -->
-    <string name="sdcard_not_present" product="nosdcard">USB storage not available.</string>
-    <string name="sdcard_not_present" product="default">SD card isn\'t present.</string>
+    <string product="nosdcard" name="sdcard_not_present">USB storage not available.</string>
+    <string product="default" name="sdcard_not_present">SD card isn\'t present.</string>
 </resources>

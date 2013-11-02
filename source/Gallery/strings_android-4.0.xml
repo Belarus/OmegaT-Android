@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General strings -->
 
     <!-- label for the icon meaning 'show me all the images' -->
@@ -52,33 +51,33 @@
     <string name="preferences_label">Camera settings</string>
 
     <!-- alert to the user to wait for some operation to complete -->
-    <string name="wait">Please wait\u2026</string>
+    <string name="wait">Please wait…</string>
 
     <!-- alert to the user to that shared storage must be available before using the camera [CHAR LIMIT=NONE] -->
-    <string name="no_storage" product="nosdcard">Please mount the shared storage before using the camera.</string>
+    <string product="nosdcard" name="no_storage">Please mount the shared storage before using the camera.</string>
     <!-- alert to the user to that an SD card must be installed before using the camera -->
-    <string name="no_storage" product="default">Please insert an SD card before using the camera.</string>
+    <string product="default" name="no_storage">Please insert an SD card before using the camera.</string>
 
     <!-- alert to the user to that the shared storage is too full to complete the operation [CHAR LIMIT=NONE] -->
-    <string name="not_enough_space" product="nosdcard">Your shared storage is full.</string>
+    <string product="nosdcard" name="not_enough_space">Your shared storage is full.</string>
     <!-- alert to the user to that the SD card is too full to complete the operation -->
-    <string name="not_enough_space" product="default">Your SD card is full.</string>
+    <string product="default" name="not_enough_space">Your SD card is full.</string>
 
     <!-- alert to the user to that the shared storage is being disk-checked [CHAR LIMIT=NONE] -->
-    <string name="preparing_sd" product="nosdcard">Preparing shared storage\u2026</string>
+    <string product="nosdcard" name="preparing_sd">Preparing shared storage…</string>
     <!-- alert to the user to that the SD card is being disk-checked -->
-    <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
+    <string product="default" name="preparing_sd">Preparing SD card…</string>
 
     <!-- Toast/alert after saving wallpaper -->
-    <string name="wallpaper">Setting wallpaper, please wait\u2026</string>
+    <string name="wallpaper">Setting wallpaper, please wait…</string>
 
     <!-- Settings stuff -->
 
     <!-- Toast/alert that the image is being saved to the SD card -->
-    <string name="savingImage">Saving picture\u2026</string>
+    <string name="savingImage">Saving picture…</string>
 
     <!-- Toast/alert that the face detection is being run -->
-    <string name="runningFaceDetection">Please wait\u2026</string>
+    <string name="runningFaceDetection">Please wait…</string>
 
 
     <!-- Menu items: -->
@@ -184,12 +183,12 @@
         <item>Small</item>
     </string-array>
     <!-- Option values in dialog that appears after selecting Picture size setting option -->
-    <string-array name="pref_gallery_size_values" translatable="false">
+    <string-array name="pref_gallery_size_values">
         <item>1</item>
         <item>0</item>
     </string-array>
     <!-- Default option value in dialog that appears after selecting Picture size setting option -->
-    <string name="default_value_pref_gallery_size" translatable="false">1</string>
+    
     <!-- Settings screen, setting option name -->
     <string name="pref_gallery_sort_title">Sort order</string>
     <!-- Settings screen, setting summary text -->
@@ -204,12 +203,12 @@
         <item>Newest last</item>
     </string-array>
     <!-- Option values in dialog that appears after selecting Picture sort setting option -->
-    <string-array name="pref_gallery_sort_values" translatable="false">
+    <string-array name="pref_gallery_sort_values">
         <item>descending</item>
         <item>ascending</item>
     </string-array>
     <!-- Default option value in dialog that appears after selecting Picture sort setting option -->
-    <string name="default_value_pref_gallery_sort" translatable="false">descending</string>
+    
     <!-- Settings screen, setting option name -->
     <string name="pref_gallery_slideshow_interval_title">Slideshow interval</string>
     <!-- Settings screen, setting summary text -->
@@ -226,13 +225,13 @@
         <item>4 seconds</item>
     </string-array>
     <!-- Option values in dialog that appears after selecting Slideshow interval setting option -->
-    <string-array name="pref_gallery_slideshow_interval_values" translatable="false">
+    <string-array name="pref_gallery_slideshow_interval_values">
         <item>"2"</item>
         <item>"3"</item>
         <item>"4"</item>
     </string-array>
     <!-- Default option value in dialog that appears after selecting Slideshow interval setting option -->
-    <string name="default_value_pref_gallery_slideshow_interval" translatable="false">"2"</string>
+    
     <!-- Settings screen, setting option name -->
     <string name="pref_gallery_slideshow_transition_title">Slideshow transition</string>
     <!-- Settings screen, setting summary text -->
@@ -252,14 +251,14 @@
         <item>Random selection</item>
     </string-array>
     <!-- Option values in dialog that appears after selecting Slideshow transition setting option -->
-    <string-array name="pref_gallery_slideshow_transition_values" translatable="false">
+    <string-array name="pref_gallery_slideshow_transition_values">
         <item>"0"</item>
         <item>"1"</item>
         <item>"2"</item>
         <item>"-1"</item>
     </string-array>
     <!-- Default option value in dialog that appears after selecting Slideshow transition setting option -->
-    <string name="default_value_pref_gallery_slideshow_transition" translatable="false">"0"</string>
+    
 
     <!-- Settings screen, setting check box name -->
     <string name="pref_gallery_slideshow_repeat_title">Repeat slideshow</string>
@@ -320,17 +319,17 @@
     <string name="details_format">Format:</string>
 
     <!-- Used to format image dimensions in Details dialog. e.g. 64 x 64 -->
-    <string name="details_dimension_x"><xliff:g id="width" example="640">%1$d</xliff:g> x <xliff:g id="height" example="480">%2$d</xliff:g></string>
+    <string name="details_dimension_x">%1$d x %2$d</string>
     <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
-    <string name="details_ms"><xliff:g id="minutes">%1$02d</xliff:g>:<xliff:g id="seconds">%2$02d</xliff:g></string>
+    <string name="details_ms">%1$02d:%2$02d</string>
     <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
-    <string name="details_hms"><xliff:g id="hours">%1$d</xliff:g>:<xliff:g id="minutes">%2$02d</xliff:g>:<xliff:g id="seconds">%3$02d</xliff:g></string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <!-- Unit of measure in the Details dialog frames per second. e.g. 20 fps -->
-        <string name="details_fps"><xliff:g id="frames" example="30">%1$d</xliff:g> fps</string>
+        <string name="details_fps">%1$d fps</string>
     <!-- Unit of measure in the Details dialog K bits per second. e.g. 192 Kbps -->
-    <string name="details_kbps"><xliff:g id="speed" example="192">%1$d</xliff:g> Kbps</string>
+    <string name="details_kbps">%1$d Kbps</string>
     <!-- Unit of measure in the Details dialog M bits per second. e.g. 2.3 Mbps -->
-    <string name="details_mbps"><xliff:g id="speed" example="2.3">%1$g</xliff:g> Mbps</string>
+    <string name="details_mbps">%1$g Mbps</string>
     <!-- Details dialog "OK" button. Dismisses dialog. -->
     <string name="details_ok">OK</string>
 
@@ -372,13 +371,13 @@
     <!-- Activity label. This might show up in the activity-picker -->
     <string name="movieviewlabel">Movies</string>
     <!-- shown in the video player view while the video is being loaded, before it starts playing -->
-    <string name="loading_video">Loading video\u2026</string>
+    <string name="loading_video">Loading video…</string>
 
     <!-- Movie View Resume Playing dialog title -->
     <string name="resume_playing_title">Resume video</string>
 
     <!-- Movie View Start Playing dialog title -->
-    <string name="resume_playing_message">Resume playing from <xliff:g id="duration" example="5:30">%s</xliff:g> ?</string>
+    <string name="resume_playing_message">Resume playing from %s ?</string>
 
     <!-- Movie View Start Playing button "Resume from bookmark" -->
     <string name="resume_playing_resume">Resume playing</string>
@@ -405,5 +404,5 @@
     <string name="multiselect_cancel">Cancel</string>
 
     <!-- The messsage shown on progress dialog when deleting images -->
-    <string name="delete_images_message">Deleting images, please wait\u2026</string>
+    <string name="delete_images_message">Deleting images, please wait…</string>
 </resources>

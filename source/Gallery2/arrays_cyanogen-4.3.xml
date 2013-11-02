@@ -14,10 +14,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  -->
-
 <resources>
     <!-- Camera Preferences Video Quality entries -->
-    <string-array name="pref_video_quality_entries" translatable="false">
+    <string-array name="pref_video_quality_entries">
         <item>@string/pref_video_quality_entry_1080p</item>
         <item>@string/pref_video_quality_entry_720p</item>
         <item>@string/pref_video_quality_entry_480p</item>
@@ -26,7 +25,7 @@
         <item>@string/pref_video_quality_entry_hfr</item>
    </string-array>
 
-    <string-array name="pref_video_quality_entryvalues" translatable="false">
+    <string-array name="pref_video_quality_entryvalues">
         <!-- The integer value of CamcorderProfile.QUALITY_1080P -->
         <item>6</item>
         <!-- The integer value of CamcorderProfile.QUALITY_720P -->
@@ -42,7 +41,7 @@
 
     <!-- These values correspond to the time interval between frame capture in millseconds
     for time lapse recording -->
-    <string-array name="pref_video_time_lapse_frame_interval_entryvalues" translatable="false">
+    <string-array name="pref_video_time_lapse_frame_interval_entryvalues">
         <item>0</item>
         <item>500</item>
         <item>1000</item>
@@ -132,7 +131,7 @@
 
     <!-- These values correspond to the time interval between frame capture
     for time lapse recording -->
-    <string-array name="pref_video_time_lapse_frame_interval_duration_values" translatable="false">
+    <string-array name="pref_video_time_lapse_frame_interval_duration_values">
         <item>0.5</item>
         <item>1</item>
         <item>1.5</item>
@@ -155,7 +154,7 @@
     </string-array>
 
     <!-- Camera Preferences Picture size dialog box entries -->
-    <string-array name="pref_camera_picturesize_entries" translatable="false">
+    <string-array name="pref_camera_picturesize_entries">
         <item>@string/pref_camera_picturesize_entry_20_7mp</item>
         <item>@string/pref_camera_picturesize_entry_18mp</item>
         <item>@string/pref_camera_picturesize_entry_13mp</item>
@@ -199,7 +198,7 @@
     <!-- When launching the camera app first time, we will set the picture
          size to the first one in the list that is also supported by the
          driver -->
-    <string-array name="pref_camera_picturesize_entryvalues" translatable="false">
+    <string-array name="pref_camera_picturesize_entryvalues">
         <item>5248x3936</item>
         <item>4992x3744</item>
         <item>4208x3120</item>
@@ -241,7 +240,7 @@
     </string-array>
 
     <!-- Camera Preferences focus mode dialog box entries -->
-    <string-array name="pref_camera_focusmode_entries" translatable="false">
+    <string-array name="pref_camera_focusmode_entries">
         <item>@string/pref_camera_focusmode_entry_auto</item>
         <item>@string/pref_camera_focusmode_entry_continuouspicture</item>
         <item>@string/pref_camera_focusmode_entry_extended</item>
@@ -254,7 +253,7 @@
         <item>@string/pref_camera_focusmode_entry_hyperfocal</item>
     </string-array>
 
-    <string-array name="pref_camera_focusmode_entryvalues" translatable="false">
+    <string-array name="pref_camera_focusmode_entryvalues">
         <item>auto</item>
         <item>continuous-picture</item>
         <item>extended</item>
@@ -267,42 +266,42 @@
         <item>hyperfocal</item>
     </string-array>
 
-    <string-array name="pref_camera_focusmode_labels" translatable="false">
+    <string-array name="pref_camera_focusmode_labels">
         <item>@string/pref_camera_focusmode_label_auto</item>
         <item>@string/pref_camera_focusmode_label_infinity</item>
         <item>@string/pref_camera_focusmode_label_macro</item>
     </string-array>
 
     <!-- Camera Preferences flash mode dialog box entries -->
-    <string-array name="pref_camera_flashmode_entries" translatable="false">
+    <string-array name="pref_camera_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_off</item>
         <item>@string/pref_camera_flashmode_entry_auto</item>
         <item>@string/pref_camera_flashmode_entry_on</item>
         <item>@string/pref_camera_flashmode_entry_redeye</item>
     </string-array>
 
-    <string-array name="pref_camera_flashmode_labels" translatable="false">
+    <string-array name="pref_camera_flashmode_labels">
         <item>@string/pref_camera_flashmode_label_off</item>
         <item>@string/pref_camera_flashmode_label_auto</item>
         <item>@string/pref_camera_flashmode_label_on</item>
         <item>@string/pref_camera_flashmode_label_redeye</item>
     </string-array>
 
-    <string-array name="pref_camera_flashmode_entryvalues" translatable="false">
+    <string-array name="pref_camera_flashmode_entryvalues">
         <item>off</item>
         <item>auto</item>
         <item>on</item>
         <item>red-eye</item>
     </string-array>
 
-    <array name="camera_flashmode_icons" translatable="false">
+    <array name="camera_flashmode_icons">
         <item>@drawable/ic_flash_off_holo_light</item>
         <item>@drawable/ic_flash_auto_holo_light</item>
         <item>@drawable/ic_flash_on_holo_light</item>
         <item>@drawable/ic_flash_redeye_holo_light</item>
     </array>
 
-    <array name="camera_flashmode_largeicons" translatable="false">
+    <array name="camera_flashmode_largeicons">
         <item>@drawable/ic_flash_off_holo_light</item>
         <item>@drawable/ic_flash_auto_holo_light</item>
         <item>@drawable/ic_flash_on_holo_light</item>
@@ -310,58 +309,58 @@
     </array>
 
     <!-- Videocamera Preferences flash mode dialog box entries -->
-    <string-array name="pref_camera_video_flashmode_entries" translatable="false">
+    <string-array name="pref_camera_video_flashmode_entries">
         <item>@string/pref_camera_flashmode_entry_on</item>
         <item>@string/pref_camera_flashmode_entry_off</item>
     </string-array>
 
-    <string-array name="pref_camera_video_flashmode_labels" translatable="false">
+    <string-array name="pref_camera_video_flashmode_labels">
         <item>@string/pref_camera_flashmode_label_on</item>
         <item>@string/pref_camera_flashmode_label_off</item>
     </string-array>
 
-    <string-array name="pref_camera_video_flashmode_entryvalues" translatable="false">
+    <string-array name="pref_camera_video_flashmode_entryvalues">
         <item>torch</item>
         <item>off</item>
     </string-array>
 
-    <array name="video_flashmode_icons" translatable="false">
+    <array name="video_flashmode_icons">
         <item>@drawable/ic_flash_on_holo_light</item>
         <item>@drawable/ic_flash_off_holo_light</item>
     </array>
 
-    <array name="video_flashmode_largeicons" translatable="false">
+    <array name="video_flashmode_largeicons">
         <item>@drawable/ic_flash_on_holo_light</item>
         <item>@drawable/ic_flash_off_holo_light</item>
     </array>
 
-    <string-array name="pref_switch_entryvalues" translatable="false">
+    <string-array name="pref_switch_entryvalues">
         <item>off</item>
         <item>on</item>
     </string-array>
 
-    <array name="pref_switch_entries" translatable="false">
+    <array name="pref_switch_entries">
         <item>@string/setting_off</item>
         <item>@string/setting_on</item>
     </array>
 
-    <array name="pref_camera_recordlocation_labels" translatable="false">
+    <array name="pref_camera_recordlocation_labels">
         <item>@string/pref_camera_location_label</item>
         <item>@string/pref_camera_location_label</item>
     </array>
 
-    <array name="camera_recordlocation_icons" translatable="false">
+    <array name="camera_recordlocation_icons">
         <item>@drawable/ic_location_off</item>
         <item>@drawable/ic_location</item>
     </array>
 
-    <array name="camera_recordlocation_largeicons" translatable="false">
+    <array name="camera_recordlocation_largeicons">
         <item>@drawable/ic_location_off</item>
         <item>@drawable/ic_location</item>
     </array>
 
     <!-- Camera Preferences White Balance dialog box entries -->
-    <string-array name="pref_camera_whitebalance_entries" translatable="false">
+    <string-array name="pref_camera_whitebalance_entries">
         <item>@string/pref_camera_whitebalance_entry_incandescent</item>
         <item>@string/pref_camera_whitebalance_entry_fluorescent</item>
         <item>@string/pref_camera_whitebalance_entry_auto</item>
@@ -369,7 +368,7 @@
         <item>@string/pref_camera_whitebalance_entry_cloudy</item>
     </string-array>
 
-    <string-array name="pref_camera_whitebalance_labels" translatable="false">
+    <string-array name="pref_camera_whitebalance_labels">
         <item>@string/pref_camera_whitebalance_label_incandescent</item>
         <item>@string/pref_camera_whitebalance_label_fluorescent</item>
         <item>@string/pref_camera_whitebalance_label_auto</item>
@@ -377,7 +376,7 @@
         <item>@string/pref_camera_whitebalance_label_cloudy</item>
     </string-array>
 
-    <string-array name="pref_camera_whitebalance_entryvalues" translatable="false">
+    <string-array name="pref_camera_whitebalance_entryvalues">
         <item>incandescent</item>
         <item>fluorescent</item>
         <item>auto</item>
@@ -385,7 +384,7 @@
         <item>cloudy-daylight</item>
     </string-array>
 
-    <array name="whitebalance_icons" translatable="false">
+    <array name="whitebalance_icons">
         <item>@drawable/ic_wb_incandescent</item>
         <item>@drawable/ic_wb_fluorescent</item>
         <item>@drawable/ic_wb_auto</item>
@@ -393,7 +392,7 @@
         <item>@drawable/ic_wb_cloudy</item>
     </array>
 
-    <array name="whitebalance_largeicons" translatable="false">
+    <array name="whitebalance_largeicons">
         <item>@drawable/ic_wb_incandescent</item>
         <item>@drawable/ic_wb_fluorescent</item>
         <item>@drawable/ic_wb_auto</item>
@@ -401,7 +400,7 @@
         <item>@drawable/ic_wb_cloudy</item>
     </array>
 
-    <array name="camera_wb_indicators" translatable="false">
+    <array name="camera_wb_indicators">
         <item>@drawable/ic_indicator_wb_tungsten</item>
         <item>@drawable/ic_indicator_wb_fluorescent</item>
         <item>@drawable/ic_indicator_wb_off</item>
@@ -410,7 +409,7 @@
     </array>
 
     <!-- Camera Preferences Scene Mode dialog box entries -->
-    <string-array name="pref_camera_scenemode_entries" translatable="false">
+    <string-array name="pref_camera_scenemode_entries">
         <item>@string/pref_camera_scenemode_entry_auto</item>
         <item>@string/pref_camera_scenemode_entry_asd</item>
         <item>@string/pref_camera_scenemode_entry_action</item>
@@ -481,7 +480,7 @@
         <item>@drawable/ic_sce_party</item>
     </array>
 
-    <string-array name="pref_camera_scenemode_entryvalues" translatable="false">
+    <string-array name="pref_camera_scenemode_entryvalues">
         <item>auto</item>
         <item>asd</item>
         <item>action</item>
@@ -536,27 +535,27 @@
         <item>white-board</item>
     </string-array>
 
-    <array name="camera_id_entries" translatable="false">
+    <array name="camera_id_entries">
         <item>@string/pref_camera_id_entry_back</item>
         <item>@string/pref_camera_id_entry_front</item>
     </array>
 
-    <array name="camera_id_labels" translatable="false">
+    <array name="camera_id_labels">
         <item>@string/pref_camera_id_label_back</item>
         <item>@string/pref_camera_id_label_front</item>
     </array>
 
-    <array name="camera_id_icons" translatable="false">
+    <array name="camera_id_icons">
         <item>@drawable/ic_switch_back</item>
         <item>@drawable/ic_switch_front</item>
     </array>
 
-    <array name="camera_id_largeicons" translatable="false">
+    <array name="camera_id_largeicons">
         <item>@drawable/ic_switch_back</item>
         <item>@drawable/ic_switch_front</item>
     </array>
 
-    <string-array name="pref_video_effect_entries" translatable="false">
+    <string-array name="pref_video_effect_entries">
         <item>@string/effect_none</item>
         <item>@string/effect_goofy_face_squeeze</item>
         <item>@string/effect_goofy_face_big_eyes</item>
@@ -569,7 +568,7 @@
         <item>@string/effect_backdropper_gallery</item>
     </string-array>
 
-    <string-array name="pref_video_effect_entryvalues" translatable="false">
+    <string-array name="pref_video_effect_entryvalues">
         <item>@string/pref_video_effect_default</item>
         <item>goofy_face/squeeze</item>
         <item>goofy_face/big_eyes</item>
@@ -582,7 +581,7 @@
         <item>backdropper/gallery</item>
     </string-array>
 
-    <array name="video_effect_icons" translatable="false">
+    <array name="video_effect_icons">
         <item>@drawable/ic_effects_holo_light</item>
         <item>@drawable/ic_video_effects_faces_squeeze_holo_dark</item>
         <item>@drawable/ic_video_effects_faces_big_eyes_holo_dark</item>
@@ -595,44 +594,44 @@
         <item>@drawable/ic_video_effects_background_normal_holo_dark</item>
     </array>
 
-    <string-array name="pref_camera_hdr_entries" translatable="false">
+    <string-array name="pref_camera_hdr_entries">
         <item>@string/setting_off</item>
         <item>@string/setting_on</item>
     </string-array>
 
-    <string-array name="pref_camera_hdr_labels" translatable="false">
+    <string-array name="pref_camera_hdr_labels">
         <item>@string/pref_camera_hdr_label</item>
         <item>@string/pref_camera_hdr_label</item>
     </string-array>
 
-    <string-array name="pref_camera_hdr_icons" translatable="false">
+    <string-array name="pref_camera_hdr_icons">
         <item>@drawable/ic_hdr_off</item>
         <item>@drawable/ic_hdr</item>
     </string-array>
 
-    <string-array name="pref_camera_hdr_entryvalues" translatable="false">
+    <string-array name="pref_camera_hdr_entryvalues">
         <item>@string/setting_off_value</item>
         <item>@string/setting_on_value</item>
     </string-array>
 
-    <string-array name="pref_camera_timer_sound_entries" translatable="false">
+    <string-array name="pref_camera_timer_sound_entries">
         <item>@string/setting_off</item>
         <item>@string/setting_on</item>
     </string-array>
 
-    <string-array name="pref_camera_timer_sound_entryvalues" translatable="false">
+    <string-array name="pref_camera_timer_sound_entryvalues">
         <item>@string/setting_off_value</item>
         <item>@string/setting_on_value</item>
     </string-array>
 
     <!-- Default focus mode setting.-->
-    <string-array name="pref_camera_focusmode_default_array" translatable="false">
+    <string-array name="pref_camera_focusmode_default_array">
         <item>continuous-picture</item>
         <item>auto</item>
     </string-array>
 
     <!-- Icons for exposure compensation -->
-    <array name="pref_camera_exposure_icons" translatable="false">
+    <array name="pref_camera_exposure_icons">
         <item>@drawable/ic_exposure_n3</item>
         <item>@drawable/ic_exposure_n2</item>
         <item>@drawable/ic_exposure_n1</item>

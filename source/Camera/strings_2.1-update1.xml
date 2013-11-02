@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Camera Error</string>
     <string name="cannot_connect_camera">Cannot connect to camera.</string>
@@ -83,7 +83,7 @@
     <string name="pref_gallery_slideshow_shuffle_title">Shuffle slides</string>
     <string name="pref_gallery_slideshow_shuffle_summary">Show pictures in random order</string>
     <string name="pref_camera_recordlocation_title">Store location</string>
-    <string name="pref_camera_recordlocation_default">none</string>
+    
     <string name="pref_camera_recordlocation_entry_off">Off</string>
     <string name="pref_camera_recordlocation_entry_on">On</string>
     <string name="pref_camera_videoquality_default">1</string>
@@ -105,26 +105,26 @@
     <string name="pref_camera_picturesize_entry_1600x1200">2M Pixels</string>
     <string name="pref_camera_picturesize_entry_1024x768">1M Pixels</string>
     <string name="pref_camera_picturesize_dialogtitle">Picture size</string>
-    <string name="pref_camera_jpegquality_default">superfine</string>
+    
     <string name="pref_camera_jpegquality_title">Picture quality</string>
     <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
     <string name="pref_camera_jpegquality_entry_fine">Fine</string>
     <string name="pref_camera_jpegquality_entry_normal">Normal</string>
     <string name="pref_camera_jpegquality_dialogtitle">Picture quality</string>
-    <string name="pref_camera_focusmode_default">auto</string>
+    
     <string name="pref_camera_focusmode_title">Focus mode</string>
     <string name="pref_camera_focusmode_entry_auto">Auto</string>
     <string name="pref_camera_focusmode_entry_infinity">Infinity</string>
     <string name="pref_camera_focusmode_entry_macro">Macro</string>
     <string name="pref_camera_focusmode_dialogtitle">Focus mode</string>
-    <string name="pref_camera_flashmode_default">auto</string>
-    <string name="pref_camera_flashmode_no_flash">no_flash</string>
+    
+    
     <string name="pref_camera_flashmode_title">Flash mode</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_on">On</string>
     <string name="pref_camera_flashmode_entry_off">Off</string>
     <string name="pref_camera_flashmode_dialogtitle">Flash mode</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
+    
     <string name="pref_camera_whitebalance_dialogtitle">White balance</string>
     <string name="pref_camera_whitebalance_title">White balance</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -137,7 +137,7 @@
     <string name="pref_camera_whitebalance_entry_warm_fluorescent">Warm Fluorescent</string>
     <string name="pref_camera_whitebalance_entry_halogen">Halogen</string>
     <string name="pref_camera_coloreffect_dialogtitle">Color effect</string>
-    <string name="pref_camera_coloreffect_default">none</string>
+    
     <string name="pref_camera_coloreffect_title">Color effect</string>
     <string name="pref_camera_coloreffect_entry_none">None</string>
     <string name="pref_camera_coloreffect_entry_mono">Mono</string>
@@ -153,7 +153,7 @@
     <string name="pref_camera_coloreffect_entry_redtint">Red Tint</string>
     <string name="pref_camera_coloreffect_entry_bluetint">Blue Tint</string>
     <string name="pref_camera_coloreffect_entry_greentint">Green Tint</string>
-    <string name="pref_camera_scenemode_default">auto</string>
+    
     <string name="pref_camera_scenemode_title">Scene mode</string>
     <string name="pref_camera_scenemode_dialogtitle">Scene mode</string>
     <string name="pref_camera_scenemode_entry_auto">Auto</string>
@@ -225,7 +225,7 @@
     <string name="resume_playing_resume">Resume playing</string>
     <string name="resume_playing_restart">Start over</string>
     <string name="gadget_title">Picture frame</string>
-    <string name="video_file_name_format">\'video\'-yyyy-MM-dd-HH-mm-ss</string>
+    
     <string name="file_info_title">File info:</string>
     <string name="video_exceed_mms_limit">The video you recorded is too large to send via MMS. Try recording a shorter length clip.</string>
     <string name="multiselect_share">Share</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="upgrade_url">http://rel8100.seven.com/get/client/dl.do?clientId=</string>
     <string name="account_authenticators">yahoo,msn,work</string>
@@ -12,12 +12,12 @@
     <string name="permission_access_provider_label">Access email provider data</string>
     <string name="read_attachment_desc">Allows this application to read your Email attachments</string>
     <string name="permission_access_provider_desc">Allows application to access email database including received messages, sent messages, user names, and passwords</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+    
+    
+    
+    
+    
+    
     <string name="calendar_standarddateexceptyear">(?:(?:Ja\\w+|Fe\\w+|Ma\\w+|Ap\\w+|Ju\\w+|Au\\w+|Se\\w+|Oc\\w+|No\\w+|De\\w+)[\\.\\,]?[\\s][0-3]?[\\d](?:th|st|nd|rd|\\,)?)|(?:[0-3]?[\\d](?:th|st|nd|rd)?[\\s](?:Ja\\w+|Fe\\w+|Ma\\w+|Ap\\w+|Ju\\w+|Au\\w+|Se\\w+|Oc\\w+|No\\w+|De\\w+)[\\.\\,]?)</string>
     <string name="calendar_standarddate">(?:(?:Ja\\w+|Fe\\w+|Ma\\w+|Ap\\w+|Ju\\w+|Au\\w+|Se\\w+|Oc\\w+|No\\w+|De\\w+)[\\.\\,]?[\\s][0-3]?[\\d](?:th|st|nd|rd|\\,)?[\\s](?:[1-2]\\d\\d\\d))|(?:[0-3]?[\\d](?:th|st|nd|rd)?[\\s](?:Ja\\w+|Fe\\w+|Ma\\w+|Ap\\w+|Ju\\w+|Au\\w+|Se\\w+|Oc\\w+|No\\w+|De\\w+)[\\.\\,]?[\\s][1-2]\\d\\d\\d)</string>
     <string name="calendar_standardtime">(?:[0-2]?[\\d][\\:][0-6]?[\\d][\\s]?(?:\\:[0-6]?\\d)?[\\s]?(?:[aA][mM]|[pP][mM])?)|(?:[0-2]?[\\d][\\s]?(?:[aA][mM]|[pP][mM]))</string>
@@ -35,18 +35,18 @@
     <string name="calendar_localreplaceconflictoutput">|</string>
     <string name="pattern_location_localeng">z/z</string>
     <string name="pattern_location_locallang">z/z</string>
-    <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-    <string name="debug_enable_sensitive_logging_label">Enable sensitive information debug logging? (May show passwords in logs.)</string>
-    <string name="debug_enable_exchange_logging_label">Enable Exchange parser logging (extremely verbose)?</string>
-    <string name="debug_enable_exchange_file_logging_label">Enable exchange sd card logging?</string>
-    <string name="debug_clear_webview_cache">Clear WebView cache</string>
-    <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
-    <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
-    <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
-    <string name="account_setup_account_type_pop_action">POP3 account</string>
-    <string name="account_setup_account_type_imap_action">IMAP account</string>
-    <string name="account_setup_account_type_exchange_action">Microsoft Exchange ActiveSync</string>
-    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="message_list_subject_snippet_divider"> — </string>
     <string name="app_name">Email</string>
     <string name="accounts_title">Email</string>

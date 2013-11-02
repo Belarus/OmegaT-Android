@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="application_copyright">Copyright © 2013 The CyanogenMod Project</string>
     <string name="application_version">1.0</string>
@@ -131,7 +131,7 @@
     <string name="google_title">Google</string>
     <string name="config_drawerDefaultTransitionEffect">Stack</string>
     <string name="config_workspaceDefaultTransitionEffect">ZoomIn</string>
-    <string name="application_name">Trebuchet</string>
+    
     <string name="home">Home</string>
     <string name="uid_name">Android Core Apps</string>
     <string name="folder_name"></string>
@@ -142,8 +142,8 @@
     <string name="widgets_tab_label">Widgets</string>
     <string name="long_press_widget_to_add">Touch &amp; hold to pick up a widget.</string>
     <string name="market">Shop</string>
-    <string name="widget_dims_format">%1$d × %2$d</string>
-    <string name="external_drop_widget_pick_format">%1$s (%2$d × %3$d)</string>
+    
+    
     <string name="external_drop_widget_error">Couldn\'t drop item on this Home screen.</string>
     <string name="external_drop_widget_pick_title">Choose widget to create</string>
     <string name="rename_folder_label">Folder name</string>
@@ -216,7 +216,7 @@
     <string name="folder_cling_move_item">To move an app, touch &amp; hold it.</string>
     <string name="folder_cling_create_folder">To make a new folder on your Home screen, stack one app on top of another.</string>
     <string name="cling_dismiss">OK</string>
-    <string name="dummy_custom_cling_error_message">Error: custom workspace layout passed in but custom cling was not overwritten</string>
+    
     <string name="folder_opened">Folder opened, %1$d by %2$d</string>
     <string name="folder_tap_to_close">Touch to close folder</string>
     <string name="folder_tap_to_rename">Touch to save rename</string>

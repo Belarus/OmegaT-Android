@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="callUnanswered_forwarded">Call unanswered and forwarded</string>
     <string name="mwi_notification_title">Message Wait Indicator</string>
@@ -495,9 +495,9 @@
     <string name="pin2_unblocked">PIN2 Unblocked!</string>
     <string name="doneButton">Done</string>
     <string name="caller_manage_header">Conference call %s</string>
-    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-    <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
-    <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
+    
+    
+    
     <string name="voicemail_settings_number_label">Voicemail number</string>
     <string name="card_title_dialing">Dialing</string>
     <string name="card_title_redialing">Retrying</string>
@@ -708,8 +708,8 @@
     <string name="default_preference_summary">&lt;Not set&gt;</string>
     <string name="display_name_summary">&lt;Same as username&gt;</string>
     <string name="optional_summary">&lt;Optional&gt;</string>
-    <string name="default_port">5060</string>
-    <string name="default_transport">UDP</string>
+    
+    
     <string name="advanced_settings_show">▷ Touch to show all</string>
     <string name="advanced_settings_hide">▽ Touch to hide all</string>
     <string name="empty_alert">%s is required and can\'t be left blank.</string>
@@ -722,27 +722,27 @@
     <string name="no_volte">Unable to make IMS call</string>
     <string name="sip_system_decide">Automatic</string>
     <string name="sip_always_send_keepalive">Always send</string>
-    <string name="sip_always">SIP_ALWAYS</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
-    <string name="domain_address">SipDomain</string>
-    <string name="username">UserName</string>
-    <string name="password">Password</string>
-    <string name="display_name">DisplayName</string>
-    <string name="proxy_address">ProxyAddress</string>
-    <string name="port">Port</string>
-    <string name="transport">Protocol</string>
-    <string name="send_keepalive">SendKeepAlive</string>
-    <string name="set_primary">SetPrimary</string>
-    <string name="advanced_settings_container">advanced settings container</string>
-    <string name="auth_username">AuthUserName</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="ims_edit_title">IMS account details</string>
     <string name="ims_accounts_title">IMS Account</string>
     <string name="ims_domain_address_title">IMS Server</string>
-    <string name="call_type">CallType</string>
+    
     <string name="call_type_title">IMS Call type</string>
-    <string name="default_ims_call_type">Voice</string>
-    <string name="use_ims_default">UseImsDefault</string>
+    
+    
     <string name="use_ims_default_title">Use IMS Always</string>
     <string name="use_ims_default_summary">Use IMS for all voice calls</string>
     <string name="ims_menu_save">Save</string>
@@ -790,7 +790,7 @@
     <string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
     <string name="voicemail_notification_ringtone_title">Sound</string>
     <string name="default_notification_description">Default sound (%1$s)</string>
-    <string name="voicemail_notification_vibrate_when_default">never</string>
+    
     <string name="ringtone_title">Phone ringtone</string>
     <string name="vibrate_on_ring_title">Vibrate when ringing</string>
     <string name="dtmf_tone_enable_title">Dial pad touch tones</string>

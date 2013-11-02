@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="address_data_loading">Loading…</string>
     <string name="i18n_country_label">Country</string>
@@ -379,7 +379,7 @@
     <string name="details">Details</string>
     <string name="rate_it">Rate it!</string>
     <string name="post_comment">Post comment</string>
-    <string name="download_progress_size">&lt;b&gt;^1%&lt;/b&gt;   ^2/^3</string>
+    <string name="download_progress_size">&lt;b&gt;^1%&lt;/b&gt; ^2/^3</string>
     <string name="no_featured_apps">No featured apps available.</string>
     <string name="no_sub_categories">No categories available.</string>
     <string name="unrated">Unrated</string>

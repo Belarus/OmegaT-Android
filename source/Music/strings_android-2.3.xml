@@ -16,19 +16,18 @@
 ** limitations under the License.
 */
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- used in various places to indicate there is one song for a given artist or album -->
     <string name="onesong">1 song</string>
     <!-- used in various places to indicate there is some number other than one songs for a given artist or album. -->
     <plurals name="Nsongs">
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> songs</item>
+        <item quantity="other">%d songs</item>
     </plurals>
 
     <!-- shows how many songs on the album are by the selected artist, out of how many total, if those two numbers are different -->
     <plurals name="Nsongscomp">
-        <item quantity="other"><xliff:g id="count_for_artist">%2$d</xliff:g> of <xliff:g id="total_count">%1$d</xliff:g> songs</item>
+        <item quantity="other">%2$d of %1$d songs</item>
     </plurals>
 
     <!-- Used in artists list view, indicates how many albums exist for a given artist. -->
@@ -36,7 +35,7 @@
         <!-- number of albums is one -->
         <item quantity="one">1 album</item>
         <!-- number of albums is not equal to one -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> albums</item>
+        <item quantity="other">%d albums</item>
     </plurals>
 
     <!--
@@ -48,11 +47,11 @@
     4 - seconds
     5 - second%60
     -->
-    <skip/>
-    <!-- Do not translate. Duration format for duration < 1 hour -->
-    <string translatable="false" name="durationformatshort"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
-    <!-- Do not translate. Duration format for duration >= 1 hour -->
-    <string translatable="false" name="durationformatlong"><xliff:g id="format">%1$d:%3$02d:%5$02d</xliff:g></string>
+    <skip></skip>
+    
+    
+    
+    
 
     <!-- Menu item that takes the user back to the top level screen of the music player -->
     <string name="goto_start">Library</string>
@@ -71,19 +70,19 @@
     <string name="play_all">Play all</string>
 
     <!-- Delete confirmation dialog when deleting an entire artist -->
-    <string name="delete_artist_desc">All songs by <xliff:g id="artist">%s</xliff:g> will be permanently deleted from the SD card.</string>
+    <string name="delete_artist_desc">All songs by %s will be permanently deleted from the SD card.</string>
     <!-- Delete confirmation dialog when deleting an entire artist -->
-    <string name="delete_artist_desc_nosdcard" msgid="1843750591006508005">All songs by <xliff:g id="artist">%s</xliff:g> will be permanently deleted from USB storage.</string>
+    <string msgid="1843750591006508005" name="delete_artist_desc_nosdcard">All songs by %s will be permanently deleted from USB storage.</string>
 
     <!-- Delete confirmation dialog when deleting an entire album -->
-    <string name="delete_album_desc">The entire album \"<xliff:g id="album">%s</xliff:g>\" will be permanently deleted from the SD card.</string>
+    <string name="delete_album_desc">The entire album \"%s\" will be permanently deleted from the SD card.</string>
     <!-- Delete confirmation dialog when deleting an entire album -->
-    <string name="delete_album_desc_nosdcard" msgid="535515999268177079">The entire album \"<xliff:g id="album">%s</xliff:g>\" will be permanently deleted from USB storage.</string>
+    <string msgid="535515999268177079" name="delete_album_desc_nosdcard">The entire album \"%s\" will be permanently deleted from USB storage.</string>
 
     <!-- Delete confirmation dialog when deleting a single song -->
-    <string name="delete_song_desc">\"<xliff:g id="song">%s</xliff:g>\" will be permanently deleted from the SD card.</string>
+    <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
     <!-- Delete confirmation dialog when deleting a single song -->
-    <string name="delete_song_desc_nosdcard" msgid="1856800468541831408">\"<xliff:g id="song">%s</xliff:g>\" will be permanently deleted from USB storage.</string>
+    <string msgid="1856800468541831408" name="delete_song_desc_nosdcard">\"%s\" will be permanently deleted from USB storage.</string>
 
     <!-- Delete confirmation dialog, confirmation button text -->
     <string name="delete_confirm_button_text">OK</string>
@@ -92,13 +91,13 @@
         <!-- delete confirmation message for 1 song -->
         <item quantity="one">1 song was deleted.</item>
         <!-- delete confirmation message for 0 or more than 1 songs -->
-        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> songs were deleted.</item>
+        <item quantity="other">%d songs were deleted.</item>
     </plurals>
 
     <!-- shown in dialog while the media scanner is starting up -->
-    <string name="scanning">Scanning SD card\u2026</string>
+    <string name="scanning">Scanning SD card…</string>
     <!-- shown in dialog while the media scanner is starting up -->
-    <string name="scanning_nosdcard" msgid="3529383847223198502">Scanning USB storage\u2026</string>
+    <string msgid="3529383847223198502" name="scanning_nosdcard">Scanning USB storage…</string>
 
     <!-- title of the "current playlist" screen when not in party shuffle mode -->
     <string name="nowplaying_title">Now playing</string>
@@ -153,27 +152,27 @@
     <!-- Title of screen when no sd card is present -->
     <string name="sdcard_missing_title">No SD card</string>
     <!-- Title of screen when no sd card is present -->
-    <string name="sdcard_missing_title_nosdcard" msgid="9008284946643270850">No USB storage</string>
+    <string msgid="9008284946643270850" name="sdcard_missing_title_nosdcard">No USB storage</string>
     <!-- label underneath icon used to indicate that no sd card is present -->
     <string name="sdcard_missing_message">Your phone does not have an SD card inserted.</string>
     <!-- label underneath icon used to indicate that no sd card is present -->
-    <string name="sdcard_missing_message_nosdcard" msgid="1169260755336159747">Your phone does not have USB storage.</string>
+    <string msgid="1169260755336159747" name="sdcard_missing_message_nosdcard">Your phone does not have USB storage.</string>
     <!-- label underneath icon used to indicate that the sd card is present, but currently unavailable -->
     <string name="sdcard_busy_title">SD card unavailable</string>
     <!-- label underneath icon used to indicate that the sd card is present, but currently unavailable -->
-    <string name="sdcard_busy_title_nosdcard" msgid="1162763571147174655">USB storage unavailable</string>
+    <string msgid="1162763571147174655" name="sdcard_busy_title_nosdcard">USB storage unavailable</string>
     <!-- label underneath icon used to indicate sd card is mounted to your computer via USB -->
     <string name="sdcard_busy_message">Sorry, your SD card is busy.</string>
     <!-- label underneath icon used to indicate sd card is mounted to your computer via USB -->
-    <string name="sdcard_busy_message_nosdcard" msgid="8071868348072728830">Sorry, your USB storage is busy.</string>
+    <string msgid="8071868348072728830" name="sdcard_busy_message_nosdcard">Sorry, your USB storage is busy.</string>
     <!-- Title of screen when there was an error accessing the sd card -->
     <string name="sdcard_error_title">SD card error</string>
     <!-- Title of screen when there was an error accessing the sd card -->
-    <string name="sdcard_error_title_nosdcard" msgid="165682155008600643">USB storage error</string>
+    <string msgid="165682155008600643" name="sdcard_error_title_nosdcard">USB storage error</string>
     <!-- label underneath icon used to indicate there was an error accessing the sd card -->
     <string name="sdcard_error_message">An error was encountered on your SD card.</string>
     <!-- label underneath icon used to indicate there was an error accessing the sd card -->
-    <string name="sdcard_error_message_nosdcard" msgid="4574563894036627855">An error was encountered on your USB storage.</string>
+    <string msgid="4574563894036627855" name="sdcard_error_message_nosdcard">An error was encountered on your USB storage.</string>
     <!-- Default name of artist that doesn't have a name in the metadata -->
     <string name="unknown_artist_name">Unknown artist</string>
     <!-- Default name of album that doesn't have a name in the metadata -->
@@ -193,7 +192,7 @@
     <!-- Menu item -->
     <string name="ringtone_menu_short">Use as ringtone</string>
     <!-- Toast after setting a song as phone ringtone -->
-    <string name="ringtone_set">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" set as phone ringtone.</string>
+    <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
     <!-- Context menu item -->
     <string name="play_selection">Play</string>
     <!-- Context menu item -->
@@ -203,13 +202,13 @@
     <!-- Context menu item -->
     <string name="new_playlist">New</string>
     <!-- Template for newly created playlist name -->
-    <string name="new_playlist_name_template">New playlist <xliff:g id="number">%d</xliff:g></string>
+    <string name="new_playlist_name_template">New playlist %d</string>
     <!-- Toasts after adding song(s) to playlists -->
     <plurals name="NNNtrackstoplaylist">
         <!-- message shown when one song was added -->
         <item quantity="one">1 song added to playlist.</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs added to playlist.</item>
+        <item quantity="other">%d songs added to playlist.</item>
     </plurals>
     <!-- Toast after selecting an empty playlist -->
     <string name="emptyplaylist">Selected playlist is empty.</string>
@@ -243,13 +242,13 @@
     <string name="weekpicker_set">Done</string>
     <!-- Title of time span picker -->
     <string name="weekpicker_title">Set time</string>
-    <!-- Do not translate. Background color for currently dragged item in playlist edit mode. -->
+    
     <color name="dragndrop_background">#e0103010</color>
-    <!-- Do not translate. Background color for albums in the artists list view. -->
+    
     <color name="expanding_child_background">#ff404040</color>
 
     <!-- menu item to save the current list as a new playlist -->
-    <string name="save_as_playlist">Save as playlist</string>
+    
     <!-- menu item to clear the current playlist -->
     <string name="clear_playlist">Clear playlist</string>
 
@@ -274,19 +273,19 @@
     <string name="remove_from_playlist">Remove from playlist</string>
 
     <!-- shown when connecting to a music stream, before it starts playing -->
-    <string name="streamloadingtext">Connecting to <xliff:g id="host">%s</xliff:g></string>
+    <string name="streamloadingtext">Connecting to %s</string>
 
     <!-- title of contextual music search menu -->
-    <string name="mediasearch">Search for <xliff:g id="term" example="Beethoven">%s</xliff:g> using:</string>
+    <string name="mediasearch">Search for %s using:</string>
 
     <!-- Shown in the title bar while the list of artists is being retrieved in the background -->
-    <string name="working_artists">Artists\u2026</string>
+    <string name="working_artists">Artists…</string>
     <!-- Shown in the title bar while the list of albums is being retrieved in the background -->
-    <string name="working_albums">Albums\u2026</string>
+    <string name="working_albums">Albums…</string>
     <!-- Shown in the title bar while the list of songs is being retrieved in the background -->
-    <string name="working_songs">Songs\u2026</string>
+    <string name="working_songs">Songs…</string>
     <!-- Shown in the title bar while the list of playlists is being retrieved in the background -->
-    <string name="working_playlists">Playlists\u2026</string>
+    <string name="working_playlists">Playlists…</string>
 
     <!-- Shown in the music picker while loading the music database. -->
     <string name="loading">Loading</string>
@@ -300,7 +299,7 @@
     <string name="music_picker_title">Select music track</string>
 
     <!-- Title for track number in music gadget -->
-    <string name="gadget_track">Track <xliff:g id="track_number">%d</xliff:g></string>
+    <string name="gadget_track">Track %d</string>
 
     <!-- Toast after streamStarter activity receives PLAYBACK_COMPLETE in case of an error -->
     <string name="fail_to_start_stream">Failed to play the requested stream.</string>
@@ -312,7 +311,7 @@
     <string name="search_hint">Search Music</string>
 
     <!--The fast scroll thumb will show one character from this string depending on the position in the list -->
-    <string name="fast_scroll_alphabet">\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
 
     <!-- Text shown on widget when first loaded -->
     <string name="widget_initial_text">Touch to select music.</string>
@@ -320,4 +319,3 @@
     <!-- Menu text for the item controlling the audio effects panel [CHAR LIMIT=15] -->
     <string name="effectspanel">Sound effects</string>
 </resources>
-

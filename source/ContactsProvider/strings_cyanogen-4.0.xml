@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2009 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,9 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:android="http://schemas.android.com/apk/res/android"
-           xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2" android="http://schemas.android.com/apk/res/android">
     <!-- Label for this app's shared user ID (and thus for all other
          apps sharing the uid). -->
     <string name="sharedUserLabel">Android Core Apps</string>
@@ -49,8 +47,7 @@
     <string name="read_write_all_voicemail_label">Access all voicemails</string>
     <!-- Description of an application permission, listed so the user can choose whether
          they want to allow the application to do this. [CHAR LIMIT=NONE] -->
-    <string name="read_write_all_voicemail_description">Allows the application to store and retrieve
-        all voicemails that this device can access.</string>
+    <string name="read_write_all_voicemail_description">Allows the application to store and retrieve all voicemails that this device can access.</string>
 
     <!-- The prefix string before the number used for the display name for the voicemail table.
          Because of the way this is combined in SQL we can't allow a generic format string.

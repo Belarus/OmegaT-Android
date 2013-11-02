@@ -16,8 +16,7 @@
  * limitations under the License.
  */
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title of the feed synchronization activity. -->
     <string name="app_label">Account and Sync Settings</string>
     <!-- Sync settings -->
@@ -46,7 +45,7 @@
     <!-- Data synchronization settings screen, menu option -->
     <string name="sync_menu_sync_cancel">Cancel sync</string>
     <!-- Data synchronization settings screen, summary of a sync provider (for example, Gmail) when autosync is off and the user wants to do a one-time sync. -->
-    <string name="sync_one_time_sync">Touch to sync now<xliff:g id="last_sync_time">\n%1$s</xliff:g></string>
+    <string name="sync_one_time_sync">Touch to sync now\n%1$s</string>
     <!-- Data synchronization settings screen, checkbox setting option name. Controls whether Gmail should be synced.  Should use "Gmail" to refer to this app.-->
     <string name="sync_gmail">Gmail</string>
     <!-- Data synchronization settings screen, checkbox setting option name. Controls whether Calendar shoudl be synced. -->
@@ -54,7 +53,7 @@
     <!-- Data synchronization settings screen, checkbox setting option name -->
     <string name="sync_contacts">Contacts</string>
     <!-- Dialog message for when there are too many deletes that would take place and we want user confirmation -->
-    <string name="sync_too_many_deletes_desc">There are <xliff:g id="number_of_deleted_items">%1$d</xliff:g> deleted items for <xliff:g id="type_of_sync">%2$s</xliff:g>, account <xliff:g id="account_name">%3$s</xliff:g>. What would you like to do?</string>
+    <string name="sync_too_many_deletes_desc">There are %1$d deleted items for %2$s, account %3$s. What would you like to do?</string>
     <!-- Dialog action for when there are too many deletes that would take place and we want user confirmation, and the user wants to delete the items -->
     <string name="sync_really_delete">Delete the items.</string>
     <!-- Dialog action for when there are too many deletes that would take place and we want user confirmation, and the user wants to undo the deletions -->
@@ -64,22 +63,20 @@
     <!-- Message when sync is currently failing -->
     <string name="sync_is_failing">Sync is currently experiencing problems. It will be back shortly.</string>
     <!-- Message introducing the user to Google Sync. -->
-    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font>
-    \nA Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are.
-    </string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font> \nA Google approach to synchronizing data to allow access to your contacts, appointments, and more from wherever you are. </string>
 
     <!-- TODO: Remove -->
     <!-- Header title for those settings relating to application syncing. -->
     <string name="header_application_sync_settings">Application sync settings</string>
     <!-- TODO: end -->
 
-    <!-- Accounts & Synchronization settings --><skip/>
+    <!-- Accounts & Synchronization settings --><skip></skip>
     <!-- Header title for list of accounts on Accounts & Synchronization settings -->
     <string name="header_manage_accounts">Manage accounts</string>
     <!-- Header title for those settings relating to general syncing. -->
     <string name="header_general_sync_settings">General sync settings</string>
 
-    <!-- Sync status messages on Accounts & Synchronization settings --><skip/>
+    <!-- Sync status messages on Accounts & Synchronization settings --><skip></skip>
     <!-- Sync status shown when sync is enabled -->
     <string name="sync_enabled">Sync is ON</string>
     <!-- Sync status shown when sync is disabled -->
@@ -104,14 +101,13 @@
     <!-- Title of remove message for remove account dialog -->
     <string name="really_remove_account_title">Remove account</string>
     <!-- Remove account message in dialog -->
-    <string name="really_remove_account_message">Do you really want to remove this account? Removing it will also delete all of its messages, contacts, and other data from the phone.
-    \nProceed?</string>
+    <string name="really_remove_account_message">Do you really want to remove this account? Removing it will also delete all of its messages, contacts, and other data from the phone. \nProceed?</string>
     <!-- This is shown if the autheticator for a given account fails to remove it. -->
     <string name="remove_account_failed">This account is required by some applications. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data). You do that in the Settings application, under Privacy.</string>
     <!-- What to show in messaging that refers to this provider, e.g. AccountSyncSettings -->
     <string name="provider_label">Push subscriptions</string>
     <!-- Formatter in AccountSyncSettings for each application we wish to synchronize, e.g. "Sync Calendar" -->
-    <string name="sync_item_title">Sync <xliff:g id="authority" example="Calendar">%s</xliff:g></string>
+    <string name="sync_item_title">Sync %s</string>
     <!-- Title of dialog shown when you can't manually sync an item because it's disabled -->
     <string name="cant_sync_dialog_title">Cannot manually sync</string>
     <!-- Messaage shown in dialog when you can't manually sync -->

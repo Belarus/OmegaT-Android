@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="expiration_month_first">true</string>
     <string name="application_name">Market</string>
@@ -136,7 +136,7 @@
     <string name="unhelpful">Unhelpful</string>
     <string name="mark_as_spam">Mark this as spam</string>
     <string name="mark_as_spam_confirmation_dialog">Notify Market this comment is spam.</string>
-    <string name="info_version_size">Version %1$s   %2$s</string>
+    <string name="info_version_size">Version %1$s %2$s</string>
     <string name="info_downloadcount_label">%1$s downloads</string>
     <string name="nocomments">No comments</string>
     <string name="info_read_all_comments">Read all comments</string>
@@ -304,7 +304,7 @@
     <string name="details">Details</string>
     <string name="rate_it">Rate it!</string>
     <string name="post_comment">Post comment</string>
-    <string name="download_progress_size">&lt;b&gt;^1%&lt;/b&gt;   ^2/^3</string>
+    <string name="download_progress_size">&lt;b&gt;^1%&lt;/b&gt; ^2/^3</string>
     <string name="no_featured_apps">No featured apps available.</string>
     <string name="no_sub_categories">No categories available.</string>
     <string name="unrated">Unrated</string>

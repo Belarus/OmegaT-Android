@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="address_data_loading">Loading…</string>
     <string name="i18n_country_label">Country</string>

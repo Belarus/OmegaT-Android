@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cancel">Cancel</string>
     <string name="copy">Copy</string>
@@ -683,7 +683,7 @@
     <string name="factorytest_not_system">The FACTORY_TEST action is only supported for packages installed in /system/app.</string>
     <string name="factorytest_no_action">No package was found that provides the FACTORY_TEST action.</string>
     <string name="factorytest_reboot">Reboot</string>
-    <string name="web_user_agent">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</string>
+    
     <string name="js_dialog_title">The page at \'%s\' says:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">Navigate away from this page?\n\n%s\n\nSelect OK to continue, or Cancel to stay on the current page.</string>
@@ -786,7 +786,7 @@
     <string name="ringtone_silent">Silent</string>
     <string name="ringtone_picker_title">Ringtones</string>
     <string name="ringtone_unknown">Unknown ringtone</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+    
     <string name="select_character">Insert character</string>
     <string name="sms_control_default_app_name">Unknown application</string>
     <string name="sms_control_title">Sending SMS messages</string>
@@ -795,7 +795,7 @@
     <string name="sms_control_no">Cancel</string>
     <string name="date_time_set">Set</string>
     <string name="default_permission_group">Default</string>
-    <string name="permissions_format">%1$s, %2$s</string>
+    
     <string name="no_permissions">No permissions required</string>
     <string name="perms_hide"><b>Hide</b></string>
     <string name="perms_show_all"><b>Show all</b></string>
@@ -821,7 +821,7 @@
     <string name="extmedia_format_button_format">Format</string>
     <string name="adb_active_notification_title">USB debugging connected</string>
     <string name="adb_active_notification_message">Select to disable USB debugging.</string>
-    <string name="locale_replacement"></string>
+    
     <string name="select_input_method">Select input method</string>
     <string name="fast_scroll_alphabet"> ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="fast_scroll_numeric_alphabet"> 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
@@ -867,7 +867,7 @@
     <string name="accessibility_binding_label">Accessibility</string>
     <string name="wallpaper_binding_label">Wallpaper</string>
     <string name="chooser_wallpaper">Change wallpaper</string>
-    <string name="alternate_eri_file">/data/eri.xml</string>
+    
     <string name="pptp_vpn_description">Point-to-Point Tunneling Protocol</string>
     <string name="l2tp_vpn_description">Layer 2 Tunneling Protocol</string>
     <string name="l2tp_ipsec_psk_vpn_description">Pre-shared key based L2TP/IPSec VPN</string>

@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General strings -->
 
     <!-- title for the dialog showing the error of camera hardware -->
@@ -36,27 +35,27 @@
     <string name="gallery_camera_videos_bucket_name">Camera videos</string>
 
     <!-- alert to the user to wait for some operation to complete -->
-    <string name="wait">Please wait\u2026</string>
+    <string name="wait">Please wait…</string>
 
     <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-    <string name="no_storage" product="nosdcard">Please mount USB storage before using the camera.</string>
+    <string product="nosdcard" name="no_storage">Please mount USB storage before using the camera.</string>
     <!-- alert to the user that an SD card must be installed before using the camera -->
-    <string name="no_storage" product="default">Please insert an SD card before using the camera.</string>
+    <string product="default" name="no_storage">Please insert an SD card before using the camera.</string>
 
     <!-- alert to the user that the USB storage is too full to complete the operation [CHAR LIMIT=NONE] -->
-    <string name="not_enough_space" product="nosdcard">Your USB storage is full.</string>
+    <string product="nosdcard" name="not_enough_space">Your USB storage is full.</string>
     <!-- alert to the user that the SD card is too full to complete the operation -->
-    <string name="not_enough_space" product="default">Your SD card is full.</string>
+    <string product="default" name="not_enough_space">Your SD card is full.</string>
 
     <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-    <string name="preparing_sd" product="nosdcard">Preparing USB storage\u2026</string>
+    <string product="nosdcard" name="preparing_sd">Preparing USB storage…</string>
     <!-- alert to the user that the SD card is being disk-checked -->
-    <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
+    <string product="default" name="preparing_sd">Preparing SD card…</string>
 
     <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-    <string name="access_sd_fail" product="nosdcard">Failed to access USB storage.</string>
+    <string product="nosdcard" name="access_sd_fail">Failed to access USB storage.</string>
     <!-- alert to the user that the camera fails to read or write the SD card. -->
-    <string name="access_sd_fail" product="default">Fail to access SD card.</string>
+    <string product="default" name="access_sd_fail">Fail to access SD card.</string>
 
     <!-- Settings stuff -->
 
@@ -116,7 +115,7 @@
     <!-- Settings screen, camera selection dialog title. Users can select a camera from the phone (front-facing or back-facing). [CHAR LIMIT=20] -->
     <string name="pref_camera_id_title">Select camera</string>
 
-    <string name="pref_camera_id_default" translatable="false">0</string>
+    
 
     <!-- In select camera setting, back facing camera. [CHAR LIMIT=14] -->
     <string name="pref_camera_id_entry_back">Back</string>
@@ -126,7 +125,7 @@
     <!-- Settings screen, setting title text -->
     <string name="pref_camera_recordlocation_title">Store location</string>
 
-    <string name="pref_camera_recordlocation_default" translatable="false">none</string>
+    
 
     <!-- Settings screen, Record location dialog choices -->
     <string name="pref_camera_recordlocation_entry_off">Off</string>
@@ -134,7 +133,7 @@
 
     <!-- The Video length settings in preference -->
     <string name="pref_video_quality_title">Video quality</string>
-    <string name="pref_video_quality_default" translatable="false">hd</string>
+    
     <string name="pref_video_quality_entry_hd">HD (30m)</string>
     <string name="pref_video_quality_entry_wide">Wide (30m)</string>
     <string name="pref_video_quality_entry_high">High (30m)</string>
@@ -171,14 +170,14 @@
     <string name="pref_camera_picturesize_entry_1024x768">XGA</string>
     <string name="pref_camera_picturesize_entry_800x600">SVGA</string>
     <string name="pref_camera_picturesize_entry_800x480">WVGA</string>
-    <string name="pref_camera_picturesize_entry_640x480">VGA</string>
+    
     <string name="pref_camera_picturesize_entry_352x288">CIF</string>
-    <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
+    
     <string name="pref_camera_picturesize_entry_176x144">QCIF</string>
 
     <!-- Default picture quality setting. See
          pref_camera_jpegquality_entryvalues for possible values -->
-    <string name="pref_camera_jpegquality_default" translatable="false">superfine</string>
+    
 
     <!-- Settings screen, Picture quality title -->
     <string name="pref_camera_jpegquality_title">Picture quality</string>
@@ -235,7 +234,7 @@
 <!-- ********************** -->
 
     <!-- Default focus mode setting.-->
-    <string name="pref_camera_focusmode_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, Focus mode title -->
     <string name="pref_camera_focusmode_title">Focus mode</string>
@@ -250,10 +249,10 @@
     <string name="pref_camera_focusmode_entry_facedetect">Facedetect</string>
 
     <!-- Default flash mode setting.-->
-    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    
 
     <!-- Value for flash off setting-->
-    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
+    
 
     <!-- Settings screen, Capture mode title -->
     <string name="pref_camera_capturemode_title">Capture mode</string>
@@ -279,10 +278,10 @@
     <string name="pref_camera_flashmode_entry_off">Off</string>
 
     <!-- Default videocamera flash mode setting.-->
-    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+    
 
     <!-- Default white balance setting. -->
-    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, white balance title -->
     <string name="pref_camera_whitebalance_title">White balance</string>
@@ -296,7 +295,7 @@
     <string name="pref_camera_whitebalance_entry_cloudydaylight">Cloudy-Daylight</string>
 
     <!-- Default color effect setting. -->
-    <string name="pref_camera_coloreffect_default" translatable="false">none</string>
+    
 
     <!-- Settings screen, Select Color effect title -->
     <string name="pref_camera_coloreffect_title">Color effect</string>
@@ -355,7 +354,7 @@
     <string name="pref_camera_saturation_title">Saturation</string>
 
     <!-- Default scene mode setting. -->
-    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, Select Scene mode -->
     <string name="pref_camera_scenemode_title">Scene mode</string>
@@ -407,7 +406,7 @@
 
     <!-- Exposure settings in preference -->
     <string name="pref_exposure_title">Exposure</string>
-    <string name="pref_exposure_default" translatable="false">0</string>
+    
 
     <!-- Framing grid settings in preference -->
 
@@ -447,15 +446,15 @@
          is to be sent to another application. -->
 
     <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-    <string name="spaceIsLow_content" product="nosdcard">Your USB storage is running out of space. Change the quality setting or delete some images or other files.</string>
+    <string product="nosdcard" name="spaceIsLow_content">Your USB storage is running out of space. Change the quality setting or delete some images or other files.</string>
     <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
-    <string name="spaceIsLow_content" product="default">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
+    <string product="default" name="spaceIsLow_content">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
 
     <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
-    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
-    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- The messsage shown when video record reaches size limit. -->
     <string name="video_reach_size_limit">Size limit reached.</string>
@@ -466,8 +465,8 @@
     <string name="switch_to_camera_lable">Switch to camera</string>
     <string name="switch_to_video_lable">Switch to video</string>
 
-     <!-- Default iso setting. Do not translate. -->
-     <string name="pref_camera_iso_default" translatable="false">auto</string>
+     
+     
 
      <!-- Settings screen, Select Iso title -->
      <string name="pref_camera_iso_title">ISO</string>
@@ -481,17 +480,17 @@
      <string name="pref_camera_iso_entry_iso800">ISO800</string>
      <string name="pref_camera_iso_entry_iso1250">ISO1250</string>
 
-     <!-- ISO entry values. Do not translate. -->
-     <string name="pref_camera_iso_value_auto" translatable="false">auto</string>
-     <string name="pref_camera_iso_value_isodeblur" translatable="false">deblur</string>
-     <string name="pref_camera_iso_value_iso100" translatable="false">100</string>
-     <string name="pref_camera_iso_value_iso200" translatable="false">200</string>
-     <string name="pref_camera_iso_value_iso400" translatable="false">400</string>
-     <string name="pref_camera_iso_value_iso800" translatable="false">800</string>
-     <string name="pref_camera_iso_value_iso1250" translatable="false">1250</string>
+     
+     
+     
+     
+     
+     
+     
+     
 
-     <!-- Default auto lens shading setting. Do not translate. -->
-     <string name="pref_camera_lensshading_default" translatable="false">enable</string>
+     
+     
 
      <!-- Settings screen, Select lens shading title -->
      <string name="pref_camera_lensshading_title">Lens shading</string>
@@ -500,15 +499,15 @@
      <string name="pref_camera_lensshading_entry_enable">Enable</string>
      <string name="pref_camera_lensshading_entry_disable">Disable</string>
 
-     <!-- Lens shading entry values. Do not translate. -->
-     <string name="pref_camera_lensshading_value_enable" translatable="false">enable</string>
-     <string name="pref_camera_lensshading_value_disable" translatable="false">disable</string>
+     
+     
+     
 
      <!-- Settings screen, Anti Banding title -->
      <string name="pref_camera_antibanding_title">Flicker reduction</string>
 
-     <!-- Default Anti Banding setting. Do not translate. -->
-     <string name="pref_camera_antibanding_default" translatable="false">auto</string>
+     
+     
 
      <!-- Settings screen, Anti Banding entries -->
      <string name="pref_camera_antibanding_entry_0">Off</string>
@@ -516,8 +515,8 @@
      <string name="pref_camera_antibanding_entry_2">60 Hz</string>
      <string name="pref_camera_antibanding_entry_3">Auto</string>
 
-     <!-- Default auto exposure setting. Do not translate. -->
-     <string name="pref_camera_autoexposure_default" translatable="false">meter-center</string>
+     
+     
 
      <!-- Settings screen, Select auto exposure title -->
      <string name="pref_camera_autoexposure_title">Metering mode</string>
@@ -528,10 +527,10 @@
      <string name="pref_camera_autoexposure_entry_spotmetering">Spot metering</string>
      <string name="pref_camera_autoexposure_entry_matrixmetering">Matrix metering</string>
 
-     <!-- Auto exposure entry values. Do not translate. -->
-     <string name="pref_camera_autoexposure_value_frameaverage" translatable="false">meter-average</string>
-     <string name="pref_camera_autoexposure_value_centerweighted" translatable="false">meter-center</string>
-     <string name="pref_camera_autoexposure_value_spotmetering" translatable="false">meter-spot</string>
-     <string name="pref_camera_autoexposure_value_matrixmetering" translatable="false">meter-matrix</string>
+     
+     
+     
+     
+     
 
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="additional_system_update"></string>
     <string name="additional_system_update_menu"></string>
@@ -51,7 +51,7 @@
     <string name="small_font">Small</string>
     <string name="medium_font">Medium</string>
     <string name="large_font">Large</string>
-    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
+    
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">SD card</string>
     <string name="battery_info_status_label">Battery status:</string>
@@ -146,7 +146,7 @@
     <string name="date_time_12_hour_sample">1:00 pm</string>
     <string name="date_time_24_hour_sample">13:00</string>
     <string name="choose_timezone">Choose time zone</string>
-    <string name="default_date_format">MM/dd/yyyy</string>
+    
     <string name="normal_date_format">Regional (%s)</string>
     <string name="display_preview_label">Preview:</string>
     <string name="display_font_size_label">Font size:</string>
@@ -159,7 +159,7 @@
     <string name="proxy_settings_title">Proxy settings</string>
     <string name="proxy_clear_text">Clear</string>
     <string name="proxy_port_label">Proxy port</string>
-    <string name="proxy_port_hint">8080</string>
+    
     <string name="proxy_exclusionlist_label">Bypass proxy for</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_defaultView_text">Restore defaults</string>
@@ -225,7 +225,7 @@
     <string name="next_label">Next</string>
     <string name="language_picker_title">Language</string>
     <string name="activity_picker_label">Choose activity</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
+    
     <string name="device_info_label">Device info</string>
     <string name="battery_info_label">Battery info</string>
     <string name="display_label">Screen</string>
@@ -489,7 +489,7 @@
     <string name="wifi_status">Status</string>
     <string name="wifi_speed">Link speed</string>
     <string name="wifi_ip_address">IP address</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
+    
     <string name="wifi_eap_method">EAP method</string>
     <string name="please_select_phase2">Phase 2 authentication</string>
     <string name="wifi_eap_ca_cert">CA certificate</string>
@@ -510,17 +510,17 @@
     <string name="wifi_wps_available_second_item"> (WPS available)</string>
     <string name="wifi_secured_first_item">Secured with %1$s</string>
     <string name="wifi_secured_second_item">, secured with %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
+    
+    
+    
+    
+    
     <string name="wifi_security_none">None</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
+    
+    
+    
+    
+    
     <string name="wifi_connect">Connect</string>
     <string name="wifi_failed_connect_message">Failed to connect to network</string>
     <string name="wifi_forget">Forget</string>
@@ -542,13 +542,13 @@
     <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
     <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
+    
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">4.4.4.4</string>
+    
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
+    
     <string name="wifi_network_prefix_length">Network prefix length</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
+    
     <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_device_info">Device information</string>
     <string name="wifi_p2p_persist_network">Remember this connection</string>
@@ -569,34 +569,34 @@
     <string name="wifi_tether_configure_ap_text">Set up Wi-Fi hotspot</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s portable Wi-Fi hotspot</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="testing_wifi_info">Wi-Fi information</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_status_test">Wi-Fi status</string>
-    <string name="wifi_update">Refresh stats</string>
-    <string name="wifi_state_label">Wi-Fi state:</string>
-    <string name="network_state_label">Network state:</string>
-    <string name="supplicant_state_label">Supplicant state:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">Hidden SSID:</string>
-    <string name="ipaddr_label">IPaddr:</string>
-    <string name="macaddr_label">MAC addr:</string>
-    <string name="networkid_label">Network ID:</string>
-    <string name="link_speed_label">Link speed:</string>
-    <string name="scan_list_label">Scan results:</string>
-    <string name="wifi_state_disabling">Disabling</string>
-    <string name="wifi_state_disabled">Disabled</string>
-    <string name="wifi_state_enabling">Enabling</string>
-    <string name="wifi_state_enabled">Enabled</string>
-    <string name="wifi_state_unknown">Unknown</string>
-    <string name="wifi_config_info">Wi-Fi config</string>
-    <string name="config_list_label">Configured networks</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Sound</string>
     <string name="ringtone_title">Phone ringtone</string>
@@ -665,7 +665,7 @@
     <string name="screensaver_activate_on_dock_title">Also start when docked</string>
     <string name="automatic_brightness">Automatic brightness</string>
     <string name="title_font_size">Font size</string>
-    <string name="summary_font_size">%1$s</string>
+    
     <string name="dialog_title_font_size">Font size</string>
     <string name="sim_lock_settings">SIM card lock settings</string>
     <string name="sim_lock_settings_category">Set up SIM card lock</string>
@@ -704,8 +704,8 @@
     <string name="storage_settings">Storage</string>
     <string name="storage_settings_title">Storage settings</string>
     <string name="storage_settings_summary">Unmount SD card, view available storage</string>
-    <string name="status_imei">IMEI</string>
-    <string name="status_imei_sv">IMEI SV</string>
+    
+    
     <string name="status_number">My phone number</string>
     <string name="status_min_number">MIN</string>
     <string name="status_msid_number">MSID</string>
@@ -1104,7 +1104,7 @@
     <string name="testing">Testing</string>
     <string name="testing_phone_info">Phone information</string>
     <string name="testing_battery_info">Battery information</string>
-    <string name="testing_sim_toolkit">SIM toolkit</string>
+    
     <string name="quick_launch_title">Quick launch</string>
     <string name="quick_launch_summary">Set keyboard shortcuts to launch apps</string>
     <string name="quick_launch_assign_application">Assign app</string>
@@ -1207,7 +1207,7 @@
     <string name="awake">Device awake time</string>
     <string name="wifi_on_time">Wi-Fi on time</string>
     <string name="bluetooth_on_time">Wi-Fi on time</string>
-    <string name="usage_name_percent">%1$s -  %2$s%%</string>
+    <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="history_details_title">History details</string>
     <string name="details_title">Use details</string>
     <string name="details_subtitle">Use details</string>
@@ -1396,7 +1396,7 @@
     <string name="wifi_setup_eap_not_supported">You can\'t configure an EAP Wi-Fi connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks.</string>
     <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
     <string name="wifi_setup_description_connected">Touch <b>Next</b> to continue with setup.\n\nTouch <b>Back</b> to connect to a different Wi-Fi network.</string>
-    <string name="time_zone_auto_stub">Select Time Zone</string>
+    
     <string name="accessibility_sync_enabled">Sync enabled</string>
     <string name="accessibility_sync_disabled">Sync disabled</string>
     <string name="accessibility_sync_error">Sync error.</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="word_separators">. ,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|\"</string>
     <string name="sentence_separators">.,;:!?</string>
@@ -34,9 +34,9 @@
     <string name="show_suggestions_summary">Display suggested words while typing</string>
     <string name="auto_complete">Auto-complete</string>
     <string name="auto_complete_summary">Spacebar and punctuation automatically insert highlighted word</string>
-    <string name="prediction_none">0</string>
-    <string name="prediction_basic">1</string>
-    <string name="prediction_full">2</string>
+    
+    
+    
     <string name="added_word">%s : Saved</string>
     <string name="alternates_for_a">àáâãäåæ</string>
     <string name="alternates_for_e">èéêë</string>

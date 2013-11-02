@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_format_entries">
         <item>MM/DD/YYYY</item>
@@ -153,11 +153,7 @@
         <item>Disconnected</item>
         <item>Unsuccessful</item>
     </string-array>
-    <string-array name="wifi_ap_security">
-        <item>Open</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-    </string-array>
+    
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abs__action_bar_home_description">Navigate home</string>
     <string name="abs__action_bar_up_description">Navigate up</string>
@@ -84,8 +84,8 @@
     <string name="info_outdated_notification">outdated binary notification</string>
     <string name="info_changelog_summary">Display the changelog</string>
     <string name="use_global_settings">Use global settings</string>
-    <string name="notifications_enabled">    Notifications enabled</string>
-    <string name="logging_enabled">    Logging enabled</string>
+    <string name="notifications_enabled"> Notifications enabled</string>
+    <string name="logging_enabled"> Logging enabled</string>
     <string name="zero">0</string>
     <string name="one">1</string>
     <string name="two">2</string>
@@ -208,6 +208,6 @@
     <string name="malicious_app_write">requests permission to write to permissions provider</string>
     <string name="changelog_full_title">Changelog</string>
     <string name="changelog_title">What\'s New</string>
-    <string name="before_secret_code">*#*#</string>
-    <string name="after_secret_code">#*#*</string>
+    
+    
 </resources>

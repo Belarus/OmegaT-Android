@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="timezone_filters">
         <item>America</item>
@@ -157,11 +157,7 @@
         <item>Blocked</item>
         <item>Temporarily avoiding poor connection</item>
     </string-array>
-    <string-array name="wifi_ap_security">
-        <item>Open</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-    </string-array>
+    
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>

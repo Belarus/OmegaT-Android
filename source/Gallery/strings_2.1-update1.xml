@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Camera Error</string>
     <string name="cannot_connect_camera">Cannot connect to camera.</string>
@@ -65,19 +65,19 @@
     <string name="pref_gallery_size_title">Display size</string>
     <string name="pref_gallery_size_summary">Select the display size of pictures and videos</string>
     <string name="pref_gallery_size_dialogtitle">Picture size</string>
-    <string name="default_value_pref_gallery_size">1</string>
+    
     <string name="pref_gallery_sort_title">Sort order</string>
     <string name="pref_gallery_sort_summary">Select the sort order of pictures and videos</string>
     <string name="pref_gallery_sort_dialogtitle">Picture sort</string>
-    <string name="default_value_pref_gallery_sort">descending</string>
+    
     <string name="pref_gallery_slideshow_interval_title">Slideshow interval</string>
     <string name="pref_gallery_slideshow_interval_summary">Select how long each slide displays in the show</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle">Slideshow interval</string>
-    <string name="default_value_pref_gallery_slideshow_interval">2</string>
+    
     <string name="pref_gallery_slideshow_transition_title">Slideshow transition</string>
     <string name="pref_gallery_slideshow_transition_summary">Select the effect used when moving from one slide to the next</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle">Slideshow transition</string>
-    <string name="default_value_pref_gallery_slideshow_transition">0</string>
+    
     <string name="pref_gallery_slideshow_repeat_title">Repeat slideshow</string>
     <string name="pref_gallery_slideshow_repeat_summary">Play slideshow more than once</string>
     <string name="pref_gallery_slideshow_shuffle_title">Shuffle slides</string>

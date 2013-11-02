@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
 
-     <string-array name="tab_titles" translatable="false">
+     <string-array name="tab_titles">
         <item>@string/tab_recent</item>
         <item>@string/tab_artists</item>
         <item>@string/tab_albums</item>

@@ -17,7 +17,7 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title for Latin keyboard  -->
     <string name="english_ime_name">Android keyboard</string>
     <!-- Title for Latin keyboard settings activity / dialog -->
@@ -120,7 +120,7 @@
     <string name="bigram_prediction_summary">Use previous word also for prediction</string>
 
     <!-- Indicates that a word has been added to the dictionary -->
-    <string name="added_word"><xliff:g id="word">%s</xliff:g> : Saved</string>
+    <string name="added_word">%s : Saved</string>
 
     <!-- Label for soft enter key when it performs GO action.  Must be short to fit on key! [CHAR LIMIT=5] -->
     <string name="label_go_key">Go</string>
@@ -320,7 +320,7 @@
     <string name="select_language">Input languages</string>
 
     <!-- Add to dictionary hint -->
-    <string name="hint_add_to_dictionary">\u2190 Touch again to save</string>
+    <string name="hint_add_to_dictionary">← Touch again to save</string>
 
     <!-- Inform the user that a particular language has an available dictionary -->
     <string name="has_dictionary">Dictionary available</string>

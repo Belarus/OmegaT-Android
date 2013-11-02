@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="subtype_hu_ZZ">Hungarian (QUERTY)</string>
     <string name="config_default_keyboard_theme_index">5</string>
@@ -22,17 +22,17 @@
     <string name="auto_correction_threshold_mode_index_modest">1</string>
     <string name="auto_correction_threshold_mode_index_aggeressive">2</string>
     <string name="auto_correction_threshold_mode_index_very_aggeressive">3</string>
-    <string name="voice_mode_main">0</string>
-    <string name="voice_mode_symbols">1</string>
-    <string name="voice_mode_off">2</string>
-    <string name="english_ime_debug_settings">Android keyboard Debug settings</string>
-    <string name="prefs_debug_mode">Debug Mode</string>
+    
+    
+    
+    
+    
     <string name="prefs_force_non_distinct_multitouch">Force non-distinct multitouch</string>
-    <string name="layout_basic">Basic</string>
-    <string name="layout_high_contrast">Basic (High Contrast)</string>
-    <string name="layout_stone_bold">Stone (bold)</string>
-    <string name="layout_stone_normal">Stone (normal)</string>
-    <string name="layout_gingerbread">Gingerbread</string>
+    
+    
+    
+    
+    
     <string name="layout_ics">IceCreamSandwich</string>
     <string name="subtype_generic">%s</string>
     <string name="subtype_generic_qwerty">%s (QWERTY)</string>
@@ -46,9 +46,9 @@
     <string name="research_splash_content"></string>
     <string name="research_account_type"></string>
     <string name="research_allowed_account_domain"></string>
-    <string name="research_feedback_menu_option">Send feedback</string>
-    <string name="research_feedback_dialog_title">Send feedback</string>
-    <string name="research_feedback_hint">Enter your feedback here.</string>
+    
+    
+    
     <string name="research_feedback_empty_feedback_error_message">The feedback field must not be empty.</string>
     <string name="english_ime_name">Android Keyboard (AOSP)</string>
     <string name="spell_checker_service_name">Android Spell Checker (AOSP)</string>
@@ -163,25 +163,25 @@
     <string name="voice_input_modes_summary_off">Voice input is disabled</string>
     <string name="configure_input_method">Configure input methods</string>
     <string name="language_selection_title">Input languages</string>
-    <string name="research_do_not_log_this_session">Suspend logging</string>
-    <string name="research_enable_session_logging">Enable logging</string>
-    <string name="research_notify_session_log_deleting">Deleting session log</string>
-    <string name="research_notify_logging_suspended">Logging temporarily suspended. To disable permanently, go to Android Keyboard Settings</string>
-    <string name="research_notify_session_log_not_deleted">Session log NOT deleted</string>
-    <string name="research_notify_session_logging_enabled">Session logging enabled</string>
-    <string name="research_feedback_include_history_label">Include session history</string>
-    <string name="research_feedback_include_account_name_label">Include account name</string>
-    <string name="research_feedback_include_recording_label">Include recorded demonstration</string>
-    <string name="research_feedback_send">Send</string>
-    <string name="research_feedback_cancel">Cancel</string>
-    <string name="research_feedback_demonstration_instructions">Please demonstrate the issue you are writing about.\n\nWhen finished, select the \"Bug?\" button again.</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="send_feedback">Send feedback</string>
-    <string name="research_feedback_recording_failure">Recording cancelled due to timeout</string>
-    <string name="research_please_exit_feedback_form">Please exit the feedback dialog to access the research log menu</string>
-    <string name="research_splash_title">Warning</string>
-    <string name="research_logging_disabled">Logging Disabled</string>
-    <string name="research_log_uploader_name">Research Uploader Service</string>
-    <string name="research_log_replayer_name">Research Replayer Service</string>
+    
+    
+    
+    
+    
+    
     <string name="select_language">Input languages</string>
     <string name="hint_add_to_dictionary">Touch again to save</string>
     <string name="has_dictionary">Dictionary available</string>
@@ -227,16 +227,16 @@
     <string name="setup_start_action">Get started</string>
     <string name="setup_next_action">Next step</string>
     <string name="setup_steps_title">Setting up %s</string>
-    <string name="setup_step1_bullet">1</string>
+    
     <string name="setup_step1_title">Enable %s</string>
     <string name="setup_step1_instruction">Please check \"%s\" in your Language &amp; input settings. This will authorize it to run on your device.</string>
     <string name="setup_step1_finished_instruction">%s is already enabled in your Language &amp; input settings, so this step is done. On to the next one!</string>
     <string name="setup_step1_action">Enable in Settings</string>
-    <string name="setup_step2_bullet">2</string>
+    
     <string name="setup_step2_title">Switch to %s</string>
     <string name="setup_step2_instruction">Next, select \"%s\" as your active text-input method.</string>
     <string name="setup_step2_action">Switch input methods</string>
-    <string name="setup_step3_bullet">3</string>
+    
     <string name="setup_step3_title">Congratulations, you\'re all set!</string>
     <string name="setup_step3_instruction">Now you can type in all your favorite apps with %s.</string>
     <string name="setup_step3_action">Configure additional languages</string>
@@ -274,7 +274,7 @@
     <string name="dict_available_notification_description">Press to review and download</string>
     <string name="toast_downloading_suggestions">Downloading: suggestions for %1$s will be ready soon.</string>
     <string name="version_text">Version %1$s</string>
-    <string name="user_dict_settings_summary"></string>
+    
     <string name="user_dict_settings_add_menu_title">Add</string>
     <string name="user_dict_settings_add_dialog_title">Add to dictionary</string>
     <string name="user_dict_settings_add_screen_title">Phrase</string>

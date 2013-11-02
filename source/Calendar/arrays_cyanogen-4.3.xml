@@ -26,7 +26,7 @@
     </string-array>
 
     <!-- This maps reminder_methods_labels to internal constants. -->
-    <integer-array name="reminder_methods_values" translatable="false">
+    <integer-array name="reminder_methods_values">
         <item>1</item>  <!-- METHOD_ALERT -->
         <item>2</item>  <!-- METHOD_EMAIL -->
         <item>3</item>  <!-- METHOD_SMS -->
@@ -59,7 +59,7 @@
         <item>1 week</item>
     </string-array>
 
-    <integer-array name="reminder_minutes_values" translatable="false">
+    <integer-array name="reminder_minutes_values">
         <item>0</item>
         <item>1</item>
         <item>5</item>
@@ -102,7 +102,7 @@
         <item>1 week</item>
     </string-array>
 
-    <string-array name="preferences_default_reminder_values" translatable="false">
+    <string-array name="preferences_default_reminder_values">
         <item>"-1"</item>
         <item>"0"</item>
         <item>"1"</item>
@@ -129,7 +129,7 @@
         <item>Monday</item>
     </string-array>
 
-    <string-array name="preferences_week_start_day_values" translatable="false">
+    <string-array name="preferences_week_start_day_values">
         <item>"-1"</item>
         <item>"7"</item>
         <item>"1"</item>
@@ -145,7 +145,7 @@
     </string-array>
 
     <!-- This maps reminder_methods_labels to internal constants. -->
-    <integer-array name="availability_values" translatable="false">
+    <integer-array name="availability_values">
         <item>0</item>  <!-- Busy -->
         <item>1</item>  <!-- Available -->
         <item>2</item>  <!-- Tentative -->
@@ -177,15 +177,14 @@
     <!-- This is a list of choices displayed when the user deletes an event.
          It only is shown when deleting a recurring event.
     -->
-    <skip/>
+    <skip></skip>
     <string-array name="delete_repeating_labels">
         <item>Only this event</item>
         <item>This and future events</item>
         <item>All events</item>
     </string-array>
 
-    <!-- DO NOT TRANSLATE These values need to correspond to the indices
-         defined in DeleteEventHelper.java-->
+    
     <integer-array name="delete_repeating_values">
         <item>0</item>
         <item>1</item>
@@ -199,14 +198,14 @@
          code where you can't delete one instance of a repeating event that
          was created on the phone until that event has been synced to the server.
      -->
-    <skip/>
+    <skip></skip>
     <string-array name="delete_repeating_labels_no_selected">
         <item>This &amp; future events</item>
         <item>All events</item>
     </string-array>
 
     <!-- The corresponding array indices are defined in EventInfoActivity.java -->
-    <skip/>
+    <skip></skip>
     <!-- The list of choices displayed in a dialog box when the user wants to
     respond to an invitation that repeats. -->
     <string-array name="change_response_labels">
@@ -232,17 +231,17 @@
         <item>If declined or not responded</item>
     </string-array>
 
-    <string-array name="preferences_skip_reminders_values" translatable="false">
+    <string-array name="preferences_skip_reminders_values">
         <item>declined</item>
         <item>not_responded</item>
     </string-array>
 
     <!-- Recurrence picker: How events are to be repeated.  [CHAR LIMIT = 20] -->
     <string-array name="recurrence_freq">
-        <item >REPEAT DAILY</item>
-        <item >REPEAT WEEKLY</item>
-        <item >REPEAT MONTHLY</item>
-        <item >REPEAT YEARLY</item>
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
     </string-array>
 
     <!-- The following sets of strings describe a monthly recurring event, which will repeat
@@ -252,58 +251,58 @@
      -->
     <!-- Repeat a monthly event on the same nth day of every Sunday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_sun">
-        <item >on every first Sunday</item>
-        <item >on every second Sunday</item>
-        <item >on every third Sunday</item>
-        <item >on every fourth Sunday</item>
-        <item >on every last Sunday</item>
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Monday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_mon">
-        <item >on every first Monday</item>
-        <item >on every second Monday</item>
-        <item >on every third Monday</item>
-        <item >on every fourth Monday</item>
-        <item >on every last Monday</item>
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Tuesday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_tues">
-        <item >on every first Tuesday</item>
-        <item >on every second Tuesday</item>
-        <item >on every third Tuesday</item>
-        <item >on every fourth Tuesday</item>
-        <item >on every last Tuesday</item>
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Wednesday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_wed">
-        <item >on every first Wednesday</item>
-        <item >on every second Wednesday</item>
-        <item >on every third Wednesday</item>
-        <item >on every fourth Wednesday</item>
-        <item >on every last Wednesday</item>
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Thursday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_thurs">
-        <item >on every first Thursday</item>
-        <item >on every second Thursday</item>
-        <item >on every third Thursday</item>
-        <item >on every fourth Thursday</item>
-        <item >on every last Thursday</item>
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Friday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_fri">
-        <item >on every first Friday</item>
-        <item >on every second Friday</item>
-        <item >on every third Friday</item>
-        <item >on every fourth Friday</item>
-        <item >on every last Friday</item>
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
     </string-array>
     <!-- Repeat a monthly event on the same nth day of every Saturday. [CHAR LIMIT=30] -->
     <string-array name="repeat_by_nth_sat">
-        <item >on every first Saturday</item>
-        <item >on every second Saturday</item>
-        <item >on every third Saturday</item>
-        <item >on every fourth Saturday</item>
-        <item >on every last Saturday</item>
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
     </string-array>
 </resources>

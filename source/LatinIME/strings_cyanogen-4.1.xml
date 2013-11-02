@@ -17,7 +17,7 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title for Latin keyboard  -->
     <string name="english_ime_name">Android keyboard</string>
     <!-- Application name for opensource Android keyboard. AOSP(Android Open Source Project) should not be translated. -->
@@ -128,7 +128,7 @@
     <string name="bigram_prediction_summary">Use previous word also for prediction</string>
 
     <!-- Indicates that a word has been added to the dictionary -->
-    <string name="added_word"><xliff:g id="word">%s</xliff:g> : Saved</string>
+    <string name="added_word">%s : Saved</string>
 
     <!-- Label for soft enter key when it performs GO action.  Must be short to fit on key! [CHAR LIMIT=5] -->
     <string name="label_go_key">Go</string>
@@ -258,10 +258,10 @@
     <string name="subtype_hu_ZZ">Hungarian (QUERTY)</string>
     <!-- Description for English (United Kingdom) keyboard subtype with explicit keyboard layout [CHAR LIMIT=25]
          This should be identical to subtype_en_GB aside from the trailing (%s). -->
-    <string name="subtype_with_layout_en_GB">English (UK) (<xliff:g id="layout">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_en_GB">English (UK) (%s)</string>
     <!-- Description for English (United States) keyboard subtype with explicit keyboard layout [CHAR LIMIT=25]
          This should be identical to subtype_en_US aside from the trailing (%s). -->
-    <string name="subtype_with_layout_en_US">English (US) (<xliff:g id="layout">%s</xliff:g>)</string>
+    <string name="subtype_with_layout_en_US">English (US) (%s)</string>
     <!-- Description for language agnostic keyboard subtype [CHAR LIMIT=25] -->
     <string name="subtype_no_language">No language</string>
     <!-- Description for language agnostic QWERTY keyboard subtype [CHAR LIMIT=25] -->
@@ -298,7 +298,7 @@
     <!-- Title of the button to postpone enabling a custom input style entry in the settings dialog [CHAR LIMIT=15] -->
     <string name="not_now">Not now</string>
     <!-- Toast text to describe the same input style already exists [CHAR LIMIT=64]-->
-    <string name="custom_input_style_already_exists">"The same input style already exists: <xliff:g id="input_style_name">%s</xliff:g>"</string>
+    <string name="custom_input_style_already_exists">"The same input style already exists: %s"</string>
 
     <!-- Title of an option for usability study mode -->
     <string name="prefs_usability_study_mode">Usability study mode</string>

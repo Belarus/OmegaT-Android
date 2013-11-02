@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Sound Recorder</string>
     <string name="recording">Recording</string>
@@ -11,7 +11,7 @@
     <string name="accept">Done</string>
     <string name="discard">Discard</string>
     <string name="button_ok">OK</string>
-    <string name="timer_format">%02d:%02d</string>
+    
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="audio_db_album_name">Audio recordings</string>
     <string name="audio_db_playlist_name">My recordings</string>

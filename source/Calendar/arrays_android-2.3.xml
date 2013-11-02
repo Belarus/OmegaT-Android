@@ -13,7 +13,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
     <!-- Choices for the "Reminder minutes" spinner.
          These must be kept in sync with the reminder_minutes_values array.
@@ -36,7 +35,7 @@
         <item>1 week</item>
     </string-array>
 
-    <string-array name="reminder_minutes_values" translatable="false">
+    <string-array name="reminder_minutes_values">
         <item>"1"</item>
         <item>"5"</item>
         <item>"10"</item>
@@ -144,7 +143,7 @@
     </string-array>
 
     <!-- This list was taken from package/apps/Settings/res/xml/timezones.xml -->
-    <string-array name="timezone_values" translatable="false">
+    <string-array name="timezone_values">
         <item>"Pacific/Majuro"</item>
         <item>"Pacific/Midway"</item>
         <item>"Pacific/Honolulu"</item>
@@ -250,7 +249,7 @@
         <item>1 week</item>
     </string-array>
 
-    <string-array name="preferences_default_reminder_values" translatable="false">
+    <string-array name="preferences_default_reminder_values">
         <item>"0"</item>
         <item>"1"</item>
         <item>"5"</item>
@@ -275,7 +274,7 @@
         <item>Off</item>
     </string-array>
 
-    <string-array name="preferences_alert_type_values" translatable="false">
+    <string-array name="preferences_alert_type_values">
         <item>"0"</item>
         <item>"1"</item>
         <item>"2"</item>
@@ -314,7 +313,7 @@
     </string-array>
 
     <!-- The corresponding indices are defined in DeleteEventHelper.java -->
-    <skip />
+    <skip></skip>
     <string-array name="delete_repeating_labels">
         <item>Only this event</item>
         <item>This &amp; future events</item>
@@ -328,14 +327,14 @@
          code where you can't delete one instance of a repeating event that
          was created on the phone until that event has been synced to the server.
      -->
-    <skip />
+    <skip></skip>
     <string-array name="delete_repeating_labels_no_selected">
         <item>This &amp; future events</item>
         <item>All events</item>
     </string-array>
 
     <!-- The corresponding array indices are defined in EventInfoActivity.java -->
-    <skip />
+    <skip></skip>
     <!-- The list of choices displayed in a dialog box when the user wants to
     respond to an invitation that repeats. -->
     <string-array name="change_response_labels">

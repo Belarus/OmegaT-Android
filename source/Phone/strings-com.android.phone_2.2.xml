@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="contactsIconLabel">Contacts</string>
     <string name="contactsFavoritesLabel">Favorites</string>
@@ -56,7 +56,7 @@
     <string name="menu_answerAndEnd">End current call\n&amp; answer</string>
     <string name="ok">OK</string>
     <string name="menuButtonHint">Press Menu for call options.</string>
-    <string name="menuButtonKeyboardDialHint">Press Menu for call options  •  Use keyboard to dial</string>
+    <string name="menuButtonKeyboardDialHint">Press Menu for call options • Use keyboard to dial</string>
     <string name="menu_answer">Answer</string>
     <string name="menu_ignore">Ignore</string>
     <string name="wait_prompt_str">Send the following tones?\n</string>
@@ -350,9 +350,9 @@
     <string name="doneButton">Done</string>
     <string name="caller_manage_header">Conference call %s</string>
     <string name="caller_manage_manage_done_text">Back to call</string>
-    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
-    <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
-    <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
+    
+    
+    
     <string name="sim_missing_continueView_text">Continue without SIM card</string>
     <string name="sim_missing_msg_text">No SIM card found. Please insert a SIM card into the phone.</string>
     <string name="sim_unlock_dismiss_text">Dismiss</string>
@@ -460,7 +460,7 @@
     <string name="alert_dialog_yes">Yes</string>
     <string name="alert_dialog_no">No</string>
     <string name="alert_dialog_dismiss">Dismiss</string>
-    <string name="absent_num">ABSENT NUMBER</string>
+    
     <string name="voicemail_settings">Voicemail settings</string>
     <string name="voicemail_number_not_set">&lt;not set&gt;</string>
     <string name="voicemail_provider">Voicemail service</string>

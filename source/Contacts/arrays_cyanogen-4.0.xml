@@ -14,18 +14,15 @@
      limitations under the License.
 -->
 <resources>
-  <string-array name="t9_sort_entries"
-    translatable="false">
+  <string-array name="t9_sort_entries">
     <item>@string/t9_sort_name</item>
     <item>@string/t9_sort_number</item>
   </string-array>
-  <string-array name="t9_sort_values"
-    translatable="false">
+  <string-array name="t9_sort_values">
     <item>1</item>
     <item>2</item>
   </string-array>
-  <string-array name="t9_map"
-    translatable="false">
+  <string-array name="t9_map">
     <item>0</item>
     <item>1</item>
     <item>@string/t9_map_row_2</item>

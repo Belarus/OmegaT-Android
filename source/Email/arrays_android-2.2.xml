@@ -13,7 +13,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
 
     <!-- Do not change any of the values in this array without checking/changing -->
@@ -30,7 +29,7 @@
         <item>@string/account_setup_options_mail_check_frequency_1hour</item>
     </string-array>
 
-    <string-array name="account_settings_check_frequency_values" translatable="false">
+    <string-array name="account_settings_check_frequency_values">
         <item>-1</item>
         <item>5</item>
         <item>10</item>
@@ -51,7 +50,7 @@
         <item>@string/account_setup_options_mail_check_frequency_1hour</item>
     </string-array>
 
-    <string-array name="account_settings_check_frequency_values_push" translatable="false">
+    <string-array name="account_settings_check_frequency_values_push">
         <item>-2</item>
         <item>-1</item>
         <item>5</item>
@@ -73,7 +72,7 @@
 
     <!-- Mail sync window size codes for EAS accounts -->
     <!-- Note, "all" (value 6) is not presented in UI. -->
-    <string-array name="account_settings_mail_window_values" translatable="false">
+    <string-array name="account_settings_mail_window_values">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -92,7 +91,7 @@
     </string-array>
 
     <!-- The vibrate notification values -->
-    <string-array translatable="false" name="account_settings_vibrate_when_values">
+    <string-array name="account_settings_vibrate_when_values">
         <item>always</item>
         <item>silent</item>
         <item>never</item>
@@ -100,7 +99,7 @@
 
     <!-- Arrays "mailbox_display_names" and "mailbox_display_icons" MUST match the order
          of the types of mailboxes defined in EmailContent -->
-    <string-array name="mailbox_display_names" translatable="false">
+    <string-array name="mailbox_display_names">
         <!-- TYPE_INBOX = 0 -->
         <item>@string/mailbox_name_display_inbox</item>
         <!-- TYPE_MAIL = 1 -->
@@ -121,7 +120,7 @@
 
     <!-- Arrays "mailbox_display_names" and "mailbox_display_icons" MUST match the order
          of the types of mailboxes defined in EmailContent -->
-    <array name="mailbox_display_icons" translatable="false">
+    <array name="mailbox_display_icons">
         <!-- TYPE_INBOX = 0 -->
         <item>@drawable/ic_list_inbox</item>
         <!-- TYPE_MAIL = 1 -->

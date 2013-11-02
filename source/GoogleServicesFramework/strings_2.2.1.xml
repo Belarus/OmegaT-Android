@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="def_data_store_version">0</string>
     <string name="def_client_id">android-google</string>
@@ -224,7 +224,7 @@
     <string name="done_button_label_in_tutorial">Done</string>
     <string name="location_sharing_title">Use Google location</string>
     <string name="location_sharing_message">Google\'s location service provides applications with your approximate location without using GPS.</string>
-    <string name="location_disable_message">You can disable these features in Settings, under Location &amp; Security  and under Search.</string>
+    <string name="location_disable_message">You can disable these features in Settings, under Location &amp; Security and under Search.</string>
     <string name="yes_agree">Allow Google\'s location service to collect anonymous location data. Collection will occur even when no applications are running.</string>
     <string name="yes_agree_use_location">Use My Location for Google search results and other Google services.</string>
     <string name="backup_consent_title">Back up my settings</string>

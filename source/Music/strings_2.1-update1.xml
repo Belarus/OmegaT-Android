@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="onesong">1 song</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    
+    
     <string name="goto_start">Library</string>
     <string name="goto_playback">Playback</string>
     <string name="party_shuffle">Party shuffle</string>
@@ -69,7 +69,7 @@
     <string name="service_start_error_button">OK</string>
     <string name="weekpicker_set">Done</string>
     <string name="weekpicker_title">Set time</string>
-    <string name="save_as_playlist">Save as playlist</string>
+    
     <string name="clear_playlist">Clear playlist</string>
     <string name="musicbrowserlabel">Music</string>
     <string name="musicshortcutlabel">Music playlist</string>

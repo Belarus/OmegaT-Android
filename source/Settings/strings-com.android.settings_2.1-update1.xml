@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="yes">Yes</string>
     <string name="no">No</string>
@@ -40,7 +40,7 @@
     <string name="small_font">Small</string>
     <string name="medium_font">Medium</string>
     <string name="large_font">Large</string>
-    <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
+    
     <string name="font_size_save">OK</string>
     <string name="sdcard_setting">SD card</string>
     <string name="battery_info_status_label">Battery status:</string>
@@ -103,10 +103,10 @@
     <string name="bluetooth_ask_discovery">An application on your phone is requesting permission to make your phone discoverable by other Bluetooth devices for %1$d seconds. Do you want to do this?</string>
     <string name="bluetooth_ask_enablement_and_discovery">An application on your phone is requesting permission to turn on Bluetooth and to make your phone discoverable by other devices for %1$d seconds. Do you want to do this?</string>
     <string name="bluetooth_turning_on">Turning on Bluetooth…</string>
-    <string name="bluetooth_scan_text">Empty button…</string>
-    <string name="bluetooth_settings_text">Empty button…</string>
-    <string name="bluetooth_enable_text">Empty button…</string>
-    <string name="bluetooth_device_info_connectButton_text">Turn on Bluetooth</string>
+    
+    
+    
+    
     <string name="bluetooth_device_info_deviceInfo_text"></string>
     <string name="date_and_time">Date &amp; time settings</string>
     <string name="date_time_12_hour_sample">1:00 pm</string>
@@ -114,7 +114,7 @@
     <string name="date_time_changeTime_text">Change time</string>
     <string name="date_time_changeDate_text">Date</string>
     <string name="choose_timezone">Select time zone</string>
-    <string name="default_date_format">MM/dd/yyyy</string>
+    
     <string name="normal_date_format">Normal (%s)</string>
     <string name="display_preview_label">Preview:</string>
     <string name="display_font_size_label">Font size:</string>
@@ -186,7 +186,7 @@
     <string name="language_picker_title">Locale</string>
     <string name="select_your_language">Select your language</string>
     <string name="activity_picker_label">Select activity</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
+    
     <string name="device_info_label">Device info</string>
     <string name="battery_info_label">Battery info</string>
     <string name="battery_history_label">Battery history</string>
@@ -251,10 +251,10 @@
     <string name="bluetooth_pairing_device_down_error_message">Cannot establish communication with %1$s.</string>
     <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
     <string name="bluetooth_connecting_error_message">There was a problem connecting to %1$s.</string>
-    <string name="bluetooth_device_info_alias">Device alias</string>
-    <string name="bluetooth_device_info_no_alias">Type alias here…</string>
-    <string name="bluetooth_device_info_delete">Remove this device</string>
-    <string name="bluetooth_device_info_sdp">List supported services</string>
+    
+    
+    
+    
     <string name="bluetooth_preference_scan_title">Scan for devices</string>
     <string name="bluetooth_device_context_connect">Connect</string>
     <string name="bluetooth_device_context_disconnect">Disconnect</string>
@@ -300,9 +300,9 @@
     <string name="wifi_signal_0">Poor</string>
     <string name="security">Security</string>
     <string name="wifi_security_open">Open</string>
-    <string name="wifi_security_wep">WEP</string>
+    
     <string name="wifi_security_psk">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">Enterprise(802.1x)</string>
+    
     <string name="wifi_security_unknown">Unknown</string>
     <string name="wifi_security_verbose_open">open network</string>
     <string name="wifi_security_verbose_wep">secured with WEP</string>
@@ -481,8 +481,8 @@
     <string name="storage_settings">SD card &amp; phone storage</string>
     <string name="storage_settings_title">SD card &amp; phone storage settings</string>
     <string name="storage_settings_summary">Unmount SD card, view available storage</string>
-    <string name="status_imei">IMEI</string>
-    <string name="status_imei_sv">IMEI SV</string>
+    
+    
     <string name="status_number">My phone number</string>
     <string name="status_min_number">MIN</string>
     <string name="status_prl_version">PRL Version</string>
@@ -724,7 +724,7 @@
     <string name="testing_phone_info">Phone information</string>
     <string name="testing_battery_info">Battery information</string>
     <string name="testing_battery_history">Battery history</string>
-    <string name="testing_sim_toolkit">SIM toolkit</string>
+    
     <string name="quick_launch_title">Quick launch</string>
     <string name="quick_launch_summary">Set keyboard shortcuts to launch applications</string>
     <string name="quick_launch_assign_application">Assign application</string>
@@ -806,7 +806,7 @@
     <string name="awake">Device awake time</string>
     <string name="wifi_on_time">WiFi on time</string>
     <string name="bluetooth_on_time">WiFi on time</string>
-    <string name="usage_name_percent">%1$s -  %2$s%%</string>
+    <string name="usage_name_percent">%1$s - %2$s%%</string>
     <string name="details_title">Battery use details</string>
     <string name="details_subtitle">Use details</string>
     <string name="controls_subtitle">Adjust power use</string>

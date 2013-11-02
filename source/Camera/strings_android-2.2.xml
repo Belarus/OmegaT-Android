@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General strings -->
 
     <!-- title for the dialog showing the error of camera hardware -->
@@ -36,7 +35,7 @@
     <string name="gallery_camera_videos_bucket_name">Camera videos</string>
 
     <!-- alert to the user to wait for some operation to complete -->
-    <string name="wait">Please wait\u2026</string>
+    <string name="wait">Please wait…</string>
 
     <!-- alert to the user to that an SD card must be installed before using the camera -->
     <string name="no_storage">Please insert an SD card before using the camera.</string>
@@ -45,7 +44,7 @@
     <string name="not_enough_space">Your SD card is full.</string>
 
     <!-- alert to the user to that the SD card is being disk-checked -->
-    <string name="preparing_sd">Preparing SD card\u2026</string>
+    <string name="preparing_sd">Preparing SD card…</string>
 
     <!-- Settings stuff -->
 
@@ -102,7 +101,7 @@
     <!-- Settings screen, setting title text -->
     <string name="pref_camera_recordlocation_title">Store location</string>
 
-    <string name="pref_camera_recordlocation_default" translatable="false">none</string>
+    
 
     <!-- Settings screen, Record location dialog choices -->
     <string name="pref_camera_recordlocation_entry_off">Off</string>
@@ -110,7 +109,7 @@
 
     <!-- The Video length settings in preference -->
     <string name="pref_video_quality_title">Video quality</string>
-    <string name="pref_video_quality_default" translatable="false">high</string>
+    
     <string name="pref_video_quality_entry_high">High (30m)</string>
     <string name="pref_video_quality_entry_low">Low (30m)</string>
     <string name="pref_video_quality_entry_mms">MMS (Low, 30s)</string>
@@ -130,11 +129,11 @@
     <string name="pref_camera_picturesize_entry_2048x1536">3M Pixels</string>
     <string name="pref_camera_picturesize_entry_1600x1200">2M Pixels</string>
     <string name="pref_camera_picturesize_entry_1024x768">1M Pixels</string>
-    <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
+    
 
     <!-- Default picture quality setting. See
          pref_camera_jpegquality_entryvalues for possible values -->
-    <string name="pref_camera_jpegquality_default" translatable="false">superfine</string>
+    
 
     <!-- Settings screen, Picture quality title -->
     <string name="pref_camera_jpegquality_title">Picture quality</string>
@@ -145,7 +144,7 @@
     <string name="pref_camera_jpegquality_entry_normal">Normal</string>
 
     <!-- Default focus mode setting.-->
-    <string name="pref_camera_focusmode_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, Focus mode title -->
     <string name="pref_camera_focusmode_title">Focus mode</string>
@@ -156,10 +155,10 @@
     <string name="pref_camera_focusmode_entry_macro">Macro</string>
 
     <!-- Default flash mode setting.-->
-    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    
 
     <!-- Value for flash off setting-->
-    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
+    
 
     <!-- Settings screen, Flash mode title -->
     <string name="pref_camera_flashmode_title">Flash mode</string>
@@ -170,10 +169,10 @@
     <string name="pref_camera_flashmode_entry_off">Off</string>
 
     <!-- Default videocamera flash mode setting.-->
-    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+    
 
     <!-- Default white balance setting. -->
-    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, white balance title -->
     <string name="pref_camera_whitebalance_title">White balance</string>
@@ -186,7 +185,7 @@
     <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
 
     <!-- Default color effect setting. -->
-    <string name="pref_camera_coloreffect_default" translatable="false">none</string>
+    
 
     <!-- Settings screen, Select Color effect title -->
     <string name="pref_camera_coloreffect_title">Color effect</string>
@@ -207,7 +206,7 @@
     <string name="pref_camera_coloreffect_entry_greentint">Green tint</string>
 
     <!-- Default scene mode setting. -->
-    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, Select Scene mode -->
     <string name="pref_camera_scenemode_title">Scene mode</string>
@@ -239,7 +238,7 @@
 
     <!-- Settings menu, enable quick capture mode or not -->
     <string name="pref_camera_quickcapture_title">Quick capture</string>
-    <string name="pref_camera_quickcapture_default" translatable="false">off</string>
+    
     <string name="pref_camera_quickcapture_entry_on">On</string>
     <string name="pref_camera_quickcapture_entry_off">Off</string>
 
@@ -249,7 +248,7 @@
 
     <!-- Exposure settings in preference -->
     <string name="pref_exposure_title">Exposure</string>
-    <string name="pref_exposure_default" translatable="false">0</string>
+    
 
     <!-- Framing grid settings in preference -->
 
@@ -292,10 +291,10 @@
     <string name="spaceIsLow_content">Your SD card is running out of space. Change the quality setting or delete items from Gallery.</string>
 
     <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
-    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
-    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- The messsage shown when video record reaches size limit. -->
     <string name="video_reach_size_limit">Size limit reached.</string>

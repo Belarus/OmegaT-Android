@@ -13,7 +13,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
     <!-- Default Application label used on home screen with an icon -->
     <string name="app_name">SIM Toolkit</string>
@@ -44,7 +43,7 @@
     <!-- Type of alphabet text allowed in a form: 0-9, *, #, + characters only -->
     <string name="digits">Digits (0-9, *, #, +)</string>
     <!-- Default transition message when launching a call -->
-    <string name="default_call_setup_msg">Call in progress\u2026</string>
+    <string name="default_call_setup_msg">Call in progress…</string>
 
     <string name="stk_app_state">Application state</string>
     <string name="enable_app">Enabled</string>

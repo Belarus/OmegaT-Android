@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="da_google_maps">Google Maps</string>
     <string name="da_google_maps_navigation">Google Maps Navigation</string>
@@ -40,8 +40,8 @@
     <string name="da_distance_format_meters_compressed">{0}m</string>
     <string name="da_distance_format_separator">.</string>
     <string name="da_distance_format_mode">imperial</string>
-    <string name="da_time_format_days">%1$s d  %2$s hr</string>
-    <string name="da_time_format_hours">%1$s hr  %2$s min</string>
+    <string name="da_time_format_days">%1$s d %2$s hr</string>
+    <string name="da_time_format_hours">%1$s hr %2$s min</string>
     <string name="da_time_format_minutes">%1$s min</string>
     <string name="da_time_format_clock">%1$s:%2$s</string>
     <string name="da_notification_step_format">%1$s - %2$s</string>
@@ -315,7 +315,7 @@
     <string name="TRAFFIC_WIDGET_SAVE_WIDGET">Save</string>
     <string name="TRAFFIC_WIDGET_START_LOCATION">Start point</string>
     <string name="TRANSIT_NAVIGATION">Transit Navigation</string>
-    <string name="UNKNOWN_COMMUNICATION_FAILURE_BODY">Serious error.  Please exit and restart.</string>
+    <string name="UNKNOWN_COMMUNICATION_FAILURE_BODY">Serious error. Please exit and restart.</string>
     <string name="UNKNOWN_COMMUNICATION_FAILURE_TITLE">Unknown error</string>
     <string name="UPGRADE_BODY">You must install a new version to use this application.</string>
     <string name="UPGRADE_TITLE">Software Upgrade</string>

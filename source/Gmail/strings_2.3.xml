@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="read_perm_label">read Gmail</string>
     <string name="read_perm_desc">Allows this application to read your Gmail.</string>

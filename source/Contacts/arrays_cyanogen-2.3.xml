@@ -13,7 +13,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
 
     <string-array name="entries_vm_button">
@@ -22,7 +21,7 @@
         <item>Voicemail</item>
     </string-array>
     
-    <string-array name="entryvalues_numbers" translatable="false">
+    <string-array name="entryvalues_numbers">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -31,7 +30,7 @@
         <item>5</item>
     </string-array>
         
-    <string-array name="vm_handlers" translatable="false">
+    <string-array name="vm_handlers">
 	    <item>Google Voice/com.google.android.apps.googlevoice/.SplashActivity</item>
 	    <item>HulloMail UK Visual Voicemail/com.hullomail.android.messaging/.HulloMail</item>
 	    <item>HulloMail US Visual Voicemail/com.hullomail.android.messaging.us/.HulloMail</item>
@@ -47,7 +46,7 @@
         <item>Extra Large</item>
     </string-array>
     
-    <string-array name="view_contact_pic_sizes_values" translatable="false">
+    <string-array name="view_contact_pic_sizes_values">
         <item>78</item>
         <item>100</item>
         <item>116</item>
@@ -61,14 +60,14 @@
         <item>Extra Large</item>
     </string-array>
     
-    <string-array name="view_data_font_sizes_values" translatable="false">
+    <string-array name="view_data_font_sizes_values">
         <item>14</item>
         <item>18</item>
         <item>22</item>
         <item>26</item>
     </string-array>
 
-    <string-array name="view_default_phone_tabs" translatable="false">
+    <string-array name="view_default_phone_tabs">
         <item>@string/default_phone_tab_last_used</item>
         <item>@string/default_phone_tab_last_viewed</item>
         <item>@string/default_phone_tab_phone</item>

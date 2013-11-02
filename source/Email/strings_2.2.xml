@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="build_number">20080722-0001</string>
     <string name="meeting_invitation"></string>
@@ -61,12 +61,12 @@
     <string name="status_network_error">Connection error</string>
     <string name="notification_new_title">New email</string>
     <string name="error_loading_message_body">Unexpected error while loading message text. Message may be too large to view.</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
+    
+    
+    
+    
+    
+    
     <string name="mailbox_name_display_inbox">Inbox</string>
     <string name="mailbox_name_display_outbox">Outbox</string>
     <string name="mailbox_name_display_drafts">Drafts</string>
@@ -74,10 +74,10 @@
     <string name="mailbox_name_display_sent">Sent</string>
     <string name="mailbox_name_display_junk">Junk</string>
     <string name="debug_version_fmt">Version: %s</string>
-    <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-    <string name="debug_enable_sensitive_logging_label">Enable sensitive information debug logging? (May show passwords in logs.)</string>
-    <string name="debug_enable_exchange_logging_label">Enable exchange parser logging? (Extremely verbose)</string>
-    <string name="debug_enable_exchange_file_logging_label">Enable exchange sd card logging?</string>
+    
+    
+    
+    
     <string name="account_folder_list_separator_accounts">Accounts</string>
     <string name="account_folder_list_summary_inbox">Combined Inbox</string>
     <string name="account_folder_list_summary_starred">Starred</string>
@@ -146,10 +146,10 @@
     <string name="account_setup_names_user_name_label">Your name (displayed on outgoing messages)</string>
     <string name="account_setup_account_type_title">Add new email account</string>
     <string name="account_setup_account_type_instructions">What type of account is this?</string>
-    <string name="account_setup_account_type_pop_action">POP3</string>
-    <string name="account_setup_account_type_imap_action">IMAP</string>
-    <string name="account_setup_account_type_exchange_action">Exchange</string>
-    <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
+    
+    
+    
+    
     <string name="account_setup_incoming_title">Incoming server settings</string>
     <string name="account_setup_incoming_username_label">Username</string>
     <string name="account_setup_incoming_password_label">Password</string>

@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title for the activity that shows contacts.  This is the name
          used in the Launcher icon. -->
     <string name="contactsList">Contacts</string>
@@ -81,7 +81,7 @@
     <string name="menu_viewContact">View contact</string>
 
     <!-- Menu item used to call a contact, containing the name of the contact to call -->
-    <string name="menu_callNumber">Call <xliff:g id="name">%s</xliff:g></string>
+    <string name="menu_callNumber">Call %s</string>
 
     <!-- Menu item used to add a star to a contact, which makes that contact show up at the top of favorites -->
     <string name="menu_addStar">Add to favorites</string>
@@ -125,9 +125,7 @@
     <string name="splitConfirmation_title">Separate Contact</string>
 
     <!-- Confirmation dialog for separating contacts into multiple instances  -->
-    <string name="splitConfirmation">Are you sure you want to separate this single contact
-        into multiple contacts: one for each set of contact information that was joined into it?
-    </string>
+    <string name="splitConfirmation">Are you sure you want to separate this single contact into multiple contacts: one for each set of contact information that was joined into it? </string>
 
     <!-- Menu item that joins an aggregate with another aggregate -->
     <string name="menu_joinAggregate">Join</string>
@@ -136,7 +134,7 @@
     <string name="titleJoinContactDataWith">Join contacts</string>
 
     <!-- Info blurb on the Join Contact screen -->
-    <string name="blurbJoinContactDataWith">Select the contact you want to join with <xliff:g id="name">%s</xliff:g>.</string>
+    <string name="blurbJoinContactDataWith">Select the contact you want to join with %s.</string>
 
     <!-- An item in the Join Contact activity that opens up the full contact A-Z list -->
     <string name="showAllContactsJoinItem">Show all contacts</string>
@@ -228,7 +226,7 @@
     <string name="postalLabelsGroup">Postal address</string>
 
     <!-- The order of the items below is important, don't reorder without changing EditContactActivity.java -->
-    <skip/>
+    <skip></skip>
     <!-- The labels that are under the otherLabelsGroup when editing a contact. -->
     <string-array name="otherLabels">
         <!-- An organization associated with a contact -->
@@ -285,19 +283,19 @@
 
     <!-- The description of a group with the total number of contacts -->
     <plurals name="groupDescrip">
-        <item quantity="other"><xliff:g id="count">%0$d</xliff:g> contacts</item>
+        <item quantity="other">%0$d contacts</item>
     </plurals>
 
     <!-- The description of a group with the total number of contacts, and the total number of contacts with phone numbers -->
     <plurals name="groupDescripPhones">
-        <item quantity="other"><xliff:g id="count">%1$d</xliff:g> contacts, <xliff:g id="countWithPhones">%2$d</xliff:g> with phones</item>
+        <item quantity="other">%1$d contacts, %2$d with phones</item>
     </plurals>
 
     <!-- Displayed in a spinner dialog after the user creates a contact and it's being saved to the database -->
-    <string name="savingContact">Saving contact\u2026</string>
+    <string name="savingContact">Saving contact…</string>
 
     <!-- Displayed in a spinner dialog as user changes to display options are saved -->
-    <string name="savingDisplayGroups">Saving display options\u2026</string>
+    <string name="savingDisplayGroups">Saving display options…</string>
 
     <!-- Toast displayed when a contact is saved -->
     <string name="contactSavedToast">Contact saved.</string>
@@ -308,7 +306,7 @@
     <!-- Displayed at the top of the contacts showing the total number of contacts visible when "Only contacts with phones" is selected -->
     <plurals name="listTotalPhoneContacts">
         <item quantity="one">Displaying 1 contact with phone number</item>
-        <item quantity="other">Displaying <xliff:g id="count">%d</xliff:g> contacts with phone numbers</item>
+        <item quantity="other">Displaying %d contacts with phone numbers</item>
     </plurals>
 
     <!-- Displayed at the top of the contacts showing the zero as total number of contacts visible when "Only contacts with phones" is selected -->
@@ -317,7 +315,7 @@
     <!-- Displayed at the top of the contacts showing the total number of contacts visible when "Only contacts with phones" not selected -->
     <plurals name="listTotalAllContacts">
         <item quantity="one">Displaying 1 contact</item>
-        <item quantity="other">Displaying <xliff:g id="count">%d</xliff:g> contacts</item>
+        <item quantity="other">Displaying %d contacts</item>
     </plurals>
 
     <!-- Displayed at the top of the contacts showing the zero total number of contacts visible when "Only contacts with phones" not selected -->
@@ -326,7 +324,7 @@
     <!-- Displayed at the top of the contacts showing the total number of contacts found when "Only contacts with phones" not selected -->
     <plurals name="listFoundAllContacts">
         <item quantity="one">Found 1 contact</item>
-        <item quantity="other">Found <xliff:g id="count">%d</xliff:g> contacts</item>
+        <item quantity="other">Found %d contacts</item>
     </plurals>
 
     <!-- Displayed at the top of the contacts showing the zero total number of contacts found when "Only contacts with phones" not selected -->
@@ -335,7 +333,7 @@
     <!-- Displayed at the top of the contacts showing the total number of contacts found when typing search query -->
     <plurals name="searchFoundContacts">
         <item quantity="one">1 contact</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> contacts</item>
+        <item quantity="other">%d contacts</item>
     </plurals>
 
     <!-- The description text for the contacts tab. Space is limited for this string, so the shorter the better -->
@@ -357,7 +355,7 @@
     <string name="menu_sendTextMessage">Send text message</string>
 
     <!-- Menu item used to call a contact from the call log -->
-    <string name="recentCalls_callNumber">Call <xliff:g id="name">%s</xliff:g></string>
+    <string name="recentCalls_callNumber">Call %s</string>
 
     <!-- Menu item used to copy a number from the call log to the dialer so it can be edited before calling it -->
     <string name="recentCalls_editNumberBeforeCall">Edit number before call</string>
@@ -409,7 +407,7 @@
     <string name="dialerDialpadHintText">Dial to add a call</string>
 
     <!-- Dialog text displayed when loading a phone number from the SIM card for speed dial -->
-    <string name="simContacts_emptyLoading">Loading from SIM card\u2026</string>
+    <string name="simContacts_emptyLoading">Loading from SIM card…</string>
 
     <!-- Dialog title displayed when loading a phone number from the SIM card for speed dial -->
     <string name="simContacts_title">SIM card contacts</string>
@@ -421,41 +419,19 @@
     <string name="noContactsHelpTextForCreateShortcut">"You don't have any contacts to display."</string>
 
     <!-- Displayed full screen when the user has no contacts and they are displaying the My Contacts group, and contact syncing is disabled -->
-    <string name="noContactsHelpText">"You don't have any contacts to display.\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n
-        \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>"
-    </string>
+    <string name="noContactsHelpText">"You don't have any contacts to display.\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li> \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>" </string>
 
     <!-- Displayed full screen when the user has no contacts and they are displaying the My Contacts group, and contact syncing is enabled -->
-    <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n
-        \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Display options</b></font> to change which contacts are visible\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>"
-    </string>
+    <string name="noContactsHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><font fgcolor="#ffffffff"><b>Display options</b></font> to change which contacts are visible\n</li> \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li> \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>" </string>
 
     <!-- Displayed full screen when the user has no contacts and they are displaying the My Contacts group, and contact syncing is disabled, and there is no sim card (cdma)-->
-    <string name="noContactsNoSimHelpText">"You don't have any contacts to display.\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n
-        \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>"
-    </string>
+    <string name="noContactsNoSimHelpText">"You don't have any contacts to display.\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li> \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>" </string>
 
     <!-- Displayed full screen when the user has no contacts and they are displaying the My Contacts group, and contact syncing is enabled, and there is no sim card (cdma) -->
-    <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n
-        \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Display options</b></font> to change which contacts are visible\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>"
-    </string>
+    <string name="noContactsNoSimHelpTextWithSync">"You don't have any contacts to display. (If you just added an account, it can take a few minutes to sync contacts.)\n\nTo add contacts, press <font fgcolor="#ffffffff"><b>Menu</b></font> and touch:\n \n<li><font fgcolor="#ffffffff"><b>Accounts</b></font> to add or configure an account with contacts you can sync to the phone\n</li> \n<li><font fgcolor="#ffffffff"><b>Display options</b></font> to change which contacts are visible\n</li> \n<li><font fgcolor="#ffffffff"><b>New contact</b></font> to create a new contact from scratch\n</li> \n<li><font fgcolor="#ffffffff"><b>Import/Export</b></font>\n</li>" </string>
 
     <!-- Displayed full screen when the user has no favorites and they are displaying the favorites tab -->
-    <string name="noFavoritesHelpText">"You don't have any favorites.\n\nTo add a contact to your list of favorites:\n
-        <li>Touch the <b>Contacts</b> tab\n</li>
-        \n<li>Touch the contact you want to add to your favorites\n</li>
-        \n<li>Touch the star next to the contact\'s name\n</li>"
-    </string>
+    <string name="noFavoritesHelpText">"You don't have any favorites.\n\nTo add a contact to your list of favorites:\n <li>Touch the <b>Contacts</b> tab\n</li> \n<li>Touch the contact you want to add to your favorites\n</li> \n<li>Touch the star next to the contact\'s name\n</li>" </string>
 
     <!-- Activity title for the activity that lets the user choose which groups of contacts to sync from the server -->
     
@@ -512,7 +488,7 @@
     <string name="returnCall">Return call</string>
 
     <!-- A nicely formatted call duration displayed when viewing call details. For example "42 mins 28 secs" -->
-    <string name="callDetailsDurationFormat"><xliff:g id="minutes" example="42">%1$s</xliff:g> mins <xliff:g id="seconds" example="28">%2$s</xliff:g> secs</string>
+    <string name="callDetailsDurationFormat">%1$s mins %2$s secs</string>
 
     <!-- A list separator for the Favorites tab indicating that items below it are frequently contacted contacts rather than starred contacts -->
     <string name="favoritesFrquentSeparator">Frequently contacted</string>
@@ -521,7 +497,7 @@
     <string name="add_contact_dlg_title">Add contact</string>
     <!-- Dialog message when prompting before creating a contact. Includes
          the email address, e.g. "Add xyz@foo.com to contacts?" -->
-    <string name="add_contact_dlg_message_fmt">Add \"<xliff:g id="email">%s</xliff:g>\" to contacts?</string>
+    <string name="add_contact_dlg_message_fmt">Add \"%s\" to contacts?</string>
 
     <!-- Label for the all data tab in the view and edit card -->
     <string name="all_tab_label">All</string>
@@ -696,7 +672,7 @@
 
     <!-- Dialog message shown when searching VCard data failed.
          An exact reason for the failure should -->
-    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: \"<xliff:g id="fail_reason">%s</xliff:g>\")</string>
+    <string name="scanning_sdcard_failed_message">Scanning SD card failed (Reason: \"%s\")</string>
 
     <!-- The failed reason shown when Contacts app (especially vCard importer/exporter)
          emitted some I/O error. Exact reason will be appended by the system. -->
@@ -730,7 +706,7 @@
     <!-- The message shown while reading a vCard file/entry. The first argument is like
     "Reading VCard" or "Reading VCard files" and the second is the display name of the current
     data being parsed -->
-    <string name="progress_shower_message"><xliff:g id="action" example="Reading VCard">%1$s</xliff:g>\n<xliff:g id="filename" example="foo.vcf">%2$s</xliff:g></string>
+    <string name="progress_shower_message">%1$s\n%2$s</string>
 
     <!-- Dialog title shown when reading VCard data -->
     <string name="reading_vcard_title">Reading vCard</string>
@@ -742,22 +718,22 @@
     <string name="reading_vcard_failed_title">Reading of vCard data has failed</string>
 
     <!-- Message while reading one vCard file "(current number) of (total number) contacts" The order of "current number" and "total number" cannot be changed (like "total: (total number), current: (current number)")-->
-    <string name="reading_vcard_contacts"><xliff:g id="current_number">%1$s</xliff:g> of <xliff:g id="total_number">%2$s</xliff:g> contacts</string>
+    <string name="reading_vcard_contacts">%1$s of %2$s contacts</string>
 
     <!-- Message while reading multiple vCard files "(current number) of (total number) files" The order of "current number" and "total number" cannot be changed (like "total: (total number), current: (current number)")-->
-    <string name="reading_vcard_files"><xliff:g id="current_number">%1$s</xliff:g> of <xliff:g id="total_number">%2$s</xliff:g> files</string>
+    <string name="reading_vcard_files">%1$s of %2$s files</string>
 
     <!-- Dialog title shown when a user confirms whether he/she export Contact data -->
     <string name="confirm_export_title">Confirm export</string>
 
     <!-- Dialog message shown when a user confirms whether he/she export Contact data -->
-    <string name="confirm_export_message">Are you sure you want to export your contact list to \"<xliff:g id="vcard_filename">%s</xliff:g>\"?</string>
+    <string name="confirm_export_message">Are you sure you want to export your contact list to \"%s\"?</string>
 
     <!-- Dialog title shown when exporting Contact data failed -->
     <string name="exporting_contact_failed_title">Failed to export contact data</string>
 
     <!-- Dialog message shown when exporting Contact data failed -->
-    <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+    <string name="exporting_contact_failed_message">Failed to export contact data.\nReason for failure: \"%s\"</string>
 
     <!-- The failed reason shown when there's no contact which is allowed to be exported.
          Note that user may have contacts data but all of them are probably not allowed to be
@@ -771,21 +747,21 @@
     <!-- The failed reason shown when the given file name is too long for the system.
          The length limit of each file is different in each Android device, so we don't need to
          mention it here. -->
-    <string name="fail_reason_too_long_filename">Required filename is too long (\"<xliff:g id="filename">%s</xliff:g>\")</string>
+    <string name="fail_reason_too_long_filename">Required filename is too long (\"%s\")</string>
 
     <!-- Dialog title shown when the application is exporting contact data outside -->
     <string name="exporting_contact_list_title">Exporting contact data</string>
 
     <!-- Message shown when the application is exporting contact data outside -->
-    <string name="exporting_contact_list_message">Exporting contact data to \"<xliff:g id="file_name">%s</xliff:g>\"</string>
+    <string name="exporting_contact_list_message">Exporting contact data to \"%s\"</string>
 
     <!-- The failed reason shown when contacts exporter fails to be initialized.
          Some exact reason must follow this. -->
-    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_could_not_initialize_exporter">Could not initialize the exporter: \"%s\"</string>
 
     <!-- The failed reason shown when some error happend during contacts export.
          Some exact reason must follow this. -->
-    <string name="fail_reason_error_occurred_during_export">Error occured during export: \"<xliff:g id="exact_reason">%s</xliff:g>\"</string>
+    <string name="fail_reason_error_occurred_during_export">Error occured during export: \"%s\"</string>
 
     <!-- The error reason the vCard composer "may" emit when database is corrupted or
          something is going wrong. Usually users should not see this text. -->
@@ -803,10 +779,10 @@
 
     <!-- The failed reason shown when vCard importer/exporter could not open the file
          specified by a user. The file name should be in the message. -->
-    <string name="fail_reason_could_not_open_file">Could not open \"<xliff:g id="file_name">%1$s</xliff:g>\": <xliff:g id="exact_reason">%2$s</xliff:g></string>
+    <string name="fail_reason_could_not_open_file">Could not open \"%1$s\": %2$s</string>
 
     <!-- Message in progress bar while exporting contact list to a file "(current number) of (total number) contacts" The order of "current number" and "total number" cannot be changed (like "total: (total number), current: (current number)")-->
-    <string name="exporting_contact_list_progress"><xliff:g id="current_number">%1$s</xliff:g> of <xliff:g id="total_number">%2$s</xliff:g> contacts</string>
+    <string name="exporting_contact_list_progress">%1$s of %2$s contacts</string>
 
     <!-- The string used to describe Contacts as a searchable item within system search settings. -->
     <string name="search_settings_description">Names of your contacts</string>
@@ -888,7 +864,7 @@
 
     <string name="menu_sync_remove">Remove sync group</string>
     <string name="dialog_sync_add">Add sync group</string>
-    <string name="display_more_groups">More groups\u2026</string>
+    <string name="display_more_groups">More groups…</string>
 
     <!-- List title for a special contacts group that covers all contacts.-->
     <string name="display_ungrouped">All Other Contacts</string>
@@ -899,7 +875,7 @@
 
     <!-- Warning message given to users just before they remove a currently syncing
          group that would also cause all ungrouped contacts to stop syncing. -->
-    <string name="display_warn_remove_ungrouped">Removing \'<xliff:g id="group" example="Starred">%s</xliff:g>\' from sync will also remove any ungrouped contacts from sync.</string>
+    <string name="display_warn_remove_ungrouped">Removing \'%s\' from sync will also remove any ungrouped contacts from sync.</string>
 
     <!-- Title for data source when creating or editing a contact that doesn't
          belong to a specific account.  This contact will only exist on the phone
@@ -907,7 +883,7 @@
     <string name="account_phone">Phone-only (unsynced)</string>
 
     <!-- Action string for calling a custom phone number -->
-    <string name="call_custom">Call <xliff:g id="custom">%s</xliff:g></string>
+    <string name="call_custom">Call %s</string>
     <!-- Action string for calling a home phone number -->
     <string name="call_home">Call home</string>
     <!-- Action string for calling a mobile phone number -->
@@ -945,12 +921,12 @@
     <!-- Action string for calling a work pager phone number -->
     <string name="call_work_pager">Call work pager</string>
     <!-- Action string for calling an assistant phone number -->
-    <string name="call_assistant">Call <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="call_assistant">Call %s</string>
     <!-- Action string for calling a MMS phone number -->
     <string name="call_mms">Call MMS</string>
 
     <!-- Action string for sending an SMS to a custom phone number -->
-    <string name="sms_custom">Text <xliff:g id="custom">%s</xliff:g></string>
+    <string name="sms_custom">Text %s</string>
     <!-- Action string for sending an SMS to a home phone number -->
     <string name="sms_home">Text home</string>
     <!-- Action string for sending an SMS to a mobile phone number -->
@@ -988,7 +964,7 @@
     <!-- Action string for sending an SMS to a work pager phone number -->
     <string name="sms_work_pager">Text work pager</string>
     <!-- Action string for sending an SMS to an assistant phone number -->
-    <string name="sms_assistant">Text <xliff:g id="assistant">%s</xliff:g></string>
+    <string name="sms_assistant">Text %s</string>
     <!-- Action string for sending an SMS to a MMS phone number -->
     <string name="sms_mms">Text MMS</string>
 
@@ -1001,7 +977,7 @@
     <!-- Action string for sending an email to an other email address -->
     <string name="email_other">Email</string>
     <!-- Action string for sending an email to a custom email address -->
-    <string name="email_custom">Email <xliff:g id="custom">%s</xliff:g></string>
+    <string name="email_custom">Email %s</string>
 
     <!-- Generic action string for sending an email -->
     <string name="email">Email</string>
@@ -1013,7 +989,7 @@
     <!-- Action string for viewing an other postal address -->
     <string name="map_other">View address</string>
     <!-- Action string for viewing a custom postal address -->
-    <string name="map_custom">View <xliff:g id="custom">%s</xliff:g> address</string>
+    <string name="map_custom">View %s address</string>
 
     <!-- Action string for starting an IM chat with the AIM protocol -->
     <string name="chat_aim">Chat using AIM</string>
@@ -1068,16 +1044,16 @@
     <string name="name_phonetic_family">Phonetic family name</string>
 
     <!-- String describing which account type a contact came from when editing it -->
-    <string name="account_type_format"><xliff:g id="source" example="Gmail">%1$s</xliff:g> contact</string>
+    <string name="account_type_format">%1$s contact</string>
 
     <!-- String describing which account a contact came from when editing it -->
-    <string name="from_account_format">from <xliff:g id="source" example="user@gmail.com">%1$s</xliff:g></string>
+    <string name="from_account_format">from %1$s</string>
 
     <!-- Checkbox asking the user if they want to display a particular photo for a contact -->
     <string name="use_photo_as_primary">Use this photo</string>
 
     <!-- Text used to explain that a contact cannot be edited since the data is read only -->
-    <string name="contact_read_only"><xliff:g id="source" example="Gmail">%1$s</xliff:g> contact information is not editable on this device.</string>
+    <string name="contact_read_only">%1$s contact information is not editable on this device.</string>
 
     <!-- Text describing that a contact has no information available other than name and photo -->
     <string name="no_contact_details">No additional information for this contact</string>
@@ -1119,9 +1095,7 @@
     <string name="upgrade_in_progress">Contact list is being updated.\n\nPlease wait...</string>
 
     <!-- Text shown in the contacts app if the background process updating contacts fails because of memory shortage -->
-    <string name="upgrade_out_of_memory">Contacts are in the process of being upgraded.
-    \n\nThe upgrade process requires approximately <xliff:g id="size_in_megabytes">%d</xliff:g>Mb of 
-    internal phone storage.\n\nChoose one of the following options:</string>
+    <string name="upgrade_out_of_memory">Contacts are in the process of being upgraded. \n\nThe upgrade process requires approximately %dMb of internal phone storage.\n\nChoose one of the following options:</string>
     
     <!-- Button shown in the contacts app if the background process updating contacts fails because of memory shortage -->
     <string name="upgrade_out_of_memory_uninstall">Uninstall some applications</string>
@@ -1130,7 +1104,7 @@
     <string name="upgrade_out_of_memory_retry">Retry upgrade</string>
 
     <!-- Title shown in the search result activity of contacts app -->
-    <string name="search_results_for">Search results for: <xliff:g id="query">%s</xliff:g></string>
+    <string name="search_results_for">Search results for: %s</string>
 
     <!-- Title shown in the search result activity of contacts app while searching -->
     <string name="search_results_searching">Searching...</string>

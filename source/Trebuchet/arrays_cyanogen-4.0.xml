@@ -16,8 +16,7 @@
 * limitations under the License.
 */
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
         <item>Standard</item>
         <item>Tablet</item>
@@ -29,7 +28,7 @@
         <item>Cube Out</item>
         <item>Stack</item>
     </string-array>
-    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_values" translatable="false">
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_values">
         <item>Standard</item>
         <item>Tablet</item>
         <item>ZoomIn</item>
@@ -51,7 +50,7 @@
         <item>Cube Out</item>
         <item>Stack</item>
     </string-array>
-    <string-array name="preferences_interface_drawer_scrolling_transition_effect_values" translatable="false">
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_values">
         <item>Standard</item>
         <item>Tablet</item>
         <item>ZoomIn</item>

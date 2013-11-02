@@ -13,19 +13,16 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Permissions label for reading attachments -->
     <string name="permission_read_attachment_label">Read email attachments</string>
     <!-- Permissions description for reading attachments -->
-    <string name="permission_read_attachment_desc">Allows this application to read your email
-        attachments.</string>
+    <string name="permission_read_attachment_desc">Allows this application to read your email attachments.</string>
     <!-- Permissions label for accessing the main provider -->
     <string name="permission_access_provider_label">Access email provider data</string>
     <!-- Permissions description for accessing the main provider -->
-    <string name="permission_access_provider_desc">Allows this application to access your email
-        database, including received messages, sent messages, usernames, and passwords.</string>
+    <string name="permission_access_provider_desc">Allows this application to access your email database, including received messages, sent messages, usernames, and passwords.</string>
 
     <!-- Name of application on Home screen -->
     <string name="app_name">Email</string>
@@ -35,7 +32,7 @@
     <string name="debug_title">Debug</string>
 
     <!-- Actions will be used as buttons and in menu items -->
-    <skip />
+    <skip></skip>
 
     <!-- Button name used as part of a multi-step process -->
     <string name="next_action">Next</string>
@@ -119,13 +116,12 @@
     <!-- Dialog title to select a mailbox to which the user moves messages [CHAR LIMIT=20] -->
     <string name="move_to_folder_dialog_title">Move to</string>
     <!-- Appears in message list view while messages are being loaded [CHAR LIMIT=260dip] -->
-    <string name="status_loading_messages">Loading messages\u2026</string>
+    <string name="status_loading_messages">Loading messages…</string>
     <!-- Appears in message list view when there's a network error. -->
     <!-- Also appears in a toast, in the message viewer, when there's a network error. -->
     <string name="status_network_error">Connection problem.</string>
     <!-- Dialog text when we are unable to load the message for display -->
-    <string name="error_loading_message_body">Couldn\'t load the message text. The message
-        may be too large to view.</string>
+    <string name="error_loading_message_body">Couldn\'t load the message text. The message may be too large to view.</string>
     <!-- Text shown with dragged messages to indicate how many are being dragged [CHAR LIMIT=40]-->
     <plurals name="move_messages">
         <item quantity="one">Move message</item>
@@ -133,66 +129,61 @@
     </plurals>
     <!-- Toast shown when a message(s) can't be moved because it's not supported by the POP3
         protocol. [CHAR LIMIT=none]-->
-    <string name="cannot_move_protocol_not_supported_toast">Move isn\'t supported on POP3 accounts.
-        </string>
+    <string name="cannot_move_protocol_not_supported_toast">Move isn\'t supported on POP3 accounts. </string>
     <!-- Toast shown when messages can't be moved because the selection contains multiple accounts'
         messages. [CHAR LIMIT=none]-->
-    <string name="cannot_move_multiple_accounts_toast">Can\'t move because selection contains multiple
-        accounts.</string>
+    <string name="cannot_move_multiple_accounts_toast">Can\'t move because selection contains multiple accounts.</string>
     <!-- Toast shown when messages can't be moved because they're in a special mailbox.  "Drafts",
         "Outbox" and "Sent". [CHAR LIMIT=none]-->
-    <string name="cannot_move_special_mailboxes_toast">Messages in Drafts, Outbox, and Sent can\'t be
-        moved.</string>
+    <string name="cannot_move_special_mailboxes_toast">Messages in Drafts, Outbox, and Sent can\'t be moved.</string>
 
     <!-- Notification message in notifications window when one account has
          one or more new messages; e.g, "279 unread (someone@google.com)". -->
     <plurals name="notification_new_one_account_fmt">
         <!-- Case of one new message. -->
-        <item quantity="one"><xliff:g id="unread_message_count" example="1">%1$d</xliff:g> unread (<xliff:g id="account">%2$s</xliff:g>)</item>
+        <item quantity="one">%1$d unread (%2$s)</item>
 
         <!-- Case of "few" (small number of) new messages. -->
-        <item quantity="few"><xliff:g id="unread_message_count" example="2">%1$d</xliff:g> unread (<xliff:g id="account">%2$s</xliff:g>)</item>
+        <item quantity="few">%1$d unread (%2$s)</item>
 
         <!-- Case of a plural number of new messages. -->
-        <item quantity="other"><xliff:g id="unread_message_count" example="279">%1$d</xliff:g> unread (<xliff:g id="account">%2$s</xliff:g>)</item>
+        <item quantity="other">%1$d unread (%2$s)</item>
     </plurals>
 
     <!-- Notification message in notifications window when 2+ accounts have new mail; e.g, "in 3 accounts". -->
     <plurals name="notification_new_multi_account_fmt">
         <!-- Case of "few" (small number of) accounts with unread messages. -->
-        <item quantity="few">in <xliff:g id="number_accounts" example="2">%d</xliff:g> accounts</item>
+        <item quantity="few">in %d accounts</item>
         <!-- Case of plural number of accounts with unread messages. -->
-        <item quantity="other">in <xliff:g id="number_accounts" example="10">%d</xliff:g> accounts</item>
+        <item quantity="other">in %d accounts</item>
     </plurals>
     <!-- String to indicate which account received a new message. [CHAR LIMIT=none] -->
-    <string name="notification_to_account">to <xliff:g id="receiver_name"
-            example="Main">%1$s</xliff:g></string>
+    <string name="notification_to_account">to %1$s</string>
 
     <!-- Notification for multiple messages [CHAR LIMIT=60] -->
-    <string name="notification_multiple_new_messages_fmt">
-        <xliff:g example="2">%1$d</xliff:g> new messages</string>
+    <string name="notification_multiple_new_messages_fmt"> %1$d new messages</string>
 
     <!-- Name given to "all accounts" in the account picker for shortcuts and widget [CHAR LIMIT=20] -->
     <string name="account_name_display_all">All accounts</string>
 
     <!-- The number of accounts configured. [CHAR LIMIT=16] -->
     <plurals name="number_of_accounts">
-        <item quantity="one"><xliff:g id="num_accounts" example="1">%1$d</xliff:g> account</item>
-        <item quantity="other"><xliff:g id="num_accounts" example="2">%1$d</xliff:g> accounts</item>
+        <item quantity="one">%1$d account</item>
+        <item quantity="other">%1$d accounts</item>
     </plurals>
     <!-- The next set of strings are used server-side and must not be localized. -->
-    <!-- Do Not Translate.  This is the name of the "inbox" folder, on the server. -->
-    <string name="mailbox_name_server_inbox" translatable="false">Inbox</string>
-    <!-- Do Not Translate.  This is the name of the "outbox" folder, on the server. -->
-    <string name="mailbox_name_server_outbox" translatable="false">Outbox</string>
-    <!-- Do Not Translate.  This is the name of the "drafts" folder, on the server. -->
-    <string name="mailbox_name_server_drafts" translatable="false">Drafts</string>
-    <!-- Do Not Translate.  This is the name of the "trash" folder, on the server. -->
-    <string name="mailbox_name_server_trash" translatable="false">Trash</string>
-    <!-- Do Not Translate.  This is the name of the "sent" folder, on the server. -->
-    <string name="mailbox_name_server_sent" translatable="false">Sent</string>
-    <!-- Do Not Translate.  This is the name of the "junk" folder, on the server. -->
-    <string name="mailbox_name_server_junk" translatable="false">Junk</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     <!-- The next set of strings are used in local display and may be localized. -->
     <!-- In the UI, the inbox will be displayed with this name -->
@@ -214,36 +205,29 @@
     <!-- In the shortcut/widget configuration UI, the label for selecting all messages in an account's inbox [CHAR LIMIT=30] -->
     <string name="picker_mailbox_name_all_inbox">Inbox (all)</string>
     <!-- In the shortcut/widget configuration UI, use this for the "all accounts" account list item [CHAR LIMIT=30] -->
-    <string name="picker_combined_view_fmt">Combined view (<xliff:g id="count">%s</xliff:g>)</string>
+    <string name="picker_combined_view_fmt">Combined view (%s)</string>
     <!-- Count of accounts; used in picker_combined_view_fmt -->
     <plurals name="picker_combined_view_account_count">
-        <item quantity="one"  ><xliff:g id="account_count" example="1">%d</xliff:g> account</item>
-        <item quantity="other"><xliff:g id="account_count" example="9">%d</xliff:g> accounts</item>
+        <item quantity="one">%d account</item>
+        <item quantity="other">%d accounts</item>
     </plurals>
 
     <!-- Version number, shown only on debug screen -->
-    <string name="debug_version_fmt">Version: <xliff:g id="version">%s</xliff:g></string>
-    <!-- Do Not Translate.  Checkbox label, shown only on debug screen -->
-    <string name="debug_enable_debug_logging_label" translatable="false">
-        Enable extra debug logging?</string>
-    <!-- Do Not Translate.  Checkbox label, shown only on debug screen -->
-    <string name="debug_enable_exchange_logging_label" translatable="false">
-        Enable exchange parser logging? (extremely verbose)</string>
-    <!-- Do Not Translate.  Checkbox label, shown only on debug screen -->
-    <string name="debug_enable_exchange_file_logging_label" translatable="false">
-        Enable exchange sd card logging?</string>
-    <!-- Do Not Translate.  Button label, shown only on debug screen -->
-    <string name="debug_clear_webview_cache" translatable="false">
-        Clear WebView cache</string>
-    <!-- Do Not Translate.  Checkbox label, shown on debug screen. -->
-    <string name="debug_disable_graphics_acceleration_label" translatable="false">
-        Disable hardware graphics acceleration</string>
-    <!-- Do Not Translate.  Checkbox label, shown on debug screen. -->
-    <string name="debug_force_one_minute_refresh_label" translatable="false">
-        Force 1-minute refresh for POP/IMAP</string>
-    <!-- Do Not Translate.  Checkbox label, shown on debug screen. -->
-    <string name="debug_enable_strict_mode_label" translatable="false">
-        Enable strict mode (with logging)</string>
+    <string name="debug_version_fmt">Version: %s</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     <!-- The summary section entry in the AccountFolder list to display all inboxes -->
     <string name="account_folder_list_summary_inbox">Inbox</string>
@@ -265,8 +249,7 @@
     <!-- Account list header in the account/mailbox selector. [CHAR LIMIT=30] -->
     <string name="mailbox_list_account_selector_account_header">Accounts</string>
     <!-- Recent mailbox header in the account/mailbox selector. [CHAR LIMIT=30] -->
-    <string name="mailbox_list_account_selector_mailbox_header_fmt">
-        Recent folders (<xliff:g id="email_address">%s</xliff:g>)</string>
+    <string name="mailbox_list_account_selector_mailbox_header_fmt"> Recent folders (%s)</string>
 
     <!-- Mailbox list header for user folders [CHAR LIMIT=30] -->
     <string name="mailbox_list_user_mailboxes">All folders</string>
@@ -283,8 +266,8 @@
     <!--  The number of messages that are currently selected for various operations such as
           "delete message(s)" [CHAR LIMIT=32] -->
     <plurals name="message_view_selected_message_count">
-        <item quantity="one"  ><xliff:g id="message_count" example="1">%d</xliff:g> selected</item>
-        <item quantity="other"><xliff:g id="message_count" example="9">%d</xliff:g> selected</item>
+        <item quantity="one">%d selected</item>
+        <item quantity="other">%d selected</item>
     </plurals>
     <!-- Message to show when there are no messages (emails) in the selected mailbox.
          [CHAR LIMIT=26] -->
@@ -310,9 +293,9 @@
     <!-- Hint text in Message composer body field -->
     <string name="body_hint">Compose email</string>
     <!-- Header for forwarded original messages -->
-    <string name="message_compose_fwd_header_fmt">\n\n-------- Original Message --------\nSubject: <xliff:g id="subject">%1$s</xliff:g>\nFrom: <xliff:g id="sender">%2$s</xliff:g>\nTo: <xliff:g id="to">%3$s</xliff:g>\nCC: <xliff:g id="cc">%4$s</xliff:g>\n\n</string>
+    <string name="message_compose_fwd_header_fmt">\n\n-------- Original Message --------\nSubject: %1$s\nFrom: %2$s\nTo: %3$s\nCC: %4$s\n\n</string>
     <!-- Header for replied-to messages -->
-    <string name="message_compose_reply_header_fmt">\n\n<xliff:g id="sender">%s</xliff:g> wrote:\n\n</string>
+    <string name="message_compose_reply_header_fmt">\n\n%s wrote:\n\n</string>
     <!-- Heading that appears before forwarded text -->
     <string name="message_compose_quoted_text_label">Include quoted text</string>
     <!-- Label of checkbox to include original message in a forwarded/replied message
@@ -329,7 +312,7 @@
     <string name="message_compose_insert_quick_response_list_title">Insert quick response</string>
     <!-- Display name for composed message, indicating the destination of the message.
       e.g. "John and 2 others" -->
-    <string name="message_compose_display_name"><xliff:g id="name" example="John">%1$s</xliff:g> and <xliff:g id="number" example="27">%2$d</xliff:g> others</string>
+    <string name="message_compose_display_name">%1$s and %2$d others</string>
     <!-- Label for To field in read message view -->
     <string name="message_view_to_label">To:</string>
     <!-- Label for CC field in read message view -->
@@ -358,24 +341,20 @@
     <!-- Button name, to cancel a queued attachment download [CHAR LIMIT=10]-->
     <string name="message_view_attachment_cancel_action">Stop</string>
     <!-- Toast after saving attachment [CHAR LIMIT=30] -->
-    <string name="message_view_status_attachment_saved">Attachment saved
-as <xliff:g id="filename">%s</xliff:g>.</string>
+    <string name="message_view_status_attachment_saved">Attachment saved as %s.</string>
     <!-- Toast after attachment could not be saved [CHAR LIMIT=30] -->
     <string name="message_view_status_attachment_not_saved">Couldn\'t save the attachment.</string>
     <!-- Toast upon using "send" when one or more attachments will need to be background loaded
       [CHAR LIMIT=none]-->
-    <string name="message_view_attachment_background_load">Note: One or more attachments in your
-        forwarded message will be downloaded prior to sending.</string>
+    <string name="message_view_attachment_background_load">Note: One or more attachments in your forwarded message will be downloaded prior to sending.</string>
     <!--Button on the message view screen to show the message content [CHAR LIMIT=16] -->
     <string name="message_view_show_message_action">Message</string>
     <!--Button on the message view screen to show the calendar invite [CHAR LIMIT=16] -->
     <string name="message_view_show_invite_action">Invite</string>
     <!--Button on the message view screen to show the attachments [CHAR LIMIT=16] -->
     <plurals name="message_view_show_attachments_action">
-        <item quantity="one">Attachment <xliff:g id="num_attachment" example="1" >%1$d</xliff:g>
-            </item>
-        <item quantity="other">Attachments <xliff:g id="num_attachment" example="3" >%1$d</xliff:g>
-            </item>
+        <item quantity="one">Attachment %1$d </item>
+        <item quantity="other">Attachments %1$d </item>
     </plurals>
     <!-- Button on the message view screen to show the embedded pictures [CHAR LIMIT=16] -->
     <string name="message_view_show_pictures_action">Show pictures</string>
@@ -384,12 +363,10 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="message_view_always_show_pictures_button">Always show</string>
     <!-- Prompt on the message view screen whether or not to always show pictures from the
          given sender [CHAR LIMIT=80] -->
-    <string name="message_view_always_show_pictures_prompt"
-        >Always show pictures from this sender</string>
+    <string name="message_view_always_show_pictures_prompt">Always show pictures from this sender</string>
     <!-- Confirmation toast to indicate that the user has chosen to always show
          pictures from the given sender [CHAR LIMIT=160] -->
-    <string name="message_view_always_show_pictures_confirmation"
-      >Pictures from this sender will be shown automatically.</string>
+    <string name="message_view_always_show_pictures_confirmation">Pictures from this sender will be shown automatically.</string>
     <!-- Calendar invitation, label of the button to open in calendar [CHAR LIMIT=24] -->
     <string name="message_view_invite_view">View in Calendar</string>
     <!-- String shown with a calendar invitation. -->
@@ -405,8 +382,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Toast shown following a meeting invite reply, accepted -->
     <string name="message_view_invite_toast_yes">You\'ve accepted this invitation.</string>
     <!-- Toast shown following a meeting invite reply, maybe -->
-    <string name="message_view_invite_toast_maybe">
-        You\'ve replied \"maybe\" to this invitation.</string>
+    <string name="message_view_invite_toast_maybe"> You\'ve replied \"maybe\" to this invitation.</string>
     <!-- Toast shown following a meeting invite reply, declined -->
     <string name="message_view_invite_toast_no">You\'ve declined this invitation.</string>
     <!--Confirmation dialog title shown when user tries to delete messages.  [CHAR LIMIT=16] -->
@@ -426,29 +402,17 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Message body when we don't know exactly why an attachment can't be shown -->
     <string name="attachment_info_unknown">Can\'t open attachment.</string>
     <!-- Message body when the attachment is suspected of being malware -->
-    <string name="attachment_info_malware">
-            You can\'t save or open this file because this type of attachment
-            might contain malicious software.</string>
+    <string name="attachment_info_malware"> You can\'t save or open this file because this type of attachment might contain malicious software.</string>
     <!-- Message body when the attachment can't be loaded due to security policy restrictions -->
-    <string name="attachment_info_policy">
-            This attachment can\'t be saved or opened because of
-            this account\'s security policies.</string>
+    <string name="attachment_info_policy"> This attachment can\'t be saved or opened because of this account\'s security policies.</string>
     <!-- Message body when the attachment can only be downloaded over Wi-Fi -->
-    <string name="attachment_info_wifi_only">
-            This attachment is too large to download over a mobile network.
-            You can download it the next time you connect to a Wi-Fi network.</string>
+    <string name="attachment_info_wifi_only"> This attachment is too large to download over a mobile network. You can download it the next time you connect to a Wi-Fi network.</string>
     <!-- Message body when no activities can open the attachment -->
-    <string name="attachment_info_no_intent">
-            There is no installed app that can open this attachment.
-            Try downloading an appropriate app from Android Market.</string>
+    <string name="attachment_info_no_intent"> There is no installed app that can open this attachment. Try downloading an appropriate app from Android Market.</string>
     <!-- Message body when the attachment is an application, but, side loading is disabled -->
-    <string name="attachment_info_sideload_disabled">
-            This attachment is an app. You must check Unknown Sources
-            in Settings &gt; Apps before you can install it.</string>
+    <string name="attachment_info_sideload_disabled"> This attachment is an app. You must check Unknown Sources in Settings &gt; Apps before you can install it.</string>
     <!-- Message body when the attachment is an application, and side loading is enabled -->
-    <string name="attachment_info_apk_install_disabled">
-            Apps can\'t be installed directly from email. First save
-            this app and then install it using the Downloads app.</string>
+    <string name="attachment_info_apk_install_disabled"> Apps can\'t be installed directly from email. First save this app and then install it using the Downloads app.</string>
     <!-- Error banner when an attachment could not be downloaded due to a problem at the server
             [CHAR LIMIT=100] -->
     <string name="attachment_not_found">Couldn\'t download the attachment.</string>
@@ -458,8 +422,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="message_decode_error">There was an error while decoding the message.</string>
 
     <!-- Title of the EML viewer activity. [CHAR LIMIT=32] -->
-    <string name="eml_view_title">Viewing
-            <xliff:g id="filename" example="test.eml">%s</xliff:g></string>
+    <string name="eml_view_title">Viewing %s</string>
 
     <string name="message_delete_dialog_title"></string>
     <!--Confirmation dialog text shown when user tries to delete messages.  [CHAR LIMIT=32] -->
@@ -477,19 +440,15 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Toast shown briefly while saving a draft -->
     <string name="message_saved_toast">Message saved as draft.</string>
     <!-- String that is displayed when the attachment could not be displayed. -->
-    <string name="message_view_display_attachment_toast">Can\'t display
-        attachment.</string>
+    <string name="message_view_display_attachment_toast">Can\'t display attachment.</string>
     <!-- String that is displayed when the attachment could not be loaded.[CHAR LIMIT=none] -->
-    <string name="message_view_load_attachment_failed_toast">Couldn\'t load attachment \"
-        <xliff:g id="filename">%s</xliff:g>\".</string>
+    <string name="message_view_load_attachment_failed_toast">Couldn\'t load attachment \" %s\".</string>
     <!-- String that is displayed when a long message is being parsed. [CHAR LIMIT=none] -->
-    <string name="message_view_parse_message_toast">Opening message\u2026</string>
+    <string name="message_view_parse_message_toast">Opening message…</string>
     <!-- Toast shown after moving a message to a different mailbox. [CHAR LIMIT=none]-->
     <plurals name="message_moved_toast">
-        <item quantity="one"  ><xliff:g id="num_message" example="1" >%1$d</xliff:g>
-        message moved to <xliff:g id="mailbox_name" example="Inbox" >%2$s</xliff:g></item>
-        <item quantity="other"  ><xliff:g id="num_message" example="5" >%1$d</xliff:g>
-        messages moved to <xliff:g id="mailbox_name" example="Inbox" >%2$s</xliff:g></item>
+        <item quantity="one">%1$d message moved to %2$s</item>
+        <item quantity="other">%1$d messages moved to %2$s</item>
     </plurals>
 
     <!-- Notification ticker when a forwarded attachment couldn't be sent [CHAR LIMIT=none] -->
@@ -498,30 +457,29 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="forward_download_failed_title">Attachment not forwarded</string>
 
     <!-- Notification ticker when email account authentication fails [CHAR LIMIT=none] -->
-    <string name="login_failed_ticker">
-        <xliff:g id="account_name">%s</xliff:g> signin failed.</string>
+    <string name="login_failed_ticker"> %s signin failed.</string>
     <!-- Notification title when email account authentication fails [CHAR LIMIT=30]-->
     <string name="login_failed_title">Couldn\'t sign in</string>
 
     <!-- Size unit for bytes for attachments [CHAR LIMIT=10] -->
     <plurals name="message_view_attachment_bytes">
-        <item quantity="one"  ><xliff:g id="size_in_bytes" example="1"  >%d</xliff:g>B</item>
-        <item quantity="other"><xliff:g id="size_in_bytes" example="279">%d</xliff:g>B</item>
+        <item quantity="one">%dB</item>
+        <item quantity="other">%dB</item>
     </plurals>
     <!-- Size unit for kilo bytes for attachments [CHAR LIMIT=10] -->
     <plurals name="message_view_attachment_kilobytes">
-        <item quantity="one"  ><xliff:g id="size_in_kilobytes" example="1"  >%d</xliff:g>KB</item>
-        <item quantity="other"><xliff:g id="size_in_kilobytes" example="279">%d</xliff:g>KB</item>
+        <item quantity="one">%dKB</item>
+        <item quantity="other">%dKB</item>
     </plurals>
     <!-- Size unit for mega bytes for attachments [CHAR LIMIT=10] -->
     <plurals name="message_view_attachment_megabytes">
-        <item quantity="one"  ><xliff:g id="size_in_megabytes" example="1"  >%d</xliff:g>MB</item>
-        <item quantity="other"><xliff:g id="size_in_megabytes" example="279">%d</xliff:g>MB</item>
+        <item quantity="one">%dMB</item>
+        <item quantity="other">%dMB</item>
     </plurals>
     <!-- Size unit for giga bytes for attachments [CHAR LIMIT=10] -->
     <plurals name="message_view_attachment_gigabytes">
-        <item quantity="one"  ><xliff:g id="size_in_gigabytes" example="1"  >%d</xliff:g>GB</item>
-        <item quantity="other"><xliff:g id="size_in_gigabytes" example="279">%d</xliff:g>GB</item>
+        <item quantity="one">%dGB</item>
+        <item quantity="other">%dGB</item>
     </plurals>
 
     <!-- The label of the next button on the message view screen. -->
@@ -531,76 +489,60 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
 
     <!-- A simple divider between subject and message snippet in the message list view
         [CHAR LIMIT=4]-->
-    <string name="message_list_subject_snippet_divider">\u0020\u2014\u0020</string>
+    <string name="message_list_subject_snippet_divider"> — </string>
 
     <!-- Title of screen when setting up new email account [CHAR LIMIT=45] -->
     <string name="account_setup_basics_title">Account setup</string>
     <!-- Title of the screen when adding exchange account [CHAR LIMIT=45] -->
-    <string name="account_setup_basics_exchange_title">
-        Add an Exchange account</string>
+    <string name="account_setup_basics_exchange_title"> Add an Exchange account</string>
     <!-- Title of the screen when adding exchange account [CHAR LIMIT=45] -->
-    <string name="account_setup_basics_exchange_title_alternate">
-        Add an Exchange ActiveSync account</string>
+    <string name="account_setup_basics_exchange_title_alternate"> Add an Exchange ActiveSync account</string>
     <!-- Headline of screen when setting up new email account (large text over divider)
         [CHAR LIMIT=none] -->
     <string name="account_setup_basics_headline">Email account</string>
     <!-- On "Set up email" screen, enthusiastic welcome message. -->
-    <string name="accounts_welcome">You can set up email for most accounts in just a few steps.
-        </string>
+    <string name="accounts_welcome">You can set up email for most accounts in just a few steps. </string>
     <!-- On "Set up email" screen, enthusiastic welcome message (in EAS mode). -->
-    <string name="accounts_welcome_exchange">You can set up an Exchange account in just a few
-        steps.</string>
+    <string name="accounts_welcome_exchange">You can set up an Exchange account in just a few steps.</string>
     <!-- On "Set up email" screen, enthusiastic welcome message (in EAS mode). -->
-    <string name="accounts_welcome_exchange_alternate">
-        You can set up an Exchange ActiveSync account in just a few steps.</string>
+    <string name="accounts_welcome_exchange_alternate"> You can set up an Exchange ActiveSync account in just a few steps.</string>
     <!-- On "Set up email" screen, hint for account email address text field -->
     <string name="account_setup_basics_email_label">Email address</string>
     <!-- On "Set up email" screen, hint for account email password text field -->
     <string name="account_setup_basics_password_label">Password</string>
     <!-- On "Set up email" screen, checkbox label for making the new account the default account -->
-    <string name="account_setup_basics_default_label">
-        Send email from this account by default.</string>
+    <string name="account_setup_basics_default_label"> Send email from this account by default.</string>
     <!-- Button name on "Set up email" screen -->
     <string name="account_setup_basics_manual_setup_action">Manual setup</string>
     <!-- Toast when we can't build a URI from the given email & password -->
     <!-- Note, the error message in the toast is purposefully vague, because I *don't* know
         exactly what's wrong. -->
-    <string name="account_setup_username_password_toast">
-        Type a valid email address and password.</string>
+    <string name="account_setup_username_password_toast"> Type a valid email address and password.</string>
     <!-- Title of dialog shown when a duplicate account is created -->
     <string name="account_duplicate_dlg_title">Duplicate account</string>
     <!-- Message of dialog shown when a duplicate account is created.  The display name of
          the duplicate account is displayed. -->
-    <string name="account_duplicate_dlg_message_fmt">
-        You\'re already using this username for the account \"<xliff:g id="duplicate">%s</xliff:g>\".
-    </string>
+    <string name="account_duplicate_dlg_message_fmt"> You\'re already using this username for the account \"%s\". </string>
     <!-- String that is displayed as error text for passwords with leading or trailing
          spaces.  [CHAR LIMIT=none] -->
-    <string name="account_password_spaces_error">This password starts or ends with one or more
-        space characters. Many servers don\'t support passwords with spaces.</string>
+    <string name="account_password_spaces_error">This password starts or ends with one or more space characters. Many servers don\'t support passwords with spaces.</string>
 
     <!-- On check-settings screen, this is the initially-displayed message. -->
-    <string name="account_setup_check_settings_retr_info_msg">
-    Retrieving account information\u2026</string>
+    <string name="account_setup_check_settings_retr_info_msg"> Retrieving account information…</string>
     <!-- Appears on screen while system is checking incoming server settings -->
-    <string name="account_setup_check_settings_check_incoming_msg">
-    Checking incoming server settings\u2026</string>
+    <string name="account_setup_check_settings_check_incoming_msg"> Checking incoming server settings…</string>
     <!-- Appears on screen while system is checking outgoing server settings -->
-    <string name="account_setup_check_settings_check_outgoing_msg">
-    Checking outgoing server settings\u2026</string>
+    <string name="account_setup_check_settings_check_outgoing_msg"> Checking outgoing server settings…</string>
 
     <!-- Title of "Set up email" screen after success [CHAR LIMIT=45] -->
     <string name="account_setup_names_title">Account setup</string>
     <!-- Text that appears on "Set up email" screen after successfully setting up an account
         [CHAR LIMIT=none] -->
-    <string name="account_setup_names_headline">
-        Your account is set up, and email is on its way!</string>
+    <string name="account_setup_names_headline"> Your account is set up, and email is on its way!</string>
     <!-- On "Set up email" screen, label of text field -->
-    <string name="account_setup_names_account_name_label">
-        Give this account a name (optional)</string>
+    <string name="account_setup_names_account_name_label"> Give this account a name (optional)</string>
     <!-- On "Set up email" screen, label of text field -->
-    <string name="account_setup_names_user_name_label">
-        Your name (displayed on outgoing messages)</string>
+    <string name="account_setup_names_user_name_label"> Your name (displayed on outgoing messages)</string>
     <!-- On "Set up email" screen, error pop-up when user_name field is empty [CHAR LIMIT=none] -->
     <string name="account_setup_names_user_name_empty_error">This field can\'t be blank.</string>
 
@@ -611,19 +553,14 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- "Add new email account" screen, text that appears on screen -->
     <string name="account_setup_account_type_instructions">What type of account is this?</string>
 
-    <!-- Do Not Translate. "Add new email account" screen, button name in response to what
-         type of account this is -->
-    <string name="account_setup_account_type_pop_action" translatable="false">POP3</string>
-    <!-- Do Not Translate. "Add new email account" screen, button name in response to what
-         type of account this is -->
-    <string name="account_setup_account_type_imap_action" translatable="false">IMAP</string>
-    <!-- Do Not Translate. "Add new email account" screen, button name in response to what
-         type of account this is -->
-    <string name="account_setup_account_type_exchange_action" translatable="false">Exchange</string>
-    <!-- Do Not Translate. "Add new email account" screen, button name in
-         response to what type of account this is -->
-    <string name="account_setup_account_type_exchange_action_alternate"
-         translatable="false">Microsoft Exchange ActiveSync</string>
+    
+    
+    
+    
+    
+    
+    
+    
 
     <!-- "Incoming server settings" screen, title [CHAR LIMIT=45] -->
     <string name="account_setup_incoming_title">Account setup</string>
@@ -646,8 +583,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="account_setup_incoming_security_none_label">None</string>
     <!-- "Incoming server settings" screen, option for "Security type" pop-up menu indicating
         the desire for an encrypted session on the selected port, accepting all SSL certificates -->
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">
-        SSL/TLS (Accept all certificates)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label"> SSL/TLS (Accept all certificates)</string>
     <!-- "Incoming server settings" screen, option for "Security type" pop-up menu indicating
         the desire for an encrypted session on the selected port, including SSL certificate
         checks -->
@@ -655,8 +591,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- "Incoming server settings" screen, option for "Security type" pop-up menu indicating
         the desire for an encrypted session overlaid on a plain text session using the selected
         port, accepting all SSL certificates -->
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">
-        STARTTLS (accept all certificates)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label"> STARTTLS (accept all certificates)</string>
     <!-- "Incoming server settings" screen, option for "Security type" pop-up menu indicating
         the desire for an encrypted session overlaid on a plain text session on the selected
         port, including SSL certificate checks -->
@@ -667,8 +602,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- "Incoming server settings" screen, options in pop-up menu for Delete email from server: -->
     <string name="account_setup_incoming_delete_policy_never_label">Never</string>
     <!-- "Incoming server settings" screen, options in pop-up menu for Delete email from server: -->
-    <string name="account_setup_incoming_delete_policy_delete_label">
-        When I delete from Inbox</string>
+    <string name="account_setup_incoming_delete_policy_delete_label"> When I delete from Inbox</string>
     <!-- "Incoming server settings" screen, label for setting IMAP path prefix: -->
     <string name="account_setup_incoming_imap_path_prefix_label">IMAP path prefix</string>
     <!-- "Incoming server settings" screen, hint for setting IMAP path prefix: -->
@@ -743,18 +677,14 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- In Account setup options & Account Settings screens, check box for new-mail notification -->
     <string name="account_setup_options_notify_label">Notify me when email arrives.</string>
     <!-- In Account setup options screen, optional check box to also sync contacts -->
-    <string name="account_setup_options_sync_contacts_label">Sync contacts from this account.
-    </string>
+    <string name="account_setup_options_sync_contacts_label">Sync contacts from this account. </string>
     <!-- In Account setup options screen, optional check box to also sync contacts -->
-    <string name="account_setup_options_sync_calendar_label">Sync calendar from this account.
-    </string>
+    <string name="account_setup_options_sync_calendar_label">Sync calendar from this account. </string>
     <!-- In Account setup options screen, check box to sync email -->
-    <string name="account_setup_options_sync_email_label">Sync email from this account.
-    </string>
+    <string name="account_setup_options_sync_email_label">Sync email from this account. </string>
     <!-- In Account setup options screen, check box to auto-download attachments  [CHAR LIMIT=none]
         -->
-    <string name="account_setup_options_background_attachments_label">
-        Automatically download attachments when connected to Wi-Fi</string>
+    <string name="account_setup_options_background_attachments_label"> Automatically download attachments when connected to Wi-Fi</string>
     <!-- Dialog title when "setup" could not finish -->
     <string name="account_setup_failed_dlg_title">Couldn\'t finish</string>
     <!-- In Account setup options screen, label for email lookback selector -->
@@ -780,34 +710,28 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- "Setup could not finish" dialog text; e.g., Username or password incorrect -->
     <string name="account_setup_failed_dlg_auth_message">Username or password incorrect.</string>
     <!-- "Setup could not finish" dialog text; e.g., Username or password incorrect\n(ERR01 Account does not exist) -->
-    <string name="account_setup_failed_dlg_auth_message_fmt">Username or password incorrect.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">Username or password incorrect.\n(%s)</string>
 
     <!-- An error message presented to the user when the server's identity
          cannot be established or trusted [CHAR LIMIT=NONE] -->
-    <string name="account_setup_failed_dlg_certificate_message"
-        >Can\'t safely connect to server.</string>
+    <string name="account_setup_failed_dlg_certificate_message">Can\'t safely connect to server.</string>
     <!-- An error message presented to the user when the server's identity
          cannot be established or trusted [CHAR LIMIT=NONE] -->
-    <string name="account_setup_failed_dlg_certificate_message_fmt"
-        >Can\'t safely connect to server.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">Can\'t safely connect to server.\n(%s)</string>
     <!-- An error message presented to the user when the server requires a
          client certificate to connect [CHAR LIMIT=NONE] -->
-    <string name="account_setup_failed_certificate_required"
-        >Client certificate is required. Connect to server with client certificate?</string>
+    <string name="account_setup_failed_certificate_required">Client certificate is required. Connect to server with client certificate?</string>
     <!-- An error message presented to the user when the certificate they
          specified for connecting to a server is inaccessible [CHAR LIMIT=NONE] -->
-    <string name="account_setup_failed_certificate_inaccessible"
-        >Certificate is invalid or inaccessible.</string>
+    <string name="account_setup_failed_certificate_inaccessible">Certificate is invalid or inaccessible.</string>
 
     <!-- Dialog text for ambiguous setup failure; server error/bad credentials [CHAR LIMIT=none] -->
-    <string name="account_setup_failed_check_credentials_message">
-         The server responded with an error. Check your username and password
-         then try again.</string>
+    <string name="account_setup_failed_check_credentials_message"> The server responded with an error. Check your username and password then try again.</string>
 
     <!-- "Setup could not finish" dialog text; e.g., Cannot connect to server -->
     <string name="account_setup_failed_dlg_server_message">Can\'t connect to server.</string>
     <!-- "Setup could not finish" dialog text; e.g., Cannot connect to server\n(Connection timed out) -->
-    <string name="account_setup_failed_dlg_server_message_fmt">Can\'t connect to server.\n(<xliff:g id="error">%s</xliff:g>)</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">Can\'t connect to server.\n(%s)</string>
 
     <!-- Additional diagnostic text when TLS was required but the server doesn't support it -->
     <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
@@ -819,14 +743,10 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="account_setup_failed_ioerror">Couldn\'t open connection to server.</string>
     <!-- Additional diagnostic text when server connection failed due to our inability to support a
          required EAS protocol version [CHAR LIMIT=none] -->
-    <string name="account_setup_failed_protocol_unsupported">
-         You typed an incorrect server address or the server requires a protocol version that
-         Email doesn\'t support.</string>
+    <string name="account_setup_failed_protocol_unsupported"> You typed an incorrect server address or the server requires a protocol version that Email doesn\'t support.</string>
     <!-- Additional diagnostic text when server access was denied; the user should contact the
          administrator of the server for more information [CHAR LIMIT=none] -->
-    <string name="account_setup_failed_access_denied">
-         You don\'t have permission to sync with this server. Contact your server\'s
-         administrator for more information.</string>
+    <string name="account_setup_failed_access_denied"> You don\'t have permission to sync with this server. Contact your server\'s administrator for more information.</string>
 
     <!-- Dialog title when validation requires security provisioning (e.g. support
          for device lock PIN, or remote wipe.) and we ask the user permission before continuing -->
@@ -834,23 +754,15 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Additional diagnostic text when validation requires security provisioning (e.g. support
          for device lock PIN, or remote wipe.) and we ask the user permission before continuing.
          [CHAR LIMIT=none] -->
-    <string name="account_setup_security_policies_required_fmt">
-         The server <xliff:g id="server">%s</xliff:g> requires that you allow it to remotely control
-         some security features of your Android device.  Do you want to finish setting up this
-         account?</string>
+    <string name="account_setup_security_policies_required_fmt"> The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
     <!-- Additional diagnostic text when validation failed due to required provisioning not
          being supported [CHAR LIMIT=none] -->
-    <string name="account_setup_failed_security_policies_unsupported">
-         This server requires security features that your Android device doesn\'t support,
-          including: <xliff:g id="error">%s</xliff:g></string>
+    <string name="account_setup_failed_security_policies_unsupported"> This server requires security features that your Android device doesn\'t support, including: %s</string>
     <!-- The user name can only be changed during initial account setup. [CHAR LIMIT=none] -->
-    <string name="account_setup_username_uneditable_error">You can\'t change an account\'s username.
-         To add an account with a different username, touch Add Account.</string>
+    <string name="account_setup_username_uneditable_error">You can\'t change an account\'s username. To add an account with a different username, touch Add Account.</string>
     <!-- Warning given to users when they request disabling device administration (i.e. that their
          administered accounts will be deleted) [CHAR LIMIT=none] -->
-    <string name="disable_admin_warning">WARNING: Deactivating the Email app\'s authority
-         to administer your device will delete all email accounts that require it, along with their
-         email, contacts, calendar events, and other data.</string>
+    <string name="disable_admin_warning">WARNING: Deactivating the Email app\'s authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data.</string>
 
     <!-- Dialog shown when the account requires some amount of device security provisioning,
          just before jumping into system settings such as Device Policy grant, PIN/password,
@@ -859,30 +771,23 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Additional diagnostic text when the account requires some amount of device security
          provisioning, just before jumping into system settings such as Device Policy grant,
          PIN/password, or encryption setup.  [CHAR LIMIT=none] -->
-    <string name="account_security_dialog_content_fmt">
-         <xliff:g id="account">%s</xliff:g> requires that you update your security settings.</string>
+    <string name="account_security_dialog_content_fmt"> %s requires that you update your security settings.</string>
 
     <!-- Notification ticker when device security required (note: unused in Holo XL) -->
-    <string name="security_notification_ticker_fmt">
-            Account \"<xliff:g id="account">%s</xliff:g>\" requires security settings update.
-    </string>
+    <string name="security_notification_ticker_fmt"> Account \"%s\" requires security settings update. </string>
     <!-- Notification content title when device security required [CHAR_LIMIT=30] -->
     <string name="security_notification_content_title">Security update required</string>
     <!-- Title of the activity that dispatches changes to device security.  Not normally seen. -->
     <string name="account_security_title">Device security</string>
     <!-- Additional diagnostic text when the email app asserts control of the phone.
         [CHAR LIMIT=none] -->
-    <string name="account_security_policy_explanation_fmt">
-         The server <xliff:g id="server">%s</xliff:g> requires that you allow it to remotely control
-         some security features of your Android device.</string>
+    <string name="account_security_policy_explanation_fmt"> The server %s requires that you allow it to remotely control some security features of your Android device.</string>
 
     <!-- "Setup could not finish" dialog action button -->
     <string name="account_setup_failed_dlg_edit_details_action">Edit details</string>
 
     <!-- Notification ticker when device password is getting ready to expire [CHAR_LIMIT=80] -->
-    <string name="password_expire_warning_ticker_fmt">
-            \"<xliff:g id="account">%s</xliff:g>\" requires that you change your lock screen
-            PIN or password.</string>
+    <string name="password_expire_warning_ticker_fmt"> \"%s\" requires that you change your lock screen PIN or password.</string>
     <!-- Notification content title when device password is getting ready to expire
             [CHAR_LIMIT=30] -->
     <string name="password_expire_warning_content_title">Lock screen password expiring</string>
@@ -895,16 +800,12 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Dialog title if device pin/password is going to expire soon. [CHAR_LIMIT=40] -->
     <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
     <!-- Dialog content device pin/password is going to expire soon. [CHAR_LIMIT=none] -->
-    <string name="password_expire_warning_dialog_content_fmt">
-         You must change your lock screen PIN or password soon, or the data for
-         <xliff:g id="account">%s</xliff:g> will be erased. Change it now?</string>
+    <string name="password_expire_warning_dialog_content_fmt"> You must change your lock screen PIN or password soon, or the data for %s will be erased. Change it now?</string>
 
     <!-- Dialog title if device pin/password has already expired. [CHAR_LIMIT=40] -->
     <string name="password_expired_dialog_title">Lock screen password expired</string>
     <!-- Dialog content device pin/password has already expired. [CHAR_LIMIT=none] -->
-    <string name="password_expired_dialog_content_fmt">
-         The data for <xliff:g id="account">%s</xliff:g> is being erased from your device.
-         You can restore it by changing your lock screen PIN or password. Change it now?</string>
+    <string name="password_expired_dialog_content_fmt"> The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Change it now?</string>
 
     <!-- On AccountSettingsXL, dialog text if you try to exit in/out/eas fragment (server settings)
          without checking/saving [CHAR LIMIT=none]-->
@@ -915,9 +816,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="account_settings_login_dialog_title">Couldn\'t sign in</string>
     <!-- On AccountSettingsXL, dialog content if you were brought here due to a login failure.
         [CHAR_LIMIT=none] -->
-    <string name="account_settings_login_dialog_content_fmt">
-         The username or password for <xliff:g id="account">%s</xliff:g> is incorrect.
-         Update them now?</string>
+    <string name="account_settings_login_dialog_content_fmt"> The username or password for %s is incorrect. Update them now?</string>
 
     <!-- On Settings screen, setting option name -->
     <string name="account_settings_default_label">Default account</string>
@@ -926,11 +825,9 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="account_settings_default_summary">Send email from this account by default</string>
     <!-- On Settings screen, setting option name -->
     <!-- Title of account preference for downloading attachments in background [CHAR LIMIT=32] -->
-    <string name="account_settings_background_attachments_label">
-        Download attachments</string>
+    <string name="account_settings_background_attachments_label"> Download attachments</string>
     <!-- Summary of account preference for downloading attachments in background [CHAR LIMIT=64] -->
-    <string name="account_settings_background_attachments_summary">
-        Auto-download attachments to recent messages via Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary"> Auto-download attachments to recent messages via Wi-Fi</string>
     <string name="account_settings_notify_label">Email notifications</string>
     <!-- On Settings screen, summary line when called via AccountManager for Exchange accounts
         [CHAR LIMIT=50] -->
@@ -942,13 +839,11 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- On Settings screen, setting option name -->
     <string name="account_settings_incoming_label">Incoming settings</string>
    <!-- On Settings screen, setting option summary [CHAR LIMIT=64] -->
-    <string name="account_settings_incoming_summary">
-        Username, password, and other incoming server settings</string>
+    <string name="account_settings_incoming_summary"> Username, password, and other incoming server settings</string>
     <!-- On Settings screen, setting option name -->
     <string name="account_settings_outgoing_label">Outgoing settings</string>
    <!-- On Settings screen, setting option summary [CHAR LIMIT=64] -->
-    <string name="account_settings_outgoing_summary">
-        Username, password, and other outgoing server settings</string>
+    <string name="account_settings_outgoing_summary"> Username, password, and other outgoing server settings</string>
     <!-- On Settings screen, setting option name -->
     <string name="account_settings_description_label">Account name</string>
     <!-- On Settings screen, setting option name -->
@@ -959,8 +854,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
         for insertion in message body. [CHAR_LIMIT=24]-->
     <string name="account_settings_edit_quick_responses_label">Quick responses</string>
     <!-- On Settings screen, setting option summary [CHAR LIMIT=64] -->
-    <string name="account_settings_edit_quick_responses_summary">
-        Edit text that you frequently insert when composing emails</string>
+    <string name="account_settings_edit_quick_responses_summary"> Edit text that you frequently insert when composing emails</string>
     <!-- On Settings screen, setting option name -->
     <string name="account_settings_signature_hint">Append text to messages you send</string>
     <!-- On Settings screen, section heading -->
@@ -996,8 +890,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Title of Remove account confirmation dialog box -->
     <string name="account_delete_dlg_title">Remove account</string>
     <!-- Message of Remove account confirmation dialog box -->
-    <string name="account_delete_dlg_instructions_fmt">
-    The account \"<xliff:g id="account">%s</xliff:g>\" will be removed from Email.</string>
+    <string name="account_delete_dlg_instructions_fmt"> The account \"%s\" will be removed from Email.</string>
 
     <!-- On Settings screen, section heading for delete account [CHAR LIMIT=none] -->
     <string name="account_settings_category_delete_account">Remove account</string>
@@ -1007,7 +900,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Mailbox settings activity title [CHAR LIMIT=none] -->
     <string name="mailbox_settings_activity_title">Sync options</string>
     <!-- Mailbox settings activity title, with the target folder name [CHAR LIMIT=none] -->
-    <string name="mailbox_settings_activity_title_with_mailbox">Sync options (<xliff:g id="mailboxx_name" example="Family">%s</xliff:g>)</string>
+    <string name="mailbox_settings_activity_title_with_mailbox">Sync options (%s)</string>
     <!-- Mailbox "sync settings" preference header [CHAR LIMIT=none] -->
     <string name="mailbox_preferences_header">Sync settings</string>
     <!-- On mailbox settings screen: Mailbox check frequency setting label [CHAR LIMIT=none] -->
@@ -1034,11 +927,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="toast_mailbox_not_found">Folder wasn\'t found. It may have been removed.</string>
 
     <!-- Message that appears when adding a Windows Live Hotmail Plus account -->
-    <string name="provider_note_live">Only some \"Plus\" accounts include POP access
-        allowing this program to connect. If you\'re not able to sign in with
-        your correct email address and password, you may not have a paid
-        \"Plus\" account. Launch the web browser to gain access to
-        these email accounts.</string>
+    <string name="provider_note_live">Only some \"Plus\" accounts include POP access allowing this program to connect. If you\'re not able to sign in with your correct email address and password, you may not have a paid \"Plus\" account. Launch the web browser to gain access to these email accounts.</string>
     <!-- Message that appears when adding a T-Online account -->
     <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
 
@@ -1060,18 +949,16 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
 
     <!-- Displayed in small separator in to/cc/bcc dropdowns, when searching GAL begins.
          Example:  "Searching bigcompany.com..." -->
-    <string name="gal_searching_fmt">Searching <xliff:g id="domain">%s</xliff:g>\u2026</string>
+    <string name="gal_searching_fmt">Searching %s…</string>
     <!-- Displayed in small separator in to/cc/bcc dropdowns, when searching GAL completes,
          and all of the server results are being displayed.  Example:
          "5 results from bigcompany.com..."  -->
     <plurals name="gal_completed_fmt">
         <!-- Case of one result from server. -->
-        <item quantity="one"><xliff:g id="results" example="1">%1$d</xliff:g> result
-        from <xliff:g id="domain">%2$s</xliff:g></item>
+        <item quantity="one">%1$d result from %2$s</item>
 
         <!-- Case of multiple results from server -->
-        <item quantity="other"><xliff:g id="results" example="20">%1$d</xliff:g> results
-        from <xliff:g id="domain">%2$s</xliff:g></item>
+        <item quantity="other">%1$d results from %2$s</item>
     </plurals>
 
     <!-- Settings activity title [CHAR LIMIT=40]-->
@@ -1090,8 +977,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- General preference: Description of the setting for the direction to move to
          when deleting the current message.
          Options contain "newer message","older message", etc. [CHAR LIMIT=64] -->
-    <string name="general_preference_auto_advance_summary">
-         Choose which screen to show after you delete a message</string>
+    <string name="general_preference_auto_advance_summary"> Choose which screen to show after you delete a message</string>
     <!-- General preference: Title of the dialog box containing options for setting for
          the direction to move to when deleting the current message.
          Options contain "newer message","older message", etc. [CHAR LIMIT=32] -->
@@ -1124,7 +1010,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     </string-array>
 
     <!-- The message text size values -->
-    <string-array translatable="false" name="general_preference_text_zoom_size">
+    <string-array name="general_preference_text_zoom_size">
         <item>0.8</item>
         <item>0.9</item>
         <item>1.0</item>
@@ -1152,19 +1038,16 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
 
     <!-- Settings screen, title used to clear the setting for the list of
          senders to automatically show pictures for [CHAR LIMIT=80] -->
-    <string name="general_preferences_clear_trusted_senders_title"
-        >Ask to show pictures</string>
+    <string name="general_preferences_clear_trusted_senders_title">Ask to show pictures</string>
     <!-- Settings screen, summary for clearing the settings for the list of
          senders to automatically show pictures for [CHAR LIMIT=160] -->
-    <string name="general_preferences_clear_trusted_senders_summary"
-        >Pictures in messages won\'t be shown automatically</string>
+    <string name="general_preferences_clear_trusted_senders_summary">Pictures in messages won\'t be shown automatically</string>
     <!-- Message shown in toast when the user taps to clear the lsit of senders
          to automatically show pictures for [CHAR LIMIT=80] -->
     <string name="trusted_senders_cleared">\"Show pictures\" cleared.</string>
 
     <!-- Generic string for "current position" / "total number" [CHAR LIMIT=12] -->
-    <string name="position_of_count"><xliff:g example="1">%1$d</xliff:g> of <xliff:g
-            example="12">%2$s</xliff:g></string>
+    <string name="position_of_count">%1$d of %2$s</string>
 
     <!-- Message shown during the first sync after an account is set up.  [CHAR LIMIT=NONE] -->
     <string name="waitinf_for_sync_message_1">Waiting for sync</string>
@@ -1181,7 +1064,7 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <!-- Header for the "Starred" widget view (showing all starred mail) [CHAR LIMIT=20] -->
     <string name="widget_starred">Starred</string>
     <!-- Shown when waiting for mail data to be loaded into the widget list view [CHAR LIMIT=20] -->
-    <string name="widget_loading">Loading\u2026</string>
+    <string name="widget_loading">Loading…</string>
     <!-- Shown when no accounts are configured and the widget supports changing
          on the fly [CHAR LIMIT=35] -->
     <string name="widget_touch_to_configure">Touch to set up.</string>
@@ -1201,11 +1084,10 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
     <string name="search_hint">Search email</string>
 
     <!-- The hint used in the search box when searching a single mailbox [CHAR LIMIT=35] -->
-    <string name="search_mailbox_hint">Search <xliff:g example="Inbox">%1$s</xliff:g></string>
+    <string name="search_mailbox_hint">Search %1$s</string>
 
     <!-- The title above the messages list when showing search results. [CHAR LIMIT=50] -->
-    <string name="search_header_text_fmt"
-          >Results</string>
+    <string name="search_header_text_fmt">Results</string>
 
     <!-- A warning title to show to the user when search results are taking a long
          time. [CHAR LIMIT=NONE] -->
@@ -1220,9 +1102,8 @@ as <xliff:g id="filename">%s</xliff:g>.</string>
 
     <!-- A long placeholder string to be used in template XML files message_list_item_*.xml.
          Used only in layout computation, and never actually exposed to the user. -->
-    <string name="long_string" translatable="false">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+    
 
     <!-- This is the message warning the user that they must sync manually when roaming. [CHAR LIMIT=none]-->
-    <string name="require_manual_sync_message">Background sync for this account is disabled while\
-     roaming.</string>
+    <string name="require_manual_sync_message">Background sync for this account is disabled while\ roaming.</string>
 </resources>

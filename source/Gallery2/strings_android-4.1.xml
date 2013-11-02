@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Gallery</string>
     <!-- Title for picture frame gadget to show in list of all available gadgets -->
     <string name="gadget_title">Picture frame</string>
@@ -26,12 +25,12 @@
     <!-- Activity label. This might show up in the activity-picker -->
     <string name="movie_view_label">Video player</string>
     <!-- shown in the video player view while the video is being loaded, before it starts playing -->
-    <string name="loading_video">Loading video\u2026</string>
-    <string name="loading_image">Loading image\u2026</string>
+    <string name="loading_video">Loading video…</string>
+    <string name="loading_image">Loading image…</string>
 
     <!-- Message shown on the progress dialog to indicate we're loading the
             account info [CHAR LIMIT=30] -->
-    <string name="loading_account">Loading account\u2026</string>
+    <string name="loading_account">Loading account…</string>
 
     <!-- Movie View Resume Playing dialog title -->
     <string name="resume_playing_title">Resume video</string>
@@ -42,7 +41,7 @@
     <string name="resume_playing_resume">Resume playing</string>
 
     <!-- Displayed in the title of those albums that are being loaded -->
-    <string name="loading">Loading\u2026</string>
+    <string name="loading">Loading…</string>
 
     <!-- Displayed in the title of those pictures that fails to be loaded
          [CHAR LIMIT=50]-->
@@ -69,7 +68,7 @@
     <!-- Hint that appears when cropping an image with more than one face -->
     <string name="multiface_crop_help">Touch a face to begin.</string>
     <!-- Toast/alert that the image is being saved to the SD card -->
-    <string name="saving_image">Saving picture\u2026</string>
+    <string name="saving_image">Saving picture…</string>
     <!-- Eorror toast message that the image cannot be saved [CHAR LIMIT=40]-->
     <string name="save_error">Couldn\'t save cropped image.</string>
 
@@ -94,7 +93,7 @@
     <!-- Activity title for cropping picture and setting it as wallpaper [CHAR LIMIT=20] -->
     <string name="set_wallpaper">Set wallpaper</string>
     <!-- Toast/alert after saving wallpaper -->
-    <string name="wallpaper">Setting wallpaper\u2026</string>
+    <string name="wallpaper">Setting wallpaper…</string>
     <string name="camera_setas_wallpaper">Wallpaper</string>
 
     <!-- Details dialog "OK" button. Dismisses dialog. -->
@@ -172,7 +171,7 @@
          It means the pictures of the Picasa album is currently being
          transferred to local storage, so the pictures can later be viewed
          offline. [CHAR LIMIT=15] -->
-    <string name="caching_label">Caching\u2026</string>
+    <string name="caching_label">Caching…</string>
 
     <string name="crop_action">Crop</string>
     <string name="set_as">Set as</string>
@@ -240,8 +239,7 @@
 
     <!-- Toast message shown when the cropped image has been saved in the
          %s folder (string: folder_download) [CHAR LIMIT=50]-->
-    <string name="crop_saved">
-        Cropped image saved to <xliff:g id="folder_name">%s</xliff:g>.</string>
+    <string name="crop_saved"> Cropped image saved to %s.</string>
 
     <!-- Toast message shown when there is no albums available [CHAR LIMIT=50]-->
     <string name="no_albums_alert">No albums available.</string>
@@ -326,8 +324,7 @@
 
     <!-- Toast message shown after we try to make a local album available offline
          [CHAR LIMIT=150] -->
-    <string name="try_to_set_local_album_available_offline">
-        This item is stored locally and available offline.</string>
+    <string name="try_to_set_local_album_available_offline"> This item is stored locally and available offline.</string>
 
     <!-- A label shown on the action bar. It indicates that the user is
          viewing all available albums [CHAR LIMIT=20] -->
@@ -350,28 +347,28 @@
          is a string representation of the amount of free space, eg. "20MB".
          [CHAR LIMIT=20]
     -->
-    <string name="free_space_format"><xliff:g id="bytes">%s</xliff:g> free</string>
+    <string name="free_space_format">%s free</string>
 
     <!-- Label of a group of pictures. The size of each picture in this group is
          less than a certain amount. The parameter is a string representation
          of that amount, eg. "10MB".
          [CHAR LIMIT=20]
     -->
-    <string name="size_below"><xliff:g id="size">%1$s</xliff:g> or below</string>
+    <string name="size_below">%1$s or below</string>
 
     <!-- Label of a group of pictures. The size of each picture in this group is
          more than a certain amount. The parameter is a string representation
          of that amount, eg. "10MB".
          [CHAR LIMIT=20]
     -->
-    <string name="size_above"><xliff:g id="size">%1$s</xliff:g> or above</string>
+    <string name="size_above">%1$s or above</string>
 
     <!-- Label of a group of pictures. The size of each picture in this group is
          between two amounts. The parameters are string representations of the two
          amounts, eg. "10MB", "100MB".
          [CHAR LIMIT=20]
     -->
-    <string name="size_between"><xliff:g id="min_size">%1$s</xliff:g> to <xliff:g id="max_size">%2$s</xliff:g></string>
+    <string name="size_between">%1$s to %2$s</string>
 
     <!-- A label shown on the action bar. It indicates that the operation
          to import media item(s) [CHAR LIMIT=20] -->
@@ -443,6 +440,6 @@
     <!-- The title of the menu item which display online help in browser. [CHAR LIMIT=20]-->
     <string name="help">Help</string>
 
-    <!-- Web address for gallery help.  DO NOT TRANSLATE -->
-    <string name="help_url_gallery_main" translatable="false"></string>
+    
+    
 </resources>

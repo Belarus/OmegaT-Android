@@ -17,10 +17,9 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Do not translate. These are all of the drawable resources that should be preloaded by
-         the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_drawables">
         <item>@drawable/sym_def_app_icon</item>
         <item>@drawable/arrow_down_float</item>
@@ -79,8 +78,7 @@
         <item>@drawable/overscroll_edge</item>
     </array>
 
-    <!-- Do not translate. These are all of the color state list resources that should be
-         preloaded by the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_color_state_lists">
         <item>@color/hint_foreground_dark</item>
         <item>@color/hint_foreground_light</item>
@@ -99,12 +97,12 @@
         <item>#ffffffff</item>
     </array>
 
-    <!-- Do not translate. -->
+    
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
     </integer-array>
-    <!-- Do not translate. -->
+    
     <integer-array name="maps_starting_zoom">
         <item>3</item>
     </integer-array>
@@ -116,9 +114,8 @@
         <item>Bootloader</item>
     </array>
 
-    <!-- Do not translate. Defines the shutdown actions passed to the kernel.
-         The first item should be empty for regular reboot. -->
-    <string-array name="shutdown_reboot_actions" translatable="false">
+    
+    <string-array name="shutdown_reboot_actions">
         <item></item>
         <item>recovery</item>
         <item>bootloader</item>
@@ -126,7 +123,7 @@
 
     <!-- Defines the set of colors used for selecting a random
           notification color. -->
-    <string-array name="notification_led_random_color_set" translatable="false">
+    <string-array name="notification_led_random_color_set">
         <item>green</item>
         <item>white</item>
         <item>red</item>

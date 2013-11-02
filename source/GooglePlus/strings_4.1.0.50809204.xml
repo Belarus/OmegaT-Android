@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="common_google_play_services_install_title">Get Google Play services</string>
     <string name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
@@ -1439,7 +1439,7 @@
     <string name="emotishare_text_smirk">Smirk.</string>
     <string name="emotishare_text_wink">Ha ha ha!</string>
     <string name="emotishare_text_worried">Oh no!</string>
-    <string name="emotishare_text_winter">Brrr!  It\'s too cold for me.</string>
+    <string name="emotishare_text_winter">Brrr! It\'s too cold for me.</string>
     <string name="emotishare_text_new_year">Happy New Year!</string>
     <string name="emotishare_text_valentine">Be my Valentine!</string>
     <string name="emotishare_text_st_paddy">Luck o\' the Irish!</string>

@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
  -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Used to indicate the number of artists -->
     <plurals name="Nartists">
@@ -21,7 +21,7 @@
         <!-- Only one artist -->
         <item quantity="one">1 artist</item>
         <!-- More than one artist -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> artists</item>
+        <item quantity="other">%d artists</item>
     </plurals>
 
     <!-- Used to indicate the number of albums for an artist -->
@@ -30,7 +30,7 @@
         <!-- Only one album -->
         <item quantity="one">1 album</item>
         <!-- More than one album -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> albums</item>
+        <item quantity="other">%d albums</item>
     </plurals>
 
     <!-- Used to indicate the number of songs for an album -->
@@ -38,7 +38,7 @@
 
         <!-- Only one song -->
         <item quantity="one">1 song</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> songs</item>
+        <item quantity="other">%d songs</item>
     </plurals>
 
     <!-- Used to indicate the number of genres -->
@@ -47,7 +47,7 @@
         <!-- Only one genre -->
         <item quantity="one">1 genre</item>
         <!-- More than one genre -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> genres</item>
+        <item quantity="other">%d genres</item>
     </plurals>
 
     <!-- Toasts after adding song(s) to playlists -->
@@ -56,7 +56,7 @@
         <!-- message shown when one song was added -->
         <item quantity="one">1 song added to playlist.</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs added to playlist.</item>
+        <item quantity="other">%d songs added to playlist.</item>
     </plurals>
 
     <!-- Toasts after removing song(s) from playlists -->
@@ -65,7 +65,7 @@
         <!-- message shown when one song was removed -->
         <item quantity="one">1 song removed from playlist.</item>
         <!-- message shown when zero or more than one song was removed -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs removed from playlist.</item>
+        <item quantity="other">%d songs removed from playlist.</item>
     </plurals>
 
     <!-- Toasts after adding song(s) to queue -->
@@ -74,7 +74,7 @@
         <!-- message shown when one song was added -->
         <item quantity="one">1 song added to the queue.</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs added to the queue.</item>
+        <item quantity="other">%d songs added to the queue.</item>
     </plurals>
 
     <!-- Toasts after adding song(s) to the favorites list -->
@@ -83,7 +83,7 @@
         <!-- message shown when one song was added -->
         <item quantity="one">1 song added to Favorites.</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs added to Favorites.</item>
+        <item quantity="other">%d songs added to Favorites.</item>
     </plurals>
 
     <!-- Toast confirming that song(s) was/were deleted. -->
@@ -92,7 +92,7 @@
         <!-- delete confirmation message for 1 song -->
         <item quantity="one">1 song was deleted.</item>
         <!-- delete confirmation message for 0 or more than 1 songs -->
-        <item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> songs were deleted.</item>
+        <item quantity="other">%d songs were deleted.</item>
     </plurals>
 
 </resources>

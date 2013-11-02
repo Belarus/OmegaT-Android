@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculator</string>
     <string name="error">Error</string>
@@ -13,24 +13,24 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="clear">C</string>
-    <string name="div">÷</string>
-    <string name="mul">×</string>
-    <string name="plus">+</string>
-    <string name="minus">−</string>
-    <string name="dot">.</string>
-    <string name="equal">=</string>
-    <string name="sin">sin</string>
-    <string name="cos">cos</string>
-    <string name="tan">tan</string>
-    <string name="pi">π</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="e">e</string>
-    <string name="ln">ln</string>
-    <string name="lg">log</string>
+    
+    
     <string name="leftParen">(</string>
     <string name="rightParen">)</string>
-    <string name="sqrt">√</string>
-    <string name="power">^</string>
-    <string name="factorial">!</string>
+    
+    
+    
     <string name="basic">Basic panel</string>
     <string name="advanced">Advanced panel</string>
     <string name="clear_history">Clear history</string>

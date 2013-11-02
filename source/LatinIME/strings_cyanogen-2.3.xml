@@ -17,7 +17,7 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title for Latin keyboard  -->
     <string name="english_ime_name">Android keyboard</string>
     <!-- Title for Latin keyboard settings activity / dialog -->
@@ -105,7 +105,7 @@
     <!-- Option to show/hide the settings key -->
     <string name="prefs_settings_key">Show settings key</string>
     <!-- Array of the settings key mode values -->
-    <string-array name="settings_key_modes_values" translatable="false">
+    <string-array name="settings_key_modes_values">
         <item>@string/settings_key_mode_auto</item>
         <item>@string/settings_key_mode_always_show</item>
         <item>@string/settings_key_mode_always_hide</item>
@@ -135,31 +135,30 @@
         <item>Advanced</item>
     </string-array>
     
-    <!-- Don't translate -->
-    <string name="prediction_none" translatable="false">0</string>
-    <!-- Don't translate -->
-    <string name="prediction_basic" translatable="false">1</string>
-    <!-- Don't translate -->
-    <string name="prediction_full"  translatable="false">2</string>
+    
+    
+    
+    
+    
+    
 
-    <string-array name="prediction_modes_values" translatable="false">
+    <string-array name="prediction_modes_values">
         <item>@string/prediction_none</item>
         <item>@string/prediction_basic</item>
         <item>@string/prediction_full</item>
     </string-array>
 
     <!-- Indicates that a word has been added to the dictionary -->
-    <string name="added_word"><xliff:g id="word">%s</xliff:g> : Saved</string>
+    <string name="added_word">%s : Saved</string>
     
     <!-- Tip to long press on keys -->
     <string name="tip_long_press">Hold a key down to see accents (ø, ö, etc.)</string>
     <!-- Tip to dismiss keyboard -->
-    <string name="tip_dismiss">Press the back key \u21B6 to close the keyboard at any point</string>
+    <string name="tip_dismiss">Press the back key ↶ to close the keyboard at any point</string>
     <!-- Tip to press ?123 to access numbers and symbols -->
     <string name="tip_access_symbols">Access numbers and symbols</string>    
     <!-- Tip to long press on typed word to add to dictionary -->
-    <string name="tip_add_to_dictionary">Press and hold the left-most word to add it to the dictionary
-        </string>
+    <string name="tip_add_to_dictionary">Press and hold the left-most word to add it to the dictionary </string>
         
     <!-- Instruction to touch the bubble to continue -->
     <string name="touch_to_continue">Touch this hint to continue »</string>
@@ -171,8 +170,7 @@
     <string name="tip_to_open_keyboard"><b>The keyboard opens any time you touch a text field</b></string>
     
     <!-- Tutorial tip 2 - Touch and hold a key to view accents (examples) -->
-    <string name="tip_to_view_accents"><b>Touch &amp; hold a key to view accents\n(ø, ö, ô, ó, and so on)</b>
-    </string>
+    <string name="tip_to_view_accents"><b>Touch &amp; hold a key to view accents\n(ø, ö, ô, ó, and so on)</b> </string>
     
     <!-- Tutorial tip 3 - How to switch to number/symbol keyboard -->
     <string name="tip_to_open_symbols"><b>Switch to numbers and symbols by touching this key</b></string>
@@ -284,14 +282,14 @@
         <item>Off</item>
     </string-array>
 
-    <!-- Don't translate -->
-    <string name="voice_mode_main" translatable="false">0</string>
-    <!-- Don't translate -->
-    <string name="voice_mode_symbols" translatable="false">1</string>
-    <!-- Don't translate -->
-    <string name="voice_mode_off"  translatable="false">2</string>
+    
+    
+    
+    
+    
+    
 
-    <string-array name="voice_input_modes_values" translatable="false">
+    <string-array name="voice_input_modes_values">
         <item>@string/voice_mode_main</item>
         <item>@string/voice_mode_symbols</item>
         <item>@string/voice_mode_off</item>
@@ -310,7 +308,7 @@
     <!-- Press the "enter" key after the user speaks. Summary of option in settings.-->
     <string name="auto_submit_summary">Automatically press enter when searching or going to the next field.</string>
 
-    <!-- IME Tutorial screen (ROMAN) --><skip />
+    <!-- IME Tutorial screen (ROMAN) --><skip></skip>
     <!-- appears above image showing the user to click on a TextView to show the IME -->
     <string name="open_the_keyboard"><font size="17"><b>Open the keyboard\n</b></font><font size="3">\n</font>Touch any text field.</string>
 
@@ -318,10 +316,10 @@
     <string name="close_the_keyboard"><font size="17"><b>Close the keyboard\n</b></font><font size="3">\n</font>Press the Back key.</string>
 
     <!-- appears above image showing how to use touch and hold -->
-    <string name="touch_and_hold"><font size="17"><b>Touch \u0026 hold a key for options\n</b></font><font size="3">\n</font>Access punctuation and accents.</string>
+    <string name="touch_and_hold"><font size="17"><b>Touch &amp; hold a key for options\n</b></font><font size="3">\n</font>Access punctuation and accents.</string>
 
     <!-- appears above image showing how to access keyboard settings -->
-    <string name="keyboard_settings"><font size="17"><b>Keyboard settings\n</b></font><font size="3">\n</font>Touch \u0026 hold the <b>\?123\</b> key.</string>
+    <string name="keyboard_settings"><font size="17"><b>Keyboard settings\n</b></font><font size="3">\n</font>Touch &amp; hold the <b>\?123\</b> key.</string>
 
     <!-- popular web domains for the locale - most popular, displayed on the keyboard -->
     <string name="popular_domain_0">".com"</string>
@@ -343,7 +341,7 @@
     <string name="language_selection_summary">Slide finger on spacebar to change language</string>
     
     <!-- Add to dictionary hint -->
-    <string name="hint_add_to_dictionary">\u2190 Touch again to save</string>
+    <string name="hint_add_to_dictionary">← Touch again to save</string>
     
     <!-- Inform the user that a particular language has an available dictionary -->
     <string name="has_dictionary">Dictionary available</string>
@@ -359,13 +357,13 @@
 
     <!-- Description for keyboard theme switcher -->
     <string name="keyboard_layout">Keyboard Theme</string>
-    <string name="layout_basic" translatable="false">Basic</string>
-    <string name="layout_high_contrast" translatable="false">Basic (High Contrast)</string>
-    <string name="layout_stone_bold"  translatable="false">Stone (bold)</string>
-    <string name="layout_stone_normal"  translatable="false">Stone (normal)</string>
-    <string name="layout_gingerbread"  translatable="false">Gingerbread</string>
+    
+    
+    
+    
+    
 
-    <string-array name="keyboard_layout_modes" translatable="false">
+    <string-array name="keyboard_layout_modes">
         <item>@string/layout_basic</item>
         <item>@string/layout_high_contrast</item>
         <item>@string/layout_stone_normal</item>
@@ -373,7 +371,7 @@
         <item>@string/layout_gingerbread</item>
     </string-array>
 
-    <string-array name="keyboard_layout_modes_values" translatable="false">
+    <string-array name="keyboard_layout_modes_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -385,6 +383,6 @@
     <string name="subtype_mode_voice">voice</string>
 
     <!-- Title for Latin keyboard debug settings activity / dialog -->
-    <string name="english_ime_debug_settings" translatable="false">Android keyboard Debug settings</string>
-    <string name="prefs_debug_mode" translatable="false">Debug Mode</string>
+    
+    
 </resources>

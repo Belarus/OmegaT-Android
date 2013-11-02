@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Messaging</string>
     <string name="new_message">Messaging</string>
@@ -678,9 +678,9 @@
     <string name="pref_signature_title">Signature</string>
     <string name="pref_title_signature_enabled">Enable Signature</string>
     <string name="pref_title_signature_text">Signature Text</string>
-    <string name="prefDefault_vibrateWhen">never</string>
-    <string name="prefDefault_vibrate_true">always</string>
-    <string name="prefDefault_vibrate_false">never</string>
+    
+    
+    
     <string name="pref_callback_title">Callback number</string>
     <string name="pref_title_callback_enabled">Enable callback number</string>
     <string name="pref_title_callback_summary">Enter a default callback number</string>

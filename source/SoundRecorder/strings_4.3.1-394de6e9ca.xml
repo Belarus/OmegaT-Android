@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Sound Recorder</string>
     <string name="record_your_message">Record your message</string>
@@ -14,7 +14,7 @@
     <string name="accept">Done</string>
     <string name="discard">Discard</string>
     <string name="button_ok">OK</string>
-    <string name="timer_format">%02d:%02d</string>
+    
     <string name="press_record">Press record</string>
     <string name="press_record_ssr">Press: 0-MIC 1-Rx 2-Tx+Rx 3-AMR 4-EVRC 5-QCELP 6-AAC_MP4 7-AAC_SSR 8-LPCM_SSR and Press record</string>
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>

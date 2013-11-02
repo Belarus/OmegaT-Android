@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App name -->
+
     <string name="app_name">Apollo</string>
 
     <!-- Content descriptions for the Bottom Action Bar -->
@@ -24,7 +25,7 @@
         <!-- Number of albums is one -->
         <item quantity="one">1 album</item>
         <!-- Number of albums is more than one -->
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> albums</item>
+        <item quantity="other">%d albums</item>
     </plurals>
 
     <!-- Used to indicate the number of songs for an album -->
@@ -33,7 +34,7 @@
 
         <!-- Number of songs is one -->
         <item quantity="one">1 song</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> songs</item>
+        <item quantity="other">%d songs</item>
     </plurals>
 
     <!-- Toasts after adding song(s) to playlists -->
@@ -41,7 +42,7 @@
         <!-- message shown when one song was added -->
         <item quantity="one">1 song added to playlist</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g> songs added to playlist</item>
+        <item quantity="other">%d songs added to playlist</item>
     </plurals>
 
     <!-- Headers -->
@@ -55,12 +56,12 @@
     <string name="play_store">Play Store</string>
 
     <!-- Set track as ringtone -->
-    <string name="set_as_ringtone">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" set as ringtone</string>
+    <string name="set_as_ringtone">\"%s\" set as ringtone</string>
 
-    <!-- Do not translate. Duration format for duration < 1 hour -->
-    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
-    <!-- Do not translate. Duration format for duration >= 1 hour -->
-    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%3$02d:%5$02d</xliff:g></string>
+    
+    
+    
+    
 
     <!-- Transient popup message shown after renaming a playlist -->
     <string name="rename_playlist">Rename playlist</string>
@@ -103,10 +104,10 @@
     <string name="version">Apollo Version</string>
 
     <!-- Settings keys -->
-    <string name="key_themes" translatable="false">themepreview</string>
-    <string name="key_themes_package" translatable="false">themePackageName</string>
-    <string name="key_themes_preferences" translatable="false">themePrefences</string>
-    <string name="key_build_version" translatable="false">build_version</string>
+    
+    
+    
+    
 
     <!-- Theme layout Buttons -->
     <string name="apply_theme">Apply theme</string>
@@ -116,7 +117,7 @@
     <string name="favorite">Favorites</string>
     <string name="queue">Queue</string>
     <string name="new_playlist">New</string>
-    <string name="new_playlist_name_template">Playlist <xliff:g id="number">%d</xliff:g></string>
+    <string name="new_playlist_name_template">Playlist %d</string>
     <string name="save">Save</string>
     <string name="overwrite">Overwrite</string>
 

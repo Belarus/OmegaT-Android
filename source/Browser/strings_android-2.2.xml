@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The name of the application. -->
     <string name="application_name">Browser</string>
     <!-- Displayed with a file picker to choose a file to upload -->
@@ -35,7 +35,7 @@
     <!-- Sign-in dialog -->
     <!-- This is used as the title of a dialog which is used to sign in to a secure site.
             "%s1"is replaced with the host and "%s2" with realm -->
-    <string name="sign_in_to">Sign in to <xliff:g id="hostname">%s1</xliff:g> \"<xliff:g id="realm">%s2</xliff:g>\"</string>
+    <string name="sign_in_to">Sign in to %s1 \"%s2\"</string>
     <!-- Prompt for an input box that allows the user to enter their login name -->
     <string name="username">Name</string>
     <!-- Prompt for an input box that allows the user to enter their password -->
@@ -58,13 +58,13 @@
         <!-- Case of one match -->
         <item quantity="one">1 match</item>
         <!-- Case of "few" (two) matches -->
-        <item quantity="few"><xliff:g id="number" example="2">%d</xliff:g> matches</item>
+        <item quantity="few">%d matches</item>
         <!-- Case of several matches -->
-        <item quantity="other"><xliff:g id="number" example="137">%d</xliff:g> matches</item>
+        <item quantity="other">%d matches</item>
     </plurals>
 
     <!-- Displayed on the title bar while the page is loading -->
-    <string name="title_bar_loading">Loading\u2026</string>
+    <string name="title_bar_loading">Loading…</string>
 
     <!-- Menu item -->
     <string name="page_info">Page info</string>
@@ -119,7 +119,7 @@
     <string name="expires_on">Expires on:</string>
 
     <!-- Toast informing the user that loading has stopped for the current page. -->
-    <string name="stopping">Stopping\u2026</string>
+    <string name="stopping">Stopping…</string>
     <!-- Menu item to stop the current page from loading. -->
     <string name="stop">Stop</string>
     <!-- Menu item to reload or refresh the current page. -->
@@ -186,10 +186,10 @@
             dialog to bookmark the page that the browser is currently viewing,
             though it is not currently being displayed, since they are viewing
             the bookmarks screen. -->
-    <string name="current_page">from\u0020</string>
+    <string name="current_page">from </string>
     <!-- Confirmation dialog message confirming that the user wishes to delete
             the bookmark they selected for deletion -->
-    <string name="delete_bookmark_warning">Bookmark \"<xliff:g id="bookmark">%s</xliff:g>\" will be deleted.</string>
+    <string name="delete_bookmark_warning">Bookmark \"%s\" will be deleted.</string>
     <!-- Context Menu item to open the selected link in a new window -->
     <string name="open_in_new_window">Open in new window</string>
     <!-- Menu item to open a dialog which allows the user to enter a url or do search-->
@@ -246,7 +246,7 @@
 
     <!-- Context Menu item to open the dialer app with the selected phone number
             -->
-    <string name="contextmenu_dial_dot">Dial\u2026</string>
+    <string name="contextmenu_dial_dot">Dial…</string>
     <!-- Context Menu item to add the selected phone number to the address book.
             -->
     <string name="contextmenu_add_contact">Add contact</string>
@@ -296,7 +296,7 @@
         <item>On demand</item>
         <item>Off</item>
     </string-array>
-    <string-array name="pref_content_plugins_values" translatable="false">
+    <string-array name="pref_content_plugins_values">
         <item>ON</item>
         <item>ON_DEMAND</item>
         <item>OFF</item>
@@ -306,7 +306,7 @@
     <!-- Settings label -->
     <string name="pref_content_homepage">Set home page</string>
     <!-- Settings label -->
-    <string name="pref_content_search_engine" msgid="3143612593956844440">Set search engine</string>
+    <string msgid="3143612593956844440" name="pref_content_search_engine">Set search engine</string>
     <!-- Settings summary -->
     <string name="pref_content_search_engine_summary">Select a search engine</string>
     <!-- Settings button label -->
@@ -391,13 +391,13 @@
     </string-array>
     <!-- Title of dialog for setting the text size -->
     <string name="pref_text_size_dialogtitle">Text size</string>
-    <!-- Do not translate -->
-    <string-array name="pref_text_size_values" translatable="false">
-        <item><xliff:g>SMALLEST</xliff:g></item>
-        <item><xliff:g>SMALLER</xliff:g></item>
-        <item><xliff:g>NORMAL</xliff:g></item>
-        <item><xliff:g>LARGER</xliff:g></item>
-        <item><xliff:g>LARGEST</xliff:g></item>
+    
+    <string-array name="pref_text_size_values">
+        <item>SMALLEST</item>
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
     </string-array>
     <!-- Settings label -->
     <string name="pref_default_zoom">Default zoom</string>
@@ -409,11 +409,11 @@
     </string-array>
     <!-- Title of dialog for setting the default zoom -->
     <string name="pref_default_zoom_dialogtitle">Default zoom</string>
-    <!-- Do not translate -->
-    <string-array name="pref_default_zoom_values" translatable="false">
-        <item><xliff:g>FAR</xliff:g></item>
-        <item><xliff:g>MEDIUM</xliff:g></item>
-        <item><xliff:g>CLOSE</xliff:g></item>
+    
+    <string-array name="pref_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
     </string-array>
     <!-- Settings label -->
     <string name="pref_content_load_page">Open pages in overview</string>
@@ -436,32 +436,32 @@
     <!-- Title for a group of settings -->
     <string name="pref_development_title">Debug</string>
     <!-- Do not tranlsate.  Development option -->
-    <string name="pref_development_viewport" translatable="false">Use wide viewport</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string name="pref_development_single_column_rendering" translatable="false">Single column rendering</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string name="pref_development_normal_rendering" translatable="false">Normal rendering</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string name="pref_development_trace" translatable="false">Enable tracing</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string name="pref_development_nav_dump" translatable="false">Enable nav cache dump</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string name="js_engine_flags" translatable="false">Set JS flags</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string name="pref_development_uastring" translatable="false">UAString</string>
+    
     <!-- Do not tranlsate.  Development option -->
-    <string-array name="pref_development_ua_choices" translatable="false">
+    <string-array name="pref_development_ua_choices">
         <item>Android</item>
         <item>Desktop</item>
         <item>iPhone</item>
     </string-array>
     <!-- Do not tranlsate.  Development option -->
-    <string-array name="pref_development_ua_values" translatable="false">
+    <string-array name="pref_development_ua_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string name="pref_development_error_console" translatable="false">Show JavaScript Console</string>
+    
     <!-- Settings screen, setting option name -->
     <string name="pref_default_text_encoding">Text encoding</string>
     <!-- Options in the Default encoding dialog box -->
@@ -477,8 +477,8 @@
     </string-array>
     <!-- Dialog box title -->
     <string name="pref_default_text_encoding_dialogtitle">Text encoding</string>
-    <!-- Do not translate. Actual encoding values. Must be valid text encodings understandable from WebKit. -->
-    <string-array name="pref_default_text_encoding_values" translatable="false">
+    
+    <string-array name="pref_default_text_encoding_values">
         <item>Latin-1</item>
         <item>UTF-8</item>
         <item>GBK</item>
@@ -487,7 +487,7 @@
         <item>SHIFT_JIS</item>
         <item>EUC-JP</item>
     </string-array>
-    <string name="pref_default_text_encoding_default" translatable="false">Latin-1</string>
+    
     <!-- Title for a dialog displayed when the browser has a data connectivity
             problem -->
     <string name="browserFrameNetworkErrorLabel">Data connectivity problem</string>
@@ -501,8 +501,7 @@
     <!-- Dialog box title -->
     <string name="loadSuspendedTitle">No network connection</string>
     <!-- Dialog box message -->
-    <string name="loadSuspended">Browser cannot load this page because there
-      is no internet connection.</string>
+    <string name="loadSuspended">Browser cannot load this page because there is no internet connection.</string>
     <!-- Menu item -->
     <string name="clear_history">Clear history</string>
     <!-- History screen title; appears in title bar -->
@@ -510,14 +509,14 @@
     <!-- Appears on History screen if no history is found -->
     <string name="empty_history">Browser history is empty.</string>
     <!-- Displayed at the top of the bookmarks page.  When clicked, it bookmarks the page the browser is currently showing -->
-    <string name="add_new_bookmark">Add bookmark\u2026</string>
+    <string name="add_new_bookmark">Add bookmark…</string>
     <!-- Verb placed in front of a screenshot of a web page that, when clicked,
             will add that page to bookmarks -->
     <string name="add_bookmark_short">Add</string>
     
     <!-- This string is for the browser "Go To" UI. -->
-    <!-- Do not translate.  This string is not displayed in UI (no badge is selected for go to). -->
-    <string name="search_label" translatable="false">Browser</string>
+    
+    
     <!-- This string is for the browser "Go To" UI. -->
     <!-- This is the hint text shown in the Go To widget, before text is entered. -->
     <string name="search_hint">Search or type URL</string>
@@ -533,8 +532,7 @@
     <string name="attention">Attention</string>
     <!-- Message for a dialog informing the user that the site is attempting to
             display a popup window -->
-    <string name="popup_window_attempt">This site is attempting to open a
-      pop-up window.</string>
+    <string name="popup_window_attempt">This site is attempting to open a pop-up window.</string>
     <!-- Label for a button to allow a particular popup window to open -->
     <string name="allow">Allow</string>
     <!-- Label for a button to disallow a particular popup from opening -->
@@ -551,8 +549,7 @@
     <string name="too_many_subwindows_dialog_title">Pop-up already open</string>
     <!-- Message for a dialog informing the user that they cannot open a
             subwindow because only one can be open at a time. -->
-    <string name="too_many_subwindows_dialog_message">Could not open a new
-      pop-up window because only one can be open at any time.</string>
+    <string name="too_many_subwindows_dialog_message">Could not open a new pop-up window because only one can be open at any time.</string>
 
     <!-- Download History UI strings -->
     <string name="download_title">Download history</string>
@@ -571,19 +568,19 @@
     <!-- Confirmation dialog title -->
     <string name="download_cancel_dlg_title">Cancel downloads</string>
     <!-- Confirmation dialog message -->
-    <string name="download_cancel_dlg_msg">All <xliff:g id="download_count">%d</xliff:g> downloads will be canceled and cleared from the download history.</string>
+    <string name="download_cancel_dlg_msg">All %d downloads will be canceled and cleared from the download history.</string>
     <!-- Confirmation dialog title -->
     <string name="download_delete_file">File will be deleted</string>
     <!-- Dialog title -->
     <string name="download_file_error_dlg_title">Out of space</string>
     <!-- Dialog message -->
-    <string name="download_file_error_dlg_msg"><xliff:g id="filename">%s</xliff:g> could not be downloaded.\nFree up some space on your phone and try again.</string>
+    <string name="download_file_error_dlg_msg">%s could not be downloaded.\nFree up some space on your phone and try again.</string>
     <!-- Title for a dialog informing the user that the download has failed -->
     <string name="download_failed_generic_dlg_title">Download unsuccessful</string>
     <!-- Dialog title -->
     <string name="download_no_sdcard_dlg_title">No SD card</string>
     <!-- Dialog message -->
-    <string name="download_no_sdcard_dlg_msg">An SD card is required to download <xliff:g id="filename">%s</xliff:g>.</string>
+    <string name="download_no_sdcard_dlg_msg">An SD card is required to download %s.</string>
     <!-- Title for a dialog informing the user that the SD card used for
             external storage is busy so they cannot download anything -->
     <string name="download_sdcard_busy_dlg_title">SD card unavailable</string>
@@ -602,21 +599,21 @@
     <!-- the following download_xxxx matches the download manager state, ie Downloads.Status -->
     <string name="download_error">Download unsuccessful.</string>
     <!-- Appears in Download history screen after an item has downloaded, included item size -->
-    <string name="download_success"><xliff:g id="file">%s</xliff:g> Download complete.</string>
+    <string name="download_success">%s Download complete.</string>
     <!-- Appears in Download history screen while an item is being downloaded -->
-    <string name="download_running">Downloading\u2026</string>
+    <string name="download_running">Downloading…</string>
     <!-- Message in the list of items which have received download requests
             telling their status.  This message states that the download has not
             yet begun -->
-    <string name="download_pending">Starting download\u2026</string>
+    <string name="download_pending">Starting download…</string>
     <!-- Message in the list of items which have received download requests
             telling their status.  This message states that the download is
             waiting for a network connection to continue -->
-    <string name="download_pending_network">Waiting for data connection\u2026</string>
+    <string name="download_pending_network">Waiting for data connection…</string>
     <!-- Message in the list of items which have received download requests
             telling their status.  This message states that the download has
             paused to wait for a network connection -->
-    <string name="download_running_paused">Waiting for data connection\u2026</string>
+    <string name="download_running_paused">Waiting for data connection…</string>
     <!-- Message in the list of items which have received download requests
             telling their status.  This message states that the download has
             been canceled -->
@@ -638,19 +635,18 @@
             interrupted and cannot be resumed -->
     <string name="download_precondition_failed">Download interrupted. It cannot be resumed.</string>
 
-    <!-- Do not translate.  Testing only -->
-    <string name="dump_nav" translatable="false">Dump navigation cache</string>
-    <!-- Do not translate.  Testing only -->
-    <string name="dump_counters" translatable="false">Dump V8 counters</string>
+    
+    
+    
+    
 
     <!-- The default homepage. If it starts with "http://www.google" and the
             user signs up the device with a Google sites account, the site's
             domain will be appended. -->
-    <string name="homepage_base" translatable="false">
-        http://www.google.com/m?client=ms-{CID}&amp;source=android-home</string>
+    
 
     <!-- Bookmarks -->
-    <string-array name="bookmarks" translatable="false">
+    <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Picasa</item>
@@ -682,7 +678,7 @@
     </string-array>
 
     <!-- Bookmark name for Picasa website -->
-    <string name="picasa" translatable="false">Picasa</string>
+    
 
     <!-- The description of the suggestion that lets the user search the web for the query currently
          in the text field. -->
@@ -707,7 +703,7 @@
 
     <!-- Geolocation -->
     <!-- Permissions prompt -->
-    <string name="geolocation_permissions_prompt_message"><xliff:g id="website origin" example="maps.google.com">%s</xliff:g> wants to know your location</string>
+    <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
     <string name="geolocation_permissions_prompt_share">Share location</string>
     <string name="geolocation_permissions_prompt_dont_share">Decline</string>
     <string name="geolocation_permissions_prompt_remember">Remember preference</string>
@@ -733,9 +729,9 @@
     <!-- Text in the progress dialog when we are setting an image as the home screen wallpaper. -->
     <string name="progress_dialog_setting_wallpaper">Setting wallpaper...</string>
 
-    <string name="error_console_header_text_minimized" translatable="false">Show JavaScript console</string>
-    <string name="error_console_header_text_maximized" translatable="false">JavaScript console</string>
-    <string name="error_console_eval_text_hint" translatable="false">Evaluate JavaScript</string>
-    <string name="error_console_eval_button_text" translatable="false">Evaluate</string>
+    
+    
+    
+    
 
 </resources>

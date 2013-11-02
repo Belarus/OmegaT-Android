@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Certificate Installer</string>
 
     <!-- Title of the file picker screen -->
@@ -52,7 +51,7 @@
     <string name="intent_parse_error">Unable to parse intent: %s</string>
 
     <!-- toast message -->
-    <string name="cert_is_added"><xliff:g id="credential">%s</xliff:g> is installed.</string>
+    <string name="cert_is_added">%s is installed.</string>
     <!-- toast message -->
     <string name="cert_too_large_error">Installation failed. Certificate size is too large.</string>
     <!-- toast message -->

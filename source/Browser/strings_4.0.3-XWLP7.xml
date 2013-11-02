@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="pref_default_text_encoding_default">AutoDetect</string>
+    
     <string name="application_name">Internet</string>
     <string name="choose_upload">Choose file for upload</string>
     <string name="uploads_disabled">File uploads are disabled.</string>
@@ -221,19 +221,19 @@
     <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
     <string name="pref_extras_reset_default_dlg_title">Reset to default</string>
     <string name="pref_development_title">Debug</string>
-    <string name="pref_development_viewport">Use wide viewport</string>
-    <string name="pref_development_single_column_rendering">Single column rendering</string>
-    <string name="pref_development_normal_rendering">Normal rendering</string>
-    <string name="pref_development_trace">Enable tracing</string>
-    <string name="pref_development_nav_dump">Enable nav cache dump</string>
-    <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
-    <string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
-    <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-    <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
-    <string name="js_engine_flags">Set JS flags</string>
-    <string name="pref_development_uastring">UAString</string>
-    <string name="pref_development_error_console">Show JavaScript Console</string>
-    <string name="pref_development_reset_prelogin">Reset prelogin</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="pref_default_text_encoding">Text encoding</string>
     <string name="pref_default_text_encoding_dialogtitle">Text encoding</string>
     <string name="pref_accessibility_title">Accessibility</string>
@@ -249,9 +249,9 @@
     <string name="pref_lab_fullscreen_summary">Use fullscreen mode to hide the status bar</string>
     <string name="pref_data_title">Bandwidth management</string>
     <string name="pref_data_preload_title">Search result preloading</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
+    
+    
+    
     <string name="pref_data_preload_summary">Allow browser to preload high confidence search results in the background</string>
     <string name="pref_data_preload_dialogtitle">Search result preloading</string>
     <string name="browserFrameNetworkErrorLabel">Connection problem</string>
@@ -266,7 +266,7 @@
     <string name="go_home">Homepage</string>
     <string name="add_new_bookmark">Add bookmark</string>
     <string name="add_bookmark_short">Add</string>
-    <string name="search_label">Browser</string>
+    
     <string name="search_hint">Search or type URL</string>
     <string name="search_button_text">Go</string>
     <string name="search_settings_description">Bookmarks and web history</string>
@@ -310,11 +310,11 @@
     <string name="download_file_error">Failed to download. Not enough space</string>
     <string name="download_length_required">Can\'t download because the size of the item can\'t be determined.</string>
     <string name="download_precondition_failed">Download interrupted and can\'t be resumed.</string>
-    <string name="dump_nav">Dump navigation cache</string>
-    <string name="dump_counters">Dump V8 counters</string>
-    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
-    <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
-    <string name="picasa">Picasa</string>
+    
+    
+    
+    
+    
     <string name="search_the_web">Search the web</string>
     <string name="webstorage_outofspace_notification_title">Browser storage full</string>
     <string name="webstorage_outofspace_notification_text">Touch to free up space.</string>
@@ -344,13 +344,13 @@
     <string name="website_settings_clear_all_dialog_ok_button">OK</string>
     <string name="website_settings_clear_all_dialog_cancel_button">Cancel</string>
     <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
-    <string name="error_console_header_text_minimized">Show JavaScript console</string>
-    <string name="error_console_header_text_maximized">JavaScript console</string>
-    <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
-    <string name="error_console_eval_button_text">Evaluate</string>
+    
+    
+    
+    
     <string name="defaultBookmarksUpButton">Bookmarks</string>
     <string name="empty_bookmarks_folder">No bookmarks.</string>
-    <string name="rlz_access_point">Y1</string>
+    
     <string name="account_chooser_dialog_title">Choose account</string>
     <string name="import_bookmarks_dialog_title">Sync with Google account</string>
     <string name="import_bookmarks_dialog_description">Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don\'t want to sync them.</string>

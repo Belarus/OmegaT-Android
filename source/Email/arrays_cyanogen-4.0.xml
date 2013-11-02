@@ -13,7 +13,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
 <resources>
 
     <!-- Do not change any of the values in this array without checking/changing -->
@@ -33,7 +32,7 @@
         <item>@string/account_setup_options_mail_check_frequency_1day</item>
     </string-array>
 
-    <string-array name="account_settings_check_frequency_values" translatable="false">
+    <string-array name="account_settings_check_frequency_values">
         <item>-1</item>
         <item>5</item>
         <item>10</item>
@@ -60,7 +59,7 @@
         <item>@string/account_setup_options_mail_check_frequency_1day</item>
     </string-array>
 
-    <string-array name="account_settings_check_frequency_values_push" translatable="false">
+    <string-array name="account_settings_check_frequency_values_push">
         <item>-2</item>
         <item>-1</item>
         <item>5</item>
@@ -85,7 +84,7 @@
     </string-array>
 
     <!-- Mail sync window size codes for EAS accounts -->
-    <string-array name="account_settings_mail_window_values" translatable="false">
+    <string-array name="account_settings_mail_window_values">
         <item>-2</item>
         <item>1</item>
         <item>2</item>
@@ -110,7 +109,7 @@
 
     <!-- Mail sync window size codes for EAS milboxes.  It's the same thing as
          account_settings_mail_window_values, but has 0=default.  -->
-    <string-array name="account_settings_mail_window_values_with_default" translatable="false">
+    <string-array name="account_settings_mail_window_values_with_default">
         <item>0</item>
         <item>-2</item>
         <item>1</item>
@@ -132,7 +131,7 @@
     </string-array>
 
     <!-- The vibrate notification values -->
-    <string-array translatable="false" name="account_settings_vibrate_when_values">
+    <string-array name="account_settings_vibrate_when_values">
         <item>always</item>
         <item>silent</item>
         <item>never</item>
@@ -149,7 +148,7 @@
     </string-array>
 
     <!-- Auto-advance option values (DO NOT change the order.  Code assumes this order)-->
-    <string-array translatable="false" name="general_preference_auto_advance_values">
+    <string-array name="general_preference_auto_advance_values">
         <!-- Move to newer -->
         <item>newer</item>
         <!-- Move to older -->
@@ -168,7 +167,7 @@
     </string-array>
 
     <!-- Text Zoom option values (DO NOT change the order.  Code assumes this order)-->
-    <string-array translatable="false" name="general_preference_text_zoom_values">
+    <string-array name="general_preference_text_zoom_values">
         <item>tiny</item>
         <item>small</item>
         <item>normal</item>
@@ -178,7 +177,7 @@
 
     <!-- Arrays "mailbox_display_names" and "mailbox_display_icons" MUST match the order
          of the types of mailboxes defined in EmailContent -->
-    <string-array name="mailbox_display_names" translatable="false">
+    <string-array name="mailbox_display_names">
         <!-- TYPE_INBOX = 0 -->
         <item>@string/mailbox_name_display_inbox</item>
         <!-- TYPE_MAIL = 1 -->
@@ -199,7 +198,7 @@
 
     <!-- Arrays "mailbox_display_names" and "mailbox_display_icons" MUST match the order
          of the types of mailboxes defined in EmailContent -->
-    <array name="mailbox_display_icons" translatable="false">
+    <array name="mailbox_display_icons">
         <!-- TYPE_INBOX = 0 -->
         <item>@drawable/ic_folder_inbox_holo_light</item>
         <!-- TYPE_MAIL = 1 -->
@@ -219,7 +218,7 @@
     </array>
 
     <!-- Account color chips on combined view -->
-    <array name="combined_view_account_colors" translatable="false">
+    <array name="combined_view_account_colors">
         <item>@color/combined_view_account_color_1</item>
         <item>@color/combined_view_account_color_2</item>
         <item>@color/combined_view_account_color_3</item>

@@ -17,10 +17,9 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Do not translate. These are all of the drawable resources that should be preloaded by
-         the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_drawables">
         <item>@drawable/sym_def_app_icon</item>
         <item>@drawable/arrow_down_float</item>
@@ -76,8 +75,7 @@
         <item>@drawable/indicator_code_lock_point_area_red</item>
     </array>
 
-    <!-- Do not translate. These are all of the color state list resources that should be
-         preloaded by the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_color_state_lists">
         <item>@color/hint_foreground_dark</item>
         <item>@color/hint_foreground_light</item>
@@ -96,12 +94,12 @@
         <item>#ffffffff</item>
     </array>
 
-    <!-- Do not translate. -->
+    
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
     </integer-array>
-    <!-- Do not translate. -->
+    
     <integer-array name="maps_starting_zoom">
         <item>3</item>
     </integer-array>

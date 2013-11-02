@@ -13,21 +13,13 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Dialog title to identify the request from a VPN application. [CHAR LIMIT=60] -->
-    <string name="prompt"><xliff:g id="app">%s</xliff:g>
-        attempts to create a VPN connection.
-    </string>
+    <string name="prompt">%s attempts to create a VPN connection. </string>
 
     <!-- Dialog message to warn about the risk of using a VPN application. [CHAR LIMIT=NONE] -->
-    <string name="warning">By proceeding, you are giving the application
-        permission to intercept all network traffic.
-        <b>Do NOT accept unless you trust the application.</b> Otherwise,
-        you run the risk of having your data compromised by a malicious
-        software.
-    </string>
+    <string name="warning">By proceeding, you are giving the application permission to intercept all network traffic. <b>Do NOT accept unless you trust the application.</b> Otherwise, you run the risk of having your data compromised by a malicious software. </string>
 
     <!-- Checkbox label to accept the request from a VPN application. [CHAR LIMIT=60] -->
     <string name="accept">I trust this application.</string>
@@ -49,8 +41,5 @@
     <string name="data_received">Received:</string>
 
     <!-- Formatted string for the network usage over VPN. [CHAR LIMIT=40] -->
-    <string name="data_value_format">
-        <xliff:g id="number">%1$s</xliff:g> bytes /
-        <xliff:g id="number">%2$s</xliff:g> packets
-    </string>
+    <string name="data_value_format"> %1$s bytes / %2$s packets </string>
 </resources>

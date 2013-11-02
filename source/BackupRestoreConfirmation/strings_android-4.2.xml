@@ -13,21 +13,21 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title of the activity when a full backup has been requested and must be confirmed -->
     <string name="backup_confirm_title">Full backup</string>
     <!-- Title of the activity when a full restore has been requested and must be confirmed -->
     <string name="restore_confirm_title">Full restore</string>
 
     <!-- Text for message to user that a full backup has been requested, and must be confirmed. -->
-    <string name="backup_confirm_text">A full backup of all data to a connected desktop computer has been requested.  Do you want to allow this to happen\?\n\nIf you did not request the backup yourself, do not allow the operation to proceed.</string>
+    <string name="backup_confirm_text">A full backup of all data to a connected desktop computer has been requested. Do you want to allow this to happen\?\n\nIf you did not request the backup yourself, do not allow the operation to proceed.</string>
     <!-- Button to allow a requested full backup to occur -->
     <string name="allow_backup_button_label">Back up my data</string>
     <!-- Button to refuse to allow the requested full backup -->
     <string name="deny_backup_button_label">Do not back up</string>
 
     <!-- Text for message to user that a full restore has been requested, and must be confirmed. -->
-    <string name="restore_confirm_text">A full restore of all data from a connected desktop computer has been requested.  Do you want to allow this to happen\?\n\nIf you did not request the restore yourself, do not allow the operation to proceed.  This will replace any data currently on the device!</string>
+    <string name="restore_confirm_text">A full restore of all data from a connected desktop computer has been requested. Do you want to allow this to happen\?\n\nIf you did not request the restore yourself, do not allow the operation to proceed. This will replace any data currently on the device!</string>
     <!-- Button to allow a requested full restore to occur -->
     <string name="allow_restore_button_label">Restore my data</string>
     <!-- Button to refuse to allow the requested full restore -->

@@ -17,10 +17,9 @@
 ** limitations under the License.
 */
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Do not translate. These are all of the drawable resources that should be preloaded by
-         the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_drawables">
        <item>@drawable/toast_frame_holo</item>
        <item>@drawable/btn_check_on_pressed_holo_light</item>
@@ -298,8 +297,7 @@
        <item>@drawable/quickcontact_badge_overlay_pressed_light</item>
     </array>
 
-    <!-- Do not translate. These are all of the color state list resources that should be
-         preloaded by the zygote process before it starts forking application processes. -->
+    
     <array name="preloaded_color_state_lists">
         <item>@color/primary_text_dark</item>
         <item>@color/primary_text_dark_disable_only</item>
@@ -335,13 +333,13 @@
     </array>
 
     <!-- Used in LocalePicker -->
-    <string-array translatable="false" name="special_locale_codes">
+    <string-array name="special_locale_codes">
         <item>zh_CN</item>
         <item>zh_TW</item>
     </string-array>
 
     <!-- Used in LocalePicker -->
-    <string-array translatable="false" name="special_locale_names">
+    <string-array name="special_locale_names">
         <item>中文 (简体)</item>
         <item>中文 (繁體)</item>
     </string-array>
@@ -405,7 +403,7 @@
     </array>
 
     <!-- list of 3- or 4-letter mnemonics for a 10-key numeric keypad -->
-    <string-array translatable="false" name="lockscreen_num_pad_klondike">
+    <string-array name="lockscreen_num_pad_klondike">
         <item></item><!-- 0 -->
         <item></item><!-- 1 -->
         <item>ABC</item><!-- 2 -->

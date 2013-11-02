@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="application_name">Launcher</string>
     <string name="uid_name">Android Core Apps</string>
@@ -10,8 +10,8 @@
     <string name="widgets_tab_label">Widgets</string>
     <string name="long_press_widget_to_add">Touch &amp; hold to pick up a widget.</string>
     <string name="market">Shop</string>
-    <string name="widget_dims_format">%1$d x %2$d</string>
-    <string name="external_drop_widget_pick_format">%1$s (%2$d x %3$d)</string>
+    
+    
     <string name="external_drop_widget_error">Couldn\'t drop item onto this Home screen.</string>
     <string name="external_drop_widget_pick_title">Choose widget to create</string>
     <string name="rename_folder_label">Folder name</string>

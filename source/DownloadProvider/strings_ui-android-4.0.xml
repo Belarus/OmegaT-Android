@@ -13,7 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- The name of the application that appears in the launcher [CHAR LIMIT=15] -->
     <string name="app_label">Downloads</string>
     <!-- The title that appears at the top of the activity listing downloads sorted by date [CHAR LIMIT=40] -->
@@ -56,8 +56,7 @@
          [CHAR LIMIT=25] -->
     <string name="dialog_title_not_available">Download Failed</string>
     <!-- Text for dialog when user clicks on a download that failed [CHAR LIMIT=200] -->
-    <string name="dialog_failed_body">Do you want to retry downloading the file later
-          or delete it from the queue?</string>
+    <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
     <!-- Title for dialog when user clicks on a download that has not yet begun, but will be started
          in the future. [CHAR LIMIT=25] -->
     <string name="dialog_title_queued_body">File not yet available</string>
@@ -69,23 +68,19 @@
     <string name="dialog_file_missing_body">The downloaded file cannot be found.</string>
     <!-- Text for dialog when user clicks on a download that failed due to insufficient space on
          external storage [CHAR LIMIT=200] -->
-    <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not
-        enough space on external storage.</string>
+    <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not enough space on external storage.</string>
     <!-- Text for dialog when user clicks on a download that failed due to insufficient space on
          the internal download cache [CHAR LIMIT=200] -->
-    <string name="dialog_insufficient_space_on_cache">Cannot finish download. There is not enough
-        space on internal download storage.</string>
+    <string name="dialog_insufficient_space_on_cache">Cannot finish download. There is not enough space on internal download storage.</string>
     <!-- Text for dialog when user clicks on a download that failed because it was interrupted and
          the server doesn't support resuming downloads [CHAR LIMIT=200] -->
     <string name="dialog_cannot_resume">Download interrupted. It cannot be resumed.</string>
     <!-- Text for dialog when user clicks on a download that failed because the requested
          destination file already exists [CHAR LIMIT=200] -->
-    <string name="dialog_file_already_exists">Cannot download. The destination file already exists.
-    </string>
+    <string name="dialog_file_already_exists">Cannot download. The destination file already exists. </string>
     <!-- Text for dialog when user clicks on a download that failed because it was requested to go
          on the external media, which is not mounted [CHAR LIMIT=200] -->
-    <string name="dialog_media_not_found">Cannot download. The external media is not available.
-    </string>
+    <string name="dialog_media_not_found">Cannot download. The external media is not available. </string>
     <!-- Text for a toast appearing when a user clicks on a completed download, informing the user
          that there is no application on the device that can open the file that was downloaded
          [CHAR LIMIT=200] -->
@@ -112,7 +107,7 @@
     <!-- Text for menu to select all downloads in the download list [CHAR LIMIT=25] -->
     <string name="select_all">Select All</string>
     <!-- number of downloads selected [CHAR LIMIT=50] -->
-    <string name="selected_count">Selected <xliff:g id="number" example="3">%1$d</xliff:g> out of <xliff:g id="total" example="15">%2$d</xliff:g></string>
+    <string name="selected_count">Selected %1$d out of %2$d</string>
     <!-- title shown when displaying list of apps to choose from when share is clicked on
         [CHAR LIMIT = 20] -->
     <string name="download_share_dialog">Share via</string>

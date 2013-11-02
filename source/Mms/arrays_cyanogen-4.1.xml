@@ -19,7 +19,7 @@
     <!-- NOTE: if you change anything about this array, you must make the corresponding change
          to the array DEFAULT_SMILEY_RES_IDS in MessageListItem.java and to default_smiley_names
          below. -->
-    <string-array name="default_smiley_texts" translatable="false">
+    <string-array name="default_smiley_texts">
       <item>:-)</item>   <!-- 0: Happy -->
       <item>:-(</item>   <!-- 1: Sad -->
       <item>;-)</item>   <!-- 2: Winking -->
@@ -85,7 +85,7 @@
       <item>12 (strictest)</item>
     </string-array>
 
-    <string-array name="pref_templates_gestures_sensitivity_values" translatable="false">
+    <string-array name="pref_templates_gestures_sensitivity_values">
       <item>1</item>
       <item>2</item>
       <item>3</item>
@@ -109,7 +109,7 @@
         <item>@string/pref_title_mms_notification_vibrate_custom</item>
     </string-array>
 
-    <string-array name="pref_mms_notification_vibrate_pattern_values" translatable="false">
+    <string-array name="pref_mms_notification_vibrate_pattern_values">
         <item></item>
         <item>0,1200</item>
         <item>0,2500</item>
@@ -118,12 +118,12 @@
         <item>custom</item>
     </string-array>
 
-    <string-array name="pref_entries_input_type" translatable="false">
+    <string-array name="pref_entries_input_type">
         <item>@string/pref_keyboard_emoji</item>
         <item>@string/pref_keyboard_new_line</item>
     </string-array>
 
-    <string-array name="pref_values_input_type" translatable="false">
+    <string-array name="pref_values_input_type">
         <item>64</item> <!-- InputType.TYPE_TEXT_VARIATION_SHORT_MESSAGE constant  -->
         <item>80</item> <!-- InputType.TYPE_TEXT_VARIATION_LONG_MESSAGE constant  -->
     </string-array>

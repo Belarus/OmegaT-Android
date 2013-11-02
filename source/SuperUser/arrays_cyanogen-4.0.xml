@@ -20,7 +20,7 @@
         <item>Deny</item>
         <item>Allow</item>
     </string-array>
-    <!-- Do not translate -->
+    
     <string-array name="pref_automatic_action_values">
         <item>prompt</item>
         <item>deny</item>
@@ -31,7 +31,7 @@
         <item>Dot</item>
         <item>Emoticon</item>
     </string-array>
-    <!-- Do not translate -->
+    
     <string-array name="pref_status_icon_type_values">
         <item>dot</item>
         <item>emote</item>
@@ -43,7 +43,7 @@
         <item>31/12/2011</item>
         <item>2011/12/31</item>
     </string-array>
-    <!-- Do not translate -->
+    
     <string-array name="pref_date_format_values">
         <item>default</item>
         <item>MM/dd/yyyy</item>
@@ -55,7 +55,7 @@
         <item>Toast</item>
         <item>Status bar</item>
     </string-array>
-    <!-- Do not translate -->
+    
     <string-array name="pref_notifications_type_values">
         <item>toast</item>
         <item>status</item>

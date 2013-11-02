@@ -13,8 +13,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Gallery</string>
     <!-- Title for picture frame gadget to show in list of all available gadgets -->
     <string name="gadget_title">Picture frame</string>
@@ -26,12 +25,12 @@
     <!-- Activity label. This might show up in the activity-picker -->
     <string name="movie_view_label">Video player</string>
     <!-- shown in the video player view while the video is being loaded, before it starts playing -->
-    <string name="loading_video">Loading video\u2026</string>
-    <string name="loading_image">Loading image\u2026</string>
+    <string name="loading_video">Loading video…</string>
+    <string name="loading_image">Loading image…</string>
 
     <!-- Message shown on the progress dialog to indicate we're loading the
             account info [CHAR LIMIT=30] -->
-    <string name="loading_account">Loading account\u2026</string>
+    <string name="loading_account">Loading account…</string>
 
     <!-- Movie View Resume Playing dialog title -->
     <string name="resume_playing_title">Resume video</string>
@@ -42,7 +41,7 @@
     <string name="resume_playing_resume">Resume playing</string>
 
     <!-- Displayed in the title of those albums that are being loaded -->
-    <string name="loading">Loading\u2026</string>
+    <string name="loading">Loading…</string>
 
     <!-- Displayed in the title of those pictures that fails to be loaded
          [CHAR LIMIT=50]-->
@@ -69,10 +68,10 @@
     <!-- Hint that appears when cropping an image with more than one face -->
     <string name="multiface_crop_help">Touch a face to begin.</string>
     <!-- Toast/alert that the image is being saved to the SD card -->
-    <string name="saving_image">Saving picture\u2026</string>
+    <string name="saving_image">Saving picture…</string>
 
     <!-- Toast/alert that the image is being saved after editing in filtershow [CHAR LIMIT=40]-->
-    <string name="filtershow_saving_image">Saving picture to <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="filtershow_saving_image">Saving picture to %1$s …</string>
 
     <!-- Eorror toast message that the image cannot be saved [CHAR LIMIT=40]-->
     <string name="save_error">Couldn\'t save cropped image.</string>
@@ -101,7 +100,7 @@
     <!-- Activity title for cropping picture and setting it as wallpaper [CHAR LIMIT=20] -->
     <string name="set_wallpaper">Set wallpaper</string>
     <!-- Toast/alert after saving wallpaper -->
-    <string name="wallpaper">Setting wallpaper\u2026</string>
+    <string name="wallpaper">Setting wallpaper…</string>
     <string name="camera_setas_wallpaper">Wallpaper</string>
 
     <!-- Details dialog "OK" button. Dismisses dialog. -->
@@ -185,7 +184,7 @@
          It means the pictures of the Picasa album is currently being
          transferred to local storage, so the pictures can later be viewed
          offline. [CHAR LIMIT=15] -->
-    <string name="caching_label">Caching\u2026</string>
+    <string name="caching_label">Caching…</string>
 
     <!-- The title of the menu item to let user crop the image. [CHAR LIMIT=15] -->
     <string name="crop_action">Crop</string>
@@ -261,8 +260,7 @@
 
     <!-- Toast message shown when the cropped image has been saved in the
          %s folder (string: folder_download) [CHAR LIMIT=50]-->
-    <string name="crop_saved">
-        Cropped image saved to <xliff:g id="folder_name">%s</xliff:g>.</string>
+    <string name="crop_saved"> Cropped image saved to %s.</string>
 
     <!-- Toast message shown when there is no albums available [CHAR LIMIT=50]-->
     <string name="no_albums_alert">No albums available.</string>
@@ -372,8 +370,7 @@
 
     <!-- Toast message shown after we try to make a local album available offline
          [CHAR LIMIT=150] -->
-    <string name="try_to_set_local_album_available_offline">
-        This item is stored locally and available offline.</string>
+    <string name="try_to_set_local_album_available_offline"> This item is stored locally and available offline.</string>
 
     <!-- A label shown on the action bar. It indicates that the user is
          viewing all available albums [CHAR LIMIT=20] -->
@@ -396,28 +393,28 @@
          is a string representation of the amount of free space, eg. "20MB".
          [CHAR LIMIT=20]
     -->
-    <string name="free_space_format"><xliff:g id="bytes">%s</xliff:g> free</string>
+    <string name="free_space_format">%s free</string>
 
     <!-- Label of a group of pictures. The size of each picture in this group is
          less than a certain amount. The parameter is a string representation
          of that amount, eg. "10MB".
          [CHAR LIMIT=20]
     -->
-    <string name="size_below"><xliff:g id="size">%1$s</xliff:g> or below</string>
+    <string name="size_below">%1$s or below</string>
 
     <!-- Label of a group of pictures. The size of each picture in this group is
          more than a certain amount. The parameter is a string representation
          of that amount, eg. "10MB".
          [CHAR LIMIT=20]
     -->
-    <string name="size_above"><xliff:g id="size">%1$s</xliff:g> or above</string>
+    <string name="size_above">%1$s or above</string>
 
     <!-- Label of a group of pictures. The size of each picture in this group is
          between two amounts. The parameters are string representations of the two
          amounts, eg. "10MB", "100MB".
          [CHAR LIMIT=20]
     -->
-    <string name="size_between"><xliff:g id="min_size">%1$s</xliff:g> to <xliff:g id="max_size">%2$s</xliff:g></string>
+    <string name="size_between">%1$s to %2$s</string>
 
     <!-- A label shown on the action bar. It indicates that the operation
          to import media item(s) [CHAR LIMIT=20] -->
@@ -492,8 +489,8 @@
     <!-- The title of the menu item which display online help in browser. [CHAR LIMIT=20]-->
     <string name="help">Help</string>
 
-    <!-- Web address for gallery help.  DO NOT TRANSLATE -->
-    <string name="help_url_gallery_main" translatable="false">http://support.google.com/mobile/?p=gallery_main</string>
+    
+    
 
     <!-- The tilte of a dialog showing there is no external storage. [CHAR LIMIT=20] -->
     <string name="no_external_storage_title">No Storage</string>
@@ -520,7 +517,7 @@
     <string name="please_wait">Please wait</string>
 
     <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
-    <string name="save_into">Saving video to <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+    <string name="save_into">Saving video to %1$s …</string>
 
     <!-- Toast if the trimmed video is too short to trim. [CHAR LIMIT=80] -->
     <string name="trim_too_short">Can not trim : target video is too short</string>
@@ -529,10 +526,10 @@
     <string name="pano_progress_text">Rendering panorama</string>
 
     <!-- The label on the button that will save an edited image -->
-    <string name="save" msgid="8140440041190264400">Save</string>
+    <string msgid="8140440041190264400" name="save">Save</string>
 
     <!--  Text of notification message which is shown when user attaches camera -->
-    <string name="ingest_scanning" msgid="2048262851775139720">Scanning content...</string>
+    <string msgid="2048262851775139720" name="ingest_scanning">Scanning content...</string>
 
     <!-- String indicating how many media items from the camera have been scanned -->
     <plurals name="ingest_number_of_items_scanned">
@@ -542,7 +539,7 @@
     </plurals>
 
     <!--  Status message shown when content from the camera is being sorted -->
-    <string name="ingest_sorting" msgid="624687230903648118">Sorting...</string>
+    <string msgid="624687230903648118" name="ingest_sorting">Sorting...</string>
 
     <!--  Status message shown when scanning the content from the camera has completed -->
     <string name="ingest_scanning_done">Scanning done</string>
@@ -576,22 +573,22 @@
     <string name="video_camera_label">Camcorder</string>
 
     <!-- alert to the user to wait for some operation to complete -->
-    <string name="wait">Please wait\u2026</string>
+    <string name="wait">Please wait…</string>
 
     <!-- alert to the user that USB storage must be available before using the camera [CHAR LIMIT=NONE] -->
-    <string name="no_storage" product="nosdcard">Mount USB storage before using the camera.</string>
+    <string product="nosdcard" name="no_storage">Mount USB storage before using the camera.</string>
     <!-- alert to the user that an SD card must be installed before using the camera -->
-    <string name="no_storage" product="default">Insert an SD card before using the camera.</string>
+    <string product="default" name="no_storage">Insert an SD card before using the camera.</string>
 
     <!-- alert to the user that the USB storage is being disk-checked [CHAR LIMIT=30] -->
-    <string name="preparing_sd" product="nosdcard">Preparing USB storage\u2026</string>
+    <string product="nosdcard" name="preparing_sd">Preparing USB storage…</string>
     <!-- alert to the user that the SD card is being disk-checked -->
-    <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
+    <string product="default" name="preparing_sd">Preparing SD card…</string>
 
     <!-- alert to the user that the camera fails to read or write the USB storage. [CHAR LIMIT=NONE] -->
-    <string name="access_sd_fail" product="nosdcard">Couldn\'t access USB storage.</string>
+    <string product="nosdcard" name="access_sd_fail">Couldn\'t access USB storage.</string>
     <!-- alert to the user that the camera fails to read or write the SD card. -->
-    <string name="access_sd_fail" product="default">Couldn\'t access SD card.</string>
+    <string product="default" name="access_sd_fail">Couldn\'t access SD card.</string>
 
     <!-- button in review mode indicating that the photo taking, video recording, and panorama saving session should be canceled [CHAR LIMIT=10] -->
     <string name="review_cancel">CANCEL</string>
@@ -605,7 +602,7 @@
     <!-- Settings screen, camera selection dialog title. Users can select a camera from the phone (front-facing or back-facing). [CHAR LIMIT=20] -->
     <string name="pref_camera_id_title">Choose camera</string>
 
-    <string name="pref_camera_id_default" translatable="false">0</string>
+    
 
     <!-- In select camera setting, back facing camera. [CHAR LIMIT=14] -->
     <string name="pref_camera_id_entry_back">Back</string>
@@ -615,7 +612,7 @@
     <!-- Settings screen, setting title text -->
     <string name="pref_camera_recordlocation_title">Store location</string>
 
-    <string name="pref_camera_recordlocation_default" translatable="false">none</string>
+    
 
     <!--  Label for record location preference [CHAR LIMIT=50] -->
     <string name="pref_camera_location_label">LOCATION</string>
@@ -623,7 +620,7 @@
     <!-- Title for countdown timer on camera settings screen [CHAR LIMIT=30]-->
     <string name="pref_camera_timer_title">Countdown timer</string>
 
-    <string name="pref_camera_timer_default" translatable="false">0</string>
+    
     <!-- Entry for countdown timer setting. e.g. 1 second, 10 seconds, etc. [CHAR LIMIT=30]-->
     <plurals name="pref_camera_timer_entry">
         <item quantity="one">1 second</item>
@@ -639,20 +636,20 @@
     <string name="setting_on">On</string>
 
     <!-- The value of a camera preference indicating the setting is off. -->
-    <string name="setting_off_value" translatable="false">off</string>
+    
     <!-- The value of a camera preference indicating the setting is on. -->
-    <string name="setting_on_value" translatable="false">on</string>
+    
 
     <!-- The Video quality settings in preference [CHAR LIMIT=21] -->
     <string name="pref_video_quality_title">Video quality</string>
     <!-- The default quality value is 5 (720p) -->
-    <string name="pref_video_quality_default" translatable="false">5</string>
+    
     <!-- Video quality setting entry. Videos will be recorded in 1080p quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_1080p" translatable="false">HD 1080p</string>
+    
     <!-- Video quality setting entry. Videos will be recorded in 720p quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_720p" translatable="false">HD 720p</string>
+    
     <!-- Video quality setting entry. Videos will be recorded in 480p quality. [CHAR LIMIT=24] -->
-    <string name="pref_video_quality_entry_480p" translatable="false">SD 480p</string>
+    
     <!-- Video quality setting entry. Videos will be recorded in the highest quality available on the device. [CHAR LIMIT=24] -->
     <string name="pref_video_quality_entry_high">High</string>
     <!-- Video quality setting entry. Videos will be recorded in the lowest quality available on the device. [CHAR LIMIT=24] -->
@@ -661,7 +658,7 @@
     <!-- Describes the preference dialog for choosing interval between frame capture for
     time lapse recording. Appears at top of the dialog. [CHAR LIMIT=30] -->
     <string name="pref_video_time_lapse_frame_interval_title">Time lapse</string>
-    <string name="pref_video_time_lapse_frame_interval_default" translatable="false">0</string>
+    
 
     <!-- Settings screen, Camera setting category title -->
     <string name="pref_camera_settings_category">Camera settings</string>
@@ -709,10 +706,10 @@
     <string name="pref_camera_focusmode_label_macro">MACRO</string>
 
     <!-- Default flash mode setting.-->
-    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    
 
     <!-- Value for flash off setting-->
-    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
+    
 
     <!-- Settings screen, Flash mode title -->
     <string name="pref_camera_flashmode_title">Flash mode</string>
@@ -730,10 +727,10 @@
     <string name="pref_camera_flashmode_label_off">FLASH OFF</string>
 
     <!-- Default videocamera flash mode setting.-->
-    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+    
 
     <!-- Default white balance setting. -->
-    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, white balance title -->
     <string name="pref_camera_whitebalance_title">White balance</string>
@@ -755,7 +752,7 @@
     <string name="pref_camera_whitebalance_label_cloudy">CLOUDY</string>
 
     <!-- Default scene mode setting. -->
-    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
+    
 
     <!-- Settings screen, Select Scene mode -->
     <string name="pref_camera_scenemode_title">Scene mode</string>
@@ -802,7 +799,7 @@
 
     <!-- Exposure settings in preference -->
     <string name="pref_exposure_title">Exposure</string>
-    <string name="pref_exposure_default" translatable="false">0</string>
+    
     <!--  menu label exposure compensation [CHAR LIMIT=50] -->
     <string name="pref_exposure_label">EXPOSURE</string>
 
@@ -821,18 +818,18 @@
     <string name="dialog_ok">OK</string>
 
     <!-- Low-memory dialog message [CHAR LIMT=NONE] -->
-    <string name="spaceIsLow_content" product="nosdcard">Your USB storage is running out of space. Change the quality setting or delete some images or other files.</string>
+    <string product="nosdcard" name="spaceIsLow_content">Your USB storage is running out of space. Change the quality setting or delete some images or other files.</string>
     <!-- Low-memory dialog message [CHAR LIMIT=NONE] -->
-    <string name="spaceIsLow_content" product="default">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
+    <string product="default" name="spaceIsLow_content">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
 
     <!-- Camera format string for new image files. Passed to java.text.SimpleDateFormat. -->
-    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- Video Camera format string for new video files. Passed to java.text.SimpleDateFormat. -->
-    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- Filename prefix for panorama output. -->
-    <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
+    
 
     <!-- The message shown when video record reaches size limit. -->
     <string name="video_reach_size_limit">Size limit reached.</string>
@@ -856,7 +853,7 @@
     <string name="pano_dialog_waiting_previous">Waiting for previous panorama</string>
 
     <!-- The text shown on the bottom-left corner of the screen to indicate that the saving is in process [CHAR LIMIT=13] -->
-    <string name="pano_review_saving_indication_str">Saving\u2026</string>
+    <string name="pano_review_saving_indication_str">Saving…</string>
 
     <!-- The text shown on the screen to indicate that the panorama is rendering [CHAR LIMIT=27] -->
     <string name="pano_review_rendering">Rendering panorama</string>
@@ -865,7 +862,7 @@
     <string name="tap_to_focus">Touch to focus.</string>
 
     <!-- Default effect setting that clears the effect. -->
-    <string name="pref_video_effect_default" translatable="false">none</string>
+    
 
     <!-- Title of video effect setting popup window -->
     <string name="pref_video_effect_title">Effects</string>
@@ -962,7 +959,7 @@ CHAR LIMIT = NONE] -->
     <string name="accessibility_time_bar">Video player time bar</string>
 
     <!-- TODO: remove the string as it is a work-around solution to bypass the default speak of the element type. -->
-    <string name="empty" translatable="false">" "</string>
+    
 
     <!-- Default text for a button that can be toggled on and off. -->
     <string name="capital_on">ON</string>
