@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+     Copyright (C) 2012 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Label shown on launcher icon -->
+    <string name="app_label">Clock</string>
+
+    <!-- Title for AlarmClock activity -->
+    <string name="alarm_list_title">Alarms</string>
+
+    <!-- Menu item on Alarm Clock screen: Add alarm -->
+    <string name="add_alarm">Add alarm</string>
+
+    <!-- Menu item on Alarm Clock screen: Desk clock -->
+    <string name="menu_desk_clock">Desk clock</string>
+
+    <!-- Menu item on Alarm Clock screen: Edit alarm -->
+    <string name="menu_edit_alarm">Edit alarm</string>
+
+    <!-- Context Menu Item on Alarm Settings screen: Delete alarm -->
+    <string name="delete_alarm">Delete alarm</string>
+
+    <!-- Context Menu Item on Alarm Settings screen: Enable alarm -->
+    <string name="enable_alarm">Turn alarm on</string>
+
+    <!-- Context Menu Item on Alarm Settings screen: Disable alarm -->
+    <string name="disable_alarm">Turn alarm off</string>
+
+    <!-- Delete alarm confirmation dialog message. -->
+    <string name="delete_alarm_confirm">Delete this alarm?</string>
+
+    <!-- Menu item on Alarm Clock screen: Show clock -->
+    <string name="show_clock">Show clock</string>
+
+    <!-- Menu item on Alarm Clock screen: Hide clock -->
+    <string name="hide_clock">Hide clock</string>
+
+    <!-- Setting label on Set alarm screen: Label -->
+    <string name="label">Label</string>
+
+    <!-- Default label to display for an alarm -->
+    <string name="default_label">Alarm</string>
+
+    <!-- Preference category on Alarm Settings screen: Set alarm -->
+    <string name="set_alarm">Set alarm</string>
+
+    <!-- Setting labels on Set alarm screen: Vibration on or off -->
+    <string name="alarm_vibrate">Vibrate</string>
+
+    <!-- Setting labels on Set alarm screen: Increasing volume on or off -->
+    <string name="alarm_incvol">Increasing Volume</string>
+
+    <!-- Setting labels on Set alarm screen: Repeat -->
+    <string name="alarm_repeat">Repeat</string>
+
+    <!-- Setting labels on Set alarm screen: Select alarm ringtone  -->
+    <string name="alert">Ringtone</string>
+
+    <!-- Setting labels on Set alarm screen: Set time  -->
+    <string name="time">Time</string>
+
+    <!-- Button labels on the alarm dialog: Dismiss -->
+    <string name="alarm_alert_dismiss_text">Dismiss</string>
+
+    <!-- Alarm Alert screen: this message is shown after an alarm rung
+         unattended for a number of minutes.  It tells the user that
+         the alarm has been silenced.-->
+    <string name="alarm_alert_alert_silenced">Alarm silenced after <xliff:g id="minutes">%d</xliff:g> minutes.</string>
+
+    <!-- Button labels on the alarm dialog: Snooze -->
+    <string name="alarm_alert_snooze_text">Snooze</string>
+
+    <!-- Toast that appears after Alarm is snoozed from the Alarm
+         dialog. Says the alarm will snooze for xxx minutes.  -->
+    <string name="alarm_alert_snooze_set">Snoozing for <xliff:g id="minutes">%d</xliff:g> minutes.</string>
+
+    <!-- 0: nothing
+         1: days
+         2:      hours
+         3: days hours
+         4:            minutes
+         5: days       minutes
+         6:      hours minutes
+         7: days hours minutes
+    --><skip />
+
+    <!-- Alarm confirmation toast: Describes how long from now until
+         alarm fires -->
+    <string-array name="alarm_set">
+        <item>Alarm set for less than 1 minute from now.</item>
+        <item>Alarm set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> from now.</item>
+        <item>Alarm set for <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> from now.</item>
+        <item>Alarm set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> and <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> from now.</item>
+        <item>Alarm set for <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+        <item>Alarm set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g> and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+        <item>Alarm set for <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+        <item>Alarm set for <xliff:g id="DAYS" example="2 days">%1$s</xliff:g>, <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>, and <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> from now.</item>
+    </string-array>
+
+    <!-- Alarm confirmation toast: singular day -->
+    <string name="day">"1 day"</string>
+
+    <!-- Alarm confirmation toast: plural days -->
+    <string name="days">"<xliff:g id="days">%s</xliff:g> days"</string>
+
+    <!-- Alarm confirmation toast: singular hour -->
+    <string name="hour">1 hour</string>
+
+    <!-- Alarm confirmation toast: plural hours -->
+    <string name="hours"><xliff:g id="hours">%s</xliff:g> hours</string>
+
+    <!-- Alarm confirmation toast: singular minute  -->
+    <string name="minute">"1 minute"</string>
+
+    <!-- Alarm confirmation toast: plural minutes  -->
+    <string name="minutes">"<xliff:g id="minutes">%s</xliff:g> minutes"</string>
+
+    <!-- Repeat options that appear under an alarm on main Alarm Clock
+         screen to identify repetition schedule: special case for when
+         the alarm is set to repeat every day -->
+    <string name="every_day">Every day</string>
+
+    <!-- Repeat options that appear under an alarm on main Alarm Clock
+         screen to identify repetition schedule: special case for when
+         the alarm is set to never repeat -->
+    <string name="never">Never</string>
+
+    <!-- Repeat options that appear under an alarm on main Alarm Clock
+         screen to identify repetition schedule: concatenate days with
+         this character, i.e. "Mon, Tue, Wed" -->
+    <string name="day_concat">", "</string>
+
+    <!-- Appears at the top of the Clock Picker screen: Tell user to
+         select a clock to display -->
+    <string name="clock_instructions">Choose a clock</string>
+
+    <!-- Label for analog clock gadget, shown in list of all gadgets -->
+    <string name="analog_gadget">Analog clock</string>
+
+    <!-- Menu item title for general Alarm Clock Settings -->
+    <string name="settings">Settings</string>
+
+    <!-- Setting title for whether the alarm should play in silent mode.
+         Usually, silent mode only affects the ringer, but this setting
+         will make the alarms respect silent mode too. -->
+    <string name="alarm_in_silent_mode_title">Alarm in silent mode</string>
+
+    <!-- Setting summary for whether the alarm should play in silent mode. -->
+    <string name="alarm_in_silent_mode_summary">Play alarm even when the device is in silent mode</string>
+
+    <!-- Setting title for showing/hiding the alarm status bar icon -->
+    <string name="show_status_bar_icon_title">Show icon</string>
+
+    <!-- Setting summary for showing/hiding the alarm statusbar icon -->
+    <string name="show_status_bar_icon_summary">Show an icon in the status bar when an alarm is set</string>
+
+    <!-- Setting title for changing the snooze duration. -->
+    <string name="snooze_duration_title">Snooze duration</string>
+
+    <!-- Entries listed in the ListPreference when invoking the snooze duration
+         preference. -->
+    <string-array name="snooze_duration_entries">
+      <item>5 minutes</item>
+      <item>10 minutes</item>
+      <item>15 minutes</item>
+      <item>20 minutes</item>
+      <item>25 minutes</item>
+      <item>30 minutes</item>
+    </string-array>
+
+    <!-- Values that are retrieved from the ListPreference. These must match
+         the snooze_duration_entries above. -->
+    <string-array name="snooze_duration_values" translatable="false">
+      <item>5</item>
+      <item>10</item>
+      <item>15</item>
+      <item>20</item>
+      <item>25</item>
+      <item>30</item>
+    </string-array>
+
+    <!-- Setting title for the flip action setting. -->
+    <string name="flip_action_title">Flip action</string>
+
+    <!-- Dialog title of the flip action setting. -->
+    <string name="flip_action_dialog_title">Flip action</string>
+
+    <!-- Setting summary for the flip action setting. -->
+    <string name="flip_action_summary">Flipping the phone down will
+        <xliff:g id="action">%s</xliff:g></string>
+
+    <!-- Entries listed in the setting for the flip action setting. -->
+    <string-array name="flip_action_entries">
+      <item>Do nothing</item>
+      <item>Snooze the alarm</item>
+      <item>Dismiss the alarm</item>
+    </string-array>
+
+    <!-- Values for the flip action setting. -->
+    <string-array name="flip_action_values" translatable="false">
+      <item>0</item>
+      <item>1</item>
+      <item>2</item>
+    </string-array>
+
+    <!-- Auto silence preference title -->
+    <string name="auto_silence_title">Auto-silence</string>
+
+    <!-- Auto silence summary string set based on the preference value. -->
+    <string name="auto_silence_summary">Alarms will silence after
+      <xliff:g id="minutes">%d</xliff:g> minutes</string>
+
+    <!-- Auto silence summary when turned off -->
+    <string name="auto_silence_never">Off</string>
+
+    <!-- Entries listed in the ListPreference when invoking the auto silence
+         preference. -->
+    <string-array name="auto_silence_entries">
+      <item>Off</item>
+      <item>5 minutes</item>
+      <item>10 minutes</item>
+      <item>15 minutes</item>
+      <item>20 minutes</item>
+      <item>25 minutes</item>
+      <item>30 minutes</item>
+    </string-array>
+
+    <!-- Values that are retrieved from the ListPreference. These must match
+         the auto_silence_entries above. -->
+    <string-array name="auto_silence_values" translatable="false">
+      <item>-1</item> <!-- Off -->
+      <item>5</item>
+      <item>10</item>
+      <item>15</item>
+      <item>20</item>
+      <item>25</item>
+      <item>30</item>
+    </string-array>
+
+    <!-- Done button when editing an alarm. -->
+    <string name="done">Done</string>
+
+    <!-- Revert button when editing an alarm. -->
+    <string name="revert">Revert</string>
+
+    <!-- Delete button when editing an alarm. -->
+    <string name="delete">Delete</string>
+
+    <!-- Setting title for changing the alarm volume. -->
+    <string name="alarm_volume_title">Alarm volume</string>
+
+    <!-- Setting summary for changing the alarm volume. -->
+    <string name="alarm_volume_summary">Set the volume of alarms</string>
+
+    <!-- Summary for the alarm preference when silent is chosen. -->
+    <string name="silent_alarm_summary">Silent</string>
+
+    <!-- Text to display in the small text of the notification -->
+    <string name="alarm_notify_text">Snooze or dismiss alarm.</string>
+
+    <!-- Text to display in the notification ticker and label -->
+    <string name="alarm_notify_snooze_label"><xliff:g id="label">%s</xliff:g> (snoozed)</string>
+
+    <!-- Text to display in the notification when the alarm has been snoozed -->
+    <string name="alarm_notify_snooze_text">Alarm set for <xliff:g id="time">%s</xliff:g>. Touch to cancel.</string>
+
+    <!-- Title of the setting to change hardware button behavior. This string
+         should be changed for each piece of hardware. [CHAR LIMIT=20] -->
+    <string name="volume_button_setting_title">Volume buttons</string>
+
+    <!-- Dialog title of the volume and power setting. -->
+    <string name="volume_button_dialog_title">Button effect</string>
+
+    <!-- The summary of the side button setting. -->
+    <string name="volume_button_setting_summary">Set what these buttons do when pressed during an alarm</string>
+
+    <!-- Entries listed in the setting for the side-button action. -->
+    <string-array name="volume_button_setting_entries">
+      <item>None</item>
+      <item>Snooze</item>
+      <item>Dismiss</item>
+    </string-array>
+
+    <!-- Values for the side-button setting. -->
+    <string-array name="volume_button_setting_values" translatable="false">
+      <item>0</item>
+      <item>1</item>
+      <item>2</item>
+    </string-array>
+
+    <!-- Title of the ringtone setting. -->
+    <string name="default_ringtone_setting_title">Set default ringtone</string>
+
+    <!-- Accessibility labels for Clock activity buttons --><skip/>
+    <string name="alarm_button_description">Alarms</string>
+    <string name="gallery_button_description">Gallery</string>
+    <string name="music_button_description">Music</string>
+    <string name="nightmode_button_description">Dim</string>
+    <string name="home_button_description">Launcher</string>
+    <string name="desk_clock_button_description">Clock display</string>
+
+    <!-- A short representation of charging information, e.g "34%" -->
+    <string name="battery_charging_level"><xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+
+    <!-- What to show the user if the weather widget exists but fails to
+         respond. This is a sign of an error; if the weather widget is not
+         present on the device, we show nothing at all. -->
+    <string name="weather_fetch_failure">Weather information isn\'t available right now.</string>
+
+    <string name="menu_item_dock_settings" msgid="9161438664257429372">Dock settings</string>
+
+    <!-- A description for the DeskClock alarm sound playback service.
+         [CHAR LIMIT=NONE] -->
+    <string name="alarm_klaxon_service_desc">Sound playback service for alarms set in Clock.</string>
+
+    <!-- String displayed as the alert summary while loading the alert name from
+         the media player. [CHAR LIMIT=NONE] -->
+    <string name="loading_ringtone">Loading ringtone\u2026</string>
+
+    <!-- Label on the main screen control used to set alarm [CHAR LIMIT=30]-->
+    <string name="control_set_alarm">Set alarm</string>
+
+    <!-- Label on the main screen control used to set alarm when there is already an existing alarm [CHAR LIMIT=30]-->
+    <string name="control_set_alarm_with_existing">Alarm set: <xliff:g id="time">%s</xliff:g></string>
+
+    <!-- Setting labels on Set alarm screen: Select profile to change to -->
+    <string name="alarm_profile">Profile</string>
+
+    <!-- Option of profile setting of the alarm: No change to profile -->
+    <string name="alarm_profile_no_change_profile">No change profile</string>
+
+    <!-- Summary of alarm profile: No change profile -->
+    <string name="alarm_profile_summary_no_change">No change to profile when alarm triggers</string>
+
+    <!-- Summary of alarm profile: Change profile to -->
+    <string name="alarm_profile_summary_change_to">When alarm triggers, the profile will be changed to
+        <xliff:g id="profile">%s</xliff:g></string>
+
+
+<!-- =============== CyanogenMod Entries =============== -->
+
+    <!-- TimerClockService is not ready -->
+    <string name="msg_timer_service_is_not_ready">\nThe timer service is not ready. No operation is allowed.\n</string>
+    <!-- Fails to create a new timer -->
+    <string name="msg_timer_creation_fails">\nTimer creation fails. No operation is allowed.\n</string>
+    <!-- UI thread fails  -->
+    <string name="msg_timer_ui_thread_fails">\nDrawing UI thread fails. No operation is allowed.\n</string>
+    <!-- Preferences update fails  -->
+    <string name="msg_pref_update_fails">\nPreference update fails. Value was not changed.\n</string>
+    <!-- The operation fails -->
+    <string name="msg_operation_fails">\nThe operation fails.\n</string>
+
+    <!-- Title of the Stopwatch fragment -->
+    <string name="stopwatch_title">Stopwatch</string>
+    <!-- Stopwatch. Stop timer button text -->
+    <string name="stopwatch_actions_stop">Stop</string>
+    <!-- Stopwatch. Stop timer button content description -->
+    <string name="stopwatch_actions_stop_cd">Stop the current stopwatch timer</string>
+    <!-- Stopwatch. Start timer button text -->
+    <string name="stopwatch_actions_start">Start</string>
+    <!-- Stopwatch. Start timer button content description -->
+    <string name="stopwatch_actions_start_cd">Start the current stopwatch timer</string>
+    <!-- Stopwatch. Resume timer button text -->
+    <string name="stopwatch_actions_resume">Resume</string>
+    <!-- Stopwatch. Resume timer button content description -->
+    <string name="stopwatch_actions_resume_cd">Resume the current stopwatch timer</string>
+    <!-- Stopwatch. Reset timer button text -->
+    <string name="stopwatch_actions_reset">Reset</string>
+    <!-- Stopwatch. Reset timer button content description -->
+    <string name="stopwatch_actions_reset_cd">Reset the current stopwatch timer</string>
+    <!-- Stopwatch. Take lap time button text -->
+    <string name="stopwatch_actions_lap">Lap</string>
+    <!-- Stopwatch. Take lap time button content description -->
+    <string name="stopwatch_actions_lap_cd">Take a snapshot of the lap time</string>
+    <!-- Stopwatch. Take lap sector time button text -->
+    <string name="stopwatch_actions_sector">Sector</string>
+    <!-- Stopwatch. Take lap sector time button content description -->
+    <string name="stopwatch_actions_sector_cd">Take a snapshot of a partial time of sector of the current lap</string>
+
+    <!-- Stopwatch. Info Panel. Last lap title -->
+    <string name="stopwatch_info_panel_last_lap_title">Last lap</string>
+    <!-- Stopwatch. Info Panel. Best lap title -->
+    <string name="stopwatch_info_panel_best_lap_title">Best lap</string>
+    <!-- Stopwatch. Info Panel. Laps title -->
+    <string name="stopwatch_info_panel_laps_title">Laps</string>
+    <!-- Stopwatch. Info Panel. No data -->
+    <string name="stopwatch_info_panel_empty_data">No data collected</string>
+
+    <!-- Stopwatch. Info Panel. An empty lap label -->
+    <string name="stopwatch_info_panel_empty_lap">Lap</string>
+    <!-- Stopwatch. Info Panel. Lap label -->
+    <string name="stopwatch_info_panel_lap_label">Lap <xliff:g id="lap">%1$s</xliff:g></string>
+    <!-- Stopwatch. Info Panel. Sector label -->
+    <string name="stopwatch_info_panel_lap_sector">Sector <xliff:g id="sector">%1$s</xliff:g></string>
+
+    <!-- Stopwatch. Menu. Hide last lap -->
+    <string name="stopwatch_menu_hide_last_lap_panel">Hide \'Last lap\'</string>
+    <!-- Stopwatch. Menu. Hide best lap -->
+    <string name="stopwatch_menu_hide_best_lap_panel">Hide \'Best lap\'</string>
+    <!-- Stopwatch. Menu. Hide best lap -->
+    <string name="stopwatch_menu_hide_laps_panel">Hide \'Laps\'</string>
+    <!-- Stopwatch. Menu. Settings -->
+    <string name="stopwatch_menu_settings">Settings</string>
+
+    <!-- Stopwatch. Preferences. General -->
+    <string name="stopwatch_preferences_lap_sectors">Lap/sectors</string>
+    <!-- Stopwatch. Preferences. Summary of General catergory -->
+    <string name="stopwatch_preferences_lap_sectors_summary">Settings to configure the behavior of laps and sectors.</string>
+    <!-- Stopwatch. Preferences. Sectors -->
+    <string name="stopwatch_preferences_sectors">Sectors</string>
+    <!-- Stopwatch. Preferences. Summary of sectors -->
+    <string name="stopwatch_preferences_sectors_summary">{0,choice,0#Lap sectors not enabled.|1#Lap sectors configured with 1 sector.|1&lt;Lap sectors configured with {0} sectors.}</string>
+    <!-- Stopwatch. Preferences. Best lap behavior -->
+    <string name="stopwatch_preferences_best_lap_behavior">Best lap behavior</string>
+    <!-- Stopwatch. Preferences. About -->
+    <string name="stopwatch_preferences_about">About</string>
+    <!-- Stopwatch. Preferences. Summary of About catergory -->
+    <string name="stopwatch_preferences_about_summary">Stopwatch: Copyright \u00A9 2012 CyanogenMod</string>
+
+    <!-- Stopwatch. Best lap behavior. Lower times are better -->
+    <string name="stopwatch_best_lap_lower_pref">Lower times are better</string>
+    <!-- Stopwatch. Best lap behavior. Summary of lower times are better  -->
+    <string name="stopwatch_best_lap_lower_pref_summary">Best lap is the lower time.</string>
+    <!-- Stopwatch. Best lap behavior. Highest times are better -->
+    <string name="stopwatch_best_lap_highest_pref">Greater times are better</string>
+    <!-- Stopwatch. Best lap behavior. Summary of highest times are better -->
+    <string name="stopwatch_best_lap_highest_pref_summary">Best lap is the highest time.</string>
+
+    <!-- Stopwatch. Sectors Dialog Preference. Enabled check text -->
+    <string name="sectors_dialog_enabled_text">Enabled lap sectors:</string>
+
+
+    <!-- Title of the Countdown fragment -->
+    <string name="countdown_title">Countdown</string>
+    <!-- Countdown. Stop timer button text -->
+    <string name="countdown_actions_stop">Stop</string>
+    <!-- Countdown. Stop timer button content description -->
+    <string name="countdown_actions_stop_cd">Stop the current countdown timer</string>
+    <!-- Countdown. Start timer button text -->
+    <string name="countdown_actions_start">Start</string>
+    <!-- Countdown. Start timer button content description -->
+    <string name="countdown_actions_start_cd">Start the current countdown timer</string>
+    <!-- Countdown. Resume timer button text -->
+    <string name="countdown_actions_resume">Resume</string>
+    <!-- Countdown. Resume timer button content description -->
+    <string name="countdown_actions_resume_cd">Resume the current countdown timer</string>
+    <!-- Countdown. Reset timer button text -->
+    <string name="countdown_actions_reset">Reset</string>
+    <!-- Countdown. Reset timer button content description -->
+    <string name="countdown_actions_reset_cd">Reset the current countdown timer</string>
+    <!-- Countdown. Cancel edition timer button text -->
+    <string name="countdown_actions_cancel">Cancel</string>
+    <!-- Countdown. Cancel edition button content description -->
+    <string name="countdown_actions_cancel_cd">Cancel the edition mode of the current countdown timer</string>
+    <!-- Countdown. Set edition timer button text -->
+    <string name="countdown_actions_set">Set</string>
+    <!-- Countdown. Set edition button content description -->
+    <string name="countdown_actions_set_cd">Set the time of current countdown timer</string>
+
+    <!-- Countdown. Menu. Edit timer -->
+    <string name="countdown_menu_open_timer_editor">Open timer editor</string>
+    <!-- Countdown. Menu. Cancel timer -->
+    <string name="countdown_menu_close_timer_editor">Close timer editor</string>
+    <!-- Countdown. Menu. Settings -->
+    <string name="countdown_menu_settings">Settings</string>
+
+    <!-- Countdown. Saved Countdown Timers Panel. Title -->
+    <string name="countdown_panel_title">Saved countdown Timers</string>
+    <!-- Countdown. Saved Countdown Timers Panel. Add timer -->
+    <string name="countdown_panel_add_text">Add current timer</string>
+    <!-- Countdown. Saved Countdown Timers Panel. Add timer. Content description -->
+    <string name="countdown_panel_add_text_cd">Add the countdown timer to the list of saved timers.</string>
+    <!-- Countdown. Saved Countdown Timers Panel. Remove timer. Content description -->
+    <string name="countdown_panel_remove_cd">Remove the countdown timer from the list of saved timers.</string>
+    <!-- Countdown. Saved Countdown Timers. Add confirmation dialog. -->
+    <string name="countdown_dialog_add">A new timer will be created.\n\nContinue?\n</string>
+    <!-- Countdown. Saved Countdown Timers. Delete confirmation dialog. -->
+    <string name="countdown_dialog_delete">The timer \'<xliff:g id="timer">%1$s</xliff:g>\' will be deleted.\n\nAre you sure?\n</string>
+
+    <!-- Countdown. Preferences. Notifications -->
+    <string name="countdown_preferences_notifications">Notifications</string>
+    <!-- Countdown. Preferences. Summary of Notifications category -->
+    <string name="countdown_preferences_notifications_summary">Settings to configure the behavior of countdown notifications.</string>
+    <!-- Countdown. Preferences. About -->
+    <string name="countdown_preferences_about">About</string>
+    <!-- Countdown. Preferences. Summary of About catergory -->
+    <string name="countdown_preferences_about_summary">Countdown: Copyright \u00A9 2012 CyanogenMod</string>
+
+    <!-- Countdown. Preferences. On Countdown in progress category title -->
+    <string name="countdown_notification_oncountdown_category">On countdown</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Notifications title -->
+    <string name="countdown_notification_oncountdown_notifications_title">Notifications</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Notifications summary Off -->
+    <string name="countdown_notification_oncountdown_notifications_summary_on">Display notifications in status bar.</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Notifications summary On -->
+    <string name="countdown_notification_oncountdown_notifications_summary_off">Don\'t display notifications in status bar.</string>
+
+    <!-- Countdown. Preferences. On final Countdown category title -->
+    <string name="countdown_notification_onfinalcountdown_category">On final countdown</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Notifications title -->
+    <string name="countdown_notification_onfinalcountdown_notifications_title">Notifications</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Notifications summary Off -->
+    <string name="countdown_notification_onfinalcountdown_notifications_summary_on">Display notifications in status bar.</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Notifications summary On -->
+    <string name="countdown_notification_onfinalcountdown_notifications_summary_off">Don\'t display notifications in status bar.</string>
+
+    <!-- Countdown. Preferences. On Countdown in progress. Show clock screen title -->
+    <string name="countdown_notification_onfinalcountdown_open_clock_screen_title">Open clock screen</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Show clock screen summary On -->
+    <string name="countdown_notification_onfinalcountdown_open_clock_screen_summary_on">When countdown finishes, the countdown clock screen is opened (This option is ignored while on a call).</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Show clock screen summary On -->
+    <string name="countdown_notification_onfinalcountdown_open_clock_screen_summary_off">When countdown finishes, don\'t disrupt user activity opening the countdown clock screen.</string>
+
+    <!-- Countdown. Preferences. On Countdown in progress. Ringtone -->
+    <string name="countdown_notification_onfinalcountdown_ringtone_title">Ringtone</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Ringtone. Silent option -->
+    <string name="countdown_notification_onfinalcountdown_ringtone_silent">Silent</string>
+
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate title -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_title">Vibrate</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate always option -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_always">Always</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate only when silent option -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_only_when_silent">Only when silent</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate never option -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_never">Never</string>
+
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate on call title -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_on_call_title">Vibrate on call</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate on call summary On -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_on_call_summary_on">Allow vibrate while on a call.</string>
+    <!-- Countdown. Preferences. On Countdown in progress. Vibrate on call summary On -->
+    <string name="countdown_notification_onfinalcountdown_vibrate_on_call_summary_off">No vibrate while on a call.</string>
+
+    <!-- Timer Clock Service. Countdown notification title for countdown timer -->
+    <string name="service_countdown_notification_title">Countdown timer</string>
+    <!-- Timer Clock Service. Countdown notification text for countdown in progress -->
+    <string name="service_countdown_notification_msg_progress">There is a countdown timer in progress.</string>
+    <!-- Timer Clock Service. Countdown notification text for ended countdown -->
+    <string name="service_countdown_notification_msg_end">The timer has reached his final countdown.</string>
+    <!-- Timer Clock Service. Countdown notification summary  -->
+    <string name="service_countdown_notification_summary">Remaining time: <xliff:g id="time">%1$s</xliff:g></string>
+
+    <!-- The text showed to advise that other fragment exists in deskclock fragment -->
+    <string name="cling_deskclock_desc">To show stopwatch and countdown timers, swipe to the left.</string>
+    <!-- The text showed to advise the use of lap/sectors -->
+    <string name="cling_stopwatch_desc">To configure lap and sectors behavior, go to the settings menu.</string>
+    <!-- The text showed to advise how to edit the countdown clock, with a long press holding -->
+    <string name="cling_countdown_desc">To edit the timer, press and hold over the clock.</string>
+
+    <!-- The overflow actionbar button -->
+    <string name="overflow_button_cd">More options</string>
+
+</resources>

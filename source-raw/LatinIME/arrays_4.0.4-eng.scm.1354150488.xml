@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="auto_correction_threshold_values">
+        <item></item>
+        <item>0.22</item>
+        <item>0.08</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="keyboard_layout_modes_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="subtype_locale_exception_keys">
+        <item>en_US</item>
+        <item>en_GB</item>
+        <item>de_ZZ</item>
+    </string-array>
+    <string-array name="subtype_locale_exception_values">
+        <item>English (US)</item>
+        <item>English (UK)</item>
+        <item>Deutsch (QWERTY)</item>
+    </string-array>
+    <string-array name="keypress_vibration_durations">
+        <item>herring,5</item>
+        <item>tuna,5</item>
+        <item>mt6575,30</item>
+        <item>mt6577,30</item>
+    </string-array>
+    <string-array name="keypress_volumes">
+        <item>herring,0.05</item>
+        <item>tuna,0.05</item>
+        <item>stingray,0.04</item>
+        <item>mt6575,0.05</item>
+        <item>mt6577,0.05</item>
+    </string-array>
+    <string-array name="sudden_jumping_touch_event_device_list">
+        <item>mahimahi</item>
+        <item>sholes</item>
+    </string-array>
+    <string-array name="touch_position_correction_data_gingerbread">
+        <item>0.0091285</item>
+        <item>0.1193203</item>
+        <item>0.1622607</item>
+        <item>-0.0233128</item>
+        <item>0.1379798</item>
+        <item>0.1585229</item>
+        <item>-0.0080185</item>
+        <item>0.1911477</item>
+        <item>0.1570948</item>
+    </string-array>
+    <string-array name="touch_position_correction_data_ice_cream_sandwich">
+        <item>0.0038756</item>
+        <item>-0.0005677</item>
+        <item>0.1577026</item>
+        <item>-0.0236678</item>
+        <item>0.0381731</item>
+        <item>0.1529972</item>
+        <item>-0.0086827</item>
+        <item>0.0880847</item>
+        <item>0.1522819</item>
+    </string-array>
+</resources>

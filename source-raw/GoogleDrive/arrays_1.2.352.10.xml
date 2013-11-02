@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="ds_image_enhancement_method_names">
+        <item>Off</item>
+        <item>Automatic</item>
+        <item>Black &amp; White</item>
+        <item>Color</item>
+        <item>Color Drawing</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_size_names">
+        <item>US Letter</item>
+        <item>US Legal</item>
+        <item>US Tabloid</item>
+        <item>ISO A3</item>
+        <item>ISO A4</item>
+        <item>ISO A5</item>
+        <item>ISO B4</item>
+        <item>ISO B5</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_orientation_names">
+        <item>Portrait</item>
+        <item>Landscape</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="ds_jpeg_quality_names">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="ds_image_enhancement_methods">
+        <item>NONE</item>
+        <item>AUTO</item>
+        <item>OPTIMIZE_FOR_BW</item>
+        <item>OPTIMIZE_FOR_COLOR</item>
+        <item>OPTIMIZE_FOR_COLOR_DRAWING</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_size_values">
+        <item>LETTER</item>
+        <item>LEGAL</item>
+        <item>TABLOID</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>B4</item>
+        <item>B5</item>
+    </string-array>
+    <string-array name="ds_pdf_paper_orientation_values">
+        <item>PORTRAIT</item>
+        <item>LANDSCAPE</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="ds_jpeg_quality_values">
+        <item>50</item>
+        <item>80</item>
+        <item>95</item>
+    </string-array>
+    <string-array name="acp_color_group_names">
+        <item>Grey</item>
+        <item>Maroon</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Cornflower Blue</item>
+        <item>Blue</item>
+        <item>Violet</item>
+        <item>Magenta</item>
+    </string-array>
+    <string-array name="font_picker_heading_names">
+        <item>Normal text</item>
+        <item>Title</item>
+        <item>Subtitle</item>
+        <item>Heading 1</item>
+        <item>Heading 2</item>
+        <item>Heading 3</item>
+        <item>Heading 4</item>
+        <item>Heading 5</item>
+        <item>Heading 6</item>
+    </string-array>
+    <string-array name="fast_scroll_time_grouper_in_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

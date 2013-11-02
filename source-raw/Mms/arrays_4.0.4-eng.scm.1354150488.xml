@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>:\'(</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Where are you?</item>
+        <item>What are you doing?</item>
+        <item>Call back!Please!</item>
+        <item>Sorry, I have a meeting now.</item>
+        <item>Call you soon.</item>
+        <item>Don\'t worry!I\'m fine.</item>
+        <item>On my way home.</item>
+        <item>Arrive soon.</item>
+        <item>Be there or be square!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Restricted mode</item>
+        <item>Warning mode</item>
+        <item>Free mode</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_values">
+        <item>RESTRICTED</item>
+        <item>WARNING</item>
+        <item>FREE</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_choices">
+        <item>100K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_values">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_values">
+        <item>GSM alphabet</item>
+        <item>Unicode</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Phone</item>
+        <item>SIM Card</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_values">
+        <item>Phone</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Device</item>
+        <item>SIM Card</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_values">
+        <item>Device</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Follow system font size</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra large</item>
+    </string-array>
+    <string-array name="pref_message_font_size_values">
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Always</item>
+        <item>Only when silent</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+</resources>

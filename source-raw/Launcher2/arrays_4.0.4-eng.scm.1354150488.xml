@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="scene_preview">
+        <item>scene_default</item>
+        <item>scene_work</item>
+    </string-array>
+    <string-array name="scene_name">
+        <item>Default</item>
+        <item>Work</item>
+    </string-array>
+</resources>

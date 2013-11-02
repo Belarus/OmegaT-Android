@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="label_seconds_quantity">
+        <item quantity="other">%d secs</item>
+        <item quantity="one">1 sec</item>
+    </plurals>
+    <plurals name="label_minutes_quantity">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="label_hours_quantity">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="label_seconds_extended_quantity">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="label_minutes_extended_quantity">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+    <plurals name="label_hours_extended_quantity">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="label_free_messages_count">
+        <item quantity="other">%d free messages remaining</item>
+        <item quantity="one">1 free message remaining</item>
+    </plurals>
+    <plurals name="message_signing_in_password_dot">
+        <item quantity="other">Password, %d dots</item>
+        <item quantity="one">Password, 1 dot</item>
+    </plurals>
+    <plurals name="message_file_you_sent_quantity">
+        <item quantity="other">Sent %d files</item>
+        <item quantity="one">Sent a file</item>
+    </plurals>
+    <plurals name="message_file_other_sent_quantity">
+        <item quantity="other">%d files sent</item>
+        <item quantity="one">File sent</item>
+    </plurals>
+    <plurals name="message_file_received_quantity">
+        <item quantity="other">%d files received</item>
+        <item quantity="one">File received</item>
+    </plurals>
+    <plurals name="acc_unread_conversations_quantity">
+        <item quantity="other">%d unread chats</item>
+        <item quantity="one">one unread chat</item>
+    </plurals>
+    <plurals name="acc_characters_remaining_quantity">
+        <item quantity="other">%1$d characters remaining</item>
+        <item quantity="one">%1$d character remaining</item>
+    </plurals>
+    <plurals name="acc_hub_recents_header">
+        <item quantity="other">Recent header, %1$d unread chats, action to access all recent conversations</item>
+        <item quantity="one">Recent header, %1$d unread chat, action to access all recent conversations</item>
+    </plurals>
+</resources>

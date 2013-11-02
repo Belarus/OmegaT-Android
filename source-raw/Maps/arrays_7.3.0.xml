@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="DISTANCE_UNIT_VALUES">
+        <item>UNKNOWN</item>
+        <item>KILOMETERS</item>
+        <item>MILES</item>
+    </string-array>
+    <string-array name="REVIEW_RATING_STAR_TEXT_DESCRIPTIONS">
+        <item>Hated it</item>
+        <item>Disliked it</item>
+        <item>It\'s okay</item>
+        <item>Liked it</item>
+        <item>Loved it</item>
+    </string-array>
+</resources>
