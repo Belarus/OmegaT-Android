@@ -26,18 +26,39 @@
 	</app>
 	<app dirName="Browser" packageName="com.android.browser" translated="true">
 	    <cyanogen src="packages/apps/Browser/res" />
+	    <forceNotranslation name="rlz_access_point" />
+	    <forceNotranslation name="error_console_header_text_maximized" />
+	    <forceNotranslation name="error_console_eval_text_hint" />
+	    <forceNotranslation name="pref_default_text_encoding_default" />
+	    <forceNotranslation name="error_console_eval_button_text" />
+	    <forceNotranslation name="error_console_header_text_minimized" />
 	</app>
 	<app dirName="Calculator" packageName="com.android.calculator2" translated="true">
 	    <cyanogen src="packages/apps/Calculator/res" />
+	    <forceNotranslation name="sin" />
+	    <forceNotranslation name="cos" />
+	    <forceNotranslation name="tan" />
+	    <forceNotranslation name="ln" />
+	    <forceNotranslation name="log" />
+	    <forceNotranslation name="lg" />
+	    <forceTranslation name="leftParen" />
+	    <forceTranslation name="rightParen" />
 	</app>
 	<app dirName="Calendar" packageName="com.android.calendar" translated="true">
 	    <cyanogen src="packages/apps/Calendar/res" />
+	    <forceTranslation name="delete_repeating_labels*array" />
+	    <forceNotranslation name="preferences_week_start_day_default" />
 	</app>
 	<app dirName="CalendarProvider" packageName="com.android.providers.calendar" translated="true">
 	    <cyanogen src="packages/providers/CalendarProvider/res" />
 	</app>
 	<app dirName="Camera" packageName="com.android.camera" translated="true">
 	    <cyanogen src="packages/apps/Camera/res" />
+	    <forceNotranslation name="pref_camera_antibanding_default" />
+	    <forceNotranslation name="pref_camera_picturesize_entry_320x240" />
+	    <forceNotranslation name="pref_camera_picturesize_entry_640x480" />
+	    <forceNotranslation name="pref_camera_antibanding_entryvalues*array" />
+	    <forceNotranslation name="pref_camera_power_shutter_default" />
 	</app>
 	<app dirName="CertInstaller" packageName="com.android.certinstaller" translated="true">
 	    <cyanogen src="packages/apps/CertInstaller/res" />
@@ -63,6 +84,7 @@
 	</app>
 	<app dirName="Email" packageName="com.android.email" translated="true">
 	    <cyanogen src="packages/apps/Email/res" />
+	    <forceTranslation name="provider_note_yahoo_uk" />
 	</app>
 	<app dirName="framework-res" packageName="android" translated="true">
 	    <cyanogen src="frameworks/base/core/res/res" />
@@ -80,12 +102,14 @@
 	</app>
 	<app dirName="Launcher2" packageName="com.android.launcher" translated="true">
 	    <cyanogen src="packages/apps/Launcher2/res" />
+	    <forceNotranslation name="widget_dims_format" />
 	</app>
 	<app dirName="LiveWallpapersPicker" packageName="com.android.wallpaper.livepicker" translated="true">
 	    <cyanogen src="packages/wallpapers/LivePicker/res" />
 	</app>
 	<app dirName="Mms" packageName="com.android.mms" translated="true">
 	    <cyanogen src="packages/apps/Mms/res" />
+	    <forceNotranslation name="menu_debug_dump" />
 	</app>
 	<app dirName="Music" packageName="com.android.music" translated="true">
 	    <cyanogen src="packages/apps/Music/res" />
@@ -95,18 +119,26 @@
 	</app>
 	<app dirName="Phone" packageName="com.android.phone" translated="true">
 	    <cyanogen src="packages/apps/Phone/res" />
+	    <forceTranslation name="sip_system_decide" />
+	    <forceTranslation name="sip_always_send_keepalive" />
 	</app>
 	<app dirName="QuickSearchBox" packageName="com.android.quicksearchbox" translated="true">
 	    <cyanogen src="packages/apps/QuickSearchBox/res" />
 	</app>
 	<app dirName="Settings" packageName="com.android.settings" translated="true">
 	    <cyanogen src="packages/apps/Settings/res" />
+	    <forceTranslation name="internal_memory" />
+	    <forceNotranslation name="status_imei" />
+	    <forceNotranslation name="wifi_security*array" />
+	    <forceNotranslation name="wifi_ap_security*array" />
 	</app>
 	<app dirName="SettingsProvider" packageName="com.android.providers.settings" translated="true">
 	    <cyanogen src="android/frameworks/base/packages/SettingsProvider/res" />
 	</app>
 	<app dirName="SuperUser" packageName="com.noshufou.android.su" translated="true">
 	    <cyanogen src="packages/apps/Superuser/res" />
+	    <forceNotranslation name="before_secret_code" />
+	    <forceNotranslation name="after_secret_code" />
 	</app>
 	<app dirName="SoundRecorder" packageName="com.android.soundrecorder" translated="true">
 	    <cyanogen src="packages/apps/SoundRecorder/res" />
@@ -119,9 +151,11 @@
 	</app>
 	<app dirName="Trebuchet" packageName="com.cyanogenmod.trebuchet" translated="true">
 	    <cyanogen src="packages/apps/Trebuchet/res" />
+	    <forceNotranslation name="widget_dims_format" />
 	</app>
 	<app dirName="Torch" packageName="net.cactii.flash2" translated="true">
 	    <cyanogen src="packages/apps/Torch/res" />
+	    <forceTranslation name="setting_frequency_hz" />
 	</app>
 	<app dirName="VoiceDialer" packageName="com.android.voicedialer" translated="true">
 	    <cyanogen src="packages/apps/VoiceDialer/res" />
