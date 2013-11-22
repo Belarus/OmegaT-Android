@@ -60,12 +60,12 @@ attendee	наведнік
 attention	увага
 audible	чутны
 audio file	гукавы файл
-audio	аўдыёзапіс	
-audio	гуказапіс	
+audio	аўдыёзапіс
+audio	гуказапіс
 authenticating	апазнаваньне
 authentication	апазнаваньне
 authenticator	апазнавальнік
-authorization	упаўнаважаньне	
+authorization	упаўнаважаньне
 automatically	самарушна
 auto-refresh	самарушна абнаўляцца
 auto	самарушна
@@ -326,7 +326,7 @@ flashlight	ліхтарык
 flashlight	ліхтарык -а
 flash	выбліск
 folder	каталёґ -а
-follower	падпісант	
+follower	падпісант
 font	шрыфт -у
 format	разьмячаць
 for more information	каб даведацца болей
@@ -494,7 +494,7 @@ mount	мацаваць
 MSID	азначальнік перасоўнае станцыі	mobile station ID
 multicast	бязадрасны
 mutual	агульны
-mutual	супольны	
+mutual	супольны
 My downloads	Маё спампаванае
 namecard	картка
 name	імя
@@ -564,7 +564,7 @@ picture	здымак -ка	Выява з камэры.
 PIN code	код PIN
 pitch	вышыня
 pixels	піксалі
-player	прайгравальнік -а	
+player	прайгравальнік -а
 playlist	сьпіс
 play sound	гучэць
 plugged in	улучаны
@@ -860,13 +860,13 @@ User-Agent	сродак карыстальніка
 user dictionary	уласны слоўнік
 valid	чынны
 vCard	візытоўка
-Velcom	Velcom	
+Velcom	Velcom
 verified	пацьверджаны
 verified	праверылі
 verifying	правяраецца
 vertical	прастастаўны
 vibrate	трымцець
-vibration	трымцець	
+vibration	трымцець
 vibrator	трымценьнік
 video	відэа
 video	відэазапіс
@@ -915,7 +915,7 @@ you can not	нельга
 слои	пласты
 слой	пласт
 ыharpness	выразнасьць
-Яндекс.Карты	Яндэкс.Мапы	
+Яндекс.Карты	Яндэкс.Мапы
 Яндекс.Пробки	Яндэкс.Заторы
 text	тэкст -у
 learn more	падрабязьней
